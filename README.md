@@ -7,6 +7,6 @@
 NOT : Çok fazla data olduğu için harita kasabilir.<br>
 NOT 2 : Dosyaları indirdiğinizde bir Web Server üzerinde çalıştırmanız gerekiyor. IIS, NGINX, Apache veya Visual Studio Code Live Server eklentisi işinizi görecektir.<br>
 <hr></hr>
-<a href="https://alicangnll.github.io/ibb-istanbul-depremi-tahmini-2021">İstanbul Tahmini Deprem Haritası</a>
+<a href="https://alicangnll.github.io/istanbul-deprem-simulasyonu-2025/">İstanbul Tahmini Deprem Haritası</a>
 <hr></hr>
 <img src="pic/ibb.png" />
