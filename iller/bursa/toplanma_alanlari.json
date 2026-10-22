@@ -1,0 +1,8362 @@
+[
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "AKÇASAZ",
+        "ad": "AKÇASAZ",
+        "lat": 39.68357,
+        "lon": 28.94629
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "AKTAŞ",
+        "ad": "AKTAŞ",
+        "lat": 39.82992,
+        "lon": 28.76659
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "ARMUTÇUK",
+        "ad": "ARMUTÇUK",
+        "lat": 39.81509,
+        "lon": 28.86298
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "BADEMLİK",
+        "ad": "BADEMLİK",
+        "lat": 39.65972,
+        "lon": 28.86568
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "BALABAN",
+        "ad": "BALABAN",
+        "lat": 39.74386,
+        "lon": 28.95882
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "BAYINDIR",
+        "ad": "BAYINDIR",
+        "lat": 39.74233,
+        "lon": 28.77042
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "BURUNCA",
+        "ad": "BURUNCA",
+        "lat": 39.82662,
+        "lon": 28.69077
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "CUMHURİYET",
+        "ad": "CUMHURİYET",
+        "lat": 39.79475,
+        "lon": 28.92287
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "ÇAKIRYENİCE",
+        "ad": "ÇAKIRYENİCE",
+        "lat": 39.87703,
+        "lon": 28.85532
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "ÇERİBAŞI",
+        "ad": "ÇERİBAŞI",
+        "lat": 39.74875,
+        "lon": 28.9297
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "DANACILAR",
+        "ad": "DANACILAR",
+        "lat": 39.76394,
+        "lon": 28.97644
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "DANAÇALI",
+        "ad": "DANAÇALI",
+        "lat": 39.77014,
+        "lon": 28.78246
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "DEMİRLER",
+        "ad": "DEMİRLER",
+        "lat": 39.6598,
+        "lon": 28.85645
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "DERECİK",
+        "ad": "DERECİK",
+        "lat": 39.75156,
+        "lon": 28.93506
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "DURHASAN",
+        "ad": "DURHASAN",
+        "lat": 39.81503,
+        "lon": 28.85741
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "DÜĞÜNCÜLER",
+        "ad": "DÜĞÜNCÜLER",
+        "lat": 39.74264,
+        "lon": 28.75733
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "ELEKÇALI",
+        "ad": "ELEKÇALI",
+        "lat": 39.7573,
+        "lon": 28.75826
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "ERİCEK",
+        "ad": "ERİCEK",
+        "lat": 39.71982,
+        "lon": 28.83431
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "GEDİKLER",
+        "ad": "GEDİKLER",
+        "lat": 39.73474,
+        "lon": 29.01901
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "GEYNİK",
+        "ad": "GEYNİK",
+        "lat": 39.71678,
+        "lon": 28.79446
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "HACIAHMETLER",
+        "ad": "HACIAHMETLER",
+        "lat": 39.78783,
+        "lon": 28.9851
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "HACILAR",
+        "ad": "HACILAR",
+        "lat": 39.7836,
+        "lon": 28.94242
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "HEMŞERİLER",
+        "ad": "HEMŞERİLER",
+        "lat": 39.74147,
+        "lon": 28.92578
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "HOCAHASAN",
+        "ad": "HOCAHASAN",
+        "lat": 39.77014,
+        "lon": 28.88676
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "İSMETİYE",
+        "ad": "İSMETİYE",
+        "lat": 39.78427,
+        "lon": 28.9428
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "KARAAĞIZ",
+        "ad": "KARAAĞIZ",
+        "lat": 39.70827,
+        "lon": 28.88091
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "KARAÇUKUR",
+        "ad": "KARAÇUKUR",
+        "lat": 39.75082,
+        "lon": 28.80633
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "KARALAR",
+        "ad": "KARALAR",
+        "lat": 39.69083,
+        "lon": 28.86783
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "KINIK",
+        "ad": "KINIK",
+        "lat": 39.6913,
+        "lon": 28.99355
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "KUŞLAR",
+        "ad": "KUŞLAR",
+        "lat": 39.74584,
+        "lon": 28.85912
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "MAZLUMLAR",
+        "ad": "MAZLUMLAR",
+        "lat": 39.66351,
+        "lon": 28.79366
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "ORHAN",
+        "ad": "ORHAN",
+        "lat": 39.78852,
+        "lon": 28.91213
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "OSMANLAR",
+        "ad": "OSMANLAR",
+        "lat": 39.66545,
+        "lon": 28.80426
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "ÖRENCİK",
+        "ad": "ÖRENCİK",
+        "lat": 39.80053,
+        "lon": 28.74609
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "ÖZLÜCE",
+        "ad": "ÖZLÜCE",
+        "lat": 39.82849,
+        "lon": 28.91769
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "PERÇİN",
+        "ad": "PERÇİN",
+        "lat": 39.73647,
+        "lon": 29.01046
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "PINARKÖY",
+        "ad": "PINARKÖY",
+        "lat": 39.71763,
+        "lon": 28.99167
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "PİREBEYLER",
+        "ad": "PİREBEYLER",
+        "lat": 39.66284,
+        "lon": 28.81126
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "SARNIÇ",
+        "ad": "SARNIÇ",
+        "lat": 39.8123,
+        "lon": 28.77004
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "TEKERLER",
+        "ad": "TEKERLER",
+        "lat": 39.67512,
+        "lon": 28.871
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "YENİCE",
+        "ad": "YENİCE",
+        "lat": 39.7784,
+        "lon": 28.92321
+    },
+    {
+        "il": "Bursa",
+        "ilce": "BÜYÜKORHAN",
+        "mahalle": "ZAFERİYE",
+        "ad": "ZAFERİYE",
+        "lat": 39.76558,
+        "lon": 28.83913
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "ADLİYE",
+        "ad": "ADLİYE",
+        "lat": 40.40349,
+        "lon": 29.21853
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "ATA",
+        "ad": "ATA",
+        "lat": 40.42218,
+        "lon": 29.15209
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "ATA SB",
+        "ad": "ATA SB",
+        "lat": 40.40906,
+        "lon": 29.12077
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "BALIKPAZARI",
+        "ad": "BALIKPAZARI",
+        "lat": 40.43404,
+        "lon": 29.15227
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "BÜYÜKKUMLA",
+        "ad": "BÜYÜKKUMLA",
+        "lat": 40.50341,
+        "lon": 29.1132
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "CİHATLI",
+        "ad": "CİHATLI",
+        "lat": 40.46621,
+        "lon": 29.1903
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "CUMHURİYET",
+        "ad": "CUMHURİYET",
+        "lat": 40.45823,
+        "lon": 29.14672
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "DEMİRSUBAŞI",
+        "ad": "DEMİRSUBAŞI",
+        "lat": 40.43269,
+        "lon": 29.15623
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "DR.ZİYA KAYA",
+        "ad": "DR.ZİYA KAYA",
+        "lat": 40.4291,
+        "lon": 29.15601
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "ENGÜRÜCÜK",
+        "ad": "ENGÜRÜCÜK",
+        "lat": 40.41018,
+        "lon": 29.12837
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "EŞREF DİNÇER",
+        "ad": "EŞREF DİNÇER",
+        "lat": 40.43836,
+        "lon": 29.17763
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "FEYZİYE",
+        "ad": "FEYZİYE",
+        "lat": 40.37712,
+        "lon": 29.32807
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "FINDICAK",
+        "ad": "FINDICAK",
+        "lat": 40.36617,
+        "lon": 29.3524
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "GENÇALİ",
+        "ad": "GENÇALİ",
+        "lat": 40.40615,
+        "lon": 29.08801
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "GÜVENLİ",
+        "ad": "GÜVENLİ",
+        "lat": 40.39648,
+        "lon": 29.24914
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "HALİTPAŞA",
+        "ad": "HALİTPAŞA",
+        "lat": 40.43676,
+        "lon": 29.15511
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "HAMİDİYE",
+        "ad": "HAMİDİYE",
+        "lat": 40.43134,
+        "lon": 29.15624
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "HAMİDİYEKÖY",
+        "ad": "HAMİDİYEKÖY",
+        "lat": 40.37956,
+        "lon": 29.25845
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "HAYDARİYE",
+        "ad": "HAYDARİYE",
+        "lat": 40.57623,
+        "lon": 29.13966
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "HİSAR",
+        "ad": "HİSAR",
+        "lat": 40.42492,
+        "lon": 29.17704
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "KARACAALİ",
+        "ad": "KARACAALİ",
+        "lat": 40.55887,
+        "lon": 29.08062
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "KATIRLI",
+        "ad": "KATIRLI",
+        "lat": 40.37796,
+        "lon": 29.25346
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "KAYHAN",
+        "ad": "KAYHAN",
+        "lat": 40.43314,
+        "lon": 29.15494
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "KUMLA",
+        "ad": "KUMLA",
+        "lat": 40.47889,
+        "lon": 29.0955
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "KURŞUNLU",
+        "ad": "KURŞUNLU",
+        "lat": 40.38049,
+        "lon": 29.07
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "KURTUL",
+        "ad": "KURTUL",
+        "lat": 40.3709,
+        "lon": 29.13586
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "KÜÇÜKKUMLA",
+        "ad": "KÜÇÜKKUMLA",
+        "lat": 40.49863,
+        "lon": 29.11644
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "MURATOBA",
+        "ad": "MURATOBA",
+        "lat": 40.3778,
+        "lon": 29.18353
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "NARLI",
+        "ad": "NARLI",
+        "lat": 40.56096,
+        "lon": 29.06072
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "ORHANİYE",
+        "ad": "ORHANİYE",
+        "lat": 40.44035,
+        "lon": 29.15318
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "OSMANİYE",
+        "ad": "OSMANİYE",
+        "lat": 40.44571,
+        "lon": 29.18443
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "ŞAHİNYURDU",
+        "ad": "ŞAHİNYURDU",
+        "lat": 40.53688,
+        "lon": 29.19304
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "ŞÜKRİYE",
+        "ad": "ŞÜKRİYE",
+        "lat": 40.35161,
+        "lon": 29.26726
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "UMURBEY",
+        "ad": "UMURBEY",
+        "lat": 40.42639,
+        "lon": 29.18712
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "YENİ",
+        "ad": "YENİ",
+        "lat": 40.44304,
+        "lon": 29.15246
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GEMLİK",
+        "mahalle": "YENİKÖY",
+        "ad": "YENİKÖY",
+        "lat": 40.38963,
+        "lon": 29.16634
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GÜRSU",
+        "mahalle": "ADAKÖY",
+        "ad": "ADAKÖY",
+        "lat": 40.24549,
+        "lon": 29.21999
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GÜRSU",
+        "mahalle": "AĞAKÖY",
+        "ad": "AĞAKÖY",
+        "lat": 40.25701,
+        "lon": 29.17164
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GÜRSU",
+        "mahalle": "CANBAZLARKÖYÜ",
+        "ad": "CANBAZLARKÖYÜ",
+        "lat": 40.25536,
+        "lon": 29.17882
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GÜRSU",
+        "mahalle": "DIŞKAYAKÖYÜ",
+        "ad": "DIŞKAYAKÖYÜ",
+        "lat": 40.3264,
+        "lon": 29.24406
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GÜRSU",
+        "mahalle": "ERİCEKKÖYÜ",
+        "ad": "ERİCEKKÖYÜ",
+        "lat": 40.3374,
+        "lon": 29.29998
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GÜRSU",
+        "mahalle": "HASANKÖY",
+        "ad": "HASANKÖY",
+        "lat": 40.2455,
+        "lon": 29.21544
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GÜRSU",
+        "mahalle": "İĞDİRKÖYÜ",
+        "ad": "İĞDİRKÖYÜ",
+        "lat": 40.28516,
+        "lon": 29.20628
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GÜRSU",
+        "mahalle": "İPEKYOLU",
+        "ad": "İPEKYOLU",
+        "lat": 40.28054,
+        "lon": 29.24101
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GÜRSU",
+        "mahalle": "İSTİKLAL",
+        "ad": "İSTİKLAL",
+        "lat": 40.22704,
+        "lon": 29.20966
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GÜRSU",
+        "mahalle": "KARAHIDIRKÖYÜ",
+        "ad": "KARAHIDIRKÖYÜ",
+        "lat": 40.25296,
+        "lon": 29.24315
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GÜRSU",
+        "mahalle": "KAZIKLIKÖYÜ",
+        "ad": "KAZIKLIKÖYÜ",
+        "lat": 40.28465,
+        "lon": 29.15808
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GÜRSU",
+        "mahalle": "KUMLUKALAN",
+        "ad": "KUMLUKALAN",
+        "lat": 40.23931,
+        "lon": 29.16442
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GÜRSU",
+        "mahalle": "KURTULUŞ",
+        "ad": "KURTULUŞ",
+        "lat": 40.21726,
+        "lon": 29.18664
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GÜRSU",
+        "mahalle": "KURTULUŞOSB",
+        "ad": "KURTULUŞOSB",
+        "lat": 40.20531,
+        "lon": 29.19305
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GÜRSU",
+        "mahalle": "YENİDOĞAN",
+        "ad": "YENİDOĞAN",
+        "lat": 40.21826,
+        "lon": 29.17852
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GÜRSU",
+        "mahalle": "YENİDOĞANOSB",
+        "ad": "YENİDOĞANOSB",
+        "lat": 40.20618,
+        "lon": 29.19026
+    },
+    {
+        "il": "Bursa",
+        "ilce": "GÜRSU",
+        "mahalle": "ZAFER",
+        "ad": "ZAFER",
+        "lat": 40.22992,
+        "lon": 29.17788
+    },
+    {
+        "il": "Bursa",
+        "ilce": "HARMANCIK",
+        "mahalle": "AKPINAR",
+        "ad": "AKPINAR",
+        "lat": 39.65055,
+        "lon": 29.109
+    },
+    {
+        "il": "Bursa",
+        "ilce": "HARMANCIK",
+        "mahalle": "ALUTCA",
+        "ad": "ALUTCA",
+        "lat": 39.63694,
+        "lon": 28.99797
+    },
+    {
+        "il": "Bursa",
+        "ilce": "HARMANCIK",
+        "mahalle": "BALATDANİŞMENT",
+        "ad": "BALATDANİŞMENT",
+        "lat": 39.65093,
+        "lon": 29.21739
+    },
+    {
+        "il": "Bursa",
+        "ilce": "HARMANCIK",
+        "mahalle": "BALLISARAY",
+        "ad": "BALLISARAY",
+        "lat": 39.68889,
+        "lon": 29.19031
+    },
+    {
+        "il": "Bursa",
+        "ilce": "HARMANCIK",
+        "mahalle": "BEKDEMİRLER",
+        "ad": "BEKDEMİRLER",
+        "lat": 39.66809,
+        "lon": 29.16235
+    },
+    {
+        "il": "Bursa",
+        "ilce": "HARMANCIK",
+        "mahalle": "ÇAKMAK",
+        "ad": "ÇAKMAK",
+        "lat": 39.77516,
+        "lon": 29.1424
+    },
+    {
+        "il": "Bursa",
+        "ilce": "HARMANCIK",
+        "mahalle": "ÇAMOĞLU",
+        "ad": "ÇAMOĞLU",
+        "lat": 39.72399,
+        "lon": 29.12724
+    },
+    {
+        "il": "Bursa",
+        "ilce": "HARMANCIK",
+        "mahalle": "ÇATALSÖĞÜT",
+        "ad": "ÇATALSÖĞÜT",
+        "lat": 39.80317,
+        "lon": 29.1529
+    },
+    {
+        "il": "Bursa",
+        "ilce": "HARMANCIK",
+        "mahalle": "DEDEBALİ",
+        "ad": "DEDEBALİ",
+        "lat": 39.67172,
+        "lon": 29.07847
+    },
+    {
+        "il": "Bursa",
+        "ilce": "HARMANCIK",
+        "mahalle": "DELİCEGÜNEY",
+        "ad": "DELİCEGÜNEY",
+        "lat": 39.66109,
+        "lon": 29.02455
+    },
+    {
+        "il": "Bursa",
+        "ilce": "HARMANCIK",
+        "mahalle": "DUTLUCA",
+        "ad": "DUTLUCA",
+        "lat": 39.70935,
+        "lon": 29.07003
+    },
+    {
+        "il": "Bursa",
+        "ilce": "HARMANCIK",
+        "mahalle": "ECE",
+        "ad": "ECE",
+        "lat": 39.69731,
+        "lon": 29.18453
+    },
+    {
+        "il": "Bursa",
+        "ilce": "HARMANCIK",
+        "mahalle": "GEDİKÖREN",
+        "ad": "GEDİKÖREN",
+        "lat": 39.64755,
+        "lon": 29.09817
+    },
+    {
+        "il": "Bursa",
+        "ilce": "HARMANCIK",
+        "mahalle": "GÖKÇELER",
+        "ad": "GÖKÇELER",
+        "lat": 39.65726,
+        "lon": 29.03057
+    },
+    {
+        "il": "Bursa",
+        "ilce": "HARMANCIK",
+        "mahalle": "GÜLÖZÜ",
+        "ad": "GÜLÖZÜ",
+        "lat": 39.73583,
+        "lon": 29.26442
+    },
+    {
+        "il": "Bursa",
+        "ilce": "HARMANCIK",
+        "mahalle": "HARMANCIK AKALAN",
+        "ad": "HARMANCIK AKALAN",
+        "lat": 39.77718,
+        "lon": 29.173
+    },
+    {
+        "il": "Bursa",
+        "ilce": "HARMANCIK",
+        "mahalle": "HOPANDANİŞMENT",
+        "ad": "HOPANDANİŞMENT",
+        "lat": 39.7221,
+        "lon": 29.22561
+    },
+    {
+        "il": "Bursa",
+        "ilce": "HARMANCIK",
+        "mahalle": "ILICAKSU",
+        "ad": "ILICAKSU",
+        "lat": 39.6899,
+        "lon": 29.04297
+    },
+    {
+        "il": "Bursa",
+        "ilce": "HARMANCIK",
+        "mahalle": "İSHAKLAR",
+        "ad": "İSHAKLAR",
+        "lat": 39.63857,
+        "lon": 29.13553
+    },
+    {
+        "il": "Bursa",
+        "ilce": "HARMANCIK",
+        "mahalle": "KARACA",
+        "ad": "KARACA",
+        "lat": 39.64407,
+        "lon": 29.15717
+    },
+    {
+        "il": "Bursa",
+        "ilce": "HARMANCIK",
+        "mahalle": "KEPEKDERE",
+        "ad": "KEPEKDERE",
+        "lat": 39.67906,
+        "lon": 29.18443
+    },
+    {
+        "il": "Bursa",
+        "ilce": "HARMANCIK",
+        "mahalle": "KILAVUZLAR",
+        "ad": "KILAVUZLAR",
+        "lat": 39.71204,
+        "lon": 29.187
+    },
+    {
+        "il": "Bursa",
+        "ilce": "HARMANCIK",
+        "mahalle": "KIŞMANLAR",
+        "ad": "KIŞMANLAR",
+        "lat": 39.67134,
+        "lon": 29.12994
+    },
+    {
+        "il": "Bursa",
+        "ilce": "HARMANCIK",
+        "mahalle": "KOCAPINAR",
+        "ad": "KOCAPINAR",
+        "lat": 39.61932,
+        "lon": 29.09474
+    },
+    {
+        "il": "Bursa",
+        "ilce": "HARMANCIK",
+        "mahalle": "KOZLUCA",
+        "ad": "KOZLUCA",
+        "lat": 39.61034,
+        "lon": 29.1862
+    },
+    {
+        "il": "Bursa",
+        "ilce": "HARMANCIK",
+        "mahalle": "MERKEZ",
+        "ad": "MERKEZ",
+        "lat": 39.71771,
+        "lon": 29.08551
+    },
+    {
+        "il": "Bursa",
+        "ilce": "HARMANCIK",
+        "mahalle": "NALBANT",
+        "ad": "NALBANT",
+        "lat": 39.73544,
+        "lon": 29.24313
+    },
+    {
+        "il": "Bursa",
+        "ilce": "HARMANCIK",
+        "mahalle": "OKÇULAR",
+        "ad": "OKÇULAR",
+        "lat": 39.70689,
+        "lon": 29.2418
+    },
+    {
+        "il": "Bursa",
+        "ilce": "HARMANCIK",
+        "mahalle": "SAÇAKLI",
+        "ad": "SAÇAKLI",
+        "lat": 39.671,
+        "lon": 29.11234
+    },
+    {
+        "il": "Bursa",
+        "ilce": "HARMANCIK",
+        "mahalle": "YAYABAŞI",
+        "ad": "YAYABAŞI",
+        "lat": 39.72121,
+        "lon": 29.1934
+    },
+    {
+        "il": "Bursa",
+        "ilce": "HARMANCIK",
+        "mahalle": "YEŞİLYURT",
+        "ad": "YEŞİLYURT",
+        "lat": 39.74783,
+        "lon": 29.24119
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "AKBAŞLAR",
+        "ad": "AKBAŞLAR",
+        "lat": 40.11128,
+        "lon": 29.58432
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "AKHİSAR",
+        "ad": "AKHİSAR",
+        "lat": 40.14776,
+        "lon": 29.46962
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "AKINCILAR",
+        "ad": "AKINCILAR",
+        "lat": 40.12863,
+        "lon": 29.40354
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "ALİBEY",
+        "ad": "ALİBEY",
+        "lat": 40.07035,
+        "lon": 29.54847
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "BABAOĞLU",
+        "ad": "BABAOĞLU",
+        "lat": 40.07702,
+        "lon": 29.72016
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "BAHARİYE",
+        "ad": "BAHARİYE",
+        "lat": 39.97087,
+        "lon": 29.59548
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "BAHÇEKAYA",
+        "ad": "BAHÇEKAYA",
+        "lat": 39.94029,
+        "lon": 29.63399
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "BAYKOCA",
+        "ad": "BAYKOCA",
+        "lat": 40.13287,
+        "lon": 29.4567
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "BAYRAMŞAH",
+        "ad": "BAYRAMŞAH",
+        "lat": 40.12509,
+        "lon": 29.65674
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "BİLALKÖY",
+        "ad": "BİLALKÖY",
+        "lat": 40.0739,
+        "lon": 29.58592
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "BOĞAZKÖY",
+        "ad": "BOĞAZKÖY",
+        "lat": 40.20832,
+        "lon": 29.52206
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "BURHANİYE",
+        "ad": "BURHANİYE",
+        "lat": 40.08212,
+        "lon": 29.49611
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "CEMİYET",
+        "ad": "CEMİYET",
+        "lat": 40.14746,
+        "lon": 29.6931
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "CERRAH",
+        "ad": "CERRAH",
+        "lat": 40.09956,
+        "lon": 29.4764
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "CUMA",
+        "ad": "CUMA",
+        "lat": 40.07924,
+        "lon": 29.51163
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "CUMHURİYET",
+        "ad": "CUMHURİYET",
+        "lat": 40.1142,
+        "lon": 29.49879
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "ÇAVUŞKÖY",
+        "ad": "ÇAVUŞKÖY",
+        "lat": 40.17913,
+        "lon": 29.50132
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "ÇAYLICA",
+        "ad": "ÇAYLICA",
+        "lat": 40.02581,
+        "lon": 29.40815
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "ÇAYYAKA",
+        "ad": "ÇAYYAKA",
+        "lat": 40.03114,
+        "lon": 29.48696
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "ÇELTİKÇİ",
+        "ad": "ÇELTİKÇİ",
+        "lat": 40.09461,
+        "lon": 29.47925
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "ÇİTLİ",
+        "ad": "ÇİTLİ",
+        "lat": 40.03362,
+        "lon": 29.61727
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "DİPSİZGÖL",
+        "ad": "DİPSİZGÖL",
+        "lat": 40.03014,
+        "lon": 29.51526
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "DOĞANYURDU",
+        "ad": "DOĞANYURDU",
+        "lat": 40.06038,
+        "lon": 29.44972
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "DÖMEZ",
+        "ad": "DÖMEZ",
+        "lat": 40.13224,
+        "lon": 29.62706
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "ELMAÇAYIR",
+        "ad": "ELMAÇAYIR",
+        "lat": 40.03078,
+        "lon": 29.388
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "ERTUĞRULGAZİ",
+        "ad": "ERTUĞRULGAZİ",
+        "lat": 40.08862,
+        "lon": 29.52359
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "ESENKÖY",
+        "ad": "ESENKÖY",
+        "lat": 40.09652,
+        "lon": 29.39017
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "ESENTEPE",
+        "ad": "ESENTEPE",
+        "lat": 40.11451,
+        "lon": 29.52008
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "ESKİ BAHÇEKAYA",
+        "ad": "ESKİ BAHÇEKAYA",
+        "lat": 39.94098,
+        "lon": 29.61613
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "ESKİKARACAKAYA",
+        "ad": "ESKİKARACAKAYA",
+        "lat": 39.9688,
+        "lon": 29.68746
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "ESKİKÖY",
+        "ad": "ESKİKÖY",
+        "lat": 40.00383,
+        "lon": 29.51235
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "EYMİR",
+        "ad": "EYMİR",
+        "lat": 40.0841,
+        "lon": 29.66884
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "FATİH",
+        "ad": "FATİH",
+        "lat": 40.1227,
+        "lon": 29.50293
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "FEVZİYE",
+        "ad": "FEVZİYE",
+        "lat": 40.03405,
+        "lon": 29.37213
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "FINDIKLI",
+        "ad": "FINDIKLI",
+        "lat": 40.12762,
+        "lon": 29.61004
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "GAZELLİ",
+        "ad": "GAZELLİ",
+        "lat": 39.98575,
+        "lon": 29.52188
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "GEDİKPINAR",
+        "ad": "GEDİKPINAR",
+        "lat": 39.97417,
+        "lon": 29.73909
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "GÜLBAHÇE",
+        "ad": "GÜLBAHÇE",
+        "lat": 40.03529,
+        "lon": 29.44642
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "GÜNDÜZLÜ",
+        "ad": "GÜNDÜZLÜ",
+        "lat": 40.00991,
+        "lon": 29.59011
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "GÜNEYKESTANE",
+        "ad": "GÜNEYKESTANE",
+        "lat": 39.95759,
+        "lon": 29.7167
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "GÜZELYURT",
+        "ad": "GÜZELYURT",
+        "lat": 40.03725,
+        "lon": 29.73646
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "HACIKARA",
+        "ad": "HACIKARA",
+        "lat": 39.98455,
+        "lon": 29.63106
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "HALHALCA",
+        "ad": "HALHALCA",
+        "lat": 40.17298,
+        "lon": 29.41715
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "HAMAMLI",
+        "ad": "HAMAMLI",
+        "lat": 40.04064,
+        "lon": 29.59158
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "HAMİDİYE",
+        "ad": "HAMİDİYE",
+        "lat": 40.07376,
+        "lon": 29.5102
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "HAMİTABAT",
+        "ad": "HAMİTABAT",
+        "lat": 40.01769,
+        "lon": 29.75286
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "HAMZABEY",
+        "ad": "HAMZABEY",
+        "lat": 40.16369,
+        "lon": 29.53205
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "HAMZABEY OSB",
+        "ad": "HAMZABEY OSB",
+        "lat": 40.16659,
+        "lon": 29.5518
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "HAYRİYE",
+        "ad": "HAYRİYE",
+        "lat": 39.98338,
+        "lon": 29.56435
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "HİLMİYE",
+        "ad": "HİLMİYE",
+        "lat": 39.97064,
+        "lon": 29.6069
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "HOCAKÖY",
+        "ad": "HOCAKÖY",
+        "lat": 40.06614,
+        "lon": 29.48835
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "HUZUR",
+        "ad": "HUZUR",
+        "lat": 40.12476,
+        "lon": 29.4592
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "İCLALİYE",
+        "ad": "İCLALİYE",
+        "lat": 39.99246,
+        "lon": 29.46817
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "İHSANİYE",
+        "ad": "İHSANİYE",
+        "lat": 39.99205,
+        "lon": 29.68053
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "İSAÖREN",
+        "ad": "İSAÖREN",
+        "lat": 40.05716,
+        "lon": 29.50846
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "KARAGÖLET",
+        "ad": "KARAGÖLET",
+        "lat": 40.19345,
+        "lon": 29.46344
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "KARAHASANLAR",
+        "ad": "KARAHASANLAR",
+        "lat": 40.10775,
+        "lon": 29.71318
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "KARAKADI",
+        "ad": "KARAKADI",
+        "lat": 40.02297,
+        "lon": 29.49264
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "KARALAR",
+        "ad": "KARALAR",
+        "lat": 40.14717,
+        "lon": 29.49391
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "KAYAPINAR",
+        "ad": "KAYAPINAR",
+        "lat": 40.07015,
+        "lon": 29.39099
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "KEMALPAŞA",
+        "ad": "KEMALPAŞA",
+        "lat": 40.07921,
+        "lon": 29.50955
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "KESTANEALANI",
+        "ad": "KESTANEALANI",
+        "lat": 40.00938,
+        "lon": 29.48695
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "KINIK",
+        "ad": "KINIK",
+        "lat": 40.02425,
+        "lon": 29.64593
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "KIRAN",
+        "ad": "KIRAN",
+        "lat": 40.07152,
+        "lon": 29.36117
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "KOCAKONAK",
+        "ad": "KOCAKONAK",
+        "lat": 40.0021,
+        "lon": 29.694
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "KONURLAR",
+        "ad": "KONURLAR",
+        "lat": 40.00498,
+        "lon": 29.58607
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "KOZLUCA",
+        "ad": "KOZLUCA",
+        "lat": 40.13956,
+        "lon": 29.56843
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "KULACA",
+        "ad": "KULACA",
+        "lat": 40.09381,
+        "lon": 29.57883
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "KURŞUNLU",
+        "ad": "KURŞUNLU",
+        "lat": 40.05422,
+        "lon": 29.70446
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "LÜTFİYE",
+        "ad": "LÜTFİYE",
+        "lat": 40.00554,
+        "lon": 29.44715
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "MADENKÖY",
+        "ad": "MADENKÖY",
+        "lat": 40.01379,
+        "lon": 29.54862
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "MAHMUDİYE",
+        "ad": "MAHMUDİYE",
+        "lat": 40.07317,
+        "lon": 29.53945
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "MESUDİYE",
+        "ad": "MESUDİYE",
+        "lat": 40.08833,
+        "lon": 29.54277
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "MEZİT",
+        "ad": "MEZİT",
+        "lat": 39.94528,
+        "lon": 29.70754
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "MURATBEY",
+        "ad": "MURATBEY",
+        "lat": 40.00793,
+        "lon": 29.58613
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "OLUKMAN",
+        "ad": "OLUKMAN",
+        "lat": 40.10477,
+        "lon": 29.64549
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "ORHANİYE",
+        "ad": "ORHANİYE",
+        "lat": 40.08003,
+        "lon": 29.52321
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "ORTAKÖY",
+        "ad": "ORTAKÖY",
+        "lat": 40.04386,
+        "lon": 29.55344
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "OSMANİYE",
+        "ad": "OSMANİYE",
+        "lat": 40.0803,
+        "lon": 29.50965
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "OSMANİYEKÖY",
+        "ad": "OSMANİYEKÖY",
+        "lat": 39.96097,
+        "lon": 29.70835
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "PAŞAÖREN",
+        "ad": "PAŞAÖREN",
+        "lat": 40.0394,
+        "lon": 29.43184
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "RÜŞTİYE",
+        "ad": "RÜŞTİYE",
+        "lat": 39.97488,
+        "lon": 29.66236
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "SAADET",
+        "ad": "SAADET",
+        "lat": 39.93774,
+        "lon": 29.58369
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "SARIPINAR",
+        "ad": "SARIPINAR",
+        "lat": 40.04712,
+        "lon": 29.45997
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "SİNANBEY",
+        "ad": "SİNANBEY",
+        "lat": 40.09927,
+        "lon": 29.51211
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "SULHİYE",
+        "ad": "SULHİYE",
+        "lat": 39.94135,
+        "lon": 29.68957
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "SULTANİYE",
+        "ad": "SULTANİYE",
+        "lat": 39.99729,
+        "lon": 29.71133
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "SUNGURPAŞA",
+        "ad": "SUNGURPAŞA",
+        "lat": 40.22566,
+        "lon": 29.47293
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "SÜLE",
+        "ad": "SÜLE",
+        "lat": 40.06481,
+        "lon": 29.41282
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "SÜLEYMANİYE",
+        "ad": "SÜLEYMANİYE",
+        "lat": 40.0918,
+        "lon": 29.49174
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "SÜLÜKLÜGÖL",
+        "ad": "SÜLÜKLÜGÖL",
+        "lat": 40.10645,
+        "lon": 29.70628
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "SÜPÜRTÜ",
+        "ad": "SÜPÜRTÜ",
+        "lat": 40.09225,
+        "lon": 29.62838
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "ŞEHİTLER",
+        "ad": "ŞEHİTLER",
+        "lat": 40.17348,
+        "lon": 29.39839
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "TAHTAKÖPRÜ",
+        "ad": "TAHTAKÖPRÜ",
+        "lat": 39.97988,
+        "lon": 29.64524
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "TEKKEKÖY",
+        "ad": "TEKKEKÖY",
+        "lat": 40.12972,
+        "lon": 29.68069
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "TOKUŞ",
+        "ad": "TOKUŞ",
+        "lat": 40.15474,
+        "lon": 29.55987
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "TURGUTALP",
+        "ad": "TURGUTALP",
+        "lat": 40.0811,
+        "lon": 29.48935
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "TURGUTALPKÖY",
+        "ad": "TURGUTALPKÖY",
+        "lat": 40.05977,
+        "lon": 29.4067
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "TUZLA",
+        "ad": "TUZLA",
+        "lat": 40.01613,
+        "lon": 29.41981
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "TÜFEKÇİKONAK",
+        "ad": "TÜFEKÇİKONAK",
+        "lat": 39.95094,
+        "lon": 29.67217
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "YENİ",
+        "ad": "YENİ",
+        "lat": 40.1055,
+        "lon": 29.53355
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "YENİCE",
+        "ad": "YENİCE",
+        "lat": 40.07979,
+        "lon": 29.51701
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "YENİCEKÖY",
+        "ad": "YENİCEKÖY",
+        "lat": 40.12487,
+        "lon": 29.43576
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "YENİYÖRÜK",
+        "ad": "YENİYÖRÜK",
+        "lat": 40.15572,
+        "lon": 29.59014
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "YİĞİT",
+        "ad": "YİĞİT",
+        "lat": 40.09319,
+        "lon": 29.6177
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "YUKARIBALLIK",
+        "ad": "YUKARIBALLIK",
+        "lat": 40.0015,
+        "lon": 29.63133
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İNEGÖL",
+        "mahalle": "YUNUSEMRE",
+        "ad": "YUNUSEMRE",
+        "lat": 40.11458,
+        "lon": 29.52879
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "AYDINLAR",
+        "ad": "AYDINLAR",
+        "lat": 40.39096,
+        "lon": 29.66565
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "BAYINDIR",
+        "ad": "BAYINDIR",
+        "lat": 40.52619,
+        "lon": 29.57156
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "BEYLER",
+        "ad": "BEYLER",
+        "lat": 40.4364,
+        "lon": 29.72063
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "BOYALICA",
+        "ad": "BOYALICA",
+        "lat": 40.50263,
+        "lon": 29.57419
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "CANDARLI",
+        "ad": "CANDARLI",
+        "lat": 40.54871,
+        "lon": 29.84942
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "ÇAKIRCA",
+        "ad": "ÇAKIRCA",
+        "lat": 40.49884,
+        "lon": 29.68547
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "ÇAMDİBİ",
+        "ad": "ÇAMDİBİ",
+        "lat": 40.41874,
+        "lon": 29.7476
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "ÇAMOLUK",
+        "ad": "ÇAMOLUK",
+        "lat": 40.40165,
+        "lon": 29.82069
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "ÇAMPINAR",
+        "ad": "ÇAMPINAR",
+        "lat": 40.39232,
+        "lon": 29.72819
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "ÇİÇEKLİ",
+        "ad": "ÇİÇEKLİ",
+        "lat": 40.4268,
+        "lon": 29.79138
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "DERBENT",
+        "ad": "DERBENT",
+        "lat": 40.39387,
+        "lon": 29.68863
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "DEREKÖY",
+        "ad": "DEREKÖY",
+        "lat": 40.44782,
+        "lon": 29.79755
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "DIRAZALİ",
+        "ad": "DIRAZALİ",
+        "lat": 40.40644,
+        "lon": 29.70101
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "ELBEYLİ",
+        "ad": "ELBEYLİ",
+        "lat": 40.49065,
+        "lon": 29.74705
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "ELMALI",
+        "ad": "ELMALI",
+        "lat": 40.57433,
+        "lon": 29.89484
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "EŞREFZADE",
+        "ad": "EŞREFZADE",
+        "lat": 40.43644,
+        "lon": 29.72695
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "GÖLLÜCE",
+        "ad": "GÖLLÜCE",
+        "lat": 40.38603,
+        "lon": 29.64462
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "GÜRMÜZLÜ",
+        "ad": "GÜRMÜZLÜ",
+        "lat": 40.5323,
+        "lon": 29.80065
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "HACIOSMAN",
+        "ad": "HACIOSMAN",
+        "lat": 40.59638,
+        "lon": 29.77145
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "HİSARDERE",
+        "ad": "HİSARDERE",
+        "lat": 40.47105,
+        "lon": 29.78481
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "HOCAKÖY",
+        "ad": "HOCAKÖY",
+        "lat": 40.42082,
+        "lon": 29.75512
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "İHSANİYE",
+        "ad": "İHSANİYE",
+        "lat": 40.47411,
+        "lon": 29.85481
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "İNİKLİ",
+        "ad": "İNİKLİ",
+        "lat": 40.50444,
+        "lon": 29.73994
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "KARATEKİN",
+        "ad": "KARATEKİN",
+        "lat": 40.44398,
+        "lon": 29.88018
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "KAYNARCA",
+        "ad": "KAYNARCA",
+        "lat": 40.44818,
+        "lon": 29.85284
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "KIRINTI",
+        "ad": "KIRINTI",
+        "lat": 40.58169,
+        "lon": 29.8693
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "KUTLUCA",
+        "ad": "KUTLUCA",
+        "lat": 40.58447,
+        "lon": 29.84653
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "MAHMUDİYE",
+        "ad": "MAHMUDİYE",
+        "lat": 40.54393,
+        "lon": 29.59651
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "MAHMUT ÇELEBİ",
+        "ad": "MAHMUT ÇELEBİ",
+        "lat": 40.42659,
+        "lon": 29.72275
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "MECİDİYE",
+        "ad": "MECİDİYE",
+        "lat": 40.59641,
+        "lon": 29.71721
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "MUSTAFA KEMAL PAŞA",
+        "ad": "MUSTAFA KEMAL PAŞA",
+        "lat": 40.45955,
+        "lon": 29.69795
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "MUSTAFALI",
+        "ad": "MUSTAFALI",
+        "lat": 40.38358,
+        "lon": 29.57837
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "MÜŞKÜLE",
+        "ad": "MÜŞKÜLE",
+        "lat": 40.38932,
+        "lon": 29.52238
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "ORHANİYE",
+        "ad": "ORHANİYE",
+        "lat": 40.54039,
+        "lon": 29.67874
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "OSMANİYE",
+        "ad": "OSMANİYE",
+        "lat": 40.61135,
+        "lon": 29.70824
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "ÖMERLİ",
+        "ad": "ÖMERLİ",
+        "lat": 40.52661,
+        "lon": 29.67732
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "SANSARAK",
+        "ad": "SANSARAK",
+        "lat": 40.52066,
+        "lon": 29.84128
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "SARIAĞIL",
+        "ad": "SARIAĞIL",
+        "lat": 40.57289,
+        "lon": 29.66296
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "SELÇUK",
+        "ad": "SELÇUK",
+        "lat": 40.42773,
+        "lon": 29.71965
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "SÜLEYMANİYE",
+        "ad": "SÜLEYMANİYE",
+        "lat": 40.56179,
+        "lon": 29.6959
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "ŞEREFİYE",
+        "ad": "ŞEREFİYE",
+        "lat": 40.39667,
+        "lon": 29.76706
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "TACİR",
+        "ad": "TACİR",
+        "lat": 40.56031,
+        "lon": 29.73512
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "YENİ",
+        "ad": "YENİ",
+        "lat": 40.42603,
+        "lon": 29.72567
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "YENİŞEREFİYE",
+        "ad": "YENİŞEREFİYE",
+        "lat": 40.40461,
+        "lon": 29.82762
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "YEŞİL CAMİİ",
+        "ad": "YEŞİL CAMİİ",
+        "lat": 40.442,
+        "lon": 29.73266
+    },
+    {
+        "il": "Bursa",
+        "ilce": "İZNİK",
+        "mahalle": "YÜRÜKLER",
+        "ad": "YÜRÜKLER",
+        "lat": 40.55728,
+        "lon": 29.64533
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "ABDULLAHPAŞA",
+        "ad": "ABDULLAHPAŞA",
+        "lat": 40.21973,
+        "lon": 28.3618
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "AKÇAKOYUN",
+        "ad": "AKÇAKOYUN",
+        "lat": 40.24554,
+        "lon": 28.34409
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "AKÇASUSURLUK",
+        "ad": "AKÇASUSURLUK",
+        "lat": 40.3173,
+        "lon": 28.43254
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "AKHİSAR",
+        "ad": "AKHİSAR",
+        "lat": 40.17559,
+        "lon": 28.19228
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "ARIZ",
+        "ad": "ARIZ",
+        "lat": 40.26686,
+        "lon": 28.24466
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "BAKIRKÖY",
+        "ad": "BAKIRKÖY",
+        "lat": 40.18345,
+        "lon": 28.41249
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "BALLIKAYA",
+        "ad": "BALLIKAYA",
+        "lat": 40.34463,
+        "lon": 28.52337
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "BAYRAMDERE",
+        "ad": "BAYRAMDERE",
+        "lat": 40.39433,
+        "lon": 28.35737
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "BEYLİK",
+        "ad": "BEYLİK",
+        "lat": 40.12046,
+        "lon": 28.17746
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "BOĞAZKÖY",
+        "ad": "BOĞAZKÖY",
+        "lat": 40.39577,
+        "lon": 28.49425
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "CANBALI",
+        "ad": "CANBALI",
+        "lat": 40.20731,
+        "lon": 28.34861
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "CANBAZ",
+        "ad": "CANBAZ",
+        "lat": 40.30675,
+        "lon": 28.5078
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "ÇAMLICA",
+        "ad": "ÇAMLICA",
+        "lat": 40.35006,
+        "lon": 28.56914
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "ÇARIKKÖY",
+        "ad": "ÇARIKKÖY",
+        "lat": 40.28644,
+        "lon": 28.42581
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "ÇAVUŞ",
+        "ad": "ÇAVUŞ",
+        "lat": 40.25737,
+        "lon": 28.13214
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "ÇEŞNİGİR",
+        "ad": "ÇEŞNİGİR",
+        "lat": 40.33025,
+        "lon": 28.52319
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "DAĞESEMEN",
+        "ad": "DAĞESEMEN",
+        "lat": 40.31172,
+        "lon": 28.33058
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "DAĞKADI",
+        "ad": "DAĞKADI",
+        "lat": 40.27162,
+        "lon": 28.17292
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "DANİŞMENT",
+        "ad": "DANİŞMENT",
+        "lat": 40.24656,
+        "lon": 28.15016
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "DOĞLA",
+        "ad": "DOĞLA",
+        "lat": 40.31119,
+        "lon": 28.25864
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "DRAMA",
+        "ad": "DRAMA",
+        "lat": 40.21602,
+        "lon": 28.36124
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "EKİNLİ",
+        "ad": "EKİNLİ",
+        "lat": 40.39252,
+        "lon": 28.52244
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "EKMEKÇİ",
+        "ad": "EKMEKÇİ",
+        "lat": 40.35805,
+        "lon": 28.47928
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "EMİRSULTAN",
+        "ad": "EMİRSULTAN",
+        "lat": 40.21675,
+        "lon": 28.3689
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "ESENTEPE",
+        "ad": "ESENTEPE",
+        "lat": 40.21878,
+        "lon": 28.37928
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "ESKİKARAAĞAÇ",
+        "ad": "ESKİKARAAĞAÇ",
+        "lat": 40.22002,
+        "lon": 28.59152
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "ESKİSARIBEY",
+        "ad": "ESKİSARIBEY",
+        "lat": 40.13625,
+        "lon": 28.25892
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "FEVZİPAŞA",
+        "ad": "FEVZİPAŞA",
+        "lat": 40.21743,
+        "lon": 28.2712
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "GARİPÇE",
+        "ad": "GARİPÇE",
+        "lat": 40.2175,
+        "lon": 28.35866
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "GAZİ",
+        "ad": "GAZİ",
+        "lat": 40.21129,
+        "lon": 28.36573
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "GÖLECİK",
+        "ad": "GÖLECİK",
+        "lat": 40.28873,
+        "lon": 28.30178
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "GÖLKIYI",
+        "ad": "GÖLKIYI",
+        "lat": 40.23207,
+        "lon": 28.50813
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "GÖNÜ",
+        "ad": "GÖNÜ",
+        "lat": 40.13153,
+        "lon": 28.2964
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "GÜNGÖRMEZ",
+        "ad": "GÜNGÖRMEZ",
+        "lat": 40.33847,
+        "lon": 28.36595
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "HAMİDİYE",
+        "ad": "HAMİDİYE",
+        "lat": 40.24772,
+        "lon": 28.40268
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "HARMANLI",
+        "ad": "HARMANLI",
+        "lat": 40.27824,
+        "lon": 28.43581
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "HAYIRLAR",
+        "ad": "HAYIRLAR",
+        "lat": 40.29893,
+        "lon": 28.45398
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "HOTANLI",
+        "ad": "HOTANLI",
+        "lat": 40.22343,
+        "lon": 28.34072
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "HÜDAVENDİGAR",
+        "ad": "HÜDAVENDİGAR",
+        "lat": 40.24241,
+        "lon": 28.34879
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "HÜRRİYET",
+        "ad": "HÜRRİYET",
+        "lat": 40.30124,
+        "lon": 28.62823
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "İKİZCE",
+        "ad": "İKİZCE",
+        "lat": 40.2459,
+        "lon": 28.66423
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "İNKAYA",
+        "ad": "İNKAYA",
+        "lat": 40.31887,
+        "lon": 28.53953
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "İSMETPAŞA",
+        "ad": "İSMETPAŞA",
+        "lat": 40.16967,
+        "lon": 28.15825
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "KARACAAHMET",
+        "ad": "KARACAAHMET",
+        "lat": 40.21321,
+        "lon": 28.35703
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "KARAKOCA",
+        "ad": "KARAKOCA",
+        "lat": 40.28218,
+        "lon": 28.56497
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "KARASU",
+        "ad": "KARASU",
+        "lat": 40.26412,
+        "lon": 28.28647
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "KEDİKAYA",
+        "ad": "KEDİKAYA",
+        "lat": 40.30998,
+        "lon": 28.32739
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "KEŞLİK",
+        "ad": "KEŞLİK",
+        "lat": 40.26201,
+        "lon": 28.28016
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "KIRANLAR",
+        "ad": "KIRANLAR",
+        "lat": 40.29943,
+        "lon": 28.35523
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "KULAKPINAR",
+        "ad": "KULAKPINAR",
+        "lat": 40.31515,
+        "lon": 28.39936
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "KURŞUNLU",
+        "ad": "KURŞUNLU",
+        "lat": 40.40229,
+        "lon": 28.24604
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "KÜÇÜKKARAAĞAÇ",
+        "ad": "KÜÇÜKKARAAĞAÇ",
+        "lat": 40.21552,
+        "lon": 28.2527
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "MAMURİYET",
+        "ad": "MAMURİYET",
+        "lat": 40.24143,
+        "lon": 28.37714
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "MECİDİYE",
+        "ad": "MECİDİYE",
+        "lat": 40.2127,
+        "lon": 28.35256
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "MURATLI",
+        "ad": "MURATLI",
+        "lat": 40.31596,
+        "lon": 28.61754
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "NASRETTİN",
+        "ad": "NASRETTİN",
+        "lat": 40.20735,
+        "lon": 28.35609
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "OKÇULAR",
+        "ad": "OKÇULAR",
+        "lat": 40.32057,
+        "lon": 28.22481
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "ORHANİYE",
+        "ad": "ORHANİYE",
+        "lat": 40.2361,
+        "lon": 28.63957
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "ORTASARIBEY",
+        "ad": "ORTASARIBEY",
+        "lat": 40.14641,
+        "lon": 28.21862
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "OVAESEMEN",
+        "ad": "OVAESEMEN",
+        "lat": 40.10382,
+        "lon": 28.20359
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "OVA HAMİDİYE",
+        "ad": "OVA HAMİDİYE",
+        "lat": 40.1457,
+        "lon": 28.14895
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "ÖRENCİK",
+        "ad": "ÖRENCİK",
+        "lat": 40.37532,
+        "lon": 28.33356
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "SAADET",
+        "ad": "SAADET",
+        "lat": 40.21776,
+        "lon": 28.36712
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "SAZLICA",
+        "ad": "SAZLICA",
+        "lat": 40.13298,
+        "lon": 28.23729
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "SELİMİYE",
+        "ad": "SELİMİYE",
+        "lat": 40.22511,
+        "lon": 28.3664
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "SEYRAN",
+        "ad": "SEYRAN",
+        "lat": 40.28693,
+        "lon": 28.47094
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "SUBAŞI",
+        "ad": "SUBAŞI",
+        "lat": 40.2935,
+        "lon": 28.54349
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "SULTANİYE",
+        "ad": "SULTANİYE",
+        "lat": 40.22225,
+        "lon": 28.21771
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "ŞAHİNKÖY",
+        "ad": "ŞAHİNKÖY",
+        "lat": 40.2552,
+        "lon": 28.34089
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "ŞAHMELEK",
+        "ad": "ŞAHMELEK",
+        "lat": 40.37965,
+        "lon": 28.23506
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "TABAKLAR",
+        "ad": "TABAKLAR",
+        "lat": 40.2213,
+        "lon": 28.35159
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "TAŞLIK",
+        "ad": "TAŞLIK",
+        "lat": 40.25183,
+        "lon": 28.37295
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "TAŞPINAR",
+        "ad": "TAŞPINAR",
+        "lat": 40.26959,
+        "lon": 28.6262
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "TAVŞANLI",
+        "ad": "TAVŞANLI",
+        "lat": 40.21356,
+        "lon": 28.35496
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "TOPHİSAR",
+        "ad": "TOPHİSAR",
+        "lat": 40.22348,
+        "lon": 28.2027
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "ULUABAT",
+        "ad": "ULUABAT",
+        "lat": 40.20677,
+        "lon": 28.41243
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "YARIŞ",
+        "ad": "YARIŞ",
+        "lat": 40.34068,
+        "lon": 28.38532
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "YENİ",
+        "ad": "YENİ",
+        "lat": 40.20084,
+        "lon": 28.36212
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "YENİCE",
+        "ad": "YENİCE",
+        "lat": 40.20978,
+        "lon": 28.35714
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "YENİKARAAĞAÇ",
+        "ad": "YENİKARAAĞAÇ",
+        "lat": 40.2392,
+        "lon": 28.59757
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "YENİSARIBEY",
+        "ad": "YENİSARIBEY",
+        "lat": 40.16928,
+        "lon": 28.23603
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "YEŞİLDERE",
+        "ad": "YEŞİLDERE",
+        "lat": 40.33701,
+        "lon": 28.23096
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KARACABEY",
+        "mahalle": "YOLAĞZI",
+        "ad": "YOLAĞZI",
+        "lat": 40.18716,
+        "lon": 28.29425
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "AKÇAPINAR",
+        "ad": "AKÇAPINAR",
+        "lat": 39.88651,
+        "lon": 29.18521
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "ALPAĞUT",
+        "ad": "ALPAĞUT",
+        "lat": 39.89065,
+        "lon": 29.18408
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "AVDAN",
+        "ad": "AVDAN",
+        "lat": 39.78551,
+        "lon": 29.21253
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "BARAKLI",
+        "ad": "BARAKLI",
+        "lat": 39.98821,
+        "lon": 29.31586
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "BASAK",
+        "ad": "BASAK",
+        "lat": 39.79277,
+        "lon": 29.22884
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "BELENÖREN",
+        "ad": "BELENÖREN",
+        "lat": 39.88604,
+        "lon": 29.13717
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "BIYIKLIALANI",
+        "ad": "BIYIKLIALANI",
+        "lat": 39.90019,
+        "lon": 29.19407
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "CUMA",
+        "ad": "CUMA",
+        "lat": 39.93694,
+        "lon": 29.3052
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "ÇUKUR",
+        "ad": "ÇUKUR",
+        "lat": 39.9284,
+        "lon": 29.28394
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "DAĞ DEMİRCİLER",
+        "ad": "DAĞ DEMİRCİLER",
+        "lat": 39.94022,
+        "lon": 29.17934
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "DAĞDİBİ",
+        "ad": "DAĞDİBİ",
+        "lat": 39.99518,
+        "lon": 29.24116
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "DAVUTLAR",
+        "ad": "DAVUTLAR",
+        "lat": 39.82688,
+        "lon": 29.27014
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "DEDELER",
+        "ad": "DEDELER",
+        "lat": 39.96019,
+        "lon": 29.11459
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "DELİCE",
+        "ad": "DELİCE",
+        "lat": 39.98963,
+        "lon": 29.18738
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "DENİZLER",
+        "ad": "DENİZLER",
+        "lat": 39.8696,
+        "lon": 29.28577
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "DURAK",
+        "ad": "DURAK",
+        "lat": 39.8629,
+        "lon": 29.2958
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "DÜVENLİ",
+        "ad": "DÜVENLİ",
+        "lat": 39.90158,
+        "lon": 29.44743
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "EPÇELER",
+        "ad": "EPÇELER",
+        "lat": 39.99431,
+        "lon": 29.20477
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "ERTUĞRULGAZİ",
+        "ad": "ERTUĞRULGAZİ",
+        "lat": 39.91696,
+        "lon": 29.22664
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "GELEMİÇ",
+        "ad": "GELEMİÇ",
+        "lat": 39.91711,
+        "lon": 29.2782
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "GÖKÖZ",
+        "ad": "GÖKÖZ",
+        "lat": 39.95515,
+        "lon": 29.20912
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "HARMANALANI",
+        "ad": "HARMANALANI",
+        "lat": 39.91452,
+        "lon": 29.18794
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "HARMANCIK DEMİRCİ",
+        "ad": "HARMANCIK DEMİRCİ",
+        "lat": 39.73421,
+        "lon": 29.30685
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "HAYDAR",
+        "ad": "HAYDAR",
+        "lat": 39.85701,
+        "lon": 29.14624
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "HEREKE",
+        "ad": "HEREKE",
+        "lat": 39.81481,
+        "lon": 29.3431
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "ISSIZÖREN",
+        "ad": "ISSIZÖREN",
+        "lat": 39.82949,
+        "lon": 29.26544
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "KARAARDIÇ",
+        "ad": "KARAARDIÇ",
+        "lat": 39.81367,
+        "lon": 29.25638
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "KEMALİYE",
+        "ad": "KEMALİYE",
+        "lat": 39.84367,
+        "lon": 29.22497
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "KIRAN IŞIKLAR",
+        "ad": "KIRAN IŞIKLAR",
+        "lat": 39.87719,
+        "lon": 29.22979
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "KİRAZLI",
+        "ad": "KİRAZLI",
+        "lat": 39.89441,
+        "lon": 29.19143
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "KOCA KOVACIK",
+        "ad": "KOCA KOVACIK",
+        "lat": 39.90818,
+        "lon": 29.44857
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "KOZBUDAKLAR",
+        "ad": "KOZBUDAKLAR",
+        "lat": 40.014,
+        "lon": 29.10957
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "KÜÇÜK KOVACIK",
+        "ad": "KÜÇÜK KOVACIK",
+        "lat": 39.90182,
+        "lon": 29.22347
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "MENTEŞE",
+        "ad": "MENTEŞE",
+        "lat": 39.84266,
+        "lon": 29.17293
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "PINARCIK",
+        "ad": "PINARCIK",
+        "lat": 39.9945,
+        "lon": 29.24161
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "SOFULAR",
+        "ad": "SOFULAR",
+        "lat": 39.91247,
+        "lon": 29.25346
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "SORGUN",
+        "ad": "SORGUN",
+        "lat": 39.91821,
+        "lon": 29.37251
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "UZUNÖZ",
+        "ad": "UZUNÖZ",
+        "lat": 39.87778,
+        "lon": 29.19308
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "YAĞCILAR",
+        "ad": "YAĞCILAR",
+        "lat": 39.93233,
+        "lon": 29.14668
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "YAZIBAŞI",
+        "ad": "YAZIBAŞI",
+        "lat": 39.81439,
+        "lon": 29.15988
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "YENİCE",
+        "ad": "YENİCE",
+        "lat": 39.95858,
+        "lon": 29.35335
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KELES",
+        "mahalle": "YUNUSLAR",
+        "ad": "YUNUSLAR",
+        "lat": 39.83427,
+        "lon": 29.32763
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "AĞLAŞAN",
+        "ad": "AĞLAŞAN",
+        "lat": 40.30959,
+        "lon": 29.35464
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "AHMETVEFİKPAŞA",
+        "ad": "AHMETVEFİKPAŞA",
+        "lat": 40.20098,
+        "lon": 29.21187
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "AHMET VEFİK PAŞA OSB",
+        "ad": "AHMET VEFİK PAŞA OSB",
+        "lat": 40.19338,
+        "lon": 29.20492
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "AKSU",
+        "ad": "AKSU",
+        "lat": 40.19968,
+        "lon": 29.32546
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "ALAÇAM",
+        "ad": "ALAÇAM",
+        "lat": 40.14214,
+        "lon": 29.29747
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "BABASULTAN",
+        "ad": "BABASULTAN",
+        "lat": 40.13411,
+        "lon": 29.39033
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "BARAKFAKİH",
+        "ad": "BARAKFAKİH",
+        "lat": 40.25039,
+        "lon": 29.27245
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "BARAKFAKİH OSB",
+        "ad": "BARAKFAKİH OSB",
+        "lat": 40.21196,
+        "lon": 29.25405
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "BURHANİYE",
+        "ad": "BURHANİYE",
+        "lat": 40.17634,
+        "lon": 29.24033
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "ÇATALTEPE",
+        "ad": "ÇATALTEPE",
+        "lat": 40.21182,
+        "lon": 29.24067
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "DEREKIZIK",
+        "ad": "DEREKIZIK",
+        "lat": 40.18591,
+        "lon": 29.21727
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "DUDAKLI",
+        "ad": "DUDAKLI",
+        "lat": 40.23959,
+        "lon": 29.30274
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "ERDOĞAN",
+        "ad": "ERDOĞAN",
+        "lat": 40.21264,
+        "lon": 29.39202
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "ESENTEPE",
+        "ad": "ESENTEPE",
+        "lat": 40.19801,
+        "lon": 29.22935
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "GÖLBAŞI",
+        "ad": "GÖLBAŞI",
+        "lat": 40.23429,
+        "lon": 29.37464
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "GÖLCÜK",
+        "ad": "GÖLCÜK",
+        "lat": 40.24534,
+        "lon": 29.39991
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "GÖZEDE",
+        "ad": "GÖZEDE",
+        "lat": 40.17559,
+        "lon": 29.26722
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "KALE",
+        "ad": "KALE",
+        "lat": 40.21123,
+        "lon": 29.21895
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "KAYACIK",
+        "ad": "KAYACIK",
+        "lat": 40.29607,
+        "lon": 29.33566
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "KAZANCI",
+        "ad": "KAZANCI",
+        "lat": 40.15874,
+        "lon": 29.34349
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "KOZLUÖREN",
+        "ad": "KOZLUÖREN",
+        "lat": 40.15722,
+        "lon": 29.35658
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "LÜTFİYE",
+        "ad": "LÜTFİYE",
+        "lat": 40.15637,
+        "lon": 29.31621
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "NARLIDERE",
+        "ad": "NARLIDERE",
+        "lat": 40.25591,
+        "lon": 29.28598
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "NÜZHETİYE",
+        "ad": "NÜZHETİYE",
+        "lat": 40.30483,
+        "lon": 29.35744
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "ORHANİYE",
+        "ad": "ORHANİYE",
+        "lat": 40.13203,
+        "lon": 29.2793
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "OSMANİYE",
+        "ad": "OSMANİYE",
+        "lat": 40.15406,
+        "lon": 29.25122
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "SAİTABAT",
+        "ad": "SAİTABAT",
+        "lat": 40.1587,
+        "lon": 29.24061
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "SAYFİYE",
+        "ad": "SAYFİYE",
+        "lat": 40.12278,
+        "lon": 29.33638
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "SERME",
+        "ad": "SERME",
+        "lat": 40.23174,
+        "lon": 29.248
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "SEYMEN",
+        "ad": "SEYMEN",
+        "lat": 40.24612,
+        "lon": 29.41181
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "SOĞUKSU",
+        "ad": "SOĞUKSU",
+        "lat": 40.22108,
+        "lon": 29.42885
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "ŞEVKETİYE",
+        "ad": "ŞEVKETİYE",
+        "lat": 40.15303,
+        "lon": 29.33555
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "TURANKÖY",
+        "ad": "TURANKÖY",
+        "lat": 40.21228,
+        "lon": 29.35395
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "ÜMİTALAN",
+        "ad": "ÜMİTALAN",
+        "lat": 40.18525,
+        "lon": 29.36402
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "VANİMEHMET",
+        "ad": "VANİMEHMET",
+        "lat": 40.20023,
+        "lon": 29.21737
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "YAĞMURLU",
+        "ad": "YAĞMURLU",
+        "lat": 40.17309,
+        "lon": 29.40319
+    },
+    {
+        "il": "Bursa",
+        "ilce": "KESTEL",
+        "mahalle": "YENİ",
+        "ad": "YENİ",
+        "lat": 40.1931,
+        "lon": 29.21079
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "AKKÖY",
+        "ad": "AKKÖY",
+        "lat": 40.33406,
+        "lon": 28.84994
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "ALTINTAŞ",
+        "ad": "ALTINTAŞ",
+        "lat": 40.35879,
+        "lon": 28.96345
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "AYDINPINAR",
+        "ad": "AYDINPINAR",
+        "lat": 40.3516,
+        "lon": 28.91855
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "BADEMLİ",
+        "ad": "BADEMLİ",
+        "lat": 40.31684,
+        "lon": 28.91955
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "BALABANCIK",
+        "ad": "BALABANCIK",
+        "lat": 40.28908,
+        "lon": 28.80523
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "ÇAĞRIŞAN",
+        "ad": "ÇAĞRIŞAN",
+        "lat": 40.32225,
+        "lon": 28.93266
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "ÇAMLIK",
+        "ad": "ÇAMLIK",
+        "lat": 40.34738,
+        "lon": 28.61102
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "ÇAYÖNÜ",
+        "ad": "ÇAYÖNÜ",
+        "lat": 40.31016,
+        "lon": 28.68268
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "ÇEKRİCE",
+        "ad": "ÇEKRİCE",
+        "lat": 40.29704,
+        "lon": 28.77816
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "ÇEPNİ",
+        "ad": "ÇEPNİ",
+        "lat": 40.36274,
+        "lon": 28.83054
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "ÇINARLI",
+        "ad": "ÇINARLI",
+        "lat": 40.32931,
+        "lon": 28.73823
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "DEDEKÖY",
+        "ad": "DEDEKÖY",
+        "lat": 40.31181,
+        "lon": 28.8573
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "DEREKÖY",
+        "ad": "DEREKÖY",
+        "lat": 40.313,
+        "lon": 28.81304
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "EĞERCE",
+        "ad": "EĞERCE",
+        "lat": 40.3624,
+        "lon": 28.64399
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "EMİRLERYENİCESİ",
+        "ad": "EMİRLERYENİCESİ",
+        "lat": 40.33854,
+        "lon": 28.62098
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "ESENCE",
+        "ad": "ESENCE",
+        "lat": 40.37579,
+        "lon": 28.69994
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "EVCİLER",
+        "ad": "EVCİLER",
+        "lat": 40.3394,
+        "lon": 28.5741
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "GÖYNÜKLÜ",
+        "ad": "GÖYNÜKLÜ",
+        "lat": 40.34294,
+        "lon": 28.94357
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "GÜZELYALI BURGAZ",
+        "ad": "GÜZELYALI BURGAZ",
+        "lat": 40.35672,
+        "lon": 28.94747
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "GÜZELYALI EĞİTİM",
+        "ad": "GÜZELYALI EĞİTİM",
+        "lat": 40.35648,
+        "lon": 28.92998
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "GÜZELYALI SİTELER",
+        "ad": "GÜZELYALI SİTELER",
+        "lat": 40.35353,
+        "lon": 28.91916
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "GÜZELYALI YALI",
+        "ad": "GÜZELYALI YALI",
+        "lat": 40.35616,
+        "lon": 28.92622
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "HALİTPAŞA",
+        "ad": "HALİTPAŞA",
+        "lat": 40.38542,
+        "lon": 28.86734
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "HANÇERLİ",
+        "ad": "HANÇERLİ",
+        "lat": 40.32104,
+        "lon": 28.70395
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "HASANBEY",
+        "ad": "HASANBEY",
+        "lat": 40.37565,
+        "lon": 28.88626
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "HASKÖY",
+        "ad": "HASKÖY",
+        "lat": 40.30254,
+        "lon": 28.87081
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "IŞIKLI",
+        "ad": "IŞIKLI",
+        "lat": 40.36377,
+        "lon": 28.86948
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "İPEKYAYLA",
+        "ad": "İPEKYAYLA",
+        "lat": 40.34536,
+        "lon": 28.81476
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "KAYMAKOBA",
+        "ad": "KAYMAKOBA",
+        "lat": 40.35995,
+        "lon": 28.78227
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "KUMYAKA",
+        "ad": "KUMYAKA",
+        "lat": 40.39105,
+        "lon": 28.81504
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "KÜÇÜKYENİCE",
+        "ad": "KÜÇÜKYENİCE",
+        "lat": 40.30731,
+        "lon": 28.83411
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "MESUDİYE",
+        "ad": "MESUDİYE",
+        "lat": 40.36883,
+        "lon": 28.60351
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "MİRZAOBA",
+        "ad": "MİRZAOBA",
+        "lat": 40.35691,
+        "lon": 28.80378
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "MÜRSEL",
+        "ad": "MÜRSEL",
+        "lat": 40.3242,
+        "lon": 28.89251
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "MÜTAREKE",
+        "ad": "MÜTAREKE",
+        "lat": 40.38002,
+        "lon": 28.88159
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "ORHANİYE",
+        "ad": "ORHANİYE",
+        "lat": 40.30366,
+        "lon": 28.77246
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "ÖMERBEY",
+        "ad": "ÖMERBEY",
+        "lat": 40.37601,
+        "lon": 28.88671
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "SÖĞÜTPINAR",
+        "ad": "SÖĞÜTPINAR",
+        "lat": 40.36262,
+        "lon": 28.6493
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "ŞÜKRÜÇAVUŞ",
+        "ad": "ŞÜKRÜÇAVUŞ",
+        "lat": 40.37793,
+        "lon": 28.88444
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "TİRİLYE",
+        "ad": "TİRİLYE",
+        "lat": 40.39106,
+        "lon": 28.81239
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "ÜLKÜ",
+        "ad": "ÜLKÜ",
+        "lat": 40.32679,
+        "lon": 28.88848
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "YALIÇİFTLİK",
+        "ad": "YALIÇİFTLİK",
+        "lat": 40.37782,
+        "lon": 28.70062
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "YAMAN",
+        "ad": "YAMAN",
+        "lat": 40.33929,
+        "lon": 28.72932
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "YAYLACIK",
+        "ad": "YAYLACIK",
+        "lat": 40.30823,
+        "lon": 28.82613
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "YENİ",
+        "ad": "YENİ",
+        "lat": 40.36319,
+        "lon": 28.90514
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "YÖRÜKALİ",
+        "ad": "YÖRÜKALİ",
+        "lat": 40.34716,
+        "lon": 28.8986
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUDANYA",
+        "mahalle": "YÖRÜKYENİCESİ",
+        "ad": "YÖRÜKYENİCESİ",
+        "lat": 40.3112,
+        "lon": 28.69344
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "ADAKÖY",
+        "ad": "ADAKÖY",
+        "lat": 40.0406,
+        "lon": 28.2116
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "ADALET",
+        "ad": "ADALET",
+        "lat": 40.04191,
+        "lon": 28.39263
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "AĞAÇLI",
+        "ad": "AĞAÇLI",
+        "lat": 40.03257,
+        "lon": 28.6503
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "AKARCA",
+        "ad": "AKARCA",
+        "lat": 39.9528,
+        "lon": 28.4409
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "AKÇAPINAR",
+        "ad": "AKÇAPINAR",
+        "lat": 40.13365,
+        "lon": 28.68293
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "ALACAAT",
+        "ad": "ALACAAT",
+        "lat": 39.8276,
+        "lon": 28.68399
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "ALİSEYDİ",
+        "ad": "ALİSEYDİ",
+        "lat": 40.07841,
+        "lon": 28.50844
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "ALPAĞUT",
+        "ad": "ALPAĞUT",
+        "lat": 39.88017,
+        "lon": 28.56321
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "ARALIK",
+        "ad": "ARALIK",
+        "lat": 40.04542,
+        "lon": 28.46092
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "AŞAĞIBALI",
+        "ad": "AŞAĞIBALI",
+        "lat": 39.84978,
+        "lon": 28.71572
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "ATARİYE",
+        "ad": "ATARİYE",
+        "lat": 40.06562,
+        "lon": 28.39182
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "ATATÜRK",
+        "ad": "ATATÜRK",
+        "lat": 40.03736,
+        "lon": 28.39626
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "AYAZ",
+        "ad": "AYAZ",
+        "lat": 40.1379,
+        "lon": 28.5364
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "BAHARİYE",
+        "ad": "BAHARİYE",
+        "lat": 39.94426,
+        "lon": 28.42896
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "BARIŞ",
+        "ad": "BARIŞ",
+        "lat": 40.04187,
+        "lon": 28.39346
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "BEHRAM",
+        "ad": "BEHRAM",
+        "lat": 40.01295,
+        "lon": 28.4376
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "BOĞAZ",
+        "ad": "BOĞAZ",
+        "lat": 40.03686,
+        "lon": 28.27775
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "BOSTANDERE",
+        "ad": "BOSTANDERE",
+        "lat": 39.97821,
+        "lon": 28.25222
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "BÜK",
+        "ad": "BÜK",
+        "lat": 39.89611,
+        "lon": 28.57088
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "CAMANDAR",
+        "ad": "CAMANDAR",
+        "lat": 39.95313,
+        "lon": 28.54593
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "ÇAKALLAR",
+        "ad": "ÇAKALLAR",
+        "lat": 39.78696,
+        "lon": 28.56292
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "ÇALTILIBÜK",
+        "ad": "ÇALTILIBÜK",
+        "lat": 39.98531,
+        "lon": 28.63007
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "ÇAMLICA",
+        "ad": "ÇAMLICA",
+        "lat": 40.00511,
+        "lon": 28.59295
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "ÇARDAKBELEN",
+        "ad": "ÇARDAKBELEN",
+        "lat": 39.97521,
+        "lon": 28.51117
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "ÇAVUŞ",
+        "ad": "ÇAVUŞ",
+        "lat": 39.95147,
+        "lon": 28.51755
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "ÇELTİKÇİ",
+        "ad": "ÇELTİKÇİ",
+        "lat": 40.08358,
+        "lon": 28.21681
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "ÇIRPAN",
+        "ad": "ÇIRPAN",
+        "lat": 40.03448,
+        "lon": 28.40454
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "ÇİVİLİÇAM",
+        "ad": "ÇİVİLİÇAM",
+        "lat": 39.94499,
+        "lon": 28.69864
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "ÇÖMLEKÇİ",
+        "ad": "ÇÖMLEKÇİ",
+        "lat": 40.00347,
+        "lon": 28.63014
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "ÇÖRDÜK",
+        "ad": "ÇÖRDÜK",
+        "lat": 40.06923,
+        "lon": 28.51509
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "DALLICA",
+        "ad": "DALLICA",
+        "lat": 39.97788,
+        "lon": 28.35386
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "DEMİRDERE",
+        "ad": "DEMİRDERE",
+        "lat": 40.02027,
+        "lon": 28.34471
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "DEMİRELİ",
+        "ad": "DEMİRELİ",
+        "lat": 40.07664,
+        "lon": 28.46549
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "DERE",
+        "ad": "DERE",
+        "lat": 40.03716,
+        "lon": 28.41625
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "DERECİK",
+        "ad": "DERECİK",
+        "lat": 40.03015,
+        "lon": 28.32597
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "DEREKADI",
+        "ad": "DEREKADI",
+        "lat": 39.97115,
+        "lon": 28.43964
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "DEVECİKONAĞI",
+        "ad": "DEVECİKONAĞI",
+        "lat": 39.92418,
+        "lon": 28.55537
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "DOĞANALAN",
+        "ad": "DOĞANALAN",
+        "lat": 40.07707,
+        "lon": 28.69174
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "DOĞANCI",
+        "ad": "DOĞANCI",
+        "lat": 40.11692,
+        "lon": 28.45678
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "DORAK",
+        "ad": "DORAK",
+        "lat": 40.1417,
+        "lon": 28.56988
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "DÖLLÜK",
+        "ad": "DÖLLÜK",
+        "lat": 39.96853,
+        "lon": 28.53708
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "DURUMTAY",
+        "ad": "DURUMTAY",
+        "lat": 40.07672,
+        "lon": 28.23729
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "ESKİBALÇIK",
+        "ad": "ESKİBALÇIK",
+        "lat": 39.92246,
+        "lon": 28.61483
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "ESKİKIZILELMA",
+        "ad": "ESKİKIZILELMA",
+        "lat": 40.06136,
+        "lon": 28.75004
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "FEVZİDEDE",
+        "ad": "FEVZİDEDE",
+        "lat": 40.07239,
+        "lon": 28.42896
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "FINDICAK",
+        "ad": "FINDICAK",
+        "lat": 39.90848,
+        "lon": 28.62374
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "GARİPÇETEKKE",
+        "ad": "GARİPÇETEKKE",
+        "lat": 40.07188,
+        "lon": 28.54126
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "GÜLLER",
+        "ad": "GÜLLER",
+        "lat": 40.03485,
+        "lon": 28.5427
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "GÜLLÜCE",
+        "ad": "GÜLLÜCE",
+        "lat": 40.05677,
+        "lon": 28.313
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "GÜNDOĞDU",
+        "ad": "GÜNDOĞDU",
+        "lat": 39.90203,
+        "lon": 28.56892
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "GÜVEÇDERE",
+        "ad": "GÜVEÇDERE",
+        "lat": 39.96435,
+        "lon": 28.40267
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "GÜVEM",
+        "ad": "GÜVEM",
+        "lat": 39.86997,
+        "lon": 28.51817
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "HACIAHMET",
+        "ad": "HACIAHMET",
+        "lat": 39.82721,
+        "lon": 28.68509
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "HACIALİ",
+        "ad": "HACIALİ",
+        "lat": 39.99392,
+        "lon": 28.51465
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "HAMİDİYE",
+        "ad": "HAMİDİYE",
+        "lat": 40.03393,
+        "lon": 28.39703
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "HAMİDİYEKÖYÜ",
+        "ad": "HAMİDİYEKÖYÜ",
+        "lat": 39.96971,
+        "lon": 28.42708
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "HAMZABEY",
+        "ad": "HAMZABEY",
+        "lat": 40.04093,
+        "lon": 28.40653
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "HİSARALTI",
+        "ad": "HİSARALTI",
+        "lat": 40.00414,
+        "lon": 28.47433
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "IŞIKLAR",
+        "ad": "IŞIKLAR",
+        "lat": 40.00707,
+        "lon": 28.62253
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "İLYASÇILAR",
+        "ad": "İLYASÇILAR",
+        "lat": 40.02173,
+        "lon": 28.48686
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "İNCEALİPINAR",
+        "ad": "İNCEALİPINAR",
+        "lat": 40.08746,
+        "lon": 28.61113
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "KABULBABA",
+        "ad": "KABULBABA",
+        "lat": 40.01996,
+        "lon": 28.61051
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "KADİRÇEŞME",
+        "ad": "KADİRÇEŞME",
+        "lat": 40.08207,
+        "lon": 28.54209
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "KAPAKLIOLUK",
+        "ad": "KAPAKLIOLUK",
+        "lat": 40.02262,
+        "lon": 28.50674
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "KARACALAR",
+        "ad": "KARACALAR",
+        "lat": 39.96081,
+        "lon": 28.63154
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "KARAKÖY",
+        "ad": "KARAKÖY",
+        "lat": 39.9024,
+        "lon": 28.67444
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "KARAOĞLAN",
+        "ad": "KARAOĞLAN",
+        "lat": 40.1641,
+        "lon": 28.56327
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "KARAORMAN",
+        "ad": "KARAORMAN",
+        "lat": 39.98979,
+        "lon": 28.44708
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "KARAPINAR",
+        "ad": "KARAPINAR",
+        "lat": 39.96994,
+        "lon": 28.32384
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "KAYABAŞI",
+        "ad": "KAYABAŞI",
+        "lat": 40.00255,
+        "lon": 28.3713
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "KAZANPINAR",
+        "ad": "KAZANPINAR",
+        "lat": 40.11344,
+        "lon": 28.70443
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "KELTAŞ",
+        "ad": "KELTAŞ",
+        "lat": 40.0235,
+        "lon": 28.45703
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "KESTELEK",
+        "ad": "KESTELEK",
+        "lat": 39.98083,
+        "lon": 28.54826
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "KİLLİK",
+        "ad": "KİLLİK",
+        "lat": 40.05513,
+        "lon": 28.62516
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "KOCAKORU",
+        "ad": "KOCAKORU",
+        "lat": 40.04619,
+        "lon": 28.67989
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "KOSOVA",
+        "ad": "KOSOVA",
+        "lat": 40.01767,
+        "lon": 28.26161
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "KOŞUBOĞAZI",
+        "ad": "KOŞUBOĞAZI",
+        "lat": 40.06391,
+        "lon": 28.25802
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "KÖMÜRCÜKADI",
+        "ad": "KÖMÜRCÜKADI",
+        "lat": 39.95384,
+        "lon": 28.47204
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "KÖSEHOROZ",
+        "ad": "KÖSEHOROZ",
+        "lat": 39.93898,
+        "lon": 28.5337
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "KUMKADI",
+        "ad": "KUMKADI",
+        "lat": 40.18643,
+        "lon": 28.47442
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "KURŞUNLU",
+        "ad": "KURŞUNLU",
+        "lat": 39.88295,
+        "lon": 28.62656
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "LALAŞAHİN",
+        "ad": "LALAŞAHİN",
+        "lat": 40.03231,
+        "lon": 28.41933
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "LÜTFİYE",
+        "ad": "LÜTFİYE",
+        "lat": 40.00077,
+        "lon": 28.41815
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "MELİK",
+        "ad": "MELİK",
+        "lat": 39.99248,
+        "lon": 28.50096
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "MURADİYESARNIÇ",
+        "ad": "MURADİYESARNIÇ",
+        "lat": 39.94416,
+        "lon": 28.39626
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "OCAKLI",
+        "ad": "OCAKLI",
+        "lat": 40.03271,
+        "lon": 28.27986
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "ONAÇ",
+        "ad": "ONAÇ",
+        "lat": 40.12302,
+        "lon": 28.61276
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "ORHANİYE",
+        "ad": "ORHANİYE",
+        "lat": 39.98953,
+        "lon": 28.43178
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "ORMANKADI",
+        "ad": "ORMANKADI",
+        "lat": 40.17242,
+        "lon": 28.44877
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "ORTA",
+        "ad": "ORTA",
+        "lat": 40.07022,
+        "lon": 28.43362
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "OSMANİYE",
+        "ad": "OSMANİYE",
+        "lat": 39.98104,
+        "lon": 28.68014
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "OVAAZATLI",
+        "ad": "OVAAZATLI",
+        "lat": 40.09833,
+        "lon": 28.41226
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "ÖMERALTI",
+        "ad": "ÖMERALTI",
+        "lat": 40.02075,
+        "lon": 28.73855
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "PAŞALAR",
+        "ad": "PAŞALAR",
+        "lat": 40.00498,
+        "lon": 28.29433
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "SARIMUSTAFALAR",
+        "ad": "SARIMUSTAFALAR",
+        "lat": 39.77022,
+        "lon": 28.62444
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "SELİMİYE",
+        "ad": "SELİMİYE",
+        "lat": 40.03574,
+        "lon": 28.4068
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "SİNCANSARNIÇ",
+        "ad": "SİNCANSARNIÇ",
+        "lat": 40.07917,
+        "lon": 28.70724
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "SOĞUCAK",
+        "ad": "SOĞUCAK",
+        "lat": 39.84344,
+        "lon": 28.48071
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "SOĞUKPINAR",
+        "ad": "SOĞUKPINAR",
+        "lat": 39.94375,
+        "lon": 28.62918
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "SÖĞÜTALAN",
+        "ad": "SÖĞÜTALAN",
+        "lat": 40.07535,
+        "lon": 28.57903
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "SÜNLÜK",
+        "ad": "SÜNLÜK",
+        "lat": 39.97962,
+        "lon": 28.38878
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "ŞAPÇI",
+        "ad": "ŞAPÇI",
+        "lat": 39.93821,
+        "lon": 28.4976
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "ŞEHRİMAN",
+        "ad": "ŞEHRİMAN",
+        "lat": 40.02727,
+        "lon": 28.68848
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "ŞEREFİYE",
+        "ad": "ŞEREFİYE",
+        "lat": 40.04032,
+        "lon": 28.41154
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "ŞEVKETİYE",
+        "ad": "ŞEVKETİYE",
+        "lat": 40.04148,
+        "lon": 28.41482
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "ŞEYHMÜFTÜ",
+        "ad": "ŞEYHMÜFTÜ",
+        "lat": 40.03402,
+        "lon": 28.40755
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "TAŞKÖPRÜ",
+        "ad": "TAŞKÖPRÜ",
+        "lat": 40.01967,
+        "lon": 28.23691
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "TAŞPINAR",
+        "ad": "TAŞPINAR",
+        "lat": 40.09533,
+        "lon": 28.56421
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "TATKAVAKLI",
+        "ad": "TATKAVAKLI",
+        "lat": 40.06405,
+        "lon": 28.36012
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "TEPECİK",
+        "ad": "TEPECİK",
+        "lat": 40.15434,
+        "lon": 28.42247
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "TIRNOVA",
+        "ad": "TIRNOVA",
+        "lat": 39.90703,
+        "lon": 28.49714
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "UĞURLUPINAR",
+        "ad": "UĞURLUPINAR",
+        "lat": 40.06346,
+        "lon": 28.62205
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "ÜÇBEYLİ",
+        "ad": "ÜÇBEYLİ",
+        "lat": 40.03631,
+        "lon": 28.46518
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "VIRACA",
+        "ad": "VIRACA",
+        "lat": 40.03575,
+        "lon": 28.40859
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "YALINTAŞ",
+        "ad": "YALINTAŞ",
+        "lat": 40.03,
+        "lon": 28.383
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "YAMANLI",
+        "ad": "YAMANLI",
+        "lat": 40.10449,
+        "lon": 28.44928
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "YAVELLİ",
+        "ad": "YAVELLİ",
+        "lat": 40.10495,
+        "lon": 28.48094
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "YAYLAÇAYIR",
+        "ad": "YAYLAÇAYIR",
+        "lat": 39.77288,
+        "lon": 28.50527
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "YENİBALÇIK",
+        "ad": "YENİBALÇIK",
+        "lat": 39.94514,
+        "lon": 28.57724
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "YENİCE",
+        "ad": "YENİCE",
+        "lat": 39.90757,
+        "lon": 28.52387
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "YENİDERE",
+        "ad": "YENİDERE",
+        "lat": 40.04617,
+        "lon": 28.43158
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "YENİKIZILELMA",
+        "ad": "YENİKIZILELMA",
+        "lat": 39.94143,
+        "lon": 28.65696
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "YEŞİLOVA",
+        "ad": "YEŞİLOVA",
+        "lat": 40.17566,
+        "lon": 28.44646
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "YONCAAĞAÇ",
+        "ad": "YONCAAĞAÇ",
+        "lat": 39.92747,
+        "lon": 28.59502
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "YUKARIBALI",
+        "ad": "YUKARIBALI",
+        "lat": 39.8703,
+        "lon": 28.76022
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "YUMURCAKLI",
+        "ad": "YUMURCAKLI",
+        "lat": 40.09772,
+        "lon": 28.28303
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "YUNUS EMRE",
+        "ad": "YUNUS EMRE",
+        "lat": 40.03381,
+        "lon": 28.39624
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "YÜZBAŞI SABRİBEY",
+        "ad": "YÜZBAŞI SABRİBEY",
+        "lat": 40.03733,
+        "lon": 28.41198
+    },
+    {
+        "il": "Bursa",
+        "ilce": "MUSTAFAKEMALPAŞA",
+        "mahalle": "ZÜFERBEY",
+        "ad": "ZÜFERBEY",
+        "lat": 40.03626,
+        "lon": 28.41449
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "19 MAYIS",
+        "ad": "19 MAYIS",
+        "lat": 40.23517,
+        "lon": 28.9047
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "23 NİSAN",
+        "ad": "23 NİSAN",
+        "lat": 40.22422,
+        "lon": 28.94059
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "29 EKİM",
+        "ad": "29 EKİM",
+        "lat": 40.21746,
+        "lon": 28.91489
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "30 AĞUSTOS ZAFER",
+        "ad": "30 AĞUSTOS ZAFER",
+        "lat": 40.20312,
+        "lon": 28.85817
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "AHMET YESEVİ",
+        "ad": "AHMET YESEVİ",
+        "lat": 40.27534,
+        "lon": 28.94077
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "AKÇALAR",
+        "ad": "AKÇALAR",
+        "lat": 40.19659,
+        "lon": 28.72693
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "ALAADDİNBEY",
+        "ad": "ALAADDİNBEY",
+        "lat": 40.19249,
+        "lon": 28.93178
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "ALTINŞEHİR",
+        "ad": "ALTINŞEHİR",
+        "lat": 40.22388,
+        "lon": 28.93818
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "ATAEVLER",
+        "ad": "ATAEVLER",
+        "lat": 40.22869,
+        "lon": 28.96503
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "ATLAS",
+        "ad": "ATLAS",
+        "lat": 40.13038,
+        "lon": 28.88337
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "AYVAKÖY",
+        "ad": "AYVAKÖY",
+        "lat": 40.13378,
+        "lon": 28.71109
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "BADIRGA",
+        "ad": "BADIRGA",
+        "lat": 40.27118,
+        "lon": 28.69149
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "BALAT",
+        "ad": "BALAT",
+        "lat": 40.27821,
+        "lon": 28.93458
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "BALKAN",
+        "ad": "BALKAN",
+        "lat": 40.22265,
+        "lon": 28.81764
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "BARIŞ",
+        "ad": "BARIŞ",
+        "lat": 40.22091,
+        "lon": 28.96381
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "BAŞKÖY",
+        "ad": "BAŞKÖY",
+        "lat": 40.23004,
+        "lon": 28.7605
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "BEŞEVLER",
+        "ad": "BEŞEVLER",
+        "lat": 40.21139,
+        "lon": 28.97762
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "BÜYÜKBALIKLI",
+        "ad": "BÜYÜKBALIKLI",
+        "lat": 40.26465,
+        "lon": 28.77529
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "CUMHURİYET",
+        "ad": "CUMHURİYET",
+        "lat": 40.22656,
+        "lon": 28.97034
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "ÇALI",
+        "ad": "ÇALI",
+        "lat": 40.20737,
+        "lon": 28.90133
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "ÇAMLICA",
+        "ad": "ÇAMLICA",
+        "lat": 40.20587,
+        "lon": 28.99198
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "ÇATALAĞIL",
+        "ad": "ÇATALAĞIL",
+        "lat": 40.2385,
+        "lon": 28.68768
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "ÇAYLI",
+        "ad": "ÇAYLI",
+        "lat": 40.30004,
+        "lon": 28.74222
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "DEMİRCİ",
+        "ad": "DEMİRCİ",
+        "lat": 40.18934,
+        "lon": 28.94369
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "DOĞANKÖY",
+        "ad": "DOĞANKÖY",
+        "lat": 40.2766,
+        "lon": 28.89761
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "DUMLUPINAR",
+        "ad": "DUMLUPINAR",
+        "lat": 40.23244,
+        "lon": 28.83109
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "ERTUĞRUL",
+        "ad": "ERTUĞRUL",
+        "lat": 40.21971,
+        "lon": 28.92
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "ESENTEPE",
+        "ad": "ESENTEPE",
+        "lat": 40.22497,
+        "lon": 28.99198
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "FADILLI",
+        "ad": "FADILLI",
+        "lat": 40.16035,
+        "lon": 28.71389
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "FETHİYE",
+        "ad": "FETHİYE",
+        "lat": 40.22899,
+        "lon": 28.98102
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "FETHİYEOSB",
+        "ad": "FETHİYEOSB",
+        "lat": 40.23091,
+        "lon": 28.96606
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "GÖKÇE",
+        "ad": "GÖKÇE",
+        "lat": 40.262,
+        "lon": 28.79777
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "GÖLYAZI",
+        "ad": "GÖLYAZI",
+        "lat": 40.20408,
+        "lon": 28.68829
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "GÖRÜKLE",
+        "ad": "GÖRÜKLE",
+        "lat": 40.26961,
+        "lon": 28.85759
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "GÜMÜŞTEPE",
+        "ad": "GÜMÜŞTEPE",
+        "lat": 40.19663,
+        "lon": 28.96684
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "GÜNGÖREN",
+        "ad": "GÜNGÖREN",
+        "lat": 40.12301,
+        "lon": 28.80852
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "IŞIKTEPE",
+        "ad": "IŞIKTEPE",
+        "lat": 40.23006,
+        "lon": 28.95821
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "IŞIKTEPEOSB",
+        "ad": "IŞIKTEPEOSB",
+        "lat": 40.23074,
+        "lon": 28.96228
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "İHSANİYE",
+        "ad": "İHSANİYE",
+        "lat": 40.22104,
+        "lon": 28.98981
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "İNEGAZİ",
+        "ad": "İNEGAZİ",
+        "lat": 40.1374,
+        "lon": 28.86877
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "İRFANİYE",
+        "ad": "İRFANİYE",
+        "lat": 40.26467,
+        "lon": 28.8052
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "KADRİYE",
+        "ad": "KADRİYE",
+        "lat": 40.10892,
+        "lon": 28.87137
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "KARACAOBA",
+        "ad": "KARACAOBA",
+        "lat": 40.23018,
+        "lon": 28.72615
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "KARAMAN",
+        "ad": "KARAMAN",
+        "lat": 40.21943,
+        "lon": 28.99406
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "KAYAPA",
+        "ad": "KAYAPA",
+        "lat": 40.18226,
+        "lon": 28.8327
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "KIZILCIKLI",
+        "ad": "KIZILCIKLI",
+        "lat": 40.20435,
+        "lon": 28.80402
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "KONAK",
+        "ad": "KONAK",
+        "lat": 40.21189,
+        "lon": 28.99289
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "KONAKLI",
+        "ad": "KONAKLI",
+        "lat": 40.2781,
+        "lon": 28.75921
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "KORUBAŞI",
+        "ad": "KORUBAŞI",
+        "lat": 40.11438,
+        "lon": 28.75345
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "KURTULUŞ",
+        "ad": "KURTULUŞ",
+        "lat": 40.21628,
+        "lon": 28.83832
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "KURUÇEŞME",
+        "ad": "KURUÇEŞME",
+        "lat": 40.14186,
+        "lon": 28.82167
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "KÜLTÜR",
+        "ad": "KÜLTÜR",
+        "lat": 40.20638,
+        "lon": 28.97009
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "MAKŞEMPINARI",
+        "ad": "MAKŞEMPINARI",
+        "lat": 40.14574,
+        "lon": 28.76485
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "MİNARELİÇAVUŞ BURSA OSB",
+        "ad": "MİNARELİÇAVUŞ BURSA OSB",
+        "lat": 40.23735,
+        "lon": 28.94788
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "MİNARELİÇAVUŞOSB",
+        "ad": "MİNARELİÇAVUŞOSB",
+        "lat": 40.24177,
+        "lon": 28.93593
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "ODUNLUK",
+        "ad": "ODUNLUK",
+        "lat": 40.21306,
+        "lon": 29.00773
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "ÖZLÜCE",
+        "ad": "ÖZLÜCE",
+        "lat": 40.25382,
+        "lon": 28.89649
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "TAHTALI",
+        "ad": "TAHTALI",
+        "lat": 40.20543,
+        "lon": 28.85748
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "UNÇUKURU",
+        "ad": "UNÇUKURU",
+        "lat": 40.13399,
+        "lon": 28.71605
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "ÜÇEVLER",
+        "ad": "ÜÇEVLER",
+        "lat": 40.21286,
+        "lon": 28.9527
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "ÜÇPINAR",
+        "ad": "ÜÇPINAR",
+        "lat": 40.11365,
+        "lon": 28.85436
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "ÜRÜNLÜ",
+        "ad": "ÜRÜNLÜ",
+        "lat": 40.21518,
+        "lon": 28.89606
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "YAYLACIK",
+        "ad": "YAYLACIK",
+        "lat": 40.21186,
+        "lon": 28.90344
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "YOLÇATI",
+        "ad": "YOLÇATI",
+        "lat": 40.28094,
+        "lon": 28.88886
+    },
+    {
+        "il": "Bursa",
+        "ilce": "NİLÜFER",
+        "mahalle": "YÜZÜNCÜYIL",
+        "ad": "YÜZÜNCÜYIL",
+        "lat": 40.22568,
+        "lon": 28.90983
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "300 EVLER",
+        "ad": "300 EVLER",
+        "lat": 39.91063,
+        "lon": 28.98373
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "AĞAÇHİSAR",
+        "ad": "AĞAÇHİSAR",
+        "lat": 39.87698,
+        "lon": 29.09206
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "AKALAN",
+        "ad": "AKALAN",
+        "lat": 39.87976,
+        "lon": 28.98992
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "AKÇABÜK",
+        "ad": "AKÇABÜK",
+        "lat": 39.98319,
+        "lon": 28.92642
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "ALTINTAŞ",
+        "ad": "ALTINTAŞ",
+        "lat": 39.87626,
+        "lon": 28.82389
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "ARGIN",
+        "ad": "ARGIN",
+        "lat": 39.87312,
+        "lon": 28.95443
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "BALIOĞLU",
+        "ad": "BALIOĞLU",
+        "lat": 39.76667,
+        "lon": 28.99809
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "BAŞKÖY",
+        "ad": "BAŞKÖY",
+        "lat": 40.08667,
+        "lon": 28.84603
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "BELENOLUK",
+        "ad": "BELENOLUK",
+        "lat": 39.87259,
+        "lon": 29.05028
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "CELEPLER",
+        "ad": "CELEPLER",
+        "lat": 39.80227,
+        "lon": 28.96424
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "ÇEKİ",
+        "ad": "ÇEKİ",
+        "lat": 39.79925,
+        "lon": 29.0777
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "ÇINARCIK",
+        "ad": "ÇINARCIK",
+        "lat": 40.0704,
+        "lon": 28.80431
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "ÇİVİLİ",
+        "ad": "ÇİVİLİ",
+        "lat": 39.91942,
+        "lon": 28.78499
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "ÇÖRELER",
+        "ad": "ÇÖRELER",
+        "lat": 39.97208,
+        "lon": 28.93981
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "DAĞGÜNEY",
+        "ad": "DAĞGÜNEY",
+        "lat": 39.95884,
+        "lon": 29.06404
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "DELİBALLILAR",
+        "ad": "DELİBALLILAR",
+        "lat": 39.96632,
+        "lon": 28.98078
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "DEMİRCİ",
+        "ad": "DEMİRCİ",
+        "lat": 39.80442,
+        "lon": 29.00756
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "DERE",
+        "ad": "DERE",
+        "lat": 39.80917,
+        "lon": 28.98096
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "DÜNDAR",
+        "ad": "DÜNDAR",
+        "lat": 39.90783,
+        "lon": 28.8229
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "EMİR",
+        "ad": "EMİR",
+        "lat": 39.77027,
+        "lon": 29.05294
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "ERENLER",
+        "ad": "ERENLER",
+        "lat": 40.08587,
+        "lon": 28.91337
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "ESENTEPE",
+        "ad": "ESENTEPE",
+        "lat": 39.90708,
+        "lon": 28.95288
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "ESKİDANİŞMENT",
+        "ad": "ESKİDANİŞMENT",
+        "lat": 39.84776,
+        "lon": 29.00003
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "FADIL",
+        "ad": "FADIL",
+        "lat": 39.82749,
+        "lon": 29.13317
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "FEVZİPAŞA",
+        "ad": "FEVZİPAŞA",
+        "lat": 39.90083,
+        "lon": 28.99531
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "FİROZ",
+        "ad": "FİROZ",
+        "lat": 39.89635,
+        "lon": 29.09463
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "GAZİOLUK",
+        "ad": "GAZİOLUK",
+        "lat": 39.85735,
+        "lon": 28.78577
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "GAZİPAŞA",
+        "ad": "GAZİPAŞA",
+        "lat": 39.9084,
+        "lon": 29.01247
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "GİRENCİK",
+        "ad": "GİRENCİK",
+        "lat": 39.94781,
+        "lon": 28.90328
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "GÖKTEPE",
+        "ad": "GÖKTEPE",
+        "lat": 40.05314,
+        "lon": 28.93097
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "GÖYNÜKBELEN",
+        "ad": "GÖYNÜKBELEN",
+        "lat": 40.04909,
+        "lon": 29.06257
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "GÜMÜŞPINAR",
+        "ad": "GÜMÜŞPINAR",
+        "lat": 39.97074,
+        "lon": 28.80796
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "İKİZOLUK",
+        "ad": "İKİZOLUK",
+        "lat": 39.877,
+        "lon": 28.87924
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "İSMETPAŞA",
+        "ad": "İSMETPAŞA",
+        "lat": 39.90718,
+        "lon": 29.0135
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "KABAKLAR",
+        "ad": "KABAKLAR",
+        "lat": 39.91823,
+        "lon": 29.07054
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "KADI",
+        "ad": "KADI",
+        "lat": 39.82086,
+        "lon": 29.00173
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "KARABEKİRPAŞA",
+        "ad": "KARABEKİRPAŞA",
+        "lat": 39.93356,
+        "lon": 28.9787
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "KARAOĞLANLAR",
+        "ad": "KARAOĞLANLAR",
+        "lat": 39.87351,
+        "lon": 28.98101
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "KARASİ",
+        "ad": "KARASİ",
+        "lat": 39.96545,
+        "lon": 29.073
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "KARINCALI",
+        "ad": "KARINCALI",
+        "lat": 40.02097,
+        "lon": 28.80004
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "KOÇU",
+        "ad": "KOÇU",
+        "lat": 40.01026,
+        "lon": 28.85867
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "KUSUMLAR",
+        "ad": "KUSUMLAR",
+        "lat": 39.92441,
+        "lon": 28.94338
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "KÜÇÜKORHAN",
+        "ad": "KÜÇÜKORHAN",
+        "lat": 39.81308,
+        "lon": 29.05925
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "LETAFET",
+        "ad": "LETAFET",
+        "lat": 39.87328,
+        "lon": 28.7567
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "MAHALLER",
+        "ad": "MAHALLER",
+        "lat": 39.78254,
+        "lon": 29.06555
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "NALINLAR",
+        "ad": "NALINLAR",
+        "lat": 40.03462,
+        "lon": 28.89252
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "ORTA",
+        "ad": "ORTA",
+        "lat": 40.08524,
+        "lon": 28.8705
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "OSMANİYEÇATAK",
+        "ad": "OSMANİYEÇATAK",
+        "lat": 40.05341,
+        "lon": 29.02112
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "SADAĞI",
+        "ad": "SADAĞI",
+        "lat": 39.89512,
+        "lon": 28.93744
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "SEMERCİ",
+        "ad": "SEMERCİ",
+        "lat": 39.78844,
+        "lon": 28.9927
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "SERÇELER",
+        "ad": "SERÇELER",
+        "lat": 39.90598,
+        "lon": 28.95237
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "SIRIL",
+        "ad": "SIRIL",
+        "lat": 39.81267,
+        "lon": 29.09128
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "SÖĞÜT",
+        "ad": "SÖĞÜT",
+        "lat": 39.81833,
+        "lon": 29.05067
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "SÜLEYMANBEY",
+        "ad": "SÜLEYMANBEY",
+        "lat": 40.05231,
+        "lon": 28.8427
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "ŞÜKRİYE",
+        "ad": "ŞÜKRİYE",
+        "lat": 39.92751,
+        "lon": 29.02972
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "TEPECİK",
+        "ad": "TEPECİK",
+        "lat": 39.80249,
+        "lon": 28.96408
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "TOPUK",
+        "ad": "TOPUK",
+        "lat": 40.0098,
+        "lon": 28.98777
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "YAKUPLAR",
+        "ad": "YAKUPLAR",
+        "lat": 39.75504,
+        "lon": 29.08292
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "YENİDANİŞMENT",
+        "ad": "YENİDANİŞMENT",
+        "lat": 39.89035,
+        "lon": 28.84715
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "YEŞİLLER",
+        "ad": "YEŞİLLER",
+        "lat": 39.90239,
+        "lon": 28.89344
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANELİ",
+        "mahalle": "YÖRÜKLER",
+        "ad": "YÖRÜKLER",
+        "lat": 39.9795,
+        "lon": 28.89132
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANGAZİ",
+        "mahalle": "AKHAREM",
+        "ad": "AKHAREM",
+        "lat": 40.43687,
+        "lon": 29.34037
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANGAZİ",
+        "mahalle": "ARAPZADE",
+        "ad": "ARAPZADE",
+        "lat": 40.52626,
+        "lon": 29.30422
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANGAZİ",
+        "mahalle": "BAYIRKÖY",
+        "ad": "BAYIRKÖY",
+        "lat": 40.37855,
+        "lon": 29.42585
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANGAZİ",
+        "mahalle": "CAMİİKEBİR",
+        "ad": "CAMİİKEBİR",
+        "lat": 40.49175,
+        "lon": 29.30904
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANGAZİ",
+        "mahalle": "CİHANKÖY",
+        "ad": "CİHANKÖY",
+        "lat": 40.5384,
+        "lon": 29.34135
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANGAZİ",
+        "mahalle": "ÇAKIRLI",
+        "ad": "ÇAKIRLI",
+        "lat": 40.54253,
+        "lon": 29.44284
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANGAZİ",
+        "mahalle": "ÇELTİKÇİ",
+        "ad": "ÇELTİKÇİ",
+        "lat": 40.47771,
+        "lon": 29.28489
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANGAZİ",
+        "mahalle": "DUTLUCA",
+        "ad": "DUTLUCA",
+        "lat": 40.41784,
+        "lon": 29.40038
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANGAZİ",
+        "mahalle": "FATİH",
+        "ad": "FATİH",
+        "lat": 40.47125,
+        "lon": 29.32835
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANGAZİ",
+        "mahalle": "FINDIKLI",
+        "ad": "FINDIKLI",
+        "lat": 40.51074,
+        "lon": 29.21109
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANGAZİ",
+        "mahalle": "GEDELEK",
+        "ad": "GEDELEK",
+        "lat": 40.47427,
+        "lon": 29.2685
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANGAZİ",
+        "mahalle": "GEMİÇ",
+        "ad": "GEMİÇ",
+        "lat": 40.43887,
+        "lon": 29.28886
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANGAZİ",
+        "mahalle": "GÖLYAKA",
+        "ad": "GÖLYAKA",
+        "lat": 40.41518,
+        "lon": 29.3614
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANGAZİ",
+        "mahalle": "GÜRLE",
+        "ad": "GÜRLE",
+        "lat": 40.44035,
+        "lon": 29.30738
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANGAZİ",
+        "mahalle": "HAMZALI",
+        "ad": "HAMZALI",
+        "lat": 40.53637,
+        "lon": 29.26876
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANGAZİ",
+        "mahalle": "HECELER",
+        "ad": "HECELER",
+        "lat": 40.40597,
+        "lon": 29.43821
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANGAZİ",
+        "mahalle": "HÜRRİYET",
+        "ad": "HÜRRİYET",
+        "lat": 40.48748,
+        "lon": 29.29994
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANGAZİ",
+        "mahalle": "KARSAK",
+        "ad": "KARSAK",
+        "lat": 40.43545,
+        "lon": 29.25689
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANGAZİ",
+        "mahalle": "KERAMET",
+        "ad": "KERAMET",
+        "lat": 40.53748,
+        "lon": 29.47728
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANGAZİ",
+        "mahalle": "MAHMUDİYE",
+        "ad": "MAHMUDİYE",
+        "lat": 40.56672,
+        "lon": 29.47104
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANGAZİ",
+        "mahalle": "MURADİYE",
+        "ad": "MURADİYE",
+        "lat": 40.51816,
+        "lon": 29.31665
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANGAZİ",
+        "mahalle": "NARLICA",
+        "ad": "NARLICA",
+        "lat": 40.39389,
+        "lon": 29.46348
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANGAZİ",
+        "mahalle": "ORTAKÖY",
+        "ad": "ORTAKÖY",
+        "lat": 40.56515,
+        "lon": 29.35282
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANGAZİ",
+        "mahalle": "ÖRNEKKÖY",
+        "ad": "ÖRNEKKÖY",
+        "lat": 40.46881,
+        "lon": 29.31034
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANGAZİ",
+        "mahalle": "PAŞAPINAR",
+        "ad": "PAŞAPINAR",
+        "lat": 40.39541,
+        "lon": 29.45412
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANGAZİ",
+        "mahalle": "SÖLÖZ",
+        "ad": "SÖLÖZ",
+        "lat": 40.42127,
+        "lon": 29.419
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANGAZİ",
+        "mahalle": "TEKKE",
+        "ad": "TEKKE",
+        "lat": 40.49427,
+        "lon": 29.29075
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANGAZİ",
+        "mahalle": "ÜREĞİL",
+        "ad": "ÜREĞİL",
+        "lat": 40.55065,
+        "lon": 29.40102
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANGAZİ",
+        "mahalle": "YENİGÜRLE",
+        "ad": "YENİGÜRLE",
+        "lat": 40.43964,
+        "lon": 29.32848
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANGAZİ",
+        "mahalle": "YENİKÖY",
+        "ad": "YENİKÖY",
+        "lat": 40.56798,
+        "lon": 29.37878
+    },
+    {
+        "il": "Bursa",
+        "ilce": "ORHANGAZİ",
+        "mahalle": "YENİSÖLÖZ",
+        "ad": "YENİSÖLÖZ",
+        "lat": 40.41411,
+        "lon": 29.41039
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "ADALET",
+        "ad": "ADALET",
+        "lat": 40.23649,
+        "lon": 29.01449
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "AHMETBEY",
+        "ad": "AHMETBEY",
+        "lat": 40.32168,
+        "lon": 28.99406
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "AHMETPAŞA",
+        "ad": "AHMETPAŞA",
+        "lat": 40.19099,
+        "lon": 29.05936
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "AKPINAR",
+        "ad": "AKPINAR",
+        "lat": 40.25131,
+        "lon": 28.96827
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "AKSUNGUR",
+        "ad": "AKSUNGUR",
+        "lat": 40.32474,
+        "lon": 28.98679
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "AKTARHÜSSAM",
+        "ad": "AKTARHÜSSAM",
+        "lat": 40.19026,
+        "lon": 29.06064
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "ALAADDİN",
+        "ad": "ALAADDİN",
+        "lat": 40.18639,
+        "lon": 29.05489
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "ALACAHIRKA",
+        "ad": "ALACAHIRKA",
+        "lat": 40.18576,
+        "lon": 29.04776
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "ALACAMESCİT",
+        "ad": "ALACAMESCİT",
+        "lat": 40.18268,
+        "lon": 29.06779
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "ALAŞARKÖY",
+        "ad": "ALAŞARKÖY",
+        "lat": 40.29453,
+        "lon": 29.07863
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "ALEMDAR",
+        "ad": "ALEMDAR",
+        "lat": 40.21842,
+        "lon": 29.03435
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "ALİPAŞA",
+        "ad": "ALİPAŞA",
+        "lat": 40.18224,
+        "lon": 29.05838
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "ALTINOVA",
+        "ad": "ALTINOVA",
+        "lat": 40.23306,
+        "lon": 29.07331
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "ALTIPARMAK",
+        "ad": "ALTIPARMAK",
+        "lat": 40.19385,
+        "lon": 29.04978
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "ARMUTKÖY",
+        "ad": "ARMUTKÖY",
+        "lat": 40.28859,
+        "lon": 29.04745
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "ATICILAR",
+        "ad": "ATICILAR",
+        "lat": 40.19713,
+        "lon": 29.08287
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "AVDANCIK",
+        "ad": "AVDANCIK",
+        "lat": 40.335,
+        "lon": 29.15278
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "BAĞLARBAŞI",
+        "ad": "BAĞLARBAŞI",
+        "lat": 40.23808,
+        "lon": 28.98913
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "BAĞLI",
+        "ad": "BAĞLI",
+        "lat": 40.10441,
+        "lon": 29.11538
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "BAHAR",
+        "ad": "BAHAR",
+        "lat": 40.20158,
+        "lon": 29.06745
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "BAŞARAN",
+        "ad": "BAŞARAN",
+        "lat": 40.21239,
+        "lon": 29.07084
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "BÜYÜKDELİLLER",
+        "ad": "BÜYÜKDELİLLER",
+        "lat": 40.06771,
+        "lon": 29.22402
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "ÇAĞLAYAN",
+        "ad": "ÇAĞLAYAN",
+        "lat": 40.31751,
+        "lon": 29.04386
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "ÇAYBAŞI",
+        "ad": "ÇAYBAŞI",
+        "lat": 40.05173,
+        "lon": 29.07275
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "ÇEKİRGE",
+        "ad": "ÇEKİRGE",
+        "lat": 40.20274,
+        "lon": 29.02281
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "ÇELTİKKÖY",
+        "ad": "ÇELTİKKÖY",
+        "lat": 40.25396,
+        "lon": 29.03733
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "ÇIRPAN",
+        "ad": "ÇIRPAN",
+        "lat": 40.19586,
+        "lon": 29.05721
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "ÇİFTEHAVUZLAR",
+        "ad": "ÇİFTEHAVUZLAR",
+        "lat": 40.21278,
+        "lon": 29.05403
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "ÇİRİŞHANE",
+        "ad": "ÇİRİŞHANE",
+        "lat": 40.20822,
+        "lon": 29.05123
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "ÇUKURCAKÖY",
+        "ad": "ÇUKURCAKÖY",
+        "lat": 40.2514,
+        "lon": 29.05237
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "DAĞAKÇA",
+        "ad": "DAĞAKÇA",
+        "lat": 40.11586,
+        "lon": 28.94145
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "DEMİRKAPI",
+        "ad": "DEMİRKAPI",
+        "lat": 40.19168,
+        "lon": 29.03893
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "DEMİRTAŞ BARBAROS",
+        "ad": "DEMİRTAŞ BARBAROS",
+        "lat": 40.30298,
+        "lon": 29.13254
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "DEMİRTAŞ CUMHURİYET",
+        "ad": "DEMİRTAŞ CUMHURİYET",
+        "lat": 40.26254,
+        "lon": 29.10012
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "DEMİRTAŞPAŞA",
+        "ad": "DEMİRTAŞPAŞA",
+        "lat": 40.19306,
+        "lon": 29.07478
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "DEMİRTAŞ SAKARYA",
+        "ad": "DEMİRTAŞ SAKARYA",
+        "lat": 40.29422,
+        "lon": 29.08257
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "DEREÇAVUŞKÖY",
+        "ad": "DEREÇAVUŞKÖY",
+        "lat": 40.28726,
+        "lon": 29.01005
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "DİKKALDIRIM",
+        "ad": "DİKKALDIRIM",
+        "lat": 40.20427,
+        "lon": 29.02067
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "DOBURCA",
+        "ad": "DOBURCA",
+        "lat": 40.19092,
+        "lon": 29.0029
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "DOĞANBEY",
+        "ad": "DOĞANBEY",
+        "lat": 40.1892,
+        "lon": 29.06553
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "DOĞANCI",
+        "ad": "DOĞANCI",
+        "lat": 40.15245,
+        "lon": 28.97575
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "DOĞANEVLER",
+        "ad": "DOĞANEVLER",
+        "lat": 40.24085,
+        "lon": 29.08853
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "DÜRDANE",
+        "ad": "DÜRDANE",
+        "lat": 40.34772,
+        "lon": 29.11405
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "EBU İSHAK",
+        "ad": "EBU İSHAK",
+        "lat": 40.18756,
+        "lon": 29.07358
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "ELMASBAHÇELER",
+        "ad": "ELMASBAHÇELER",
+        "lat": 40.19214,
+        "lon": 29.07759
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "EMEK ADNAN MENDERES",
+        "ad": "EMEK ADNAN MENDERES",
+        "lat": 40.26593,
+        "lon": 28.96459
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "EMEK FATİH SULTAN MEHMET",
+        "ad": "EMEK FATİH SULTAN MEHMET",
+        "lat": 40.26208,
+        "lon": 28.96365
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "EMEK ZEKAİ GÜMÜŞDİŞ",
+        "ad": "EMEK ZEKAİ GÜMÜŞDİŞ",
+        "lat": 40.25782,
+        "lon": 28.9618
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "FATİH",
+        "ad": "FATİH",
+        "lat": 40.21319,
+        "lon": 29.06135
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "GAZİAKDEMİR",
+        "ad": "GAZİAKDEMİR",
+        "lat": 40.20258,
+        "lon": 29.04735
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "GEÇİT",
+        "ad": "GEÇİT",
+        "lat": 40.28107,
+        "lon": 28.98102
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "GÖKÇEÖREN",
+        "ad": "GÖKÇEÖREN",
+        "lat": 40.17913,
+        "lon": 28.98909
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "GÜLBAHÇE",
+        "ad": "GÜLBAHÇE",
+        "lat": 40.20469,
+        "lon": 29.07958
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "GÜNDOĞDU",
+        "ad": "GÜNDOĞDU",
+        "lat": 40.34926,
+        "lon": 28.99489
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "GÜNEŞTEPE",
+        "ad": "GÜNEŞTEPE",
+        "lat": 40.2626,
+        "lon": 29.00433
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "GÜNEYBAYIR",
+        "ad": "GÜNEYBAYIR",
+        "lat": 40.08502,
+        "lon": 29.04017
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "GÜNEYBUDAKLAR",
+        "ad": "GÜNEYBUDAKLAR",
+        "lat": 40.05637,
+        "lon": 29.18513
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "HACI İLYAS",
+        "ad": "HACI İLYAS",
+        "lat": 40.19321,
+        "lon": 29.07258
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "HAMİTLER",
+        "ad": "HAMİTLER",
+        "lat": 40.26184,
+        "lon": 28.98803
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "HAMZABEY",
+        "ad": "HAMZABEY",
+        "lat": 40.19156,
+        "lon": 29.04332
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "HOCAALİZADE",
+        "ad": "HOCAALİZADE",
+        "lat": 40.18267,
+        "lon": 29.06758
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "HOCAHASAN",
+        "ad": "HOCAHASAN",
+        "lat": 40.19121,
+        "lon": 29.05816
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "HÜDAVENDİGAR",
+        "ad": "HÜDAVENDİGAR",
+        "lat": 40.20387,
+        "lon": 29.00356
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "HÜRRİYET",
+        "ad": "HÜRRİYET",
+        "lat": 40.21605,
+        "lon": 29.00156
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "HÜSEYİNALAN",
+        "ad": "HÜSEYİNALAN",
+        "lat": 40.13286,
+        "lon": 29.02213
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "İBRAHİMPAŞA",
+        "ad": "İBRAHİMPAŞA",
+        "lat": 40.18141,
+        "lon": 29.06265
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "İNKAYA",
+        "ad": "İNKAYA",
+        "lat": 40.19271,
+        "lon": 29.01445
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "İNTİZAM",
+        "ad": "İNTİZAM",
+        "lat": 40.18883,
+        "lon": 29.05643
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "İSMETİYE",
+        "ad": "İSMETİYE",
+        "lat": 40.28295,
+        "lon": 29.14356
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "İSTİKLAL",
+        "ad": "İSTİKLAL",
+        "lat": 40.22649,
+        "lon": 29.014
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "İVAZPAŞA",
+        "ad": "İVAZPAŞA",
+        "lat": 40.18066,
+        "lon": 29.0526
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "KARABALÇIK",
+        "ad": "KARABALÇIK",
+        "lat": 40.32392,
+        "lon": 29.0838
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "KARAİSLAH",
+        "ad": "KARAİSLAH",
+        "lat": 40.08663,
+        "lon": 29.16086
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "KAVAKLI",
+        "ad": "KAVAKLI",
+        "lat": 40.1856,
+        "lon": 29.05797
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "KAYIHAN",
+        "ad": "KAYIHAN",
+        "lat": 40.18176,
+        "lon": 29.07102
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "KEMERÇEŞME",
+        "ad": "KEMERÇEŞME",
+        "lat": 40.20664,
+        "lon": 29.06351
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "KIRCAALİ",
+        "ad": "KIRCAALİ",
+        "lat": 40.19258,
+        "lon": 29.06435
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "KİRAZLI",
+        "ad": "KİRAZLI",
+        "lat": 40.17792,
+        "lon": 29.04774
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "KİREMİTÇİ",
+        "ad": "KİREMİTÇİ",
+        "lat": 40.19226,
+        "lon": 29.06509
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "KOCANAİP",
+        "ad": "KOCANAİP",
+        "lat": 40.18885,
+        "lon": 29.04492
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "KOĞUKÇINAR",
+        "ad": "KOĞUKÇINAR",
+        "lat": 40.20482,
+        "lon": 29.06885
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "KURUÇEŞME",
+        "ad": "KURUÇEŞME",
+        "lat": 40.18819,
+        "lon": 29.0578
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "KÜÇÜKBALIKLI",
+        "ad": "KÜÇÜKBALIKLI",
+        "lat": 40.23322,
+        "lon": 29.08703
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "KÜÇÜKDELİLLER",
+        "ad": "KÜÇÜKDELİLLER",
+        "lat": 40.07984,
+        "lon": 29.19708
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "KÜKÜRTLÜ",
+        "ad": "KÜKÜRTLÜ",
+        "lat": 40.20251,
+        "lon": 29.03476
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "KÜPLÜPINAR",
+        "ad": "KÜPLÜPINAR",
+        "lat": 40.20573,
+        "lon": 29.05496
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "MAKSEM",
+        "ad": "MAKSEM",
+        "lat": 40.17938,
+        "lon": 29.06262
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "MEHMET AKİF",
+        "ad": "MEHMET AKİF",
+        "lat": 40.23376,
+        "lon": 29.02149
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "MOLLAFENARİ",
+        "ad": "MOLLAFENARİ",
+        "lat": 40.17934,
+        "lon": 29.05254
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "MOLLAGÜRANİ",
+        "ad": "MOLLAGÜRANİ",
+        "lat": 40.18468,
+        "lon": 29.05598
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "MURADİYE",
+        "ad": "MURADİYE",
+        "lat": 40.19393,
+        "lon": 29.04153
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "MÜRSELLER",
+        "ad": "MÜRSELLER",
+        "lat": 40.11181,
+        "lon": 29.02788
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "NALBANTOĞLU",
+        "ad": "NALBANTOĞLU",
+        "lat": 40.18573,
+        "lon": 29.06433
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "NAMIK KEMAL",
+        "ad": "NAMIK KEMAL",
+        "lat": 40.19433,
+        "lon": 29.07896
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "NİLÜFERKÖY",
+        "ad": "NİLÜFERKÖY",
+        "lat": 40.30042,
+        "lon": 28.9534
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "ORHANBEY",
+        "ad": "ORHANBEY",
+        "lat": 40.18175,
+        "lon": 29.06522
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "OSMANGAZİ",
+        "ad": "OSMANGAZİ",
+        "lat": 40.18801,
+        "lon": 29.05855
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "OVAAKÇA ÇEŞMEBAŞI",
+        "ad": "OVAAKÇA ÇEŞMEBAŞI",
+        "lat": 40.30043,
+        "lon": 29.05954
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "OVAAKÇA EĞİTİM",
+        "ad": "OVAAKÇA EĞİTİM",
+        "lat": 40.29924,
+        "lon": 29.06247
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "OVAAKÇA MERKEZ",
+        "ad": "OVAAKÇA MERKEZ",
+        "lat": 40.3006,
+        "lon": 29.05917
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "OVAAKÇA SANTRAL",
+        "ad": "OVAAKÇA SANTRAL",
+        "lat": 40.29891,
+        "lon": 29.06207
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "PANAYIR",
+        "ad": "PANAYIR",
+        "lat": 40.25545,
+        "lon": 29.07582
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "PINARBAŞI",
+        "ad": "PINARBAŞI",
+        "lat": 40.18372,
+        "lon": 29.05072
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "REYHAN",
+        "ad": "REYHAN",
+        "lat": 40.18864,
+        "lon": 29.06224
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "SAKARYA",
+        "ad": "SAKARYA",
+        "lat": 40.19054,
+        "lon": 29.06765
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "SANTRAL GARAJ",
+        "ad": "SANTRAL GARAJ",
+        "lat": 40.19965,
+        "lon": 29.06142
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "SEÇ",
+        "ad": "SEÇ",
+        "lat": 40.34862,
+        "lon": 29.18841
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "SEFERIŞIKLAR",
+        "ad": "SEFERIŞIKLAR",
+        "lat": 40.02631,
+        "lon": 29.10319
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "SELAMET",
+        "ad": "SELAMET",
+        "lat": 40.2049,
+        "lon": 29.07361
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "SELÇUKGAZİ",
+        "ad": "SELÇUKGAZİ",
+        "lat": 40.35691,
+        "lon": 29.14647
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "SELİMİYE",
+        "ad": "SELİMİYE",
+        "lat": 40.18984,
+        "lon": 29.05303
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "SIRAMEŞELER",
+        "ad": "SIRAMEŞELER",
+        "lat": 40.21377,
+        "lon": 29.03397
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "SOĞANLI",
+        "ad": "SOĞANLI",
+        "lat": 40.23347,
+        "lon": 29.05665
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "SOĞUKKUYU",
+        "ad": "SOĞUKKUYU",
+        "lat": 40.2181,
+        "lon": 29.00914
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "SOĞUKPINAR",
+        "ad": "SOĞUKPINAR",
+        "lat": 40.08953,
+        "lon": 29.14167
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "SÜLEYMANİYE",
+        "ad": "SÜLEYMANİYE",
+        "lat": 40.17018,
+        "lon": 29.06117
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "ŞEHABETTİNPAŞA",
+        "ad": "ŞEHABETTİNPAŞA",
+        "lat": 40.19007,
+        "lon": 29.05657
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "ŞEHREKÜSTÜ",
+        "ad": "ŞEHREKÜSTÜ",
+        "lat": 40.18638,
+        "lon": 29.06106
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "TAHTAKALE",
+        "ad": "TAHTAKALE",
+        "lat": 40.18421,
+        "lon": 29.05971
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "TAYAKADIN",
+        "ad": "TAYAKADIN",
+        "lat": 40.18732,
+        "lon": 29.06835
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "TUNA",
+        "ad": "TUNA",
+        "lat": 40.20953,
+        "lon": 29.06112
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "TUZAKLI",
+        "ad": "TUZAKLI",
+        "lat": 40.12826,
+        "lon": 29.01199
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "TUZPAZARI",
+        "ad": "TUZPAZARI",
+        "lat": 40.18469,
+        "lon": 29.06619
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "ULU",
+        "ad": "ULU",
+        "lat": 40.1958,
+        "lon": 29.06602
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "ULUÇAM",
+        "ad": "ULUÇAM",
+        "lat": 40.07651,
+        "lon": 29.00467
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "VEYSEL KARANİ",
+        "ad": "VEYSEL KARANİ",
+        "lat": 40.20996,
+        "lon": 29.08866
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "YAHŞİBEY",
+        "ad": "YAHŞİBEY",
+        "lat": 40.1905,
+        "lon": 29.048
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "YENİBAĞLAR",
+        "ad": "YENİBAĞLAR",
+        "lat": 40.25965,
+        "lon": 28.97185
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "YENİCEABAT",
+        "ad": "YENİCEABAT",
+        "lat": 40.26419,
+        "lon": 29.04763
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "YENİKARAMAN",
+        "ad": "YENİKARAMAN",
+        "lat": 40.21674,
+        "lon": 29.00062
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "YENİKENT",
+        "ad": "YENİKENT",
+        "lat": 40.27151,
+        "lon": 28.98842
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "YEŞİLOVA",
+        "ad": "YEŞİLOVA",
+        "lat": 40.21251,
+        "lon": 29.06882
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "YİĞİTALİ",
+        "ad": "YİĞİTALİ",
+        "lat": 40.18168,
+        "lon": 29.04451
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "YUNUSELİ",
+        "ad": "YUNUSELİ",
+        "lat": 40.26826,
+        "lon": 29.01682
+    },
+    {
+        "il": "Bursa",
+        "ilce": "OSMANGAZİ",
+        "mahalle": "ZAFER",
+        "ad": "ZAFER",
+        "lat": 40.19816,
+        "lon": 29.08543
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "AFŞAR",
+        "ad": "AFŞAR",
+        "lat": 40.32883,
+        "lon": 29.66026
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "AKBIYIK",
+        "ad": "AKBIYIK",
+        "lat": 40.1796,
+        "lon": 29.66025
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "AKÇAPINAR",
+        "ad": "AKÇAPINAR",
+        "lat": 40.18573,
+        "lon": 29.60654
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "AKDERE",
+        "ad": "AKDERE",
+        "lat": 40.26071,
+        "lon": 29.71772
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "ALAYLI",
+        "ad": "ALAYLI",
+        "lat": 40.33128,
+        "lon": 29.69688
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "AYAZ",
+        "ad": "AYAZ",
+        "lat": 40.21456,
+        "lon": 29.58954
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "AYDOĞDU",
+        "ad": "AYDOĞDU",
+        "lat": 40.33921,
+        "lon": 29.75085
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "BARCIN",
+        "ad": "BARCIN",
+        "lat": 40.33084,
+        "lon": 29.598
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "BEYPINAR",
+        "ad": "BEYPINAR",
+        "lat": 40.35754,
+        "lon": 29.63568
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "BURCUN",
+        "ad": "BURCUN",
+        "lat": 40.34722,
+        "lon": 29.45894
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "CİHADİYE",
+        "ad": "CİHADİYE",
+        "lat": 40.30291,
+        "lon": 29.62663
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "ÇAMÖNÜ",
+        "ad": "ÇAMÖNÜ",
+        "lat": 40.26858,
+        "lon": 29.77449
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "ÇAYIR",
+        "ad": "ÇAYIR",
+        "lat": 40.26802,
+        "lon": 29.61581
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "ÇAYIRLI",
+        "ad": "ÇAYIRLI",
+        "lat": 40.21179,
+        "lon": 29.53228
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "ÇELEBİ",
+        "ad": "ÇELEBİ",
+        "lat": 40.33947,
+        "lon": 29.71764
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "ÇELTİKÇİ",
+        "ad": "ÇELTİKÇİ",
+        "lat": 40.24445,
+        "lon": 29.54233
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "ÇİÇEKÖZÜ",
+        "ad": "ÇİÇEKÖZÜ",
+        "lat": 40.17569,
+        "lon": 29.69427
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "DEMİRBOĞA",
+        "ad": "DEMİRBOĞA",
+        "lat": 40.2862,
+        "lon": 29.59275
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "DEREKÖY",
+        "ad": "DEREKÖY",
+        "lat": 40.32227,
+        "lon": 29.569
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "EBEKÖY",
+        "ad": "EBEKÖY",
+        "lat": 40.28283,
+        "lon": 29.75592
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "EĞERCE",
+        "ad": "EĞERCE",
+        "lat": 40.35967,
+        "lon": 29.84853
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "FETHİYE",
+        "ad": "FETHİYE",
+        "lat": 40.31153,
+        "lon": 29.4434
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "GÖKÇESU",
+        "ad": "GÖKÇESU",
+        "lat": 40.22569,
+        "lon": 29.77798
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "GÜNDOĞAN",
+        "ad": "GÜNDOĞAN",
+        "lat": 40.26055,
+        "lon": 29.70721
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "GÜNECE",
+        "ad": "GÜNECE",
+        "lat": 40.23783,
+        "lon": 29.7389
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "HAYRİYE",
+        "ad": "HAYRİYE",
+        "lat": 40.30765,
+        "lon": 29.84661
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "HIDIRBALİ",
+        "ad": "HIDIRBALİ",
+        "lat": 40.26456,
+        "lon": 29.65079
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "İNCİRLİ",
+        "ad": "İNCİRLİ",
+        "lat": 40.28199,
+        "lon": 29.80156
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "KARAAMCA",
+        "ad": "KARAAMCA",
+        "lat": 40.1989,
+        "lon": 29.71426
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "KARABAHADIR",
+        "ad": "KARABAHADIR",
+        "lat": 40.34069,
+        "lon": 29.70742
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "KARACAAHMET",
+        "ad": "KARACAAHMET",
+        "lat": 40.19809,
+        "lon": 29.57922
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "KARACAALİ",
+        "ad": "KARACAALİ",
+        "lat": 40.31562,
+        "lon": 29.55929
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "KARAKÖY",
+        "ad": "KARAKÖY",
+        "lat": 40.29389,
+        "lon": 29.57321
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "KARASIL",
+        "ad": "KARASIL",
+        "lat": 40.23472,
+        "lon": 29.5712
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "KAVAKLI",
+        "ad": "KAVAKLI",
+        "lat": 40.34246,
+        "lon": 29.52629
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "KIBLEPINAR",
+        "ad": "KIBLEPINAR",
+        "lat": 40.35809,
+        "lon": 29.45637
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "KIZILHİSAR",
+        "ad": "KIZILHİSAR",
+        "lat": 40.37469,
+        "lon": 29.7186
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "KIZILKÖY",
+        "ad": "KIZILKÖY",
+        "lat": 40.37877,
+        "lon": 29.77707
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "KİRAZLIYAYLA",
+        "ad": "KİRAZLIYAYLA",
+        "lat": 40.36265,
+        "lon": 29.60651
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "KOYUNHİSAR",
+        "ad": "KOYUNHİSAR",
+        "lat": 40.28013,
+        "lon": 29.48346
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "KOZDERE",
+        "ad": "KOZDERE",
+        "lat": 40.33318,
+        "lon": 29.6536
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "KÖPRÜHİSAR",
+        "ad": "KÖPRÜHİSAR",
+        "lat": 40.30406,
+        "lon": 29.78262
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "KURTULUŞ",
+        "ad": "KURTULUŞ",
+        "lat": 40.28254,
+        "lon": 29.66322
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "MAHMUDİYE",
+        "ad": "MAHMUDİYE",
+        "lat": 40.23797,
+        "lon": 29.71216
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "MARMARACIK",
+        "ad": "MARMARACIK",
+        "lat": 40.27504,
+        "lon": 29.45675
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "MECİDİYE",
+        "ad": "MECİDİYE",
+        "lat": 40.37975,
+        "lon": 29.708
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "MENTEŞE",
+        "ad": "MENTEŞE",
+        "lat": 40.29533,
+        "lon": 29.52289
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "ORHANİYE",
+        "ad": "ORHANİYE",
+        "lat": 40.1992,
+        "lon": 29.63438
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "OSMANİYE",
+        "ad": "OSMANİYE",
+        "lat": 40.19256,
+        "lon": 29.61977
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "PAPATYA",
+        "ad": "PAPATYA",
+        "lat": 40.25878,
+        "lon": 29.73011
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "PAŞAYAYLA",
+        "ad": "PAŞAYAYLA",
+        "lat": 40.34621,
+        "lon": 29.39365
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "REŞADİYE",
+        "ad": "REŞADİYE",
+        "lat": 40.35486,
+        "lon": 29.58009
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "SELİMİYE",
+        "ad": "SELİMİYE",
+        "lat": 40.30857,
+        "lon": 29.50264
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "SÖYLEMİŞ",
+        "ad": "SÖYLEMİŞ",
+        "lat": 40.23692,
+        "lon": 29.6231
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "SUBAŞI",
+        "ad": "SUBAŞI",
+        "lat": 40.24634,
+        "lon": 29.65471
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "SÜLEYMANİYE",
+        "ad": "SÜLEYMANİYE",
+        "lat": 40.35526,
+        "lon": 29.55064
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "TABAKHANE",
+        "ad": "TABAKHANE",
+        "lat": 40.2583,
+        "lon": 29.65515
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "TERZİLER",
+        "ad": "TERZİLER",
+        "lat": 40.33323,
+        "lon": 29.79019
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "TOPRAKDERE",
+        "ad": "TOPRAKDERE",
+        "lat": 40.23492,
+        "lon": 29.77457
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "TOPRAKOCAK",
+        "ad": "TOPRAKOCAK",
+        "lat": 40.29765,
+        "lon": 29.52091
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "YARHİSAR",
+        "ad": "YARHİSAR",
+        "lat": 40.19951,
+        "lon": 29.7436
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "YAZILI",
+        "ad": "YAZILI",
+        "lat": 40.20255,
+        "lon": 29.68176
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "YENİ",
+        "ad": "YENİ",
+        "lat": 40.25874,
+        "lon": 29.65962
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "YENİGÜN",
+        "ad": "YENİGÜN",
+        "lat": 40.27788,
+        "lon": 29.65611
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "YENİKÖY",
+        "ad": "YENİKÖY",
+        "lat": 40.33357,
+        "lon": 29.48602
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "YILDIRIM",
+        "ad": "YILDIRIM",
+        "lat": 40.34781,
+        "lon": 29.56614
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "YOLÖREN",
+        "ad": "YOLÖREN",
+        "lat": 40.26578,
+        "lon": 29.60855
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YENİŞEHİR",
+        "mahalle": "YÜZÜNCÜYIL",
+        "ad": "YÜZÜNCÜYIL",
+        "lat": 40.27587,
+        "lon": 29.64528
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "152EVLER",
+        "ad": "152EVLER",
+        "lat": 40.19156,
+        "lon": 29.11131
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "75.YIL",
+        "ad": "75.YIL",
+        "lat": 40.18595,
+        "lon": 29.15146
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "AKÇAĞLAYAN",
+        "ad": "AKÇAĞLAYAN",
+        "lat": 40.17354,
+        "lon": 29.09993
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "ANADOLU",
+        "ad": "ANADOLU",
+        "lat": 40.19549,
+        "lon": 29.09187
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "ARABAYATAĞI",
+        "ad": "ARABAYATAĞI",
+        "lat": 40.20919,
+        "lon": 29.13191
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "BAĞLARALTI",
+        "ad": "BAĞLARALTI",
+        "lat": 40.18545,
+        "lon": 29.13355
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "BALABAN",
+        "ad": "BALABAN",
+        "lat": 40.17674,
+        "lon": 29.16106
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "BARUTHANE",
+        "ad": "BARUTHANE",
+        "lat": 40.18502,
+        "lon": 29.09723
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "BEYAZIT",
+        "ad": "BEYAZIT",
+        "lat": 40.19163,
+        "lon": 29.09966
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "CUMALIKIZIK",
+        "ad": "CUMALIKIZIK",
+        "lat": 40.19004,
+        "lon": 29.17116
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "ÇINARÖNÜ",
+        "ad": "ÇINARÖNÜ",
+        "lat": 40.20848,
+        "lon": 29.14034
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "DAVUTDEDE",
+        "ad": "DAVUTDEDE",
+        "lat": 40.19161,
+        "lon": 29.09036
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "DAVUTKADI",
+        "ad": "DAVUTKADI",
+        "lat": 40.18453,
+        "lon": 29.08487
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "DEĞİRMENLİKIZIK",
+        "ad": "DEĞİRMENLİKIZIK",
+        "lat": 40.18048,
+        "lon": 29.10375
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "DEĞİRMENÖNÜ",
+        "ad": "DEĞİRMENÖNÜ",
+        "lat": 40.1982,
+        "lon": 29.17755
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "DEMETEVLER",
+        "ad": "DEMETEVLER",
+        "lat": 40.20643,
+        "lon": 29.17767
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "DUAÇINARI",
+        "ad": "DUAÇINARI",
+        "lat": 40.19663,
+        "lon": 29.10755
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "EĞİTİM",
+        "ad": "EĞİTİM",
+        "lat": 40.18531,
+        "lon": 29.10955
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "EMİRSULTAN",
+        "ad": "EMİRSULTAN",
+        "lat": 40.18236,
+        "lon": 29.08475
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "ERİKLİ",
+        "ad": "ERİKLİ",
+        "lat": 40.18638,
+        "lon": 29.14186
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "ERTUĞRULGAZİ",
+        "ad": "ERTUĞRULGAZİ",
+        "lat": 40.18003,
+        "lon": 29.11849
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "ESENEVLER",
+        "ad": "ESENEVLER",
+        "lat": 40.18539,
+        "lon": 29.1436
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "FİDYEKIZIK",
+        "ad": "FİDYEKIZIK",
+        "lat": 40.17957,
+        "lon": 29.1411
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "GÜLLÜK",
+        "ad": "GÜLLÜK",
+        "lat": 40.19156,
+        "lon": 29.11855
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "HACISEYFETTİN",
+        "ad": "HACISEYFETTİN",
+        "lat": 40.18565,
+        "lon": 29.08107
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "HACİVAT",
+        "ad": "HACİVAT",
+        "lat": 40.20447,
+        "lon": 29.14579
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "HAMAMLIKIZIK",
+        "ad": "HAMAMLIKIZIK",
+        "lat": 40.17937,
+        "lon": 29.18235
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "HOCATAŞKIN",
+        "ad": "HOCATAŞKIN",
+        "lat": 40.1835,
+        "lon": 29.08047
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "İSABEY",
+        "ad": "İSABEY",
+        "lat": 40.22746,
+        "lon": 29.16631
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "KAPLIKAYA",
+        "ad": "KAPLIKAYA",
+        "lat": 40.17568,
+        "lon": 29.12064
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "KARAAĞAÇ",
+        "ad": "KARAAĞAÇ",
+        "lat": 40.17707,
+        "lon": 29.07008
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "KARAMAZAK",
+        "ad": "KARAMAZAK",
+        "lat": 40.18023,
+        "lon": 29.07732
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "KARAPINAR",
+        "ad": "KARAPINAR",
+        "lat": 40.19903,
+        "lon": 29.19231
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "KAZIM KARABEKİR",
+        "ad": "KAZIM KARABEKİR",
+        "lat": 40.20306,
+        "lon": 29.102
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "KURTOĞLU",
+        "ad": "KURTOĞLU",
+        "lat": 40.18169,
+        "lon": 29.07276
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "MALTEPE",
+        "ad": "MALTEPE",
+        "lat": 40.18081,
+        "lon": 29.10257
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "MEHMETAKİFERSOY",
+        "ad": "MEHMETAKİFERSOY",
+        "lat": 40.1864,
+        "lon": 29.0951
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "MEVLANA",
+        "ad": "MEVLANA",
+        "lat": 40.2064,
+        "lon": 29.11997
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "MEYDANCIK",
+        "ad": "MEYDANCIK",
+        "lat": 40.18451,
+        "lon": 29.07605
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "MİLLET",
+        "ad": "MİLLET",
+        "lat": 40.2374,
+        "lon": 29.10788
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "MİMARSİNAN",
+        "ad": "MİMARSİNAN",
+        "lat": 40.19157,
+        "lon": 29.13107
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "MOLLAARAP",
+        "ad": "MOLLAARAP",
+        "lat": 40.17664,
+        "lon": 29.06604
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "MUSABABA",
+        "ad": "MUSABABA",
+        "lat": 40.17858,
+        "lon": 29.08457
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "NAMAZGAH",
+        "ad": "NAMAZGAH",
+        "lat": 40.17979,
+        "lon": 29.07534
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "ORTABAĞLAR",
+        "ad": "ORTABAĞLAR",
+        "lat": 40.19158,
+        "lon": 29.11155
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "PİREMİR",
+        "ad": "PİREMİR",
+        "lat": 40.17809,
+        "lon": 29.08024
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "SAMANLI",
+        "ad": "SAMANLI",
+        "lat": 40.2534,
+        "lon": 29.14337
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "SELÇUKBEY",
+        "ad": "SELÇUKBEY",
+        "lat": 40.18444,
+        "lon": 29.11653
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "SELİMZADE",
+        "ad": "SELİMZADE",
+        "lat": 40.18572,
+        "lon": 29.08078
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "SIRACEVİZLER",
+        "ad": "SIRACEVİZLER",
+        "lat": 40.18035,
+        "lon": 29.09104
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "SİNANDEDE",
+        "ad": "SİNANDEDE",
+        "lat": 40.18654,
+        "lon": 29.09359
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "SİTELER",
+        "ad": "SİTELER",
+        "lat": 40.17957,
+        "lon": 29.12942
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "ŞİRİNEVLER",
+        "ad": "ŞİRİNEVLER",
+        "lat": 40.20627,
+        "lon": 29.1607
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "ŞÜKRANİYE",
+        "ad": "ŞÜKRANİYE",
+        "lat": 40.19161,
+        "lon": 29.09151
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "TEFERRÜÇ",
+        "ad": "TEFERRÜÇ",
+        "lat": 40.17323,
+        "lon": 29.0761
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "ULUS",
+        "ad": "ULUS",
+        "lat": 40.2057,
+        "lon": 29.12325
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "UMURBEY",
+        "ad": "UMURBEY",
+        "lat": 40.17853,
+        "lon": 29.07408
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "VAKIF",
+        "ad": "VAKIF",
+        "lat": 40.22873,
+        "lon": 29.14187
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "VATAN",
+        "ad": "VATAN",
+        "lat": 40.2061,
+        "lon": 29.0948
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "YAVUZSELIM",
+        "ad": "YAVUZSELIM",
+        "lat": 40.19967,
+        "lon": 29.11446
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "YEDİSELVİLER",
+        "ad": "YEDİSELVİLER",
+        "lat": 40.18255,
+        "lon": 29.09575
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "YENIMAHALLE",
+        "ad": "YENIMAHALLE",
+        "lat": 40.17655,
+        "lon": 29.07758
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "YEŞİL",
+        "ad": "YEŞİL",
+        "lat": 40.18187,
+        "lon": 29.07586
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "YILDIRIM",
+        "ad": "YILDIRIM",
+        "lat": 40.18941,
+        "lon": 29.08267
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "YİĞİTLER",
+        "ad": "YİĞİTLER",
+        "lat": 40.18958,
+        "lon": 29.16247
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "YUNUSEMRE",
+        "ad": "YUNUSEMRE",
+        "lat": 40.20037,
+        "lon": 29.11174
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "ZEYNİLER",
+        "ad": "ZEYNİLER",
+        "lat": 40.16643,
+        "lon": 29.1189
+    },
+    {
+        "il": "Bursa",
+        "ilce": "YILDIRIM",
+        "mahalle": "ZÜMRÜTEVLER",
+        "ad": "ZÜMRÜTEVLER",
+        "lat": 40.17734,
+        "lon": 29.0928
+    }
+]

@@ -1,0 +1,3946 @@
+[
+    {
+        "il": "Burdur",
+        "ilce": "AĞLASUN",
+        "mahalle": "BAKIRLI (YUMRUTAŞ)",
+        "ad": "BAKIRLI (YUMRUTAŞ)",
+        "lat": 37.62118,
+        "lon": 30.67728
+    },
+    {
+        "il": "Burdur",
+        "ilce": "AĞLASUN",
+        "mahalle": "BALA",
+        "ad": "BALA",
+        "lat": 37.68285,
+        "lon": 30.51831
+    },
+    {
+        "il": "Burdur",
+        "ilce": "AĞLASUN",
+        "mahalle": "ÇAMOVA (YUMRUTAŞ)",
+        "ad": "ÇAMOVA (YUMRUTAŞ)",
+        "lat": 37.60277,
+        "lon": 30.71523
+    },
+    {
+        "il": "Burdur",
+        "ilce": "AĞLASUN",
+        "mahalle": "ÇINAR",
+        "ad": "ÇINAR",
+        "lat": 37.65158,
+        "lon": 30.53139
+    },
+    {
+        "il": "Burdur",
+        "ilce": "AĞLASUN",
+        "mahalle": "DEREGÖZÜ (YEŞİLBAŞKÖY)",
+        "ad": "DEREGÖZÜ (YEŞİLBAŞKÖY)",
+        "lat": 37.67354,
+        "lon": 30.49242
+    },
+    {
+        "il": "Burdur",
+        "ilce": "AĞLASUN",
+        "mahalle": "EYNAZLI (YEŞİLBAŞKÖY)",
+        "ad": "EYNAZLI (YEŞİLBAŞKÖY)",
+        "lat": 37.67266,
+        "lon": 30.48353
+    },
+    {
+        "il": "Burdur",
+        "ilce": "AĞLASUN",
+        "mahalle": "FATİH (MAMAK)",
+        "ad": "FATİH (MAMAK)",
+        "lat": 37.60433,
+        "lon": 30.61189
+    },
+    {
+        "il": "Burdur",
+        "ilce": "AĞLASUN",
+        "mahalle": "GÖKBEL (ÇAMLIDERE)",
+        "ad": "GÖKBEL (ÇAMLIDERE)",
+        "lat": 37.66133,
+        "lon": 30.72514
+    },
+    {
+        "il": "Burdur",
+        "ilce": "AĞLASUN",
+        "mahalle": "HAMAM",
+        "ad": "HAMAM",
+        "lat": 37.64853,
+        "lon": 30.53228
+    },
+    {
+        "il": "Burdur",
+        "ilce": "AĞLASUN",
+        "mahalle": "HARMANCIK (ÇAMLIDERE)",
+        "ad": "HARMANCIK (ÇAMLIDERE)",
+        "lat": 37.63535,
+        "lon": 30.6729
+    },
+    {
+        "il": "Burdur",
+        "ilce": "AĞLASUN",
+        "mahalle": "KARAGÖL (ÇAMLIDERE)",
+        "ad": "KARAGÖL (ÇAMLIDERE)",
+        "lat": 37.64113,
+        "lon": 30.72756
+    },
+    {
+        "il": "Burdur",
+        "ilce": "AĞLASUN",
+        "mahalle": "KIRAÇ",
+        "ad": "KIRAÇ",
+        "lat": 37.6879,
+        "lon": 30.54588
+    },
+    {
+        "il": "Burdur",
+        "ilce": "AĞLASUN",
+        "mahalle": "KÖYÜN KENDİSİ (AŞAĞIYUMRUTAŞ)",
+        "ad": "KÖYÜN KENDİSİ (AŞAĞIYUMRUTAŞ)",
+        "lat": 37.59846,
+        "lon": 30.74249
+    },
+    {
+        "il": "Burdur",
+        "ilce": "AĞLASUN",
+        "mahalle": "KÖYÜN KENDİSİ (ÇAMLIDERE)",
+        "ad": "KÖYÜN KENDİSİ (ÇAMLIDERE)",
+        "lat": 37.65953,
+        "lon": 30.67771
+    },
+    {
+        "il": "Burdur",
+        "ilce": "AĞLASUN",
+        "mahalle": "KÖYÜN KENDİSİ (DEREKÖY)",
+        "ad": "KÖYÜN KENDİSİ (DEREKÖY)",
+        "lat": 37.64478,
+        "lon": 30.64422
+    },
+    {
+        "il": "Burdur",
+        "ilce": "AĞLASUN",
+        "mahalle": "KÖYÜN KENDİSİ (HİSAR)",
+        "ad": "KÖYÜN KENDİSİ (HİSAR)",
+        "lat": 37.61481,
+        "lon": 30.64492
+    },
+    {
+        "il": "Burdur",
+        "ilce": "AĞLASUN",
+        "mahalle": "KÖYÜN KENDİSİ (KİPRİT)",
+        "ad": "KÖYÜN KENDİSİ (KİPRİT)",
+        "lat": 37.60993,
+        "lon": 30.51022
+    },
+    {
+        "il": "Burdur",
+        "ilce": "AĞLASUN",
+        "mahalle": "KÖYÜN KENDİSİ (YAZIR)",
+        "ad": "KÖYÜN KENDİSİ (YAZIR)",
+        "lat": 37.69028,
+        "lon": 30.6006
+    },
+    {
+        "il": "Burdur",
+        "ilce": "AĞLASUN",
+        "mahalle": "KUM",
+        "ad": "KUM",
+        "lat": 37.64861,
+        "lon": 30.51556
+    },
+    {
+        "il": "Burdur",
+        "ilce": "AĞLASUN",
+        "mahalle": "SAKARCA",
+        "ad": "SAKARCA",
+        "lat": 37.68381,
+        "lon": 30.56661
+    },
+    {
+        "il": "Burdur",
+        "ilce": "AĞLASUN",
+        "mahalle": "SAKARLAR (YAZIR)",
+        "ad": "SAKARLAR (YAZIR)",
+        "lat": 37.66123,
+        "lon": 30.66025
+    },
+    {
+        "il": "Burdur",
+        "ilce": "AĞLASUN",
+        "mahalle": "SAKIZLIK (ÇAMLIDERE)",
+        "ad": "SAKIZLIK (ÇAMLIDERE)",
+        "lat": 37.61954,
+        "lon": 30.73716
+    },
+    {
+        "il": "Burdur",
+        "ilce": "AĞLASUN",
+        "mahalle": "YAVUZ (MAMAK)",
+        "ad": "YAVUZ (MAMAK)",
+        "lat": 37.5725,
+        "lon": 30.61127
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ALTINYAYLA",
+        "mahalle": "ARPACIK (BALLIK)",
+        "ad": "ARPACIK (BALLIK)",
+        "lat": 36.86941,
+        "lon": 29.43628
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ALTINYAYLA",
+        "mahalle": "BEL (BALLIK)",
+        "ad": "BEL (BALLIK)",
+        "lat": 36.86966,
+        "lon": 29.42032
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ALTINYAYLA",
+        "mahalle": "ÇUKURKAVAK (BALLIK)",
+        "ad": "ÇUKURKAVAK (BALLIK)",
+        "lat": 36.86523,
+        "lon": 29.48693
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ALTINYAYLA",
+        "mahalle": "GÜLPINAR",
+        "ad": "GÜLPINAR",
+        "lat": 36.99377,
+        "lon": 29.54752
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ALTINYAYLA",
+        "mahalle": "HEYBELİ",
+        "ad": "HEYBELİ",
+        "lat": 37.03047,
+        "lon": 29.59141
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ALTINYAYLA",
+        "mahalle": "KAVAKPINARI (ÇÖRTEN)",
+        "ad": "KAVAKPINARI (ÇÖRTEN)",
+        "lat": 36.98922,
+        "lon": 29.50518
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ALTINYAYLA",
+        "mahalle": "KAYMAKCI (BALLIK)",
+        "ad": "KAYMAKCI (BALLIK)",
+        "lat": 36.9189,
+        "lon": 29.50986
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ALTINYAYLA",
+        "mahalle": "MERKEZ (ASMABAĞ)",
+        "ad": "MERKEZ (ASMABAĞ)",
+        "lat": 36.9795,
+        "lon": 29.51278
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ALTINYAYLA",
+        "mahalle": "MERKEZ (BALLIK)",
+        "ad": "MERKEZ (BALLIK)",
+        "lat": 36.87937,
+        "lon": 29.43598
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ALTINYAYLA",
+        "mahalle": "MERKEZ (ÇATAK)",
+        "ad": "MERKEZ (ÇATAK)",
+        "lat": 37.00881,
+        "lon": 29.53062
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ALTINYAYLA",
+        "mahalle": "MERKEZ (ÇÖRTEN)",
+        "ad": "MERKEZ (ÇÖRTEN)",
+        "lat": 37.04109,
+        "lon": 29.5078
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ALTINYAYLA",
+        "mahalle": "MERKEZ (KIZILYAKA)",
+        "ad": "MERKEZ (KIZILYAKA)",
+        "lat": 36.99101,
+        "lon": 29.51093
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ALTINYAYLA",
+        "mahalle": "SÖBEN (BALLIK)",
+        "ad": "SÖBEN (BALLIK)",
+        "lat": 36.87972,
+        "lon": 29.47107
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ALTINYAYLA",
+        "mahalle": "SÜPÜRGELİK (BALLIK)",
+        "ad": "SÜPÜRGELİK (BALLIK)",
+        "lat": 36.8739,
+        "lon": 29.48345
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ALTINYAYLA",
+        "mahalle": "TAŞYAKA",
+        "ad": "TAŞYAKA",
+        "lat": 37.04967,
+        "lon": 29.61337
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ALTINYAYLA",
+        "mahalle": "YENİ",
+        "ad": "YENİ",
+        "lat": 36.99898,
+        "lon": 29.54278
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "AFETLER (TAŞYAYLA)",
+        "ad": "AFETLER (TAŞYAYLA)",
+        "lat": 37.51998,
+        "lon": 30.66796
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "AKÇAPINAR  (KUŞBABA)",
+        "ad": "AKÇAPINAR (KUŞBABA)",
+        "lat": 37.47286,
+        "lon": 30.44889
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "ALAATTİN",
+        "ad": "ALAATTİN",
+        "lat": 37.51519,
+        "lon": 30.57296
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "ALİ HÜSEYİN SARINÇLARI (KUYUBAŞI)",
+        "ad": "ALİ HÜSEYİN SARINÇLARI (KUYUBAŞI)",
+        "lat": 37.34961,
+        "lon": 30.69386
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "ANKARA (ÜRKÜTLÜ)",
+        "ad": "ANKARA (ÜRKÜTLÜ)",
+        "lat": 37.39175,
+        "lon": 30.27912
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "AŞAĞI (KUŞBABA)",
+        "ad": "AŞAĞI (KUŞBABA)",
+        "lat": 37.44868,
+        "lon": 30.43624
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "AŞAĞI   (TAŞYAYLA)",
+        "ad": "AŞAĞI (TAŞYAYLA)",
+        "lat": 37.5525,
+        "lon": 30.70101
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "ATİLLA",
+        "ad": "ATİLLA",
+        "lat": 37.4449,
+        "lon": 30.55733
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "AVDAN",
+        "ad": "AVDAN",
+        "lat": 37.30566,
+        "lon": 30.467
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "AYKIRI  (KARAOT)",
+        "ad": "AYKIRI (KARAOT)",
+        "lat": 37.28997,
+        "lon": 30.63738
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "BARBOROS",
+        "ad": "BARBOROS",
+        "lat": 37.45819,
+        "lon": 30.56068
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "BOĞAZ (ELSAZI)",
+        "ad": "BOĞAZ (ELSAZI)",
+        "lat": 37.43713,
+        "lon": 30.79932
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "BOZYAKA (ELSAZI)",
+        "ad": "BOZYAKA (ELSAZI)",
+        "lat": 37.45093,
+        "lon": 30.80317
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "CAMİİ",
+        "ad": "CAMİİ",
+        "lat": 37.46491,
+        "lon": 30.62062
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "CAMİ (KARAOT)",
+        "ad": "CAMİ (KARAOT)",
+        "lat": 37.26643,
+        "lon": 30.59083
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "CAMİ (KIZILSEKİ)",
+        "ad": "CAMİ (KIZILSEKİ)",
+        "lat": 37.26927,
+        "lon": 30.76136
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "CUMHURİYET  (UĞURLU)",
+        "ad": "CUMHURİYET (UĞURLU)",
+        "lat": 37.32534,
+        "lon": 30.49509
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "ÇAMLICA",
+        "ad": "ÇAMLICA",
+        "lat": 37.44786,
+        "lon": 30.58772
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "ÇAMLICAOSB",
+        "ad": "ÇAMLICAOSB",
+        "lat": 37.42713,
+        "lon": 30.55694
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "ÇAVUŞLAR",
+        "ad": "ÇAVUŞLAR",
+        "lat": 37.46083,
+        "lon": 30.59551
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "ÇOBANLAR (KARGI)",
+        "ad": "ÇOBANLAR (KARGI)",
+        "lat": 37.25388,
+        "lon": 30.80683
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "ÇUKUR",
+        "ad": "ÇUKUR",
+        "lat": 37.45584,
+        "lon": 30.60287
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "DEĞİRMEN DERESİ (KUŞBABA)",
+        "ad": "DEĞİRMEN DERESİ (KUŞBABA)",
+        "lat": 37.45928,
+        "lon": 30.45834
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "DEREAĞZI (ÇOBANPINARI)",
+        "ad": "DEREAĞZI (ÇOBANPINARI)",
+        "lat": 37.40639,
+        "lon": 30.7916
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "ELMALIBÜK (KIZILLI)",
+        "ad": "ELMALIBÜK (KIZILLI)",
+        "lat": 37.39918,
+        "lon": 30.89265
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "EREKLİ (KARAOT)",
+        "ad": "EREKLİ (KARAOT)",
+        "lat": 37.25326,
+        "lon": 30.58941
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "ESİRLİK (KIZILSEKİ)",
+        "ad": "ESİRLİK (KIZILSEKİ)",
+        "lat": 37.28553,
+        "lon": 30.73486
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "FATİH",
+        "ad": "FATİH",
+        "lat": 37.45526,
+        "lon": 30.57502
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "FATİH (UĞURLU)",
+        "ad": "FATİH (UĞURLU)",
+        "lat": 37.30748,
+        "lon": 30.47915
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "GÖKALAN",
+        "ad": "GÖKALAN",
+        "lat": 37.32139,
+        "lon": 30.77095
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "GÜLLÜALAN (KARAOT)",
+        "ad": "GÜLLÜALAN (KARAOT)",
+        "lat": 37.30046,
+        "lon": 30.59001
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "HACIBAĞ (ÇAMLIK)",
+        "ad": "HACIBAĞ (ÇAMLIK)",
+        "lat": 37.51026,
+        "lon": 30.68682
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "HACIİSMAİLLER (KIZILLI)",
+        "ad": "HACIİSMAİLLER (KIZILLI)",
+        "lat": 37.37016,
+        "lon": 30.88682
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "HANYIKIĞI (KARAOT)",
+        "ad": "HANYIKIĞI (KARAOT)",
+        "lat": 37.27735,
+        "lon": 30.55948
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "HARMANCIK  (KARGI)",
+        "ad": "HARMANCIK (KARGI)",
+        "lat": 37.27151,
+        "lon": 30.79316
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "HATİPKÖY (KIZILLI)",
+        "ad": "HATİPKÖY (KIZILLI)",
+        "lat": 37.36939,
+        "lon": 30.93062
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "KARAAĞAÇ (ÇOBANPINARI)",
+        "ad": "KARAAĞAÇ (ÇOBANPINARI)",
+        "lat": 37.36067,
+        "lon": 30.7997
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "KARAYVATLAR",
+        "ad": "KARAYVATLAR",
+        "lat": 37.45672,
+        "lon": 30.59622
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "KARŞIYAKA",
+        "ad": "KARŞIYAKA",
+        "lat": 37.32177,
+        "lon": 30.76395
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "KAVAK (ELSAZI)",
+        "ad": "KAVAK (ELSAZI)",
+        "lat": 37.42721,
+        "lon": 30.8131
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "KAVAKLI (ÇAMLIK)",
+        "ad": "KAVAKLI (ÇAMLIK)",
+        "lat": 37.54288,
+        "lon": 30.72499
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "KETRİT (DUTALANI)",
+        "ad": "KETRİT (DUTALANI)",
+        "lat": 37.46043,
+        "lon": 30.76437
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "KIZILCA (ÇOBANPINARI)",
+        "ad": "KIZILCA (ÇOBANPINARI)",
+        "lat": 37.3412,
+        "lon": 30.80567
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "KOCAYER (ÇOBANPINARI)",
+        "ad": "KOCAYER (ÇOBANPINARI)",
+        "lat": 37.36617,
+        "lon": 30.83177
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "KONAK",
+        "ad": "KONAK",
+        "lat": 37.46138,
+        "lon": 30.58526
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "KOZAĞACI (KARAOT)",
+        "ad": "KOZAĞACI (KARAOT)",
+        "lat": 37.27917,
+        "lon": 30.65114
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "KÖLETAŞI (KARAOT)",
+        "ad": "KÖLETAŞI (KARAOT)",
+        "lat": 37.26973,
+        "lon": 30.60503
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "KÖYÜN KENDİSİ (ALKAYA)",
+        "ad": "KÖYÜN KENDİSİ (ALKAYA)",
+        "lat": 37.5448,
+        "lon": 30.57233
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "KÖYÜN KENDİSİ (ANBAHAN)",
+        "ad": "KÖYÜN KENDİSİ (ANBAHAN)",
+        "lat": 37.40301,
+        "lon": 30.31689
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "KÖYÜN KENDİSİ (BELÖREN)",
+        "ad": "KÖYÜN KENDİSİ (BELÖREN)",
+        "lat": 37.53524,
+        "lon": 30.61717
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "KÖYÜN KENDİSİ (BEŞKONAK)",
+        "ad": "KÖYÜN KENDİSİ (BEŞKONAK)",
+        "lat": 37.454,
+        "lon": 30.68148
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "KÖYÜN KENDİSİ (BOĞAZKÖY)",
+        "ad": "KÖYÜN KENDİSİ (BOĞAZKÖY)",
+        "lat": 37.2821,
+        "lon": 30.54475
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "KÖYÜN KENDİSİ (DAĞARCIK)",
+        "ad": "KÖYÜN KENDİSİ (DAĞARCIK)",
+        "lat": 37.51931,
+        "lon": 30.52988
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "KÖYÜN KENDİSİ (İNCİRDERE)",
+        "ad": "KÖYÜN KENDİSİ (İNCİRDERE)",
+        "lat": 37.48333,
+        "lon": 30.52098
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "KÖYÜN KENDİSİ (KARAALİLER)",
+        "ad": "KÖYÜN KENDİSİ (KARAALİLER)",
+        "lat": 37.39432,
+        "lon": 30.47793
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "KÖYÜN KENDİSİ (KARACAÖREN)",
+        "ad": "KÖYÜN KENDİSİ (KARACAÖREN)",
+        "lat": 37.3932,
+        "lon": 30.82491
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "KÖYÜN KENDİSİ (KARAPINAR)",
+        "ad": "KÖYÜN KENDİSİ (KARAPINAR)",
+        "lat": 37.37635,
+        "lon": 30.50591
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "KÖYÜN KENDİSİ (KARASEKİ)",
+        "ad": "KÖYÜN KENDİSİ (KARASEKİ)",
+        "lat": 37.39486,
+        "lon": 30.73683
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "KÖYÜN KENDİSİ (KAVACIK)",
+        "ad": "KÖYÜN KENDİSİ (KAVACIK)",
+        "lat": 37.30447,
+        "lon": 30.74094
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "KÖYÜN KENDİSİ (KAYI)",
+        "ad": "KÖYÜN KENDİSİ (KAYI)",
+        "lat": 37.34219,
+        "lon": 30.71635
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "KÖYÜN KENDİSİ (KEÇİLİ)",
+        "ad": "KÖYÜN KENDİSİ (KEÇİLİ)",
+        "lat": 37.42,
+        "lon": 30.38424
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "KÖYÜN KENDİSİ (KESTEL)",
+        "ad": "KÖYÜN KENDİSİ (KESTEL)",
+        "lat": 37.4779,
+        "lon": 30.36953
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "KÖYÜN KENDİSİ (KIZILCAAĞAÇ)",
+        "ad": "KÖYÜN KENDİSİ (KIZILCAAĞAÇ)",
+        "lat": 37.32277,
+        "lon": 30.46734
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "KÖYÜN KENDİSİ (SEYDİKÖY)",
+        "ad": "KÖYÜN KENDİSİ (SEYDİKÖY)",
+        "lat": 37.51676,
+        "lon": 30.55286
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "KÖYÜN KENDİSİ (SUSUZ)",
+        "ad": "KÖYÜN KENDİSİ (SUSUZ)",
+        "lat": 37.40169,
+        "lon": 30.60633
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "KÖYÜN KENDİSİ (ÜZÜMLÜBEL)",
+        "ad": "KÖYÜN KENDİSİ (ÜZÜMLÜBEL)",
+        "lat": 37.42234,
+        "lon": 30.48942
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "KÖYÜN KENDİSİ (YÜREĞİL)",
+        "ad": "KÖYÜN KENDİSİ (YÜREĞİL)",
+        "lat": 37.33568,
+        "lon": 30.36718
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "KÖYYATAĞI (KARAOT)",
+        "ad": "KÖYYATAĞI (KARAOT)",
+        "lat": 37.26574,
+        "lon": 30.57824
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "MEHMET AKİF",
+        "ad": "MEHMET AKİF",
+        "lat": 37.45534,
+        "lon": 30.56163
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "MERKEZ (AVDANCIK)",
+        "ad": "MERKEZ (AVDANCIK)",
+        "lat": 37.34662,
+        "lon": 30.56643
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "MERKEZ (DUTALANI)",
+        "ad": "MERKEZ (DUTALANI)",
+        "lat": 37.4053,
+        "lon": 30.73955
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "MERKEZ (ELSAZI)",
+        "ad": "MERKEZ (ELSAZI)",
+        "lat": 37.48082,
+        "lon": 30.80599
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "MERKEZ (GÜNDOĞDU)",
+        "ad": "MERKEZ (GÜNDOĞDU)",
+        "lat": 37.33208,
+        "lon": 30.60606
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "MERKEZ  (KARGI)",
+        "ad": "MERKEZ (KARGI)",
+        "lat": 37.29996,
+        "lon": 30.8123
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "MERKEZ (KUYUBAŞI)",
+        "ad": "MERKEZ (KUYUBAŞI)",
+        "lat": 37.38234,
+        "lon": 30.61679
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "MERSİNALTI (KUŞBABA)",
+        "ad": "MERSİNALTI (KUŞBABA)",
+        "lat": 37.45012,
+        "lon": 30.44681
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "MİMAR SİNAN",
+        "ad": "MİMAR SİNAN",
+        "lat": 37.45313,
+        "lon": 30.53828
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "NARAĞACI (ÇOBANPINARI)",
+        "ad": "NARAĞACI (ÇOBANPINARI)",
+        "lat": 37.36557,
+        "lon": 30.75922
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "NARLI (ÇAMLIK)",
+        "ad": "NARLI (ÇAMLIK)",
+        "lat": 37.48267,
+        "lon": 30.67696
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "OĞUZHAN",
+        "ad": "OĞUZHAN",
+        "lat": 37.45739,
+        "lon": 30.59655
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "ONAÇ",
+        "ad": "ONAÇ",
+        "lat": 37.4897,
+        "lon": 30.51836
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "ORTA  (KUŞBABA)",
+        "ad": "ORTA (KUŞBABA)",
+        "lat": 37.45988,
+        "lon": 30.43018
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "PAZAR",
+        "ad": "PAZAR",
+        "lat": 37.35381,
+        "lon": 30.71343
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "PAZARALAN (ÇOBANPINARI)",
+        "ad": "PAZARALAN (ÇOBANPINARI)",
+        "lat": 37.36883,
+        "lon": 30.81367
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "PAZAR (ÜRKÜTLÜ)",
+        "ad": "PAZAR (ÜRKÜTLÜ)",
+        "lat": 37.33096,
+        "lon": 30.31722
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "SAHİL (ÇAMLIK)",
+        "ad": "SAHİL (ÇAMLIK)",
+        "lat": 37.52043,
+        "lon": 30.76619
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "SAKA (ÇAMLIK)",
+        "ad": "SAKA (ÇAMLIK)",
+        "lat": 37.48974,
+        "lon": 30.64523
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "SANAYİ",
+        "ad": "SANAYİ",
+        "lat": 37.46947,
+        "lon": 30.57539
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "SARIOTLU (KIZILSEKİ)",
+        "ad": "SARIOTLU (KIZILSEKİ)",
+        "lat": 37.27653,
+        "lon": 30.76278
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "SEKİ AVLIĞI (KIZILSEKİ)",
+        "ad": "SEKİ AVLIĞI (KIZILSEKİ)",
+        "lat": 37.26478,
+        "lon": 30.73415
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "SIĞINDI (DUTALANI)",
+        "ad": "SIĞINDI (DUTALANI)",
+        "lat": 37.43593,
+        "lon": 30.72867
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "SİVİŞLER  (AVDANCIK)",
+        "ad": "SİVİŞLER (AVDANCIK)",
+        "lat": 37.32767,
+        "lon": 30.63307
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "TAŞBAŞI (KARGI)",
+        "ad": "TAŞBAŞI (KARGI)",
+        "lat": 37.32594,
+        "lon": 30.81641
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "TAŞDİBİ (KARGI)",
+        "ad": "TAŞDİBİ (KARGI)",
+        "lat": 37.24287,
+        "lon": 30.82715
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "TEPE BOYNU (DUTALANI)",
+        "ad": "TEPE BOYNU (DUTALANI)",
+        "lat": 37.42674,
+        "lon": 30.75895
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "YENİ",
+        "ad": "YENİ",
+        "lat": 37.3128,
+        "lon": 30.46445
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "YENİCE (ELSAZI)",
+        "ad": "YENİCE (ELSAZI)",
+        "lat": 37.46629,
+        "lon": 30.78078
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "YENİ (GÜNDOĞDU)",
+        "ad": "YENİ (GÜNDOĞDU)",
+        "lat": 37.34557,
+        "lon": 30.52488
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "YETMİŞ EVLER",
+        "ad": "YETMİŞ EVLER",
+        "lat": 37.46969,
+        "lon": 30.5712
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "YONCAAĞAÇ (KIZILSEKİ)",
+        "ad": "YONCAAĞAÇ (KIZILSEKİ)",
+        "lat": 37.27768,
+        "lon": 30.74635
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "YÖRÜKLER",
+        "ad": "YÖRÜKLER",
+        "lat": 37.46497,
+        "lon": 30.59692
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "YUKARI (KUYUBAŞI)",
+        "ad": "YUKARI (KUYUBAŞI)",
+        "lat": 37.39355,
+        "lon": 30.65065
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "YUNUS EMRE",
+        "ad": "YUNUS EMRE",
+        "lat": 37.45553,
+        "lon": 30.59753
+    },
+    {
+        "il": "Burdur",
+        "ilce": "BUCAK",
+        "mahalle": "YUVA",
+        "ad": "YUVA",
+        "lat": 37.33457,
+        "lon": 30.43017
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇAVDIR",
+        "mahalle": "ATATÜRK",
+        "ad": "ATATÜRK",
+        "lat": 37.15013,
+        "lon": 29.70217
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇAVDIR",
+        "mahalle": "BAYIR",
+        "ad": "BAYIR",
+        "lat": 37.12935,
+        "lon": 29.7222
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇAVDIR",
+        "mahalle": "BELEN (KOZAĞACI)",
+        "ad": "BELEN (KOZAĞACI)",
+        "lat": 37.07,
+        "lon": 29.69968
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇAVDIR",
+        "mahalle": "ÇAKIR (KIZILLAR)",
+        "ad": "ÇAKIR (KIZILLAR)",
+        "lat": 37.09841,
+        "lon": 29.74405
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇAVDIR",
+        "mahalle": "ÇEŞME",
+        "ad": "ÇEŞME",
+        "lat": 37.03256,
+        "lon": 29.81776
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇAVDIR",
+        "mahalle": "ÇINAR",
+        "ad": "ÇINAR",
+        "lat": 37.1571,
+        "lon": 29.68058
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇAVDIR",
+        "mahalle": "DEPO (KOZAĞACI)",
+        "ad": "DEPO (KOZAĞACI)",
+        "lat": 37.06519,
+        "lon": 29.67606
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇAVDIR",
+        "mahalle": "DÜĞER (KARAKÖY)",
+        "ad": "DÜĞER (KARAKÖY)",
+        "lat": 37.12287,
+        "lon": 29.73867
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇAVDIR",
+        "mahalle": "FATİH",
+        "ad": "FATİH",
+        "lat": 37.03259,
+        "lon": 29.85917
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇAVDIR",
+        "mahalle": "KOCAPINAR",
+        "ad": "KOCAPINAR",
+        "lat": 37.16049,
+        "lon": 29.70368
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇAVDIR",
+        "mahalle": "KÖYÜN KENDİSİ (ANBARCIK)",
+        "ad": "KÖYÜN KENDİSİ (ANBARCIK)",
+        "lat": 37.05098,
+        "lon": 29.71918
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇAVDIR",
+        "mahalle": "KÖYÜN KENDİSİ (BÖLMEPINAR)",
+        "ad": "KÖYÜN KENDİSİ (BÖLMEPINAR)",
+        "lat": 37.14864,
+        "lon": 29.83642
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇAVDIR",
+        "mahalle": "KÖYÜN KENDİSİ (BÜYÜKALAN)",
+        "ad": "KÖYÜN KENDİSİ (BÜYÜKALAN)",
+        "lat": 37.24672,
+        "lon": 29.64605
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇAVDIR",
+        "mahalle": "KÖYÜN KENDİSİ (İSHAKKÖY)",
+        "ad": "KÖYÜN KENDİSİ (İSHAKKÖY)",
+        "lat": 37.19192,
+        "lon": 29.62345
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇAVDIR",
+        "mahalle": "KÖYÜN KENDİSİ (KARAKÖY)",
+        "ad": "KÖYÜN KENDİSİ (KARAKÖY)",
+        "lat": 37.16598,
+        "lon": 29.73806
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇAVDIR",
+        "mahalle": "KÖYÜN KENDİSİ (KAYACIK)",
+        "ad": "KÖYÜN KENDİSİ (KAYACIK)",
+        "lat": 37.19284,
+        "lon": 29.68218
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇAVDIR",
+        "mahalle": "KÖYÜN KENDİSİ (KÜÇÜKALAN)",
+        "ad": "KÖYÜN KENDİSİ (KÜÇÜKALAN)",
+        "lat": 37.28972,
+        "lon": 29.65848
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇAVDIR",
+        "mahalle": "KÖYÜN KENDİSİ (YAZIR)",
+        "ad": "KÖYÜN KENDİSİ (YAZIR)",
+        "lat": 37.00406,
+        "lon": 29.80144
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇAVDIR",
+        "mahalle": "MENEVŞELİK",
+        "ad": "MENEVŞELİK",
+        "lat": 37.16519,
+        "lon": 29.71324
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇAVDIR",
+        "mahalle": "MERKEZ (KIZILLAR)",
+        "ad": "MERKEZ (KIZILLAR)",
+        "lat": 37.07868,
+        "lon": 29.75944
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇAVDIR",
+        "mahalle": "PAZAR",
+        "ad": "PAZAR",
+        "lat": 37.15859,
+        "lon": 29.69218
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇAVDIR",
+        "mahalle": "SARAY BURNU (KOZAĞACI)",
+        "ad": "SARAY BURNU (KOZAĞACI)",
+        "lat": 37.06365,
+        "lon": 29.67944
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇAVDIR",
+        "mahalle": "YENİ",
+        "ad": "YENİ",
+        "lat": 37.13005,
+        "lon": 29.66132
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇAVDIR",
+        "mahalle": "YEŞİL",
+        "ad": "YEŞİL",
+        "lat": 37.07061,
+        "lon": 29.83881
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇELTİKÇİ",
+        "mahalle": "AŞAĞI (GÜVENLİ)",
+        "ad": "AŞAĞI (GÜVENLİ)",
+        "lat": 37.56351,
+        "lon": 30.48553
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇELTİKÇİ",
+        "mahalle": "BUCAK ÇAY KENARI (ÇEBİŞ)",
+        "ad": "BUCAK ÇAY KENARI (ÇEBİŞ)",
+        "lat": 37.50833,
+        "lon": 30.4577
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇELTİKÇİ",
+        "mahalle": "CAMİİ",
+        "ad": "CAMİİ",
+        "lat": 37.54122,
+        "lon": 30.47072
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇELTİKÇİ",
+        "mahalle": "DEĞİRMENÖNÜ (KUZKÖY)",
+        "ad": "DEĞİRMENÖNÜ (KUZKÖY)",
+        "lat": 37.57038,
+        "lon": 30.43053
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇELTİKÇİ",
+        "mahalle": "EN İÇİ (ÇEBİŞ)",
+        "ad": "EN İÇİ (ÇEBİŞ)",
+        "lat": 37.48027,
+        "lon": 30.45496
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇELTİKÇİ",
+        "mahalle": "GÜNEY (KUZKÖY)",
+        "ad": "GÜNEY (KUZKÖY)",
+        "lat": 37.55827,
+        "lon": 30.44012
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇELTİKÇİ",
+        "mahalle": "KONAK",
+        "ad": "KONAK",
+        "lat": 37.5743,
+        "lon": 30.52331
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇELTİKÇİ",
+        "mahalle": "KÖYÜN KENDİSİ (OVACIK)",
+        "ad": "KÖYÜN KENDİSİ (OVACIK)",
+        "lat": 37.57159,
+        "lon": 30.36135
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇELTİKÇİ",
+        "mahalle": "KÖYÜN KENDİSİ (TEKKEKÖY)",
+        "ad": "KÖYÜN KENDİSİ (TEKKEKÖY)",
+        "lat": 37.59534,
+        "lon": 30.42911
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇELTİKÇİ",
+        "mahalle": "KUZEY (KUZKÖY)",
+        "ad": "KUZEY (KUZKÖY)",
+        "lat": 37.55026,
+        "lon": 30.45134
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇELTİKÇİ",
+        "mahalle": "MERKEZ (ÇEBİŞ)",
+        "ad": "MERKEZ (ÇEBİŞ)",
+        "lat": 37.49941,
+        "lon": 30.4493
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇELTİKÇİ",
+        "mahalle": "ORTAYOL (ÇEBİŞ)",
+        "ad": "ORTAYOL (ÇEBİŞ)",
+        "lat": 37.49776,
+        "lon": 30.4714
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇELTİKÇİ",
+        "mahalle": "SAROT KAYALI YOLU (ÇEBİŞ)",
+        "ad": "SAROT KAYALI YOLU (ÇEBİŞ)",
+        "lat": 37.49765,
+        "lon": 30.48523
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇELTİKÇİ",
+        "mahalle": "YAKA (BAĞSARAY)",
+        "ad": "YAKA (BAĞSARAY)",
+        "lat": 37.5088,
+        "lon": 30.44587
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇELTİKÇİ",
+        "mahalle": "YUKARI  (BAĞSARAY)",
+        "ad": "YUKARI (BAĞSARAY)",
+        "lat": 37.50949,
+        "lon": 30.39929
+    },
+    {
+        "il": "Burdur",
+        "ilce": "ÇELTİKÇİ",
+        "mahalle": "YUKARI (GÜVENLİ)",
+        "ad": "YUKARI (GÜVENLİ)",
+        "lat": 37.61627,
+        "lon": 30.49505
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "ARMUTLU",
+        "ad": "ARMUTLU",
+        "lat": 37.13725,
+        "lon": 29.4807
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "BALCILAR (ELMALIYURT)",
+        "ad": "BALCILAR (ELMALIYURT)",
+        "lat": 36.94111,
+        "lon": 29.37136
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "BAŞPINAR (ELMALIYURT)",
+        "ad": "BAŞPINAR (ELMALIYURT)",
+        "lat": 36.94603,
+        "lon": 29.41495
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "BAYRAMLAR (ELMALIYURT)",
+        "ad": "BAYRAMLAR (ELMALIYURT)",
+        "lat": 36.94797,
+        "lon": 29.39181
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "ÇAKMAK",
+        "ad": "ÇAKMAK",
+        "lat": 37.07507,
+        "lon": 29.48308
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "ÇAMİÇİ (ELMALIYURT)",
+        "ad": "ÇAMİÇİ (ELMALIYURT)",
+        "lat": 36.97548,
+        "lon": 29.41918
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "ÇAMLIK (İBECİK)",
+        "ad": "ÇAMLIK (İBECİK)",
+        "lat": 36.98653,
+        "lon": 29.41462
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "ÇAYİÇİ  (ELMALIYURT)",
+        "ad": "ÇAYİÇİ (ELMALIYURT)",
+        "lat": 36.9468,
+        "lon": 29.38092
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "ÇEŞME",
+        "ad": "ÇEŞME",
+        "lat": 37.16827,
+        "lon": 29.46108
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "DAMARASI (ELMALIYURT)",
+        "ad": "DAMARASI (ELMALIYURT)",
+        "lat": 36.94768,
+        "lon": 29.38111
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "DELİCİN (ELMALIYURT)",
+        "ad": "DELİCİN (ELMALIYURT)",
+        "lat": 36.95299,
+        "lon": 29.40029
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "DEPREM EVLERİ (EVCİLER)",
+        "ad": "DEPREM EVLERİ (EVCİLER)",
+        "lat": 37.10956,
+        "lon": 29.48486
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "DİVRE (ELMALIYURT)",
+        "ad": "DİVRE (ELMALIYURT)",
+        "lat": 36.90959,
+        "lon": 29.34251
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "DOĞANLAR (ELMALIYURT)",
+        "ad": "DOĞANLAR (ELMALIYURT)",
+        "lat": 36.96613,
+        "lon": 29.39752
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "FATİH",
+        "ad": "FATİH",
+        "lat": 37.14949,
+        "lon": 29.48756
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "GÖÇEKİÇİ (ELMALIYURT)",
+        "ad": "GÖÇEKİÇİ (ELMALIYURT)",
+        "lat": 36.92663,
+        "lon": 29.3517
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "GÖKÇE PINAR (YEŞİLDERE)",
+        "ad": "GÖKÇE PINAR (YEŞİLDERE)",
+        "lat": 37.03194,
+        "lon": 29.37523
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "HANYANI (ELMALIYURT)",
+        "ad": "HANYANI (ELMALIYURT)",
+        "lat": 36.94438,
+        "lon": 29.3943
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "HORZUM",
+        "ad": "HORZUM",
+        "lat": 37.16691,
+        "lon": 29.48056
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "KARATAŞ (ELMALIYURT)",
+        "ad": "KARATAŞ (ELMALIYURT)",
+        "lat": 36.93699,
+        "lon": 29.38124
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "KELALİLER (ELMALIYURT)",
+        "ad": "KELALİLER (ELMALIYURT)",
+        "lat": 36.95227,
+        "lon": 29.39643
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "KOCATARLA (HİSARARDI)",
+        "ad": "KOCATARLA (HİSARARDI)",
+        "lat": 37.07547,
+        "lon": 29.62004
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "KONAK",
+        "ad": "KONAK",
+        "lat": 37.18345,
+        "lon": 29.48925
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "KÖYÜN KENDİSİ (ASMALI)",
+        "ad": "KÖYÜN KENDİSİ (ASMALI)",
+        "lat": 37.03148,
+        "lon": 29.47778
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "KÖYÜN KENDİSİ (ÇAMKÖY)",
+        "ad": "KÖYÜN KENDİSİ (ÇAMKÖY)",
+        "lat": 37.2974,
+        "lon": 29.56553
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "KÖYÜN KENDİSİ (SORKUN)",
+        "ad": "KÖYÜN KENDİSİ (SORKUN)",
+        "lat": 37.17662,
+        "lon": 29.59718
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "KÖYÜN KENDİSİ (YAMADI)",
+        "ad": "KÖYÜN KENDİSİ (YAMADI)",
+        "lat": 37.15115,
+        "lon": 29.58801
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "KUŞDİLİ MEVKİİ (KARAPINAR)",
+        "ad": "KUŞDİLİ MEVKİİ (KARAPINAR)",
+        "lat": 37.0831,
+        "lon": 29.56603
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "KÜNÜKLÜ (ELMALIYURT)",
+        "ad": "KÜNÜKLÜ (ELMALIYURT)",
+        "lat": 36.95001,
+        "lon": 29.36786
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "KÜRTLÜYAMAÇ (ELMALIYURT)",
+        "ad": "KÜRTLÜYAMAÇ (ELMALIYURT)",
+        "lat": 36.93759,
+        "lon": 29.3916
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "MERKEZ CAMİİ",
+        "ad": "MERKEZ CAMİİ",
+        "lat": 37.14159,
+        "lon": 29.51625
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "MERKEZ (ELMALIYURT)",
+        "ad": "MERKEZ (ELMALIYURT)",
+        "lat": 36.9489,
+        "lon": 29.38416
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "MERKEZ (EVCİLER)",
+        "ad": "MERKEZ (EVCİLER)",
+        "lat": 37.07603,
+        "lon": 29.50254
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "MERKEZ (HİSARARDI)",
+        "ad": "MERKEZ (HİSARARDI)",
+        "lat": 37.10516,
+        "lon": 29.60776
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "MERKEZ (KARAPINAR)",
+        "ad": "MERKEZ (KARAPINAR)",
+        "lat": 37.11778,
+        "lon": 29.59538
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "MERKEZ (KARGALI)",
+        "ad": "MERKEZ (KARGALI)",
+        "lat": 37.09834,
+        "lon": 29.59466
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "MERKEZ (UYLUPINAR)",
+        "ad": "MERKEZ (UYLUPINAR)",
+        "lat": 37.12533,
+        "lon": 29.63128
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "MERKEZ (YEŞİLDERE)",
+        "ad": "MERKEZ (YEŞİLDERE)",
+        "lat": 37.04382,
+        "lon": 29.38237
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "ORTA (ELMALIYURT)",
+        "ad": "ORTA (ELMALIYURT)",
+        "lat": 36.94784,
+        "lon": 29.39716
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "PAZAR",
+        "ad": "PAZAR",
+        "lat": 37.15361,
+        "lon": 29.51436
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "PAZAR YERİ (ELMALIYURT)",
+        "ad": "PAZAR YERİ (ELMALIYURT)",
+        "lat": 36.95139,
+        "lon": 29.36977
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "SELMANLAR (ELMALIYURT)",
+        "ad": "SELMANLAR (ELMALIYURT)",
+        "lat": 36.92667,
+        "lon": 29.37013
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "TEKELİLER (ELMALIYURT)",
+        "ad": "TEKELİLER (ELMALIYURT)",
+        "lat": 36.94995,
+        "lon": 29.38237
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "TURANLAR (ELMALIYURT)",
+        "ad": "TURANLAR (ELMALIYURT)",
+        "lat": 36.93373,
+        "lon": 29.37845
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "ULUCAMİİ",
+        "ad": "ULUCAMİİ",
+        "lat": 37.13618,
+        "lon": 29.53863
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "ÜÇOLUK (YEŞİLDERE)",
+        "ad": "ÜÇOLUK (YEŞİLDERE)",
+        "lat": 37.00604,
+        "lon": 29.38192
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "YAĞPINARI (KARGALI)",
+        "ad": "YAĞPINARI (KARGALI)",
+        "lat": 37.09322,
+        "lon": 29.5956
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "YAPRAKLI (İBECİK)",
+        "ad": "YAPRAKLI (İBECİK)",
+        "lat": 36.99283,
+        "lon": 29.46239
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "YENİ (İBECİK)",
+        "ad": "YENİ (İBECİK)",
+        "lat": 36.98878,
+        "lon": 29.40842
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "YILANLI (ELMALIYURT)",
+        "ad": "YILANLI (ELMALIYURT)",
+        "lat": 36.94105,
+        "lon": 29.39488
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "YUKARI (UYLUPINAR)",
+        "ad": "YUKARI (UYLUPINAR)",
+        "lat": 37.11381,
+        "lon": 29.64409
+    },
+    {
+        "il": "Burdur",
+        "ilce": "GÖLHİSAR",
+        "mahalle": "YUSUFÇA",
+        "ad": "YUSUFÇA",
+        "lat": 37.24001,
+        "lon": 29.52107
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KARAMANLI",
+        "mahalle": "AŞAĞI (BADEMLİ)",
+        "ad": "AŞAĞI (BADEMLİ)",
+        "lat": 37.42457,
+        "lon": 29.91011
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KARAMANLI",
+        "mahalle": "AŞAĞI  (MANCA)",
+        "ad": "AŞAĞI (MANCA)",
+        "lat": 37.30724,
+        "lon": 29.92077
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KARAMANLI",
+        "mahalle": "BARBAROS",
+        "ad": "BARBAROS",
+        "lat": 37.36879,
+        "lon": 29.81785
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KARAMANLI",
+        "mahalle": "CAFER",
+        "ad": "CAFER",
+        "lat": 37.3757,
+        "lon": 29.82076
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KARAMANLI",
+        "mahalle": "CAMİİ",
+        "ad": "CAMİİ",
+        "lat": 37.36815,
+        "lon": 29.82156
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KARAMANLI",
+        "mahalle": "CAMİ (KILÇAN)",
+        "ad": "CAMİ (KILÇAN)",
+        "lat": 37.37858,
+        "lon": 29.80323
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KARAMANLI",
+        "mahalle": "ÇAMLIK",
+        "ad": "ÇAMLIK",
+        "lat": 37.37414,
+        "lon": 29.82931
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KARAMANLI",
+        "mahalle": "ÇAY MEVKİİ (DEREKÖY)",
+        "ad": "ÇAY MEVKİİ (DEREKÖY)",
+        "lat": 37.42203,
+        "lon": 29.76749
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KARAMANLI",
+        "mahalle": "DERE (KILAVUZLAR)",
+        "ad": "DERE (KILAVUZLAR)",
+        "lat": 37.32941,
+        "lon": 29.97561
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KARAMANLI",
+        "mahalle": "EŞELER",
+        "ad": "EŞELER",
+        "lat": 37.38074,
+        "lon": 29.82747
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KARAMANLI",
+        "mahalle": "FATİH",
+        "ad": "FATİH",
+        "lat": 37.36893,
+        "lon": 29.82296
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KARAMANLI",
+        "mahalle": "HANTAŞI MEVKİİ (DEREKÖY)",
+        "ad": "HANTAŞI MEVKİİ (DEREKÖY)",
+        "lat": 37.42662,
+        "lon": 29.78737
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KARAMANLI",
+        "mahalle": "HÜRRİYET",
+        "ad": "HÜRRİYET",
+        "lat": 37.41863,
+        "lon": 29.82317
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KARAMANLI",
+        "mahalle": "İSTİKLAL",
+        "ad": "İSTİKLAL",
+        "lat": 37.37008,
+        "lon": 29.81718
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KARAMANLI",
+        "mahalle": "KANTAR (KAĞILCIK)",
+        "ad": "KANTAR (KAĞILCIK)",
+        "lat": 37.38979,
+        "lon": 29.95936
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KARAMANLI",
+        "mahalle": "KARAMAN",
+        "ad": "KARAMAN",
+        "lat": 37.36556,
+        "lon": 29.83703
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KARAMANLI",
+        "mahalle": "KÖYÜN KENDİSİ (KAYALI)",
+        "ad": "KÖYÜN KENDİSİ (KAYALI)",
+        "lat": 37.31675,
+        "lon": 29.9436
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KARAMANLI",
+        "mahalle": "KÖYÜN KENDİSİ (KILAVUZLAR)",
+        "ad": "KÖYÜN KENDİSİ (KILAVUZLAR)",
+        "lat": 37.32924,
+        "lon": 29.97643
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KARAMANLI",
+        "mahalle": "KÖYÜN KENDİSİ (KILÇAN)",
+        "ad": "KÖYÜN KENDİSİ (KILÇAN)",
+        "lat": 37.37153,
+        "lon": 29.78789
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KARAMANLI",
+        "mahalle": "KÖYÜN KENDİSİ (MÜRSELLER)",
+        "ad": "KÖYÜN KENDİSİ (MÜRSELLER)",
+        "lat": 37.48756,
+        "lon": 29.94591
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KARAMANLI",
+        "mahalle": "OKUL (KAĞILCIK)",
+        "ad": "OKUL (KAĞILCIK)",
+        "lat": 37.41269,
+        "lon": 29.88172
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KARAMANLI",
+        "mahalle": "OKUL (KILAVUZLAR)",
+        "ad": "OKUL (KILAVUZLAR)",
+        "lat": 37.32476,
+        "lon": 29.99045
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KARAMANLI",
+        "mahalle": "PAZAR",
+        "ad": "PAZAR",
+        "lat": 37.37172,
+        "lon": 29.81847
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KARAMANLI",
+        "mahalle": "TAŞOCAĞI (MANCA)",
+        "ad": "TAŞOCAĞI (MANCA)",
+        "lat": 37.30848,
+        "lon": 29.892
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KARAMANLI",
+        "mahalle": "TEPE (KILAVUZLAR)",
+        "ad": "TEPE (KILAVUZLAR)",
+        "lat": 37.36707,
+        "lon": 29.98238
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KARAMANLI",
+        "mahalle": "TEPE (KILÇAN)",
+        "ad": "TEPE (KILÇAN)",
+        "lat": 37.37163,
+        "lon": 29.78524
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KARAMANLI",
+        "mahalle": "TEPE MEVKİİ (DEREKÖY)",
+        "ad": "TEPE MEVKİİ (DEREKÖY)",
+        "lat": 37.46548,
+        "lon": 29.62853
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KARAMANLI",
+        "mahalle": "YENİ",
+        "ad": "YENİ",
+        "lat": 37.37795,
+        "lon": 29.82054
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KARAMANLI",
+        "mahalle": "YUKARI (BADEMLİ)",
+        "ad": "YUKARI (BADEMLİ)",
+        "lat": 37.47552,
+        "lon": 29.92103
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KARAMANLI",
+        "mahalle": "YUKARI  (KAĞILCIK)",
+        "ad": "YUKARI (KAĞILCIK)",
+        "lat": 37.40107,
+        "lon": 29.87685
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KARAMANLI",
+        "mahalle": "YUKARI (MANCA)",
+        "ad": "YUKARI (MANCA)",
+        "lat": 37.30637,
+        "lon": 29.88782
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KARAMANLI",
+        "mahalle": "ZAFER",
+        "ad": "ZAFER",
+        "lat": 37.368,
+        "lon": 29.82506
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KEMER",
+        "mahalle": "AŞAĞI (BELENLİ)",
+        "ad": "AŞAĞI (BELENLİ)",
+        "lat": 37.32284,
+        "lon": 29.99092
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KEMER",
+        "mahalle": "AŞAĞI  (YAKALAR)",
+        "ad": "AŞAĞI (YAKALAR)",
+        "lat": 37.38802,
+        "lon": 29.9837
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KEMER",
+        "mahalle": "ÇAY KENARI (KAYI)",
+        "ad": "ÇAY KENARI (KAYI)",
+        "lat": 37.43646,
+        "lon": 30.09607
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KEMER",
+        "mahalle": "KONAK",
+        "ad": "KONAK",
+        "lat": 37.37911,
+        "lon": 30.1048
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KEMER",
+        "mahalle": "KÖYİÇİ (YAKALAR)",
+        "ad": "KÖYİÇİ (YAKALAR)",
+        "lat": 37.31477,
+        "lon": 30.01214
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KEMER",
+        "mahalle": "KÖYÜN KENDİSİ (AKÇAÖREN)",
+        "ad": "KÖYÜN KENDİSİ (AKÇAÖREN)",
+        "lat": 37.42594,
+        "lon": 30.12846
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KEMER",
+        "mahalle": "KÖYÜN KENDİSİ (AKÖREN)",
+        "ad": "KÖYÜN KENDİSİ (AKÖREN)",
+        "lat": 37.42041,
+        "lon": 30.11003
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KEMER",
+        "mahalle": "KÖYÜN KENDİSİ (ELMACIK)",
+        "ad": "KÖYÜN KENDİSİ (ELMACIK)",
+        "lat": 37.4829,
+        "lon": 30.10929
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KEMER",
+        "mahalle": "KÖYÜN KENDİSİ (PINARBAŞI)",
+        "ad": "KÖYÜN KENDİSİ (PINARBAŞI)",
+        "lat": 37.41815,
+        "lon": 30.03572
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KEMER",
+        "mahalle": "ORTA  (KAYI)",
+        "ad": "ORTA (KAYI)",
+        "lat": 37.44806,
+        "lon": 30.15444
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KEMER",
+        "mahalle": "ORTA TEPE (BELENLİ)",
+        "ad": "ORTA TEPE (BELENLİ)",
+        "lat": 37.31221,
+        "lon": 30.00314
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KEMER",
+        "mahalle": "SARAY",
+        "ad": "SARAY",
+        "lat": 37.352,
+        "lon": 30.05737
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KEMER",
+        "mahalle": "YENİ CAMİİ",
+        "ad": "YENİ CAMİİ",
+        "lat": 37.4187,
+        "lon": 30.0319
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KEMER",
+        "mahalle": "YUKARI  (KAYI)",
+        "ad": "YUKARI (KAYI)",
+        "lat": 37.45162,
+        "lon": 30.12185
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KEMER",
+        "mahalle": "YUKARI TEPE (BELENLİ)",
+        "ad": "YUKARI TEPE (BELENLİ)",
+        "lat": 37.3099,
+        "lon": 29.99437
+    },
+    {
+        "il": "Burdur",
+        "ilce": "KEMER",
+        "mahalle": "YUKARI TEPE (YAKALAR)",
+        "ad": "YUKARI TEPE (YAKALAR)",
+        "lat": 37.32315,
+        "lon": 30.00723
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "AKIN",
+        "ad": "AKIN",
+        "lat": 37.71721,
+        "lon": 30.2925
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "ARMAĞAN İLCİ",
+        "ad": "ARMAĞAN İLCİ",
+        "lat": 37.72313,
+        "lon": 30.26296
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "ARMUT (GÖKÇEBAĞ)",
+        "ad": "ARMUT (GÖKÇEBAĞ)",
+        "lat": 37.77002,
+        "lon": 30.39009
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "AŞAĞI CİNBİLLİ (CİMBİLLİ)",
+        "ad": "AŞAĞI CİNBİLLİ (CİMBİLLİ)",
+        "lat": 37.76204,
+        "lon": 30.03239
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "AŞAĞI (ÇALLICA)",
+        "ad": "AŞAĞI (ÇALLICA)",
+        "lat": 37.52508,
+        "lon": 30.03654
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "AŞAĞI TEKKEÖNÜ (ASKERİYE)",
+        "ad": "AŞAĞI TEKKEÖNÜ (ASKERİYE)",
+        "lat": 37.78328,
+        "lon": 30.34054
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "ATATÜRK",
+        "ad": "ATATÜRK",
+        "lat": 37.71389,
+        "lon": 30.23368
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "AYDINLIKEVLER",
+        "ad": "AYDINLIKEVLER",
+        "lat": 37.74435,
+        "lon": 30.31707
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "BAĞLAR",
+        "ad": "BAĞLAR",
+        "lat": 37.75006,
+        "lon": 30.27065
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "BAHÇELİEVLER",
+        "ad": "BAHÇELİEVLER",
+        "lat": 37.72082,
+        "lon": 30.27698
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "BAŞAKEVLER (GÖKÇEBAĞ)",
+        "ad": "BAŞAKEVLER (GÖKÇEBAĞ)",
+        "lat": 37.76831,
+        "lon": 30.37592
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "BAŞAKEVLER OSB (GÖKÇEBAĞ)",
+        "ad": "BAŞAKEVLER OSB (GÖKÇEBAĞ)",
+        "lat": 37.81001,
+        "lon": 30.39042
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "BOZKURT",
+        "ad": "BOZKURT",
+        "lat": 37.72866,
+        "lon": 30.3036
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "BURÇ",
+        "ad": "BURÇ",
+        "lat": 37.72452,
+        "lon": 30.2855
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "CAMİ (AKYAYLA)",
+        "ad": "CAMİ (AKYAYLA)",
+        "lat": 37.50517,
+        "lon": 30.3377
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "CAMİ (ASKERİYE)",
+        "ad": "CAMİ (ASKERİYE)",
+        "lat": 37.75473,
+        "lon": 30.35115
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "CEMİL",
+        "ad": "CEMİL",
+        "lat": 37.72318,
+        "lon": 30.29813
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "ÇAY  (İLYAS)",
+        "ad": "ÇAY (İLYAS)",
+        "lat": 37.78383,
+        "lon": 30.11803
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "ÇEŞMEDAMI",
+        "ad": "ÇEŞMEDAMI",
+        "lat": 37.71636,
+        "lon": 30.28459
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "ÇEŞMEÖNÜ (İLYAS)",
+        "ad": "ÇEŞMEÖNÜ (İLYAS)",
+        "lat": 37.81384,
+        "lon": 30.12093
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "ÇUKURÇEŞME (ASKERİYE)",
+        "ad": "ÇUKURÇEŞME (ASKERİYE)",
+        "lat": 37.76066,
+        "lon": 30.35271
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "DERE",
+        "ad": "DERE",
+        "lat": 37.71869,
+        "lon": 30.29543
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "DEŞTİMANKALE (KAYAALTI)",
+        "ad": "DEŞTİMANKALE (KAYAALTI)",
+        "lat": 37.62088,
+        "lon": 30.34808
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "EMEK",
+        "ad": "EMEK",
+        "lat": 37.7199,
+        "lon": 30.25878
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "FATİH (BÜĞDÜZ)",
+        "ad": "FATİH (BÜĞDÜZ)",
+        "lat": 37.62276,
+        "lon": 30.28222
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "FEVZİ ÇAKMAK",
+        "ad": "FEVZİ ÇAKMAK",
+        "lat": 37.71385,
+        "lon": 30.23422
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "HAL (ASKERİYE)",
+        "ad": "HAL (ASKERİYE)",
+        "lat": 37.7582,
+        "lon": 30.34467
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "HIZIR İLYAS",
+        "ad": "HIZIR İLYAS",
+        "lat": 37.76084,
+        "lon": 30.28391
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "İĞDEDERESİ (KAYAALTI)",
+        "ad": "İĞDEDERESİ (KAYAALTI)",
+        "lat": 37.63362,
+        "lon": 30.34478
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "İNÖNÜ",
+        "ad": "İNÖNÜ",
+        "lat": 37.71819,
+        "lon": 30.28937
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "İNSUYU (ÇATAĞIL)",
+        "ad": "İNSUYU (ÇATAĞIL)",
+        "lat": 37.68839,
+        "lon": 30.37978
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "İTLER ÇERKİNİ (SARIOVA)",
+        "ad": "İTLER ÇERKİNİ (SARIOVA)",
+        "lat": 37.59661,
+        "lon": 30.41899
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KAPLANPINARI (SARIOVA)",
+        "ad": "KAPLANPINARI (SARIOVA)",
+        "lat": 37.59887,
+        "lon": 30.42542
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KARADERE (ASKERİYE)",
+        "ad": "KARADERE (ASKERİYE)",
+        "lat": 37.76688,
+        "lon": 30.36247
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KARASENİR",
+        "ad": "KARASENİR",
+        "lat": 37.7136,
+        "lon": 30.28015
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KARA TAŞ (GÖKÇEBAĞ)",
+        "ad": "KARA TAŞ (GÖKÇEBAĞ)",
+        "lat": 37.8258,
+        "lon": 30.40584
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KARŞI (AKYAYLA)",
+        "ad": "KARŞI (AKYAYLA)",
+        "lat": 37.51425,
+        "lon": 30.35005
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KAVAK ALTI (GÖKÇEBAĞ)",
+        "ad": "KAVAK ALTI (GÖKÇEBAĞ)",
+        "lat": 37.82876,
+        "lon": 30.39234
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KAYADİBİ SULUDERE (SULUDERE)",
+        "ad": "KAYADİBİ SULUDERE (SULUDERE)",
+        "lat": 37.67057,
+        "lon": 30.12744
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KERPİÇÇUKURU (KAYAALTI)",
+        "ad": "KERPİÇÇUKURU (KAYAALTI)",
+        "lat": 37.62312,
+        "lon": 30.3483
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KIŞLA",
+        "ad": "KIŞLA",
+        "lat": 37.76655,
+        "lon": 30.32654
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KIŞLAOSB",
+        "ad": "KIŞLAOSB",
+        "lat": 37.75625,
+        "lon": 30.32259
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KONAK",
+        "ad": "KONAK",
+        "lat": 37.71832,
+        "lon": 30.28225
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYİÇİ (GÖKÇEBAĞ)",
+        "ad": "KÖYİÇİ (GÖKÇEBAĞ)",
+        "lat": 37.79233,
+        "lon": 30.44098
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (AKSU)",
+        "ad": "KÖYÜN KENDİSİ (AKSU)",
+        "lat": 37.52959,
+        "lon": 30.31149
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (AKYAKA)",
+        "ad": "KÖYÜN KENDİSİ (AKYAKA)",
+        "lat": 37.58129,
+        "lon": 30.17202
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (AŞAĞI MÜSLÜMLER)",
+        "ad": "KÖYÜN KENDİSİ (AŞAĞI MÜSLÜMLER)",
+        "lat": 37.64576,
+        "lon": 30.01827
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (AZİZİYE)",
+        "ad": "KÖYÜN KENDİSİ (AZİZİYE)",
+        "lat": 37.45361,
+        "lon": 30.27341
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (BAŞMAKÇI)",
+        "ad": "KÖYÜN KENDİSİ (BAŞMAKÇI)",
+        "lat": 37.79189,
+        "lon": 30.01346
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (BAYINDIR)",
+        "ad": "KÖYÜN KENDİSİ (BAYINDIR)",
+        "lat": 37.63985,
+        "lon": 30.34033
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (BEREKET)",
+        "ad": "KÖYÜN KENDİSİ (BEREKET)",
+        "lat": 37.56572,
+        "lon": 30.31206
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (BEŞKAVAK)",
+        "ad": "KÖYÜN KENDİSİ (BEŞKAVAK)",
+        "lat": 37.5968,
+        "lon": 30.39765
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (BOĞAZİÇİ)",
+        "ad": "KÖYÜN KENDİSİ (BOĞAZİÇİ)",
+        "lat": 37.54128,
+        "lon": 30.02892
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (BOZLAR)",
+        "ad": "KÖYÜN KENDİSİ (BOZLAR)",
+        "lat": 37.4055,
+        "lon": 30.24341
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (ÇENDİK)",
+        "ad": "KÖYÜN KENDİSİ (ÇENDİK)",
+        "lat": 37.70753,
+        "lon": 30.23628
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (ÇİNE)",
+        "ad": "KÖYÜN KENDİSİ (ÇİNE)",
+        "lat": 37.66403,
+        "lon": 30.38231
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (DÜĞER)",
+        "ad": "KÖYÜN KENDİSİ (DÜĞER)",
+        "lat": 37.60892,
+        "lon": 30.0407
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (ERİKLİ)",
+        "ad": "KÖYÜN KENDİSİ (ERİKLİ)",
+        "lat": 37.48127,
+        "lon": 30.25304
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (GÜNALAN)",
+        "ad": "KÖYÜN KENDİSİ (GÜNALAN)",
+        "lat": 37.73431,
+        "lon": 30.41626
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (GÜNEYYAYLA)",
+        "ad": "KÖYÜN KENDİSİ (GÜNEYYAYLA)",
+        "lat": 37.68139,
+        "lon": 30.42304
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (HACILAR)",
+        "ad": "KÖYÜN KENDİSİ (HACILAR)",
+        "lat": 37.57441,
+        "lon": 30.11454
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (HALICILAR)",
+        "ad": "KÖYÜN KENDİSİ (HALICILAR)",
+        "lat": 37.72736,
+        "lon": 30.43365
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (İĞDELİ)",
+        "ad": "KÖYÜN KENDİSİ (İĞDELİ)",
+        "lat": 37.54354,
+        "lon": 30.14525
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (KAPAKLI)",
+        "ad": "KÖYÜN KENDİSİ (KAPAKLI)",
+        "lat": 37.45499,
+        "lon": 30.32294
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (KARACAÖREN)",
+        "ad": "KÖYÜN KENDİSİ (KARACAÖREN)",
+        "lat": 37.56831,
+        "lon": 30.1791
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (KARAÇAL)",
+        "ad": "KÖYÜN KENDİSİ (KARAÇAL)",
+        "lat": 37.56805,
+        "lon": 30.07317
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (KARAKENT)",
+        "ad": "KÖYÜN KENDİSİ (KARAKENT)",
+        "lat": 37.74131,
+        "lon": 30.08836
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (KARTALPINAR)",
+        "ad": "KÖYÜN KENDİSİ (KARTALPINAR)",
+        "lat": 37.61373,
+        "lon": 30.45504
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (KAVACIK)",
+        "ad": "KÖYÜN KENDİSİ (KAVACIK)",
+        "lat": 37.75681,
+        "lon": 30.00383
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (KAYIŞ)",
+        "ad": "KÖYÜN KENDİSİ (KAYIŞ)",
+        "lat": 37.5745,
+        "lon": 30.36258
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (KOCAPINAR)",
+        "ad": "KÖYÜN KENDİSİ (KOCAPINAR)",
+        "lat": 37.55737,
+        "lon": 29.982
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (KÖKEZ)",
+        "ad": "KÖYÜN KENDİSİ (KÖKEZ)",
+        "lat": 37.57378,
+        "lon": 30.29792
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (KUMLUCA)",
+        "ad": "KÖYÜN KENDİSİ (KUMLUCA)",
+        "lat": 37.65978,
+        "lon": 30.01128
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (KURNA)",
+        "ad": "KÖYÜN KENDİSİ (KURNA)",
+        "lat": 37.71578,
+        "lon": 30.33684
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (KURUÇAY)",
+        "ad": "KÖYÜN KENDİSİ (KURUÇAY)",
+        "lat": 37.6383,
+        "lon": 30.21037
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (SARIOVA)",
+        "ad": "KÖYÜN KENDİSİ (SARIOVA)",
+        "lat": 37.61544,
+        "lon": 30.44516
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (SOĞANLI)",
+        "ad": "KÖYÜN KENDİSİ (SOĞANLI)",
+        "lat": 37.60267,
+        "lon": 30.21785
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (TAŞKAPI)",
+        "ad": "KÖYÜN KENDİSİ (TAŞKAPI)",
+        "lat": 37.65555,
+        "lon": 30.44695
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (ULUPINAR)",
+        "ad": "KÖYÜN KENDİSİ (ULUPINAR)",
+        "lat": 37.78783,
+        "lon": 29.98332
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (YARIKÖY)",
+        "ad": "KÖYÜN KENDİSİ (YARIKÖY)",
+        "lat": 37.61239,
+        "lon": 30.08157
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (YAYLABELİ)",
+        "ad": "KÖYÜN KENDİSİ (YAYLABELİ)",
+        "lat": 37.70437,
+        "lon": 30.03525
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (YAZIKÖY)",
+        "ad": "KÖYÜN KENDİSİ (YAZIKÖY)",
+        "lat": 37.65138,
+        "lon": 30.10542
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KÖYÜN KENDİSİ (YEŞİLDAĞ)",
+        "ad": "KÖYÜN KENDİSİ (YEŞİLDAĞ)",
+        "lat": 37.53291,
+        "lon": 30.23931
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "KUYU",
+        "ad": "KUYU",
+        "lat": 37.71525,
+        "lon": 30.2903
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "MANDIRA (ÇATAĞIL)",
+        "ad": "MANDIRA (ÇATAĞIL)",
+        "lat": 37.69948,
+        "lon": 30.37934
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "MEHMET AKİF ERSOY",
+        "ad": "MEHMET AKİF ERSOY",
+        "lat": 37.71941,
+        "lon": 30.29825
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "MENDERES",
+        "ad": "MENDERES",
+        "lat": 37.76277,
+        "lon": 30.30491
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "MENDERES (BÜĞDÜZ)",
+        "ad": "MENDERES (BÜĞDÜZ)",
+        "lat": 37.61725,
+        "lon": 30.27744
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "MEZARLIK (KAYAALTI)",
+        "ad": "MEZARLIK (KAYAALTI)",
+        "lat": 37.62337,
+        "lon": 30.3589
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "MİTHAT PAŞA (KOZLUCA)",
+        "ad": "MİTHAT PAŞA (KOZLUCA)",
+        "lat": 37.5141,
+        "lon": 30.1385
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "NECATİ BEY",
+        "ad": "NECATİ BEY",
+        "lat": 37.71026,
+        "lon": 30.2951
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "OĞUZHAN (BÜĞDÜZ)",
+        "ad": "OĞUZHAN (BÜĞDÜZ)",
+        "lat": 37.71178,
+        "lon": 30.25596
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "ORTA (İLYAS)",
+        "ad": "ORTA (İLYAS)",
+        "lat": 37.78545,
+        "lon": 30.119
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "ORTA (KAYAALTI)",
+        "ad": "ORTA (KAYAALTI)",
+        "lat": 37.62706,
+        "lon": 30.35372
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "OVA (ÇALLICA)",
+        "ad": "OVA (ÇALLICA)",
+        "lat": 37.48761,
+        "lon": 30.06324
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "OVA (KAYAALTI)",
+        "ad": "OVA (KAYAALTI)",
+        "lat": 37.66152,
+        "lon": 30.36543
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "ÖZGÜR",
+        "ad": "ÖZGÜR",
+        "lat": 37.71935,
+        "lon": 30.28682
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "PARK (KOZLUCA)",
+        "ad": "PARK (KOZLUCA)",
+        "lat": 37.49434,
+        "lon": 30.13742
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "PAZAR",
+        "ad": "PAZAR",
+        "lat": 37.7181,
+        "lon": 30.28778
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "RECEP",
+        "ad": "RECEP",
+        "lat": 37.71916,
+        "lon": 30.291
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "SAKARYA",
+        "ad": "SAKARYA",
+        "lat": 37.71655,
+        "lon": 30.28499
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "SARAY (KOZLUCA)",
+        "ad": "SARAY (KOZLUCA)",
+        "lat": 37.49908,
+        "lon": 30.06496
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "SIĞIRBİRİKEN (KAYAALTI)",
+        "ad": "SIĞIRBİRİKEN (KAYAALTI)",
+        "lat": 37.62217,
+        "lon": 30.35144
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "SİNAN",
+        "ad": "SİNAN",
+        "lat": 37.71336,
+        "lon": 30.28617
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "ŞEKER EVLERİ",
+        "ad": "ŞEKER EVLERİ",
+        "lat": 37.71877,
+        "lon": 30.27362
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "ŞİRİNEVLER",
+        "ad": "ŞİRİNEVLER",
+        "lat": 37.72846,
+        "lon": 30.30329
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "TEPE",
+        "ad": "TEPE",
+        "lat": 37.71321,
+        "lon": 30.28438
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "TEPE (CİMBİLLİ)",
+        "ad": "TEPE (CİMBİLLİ)",
+        "lat": 37.70976,
+        "lon": 30.05155
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "ÜÇDİBEK",
+        "ad": "ÜÇDİBEK",
+        "lat": 37.71736,
+        "lon": 30.28707
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "YAKA (ASKERİYE)",
+        "ad": "YAKA (ASKERİYE)",
+        "lat": 37.78565,
+        "lon": 30.34886
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "YENİ",
+        "ad": "YENİ",
+        "lat": 37.7243,
+        "lon": 30.29965
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "YENİ CAMİ (ASKERİYE)",
+        "ad": "YENİ CAMİ (ASKERİYE)",
+        "lat": 37.76176,
+        "lon": 30.3494
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "YENİCE",
+        "ad": "YENİCE",
+        "lat": 37.72082,
+        "lon": 30.2919
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "YENİ SULUDERE (SULUDERE)",
+        "ad": "YENİ SULUDERE (SULUDERE)",
+        "lat": 37.6749,
+        "lon": 30.13959
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "Y.KÖKEZ (KÖKEZ)",
+        "ad": "Y.KÖKEZ (KÖKEZ)",
+        "lat": 37.58157,
+        "lon": 30.31898
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "YOL ALTI (GÖKÇEBAĞ)",
+        "ad": "YOL ALTI (GÖKÇEBAĞ)",
+        "lat": 37.79996,
+        "lon": 30.35704
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "YUKARI CİNBİLLİ (CİMBİLLİ)",
+        "ad": "YUKARI CİNBİLLİ (CİMBİLLİ)",
+        "lat": 37.71323,
+        "lon": 30.05439
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "YUKARI (ÇALLICA)",
+        "ad": "YUKARI (ÇALLICA)",
+        "lat": 37.52069,
+        "lon": 30.00118
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "YUKARI SULUDERE (SULUDERE)",
+        "ad": "YUKARI SULUDERE (SULUDERE)",
+        "lat": 37.6356,
+        "lon": 30.22614
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "YUKARI TEKKEÖNÜ (ASKERİYE)",
+        "ad": "YUKARI TEKKEÖNÜ (ASKERİYE)",
+        "lat": 37.75461,
+        "lon": 30.34829
+    },
+    {
+        "il": "Burdur",
+        "ilce": "MERKEZ",
+        "mahalle": "ZAFER",
+        "ad": "ZAFER",
+        "lat": 37.716,
+        "lon": 30.28271
+    },
+    {
+        "il": "Burdur",
+        "ilce": "TEFENNİ",
+        "mahalle": "AŞIKLAR (HASANPAŞA)",
+        "ad": "AŞIKLAR (HASANPAŞA)",
+        "lat": 37.24166,
+        "lon": 29.86983
+    },
+    {
+        "il": "Burdur",
+        "ilce": "TEFENNİ",
+        "mahalle": "BEŞİKTAŞ (BEYKÖY)",
+        "ad": "BEŞİKTAŞ (BEYKÖY)",
+        "lat": 37.2567,
+        "lon": 29.73628
+    },
+    {
+        "il": "Burdur",
+        "ilce": "TEFENNİ",
+        "mahalle": "CUMHURİYET (HASANPAŞA)",
+        "ad": "CUMHURİYET (HASANPAŞA)",
+        "lat": 37.18567,
+        "lon": 29.90429
+    },
+    {
+        "il": "Burdur",
+        "ilce": "TEFENNİ",
+        "mahalle": "ESENTEPE",
+        "ad": "ESENTEPE",
+        "lat": 37.31336,
+        "lon": 29.84055
+    },
+    {
+        "il": "Burdur",
+        "ilce": "TEFENNİ",
+        "mahalle": "EŞELER",
+        "ad": "EŞELER",
+        "lat": 37.30848,
+        "lon": 29.77441
+    },
+    {
+        "il": "Burdur",
+        "ilce": "TEFENNİ",
+        "mahalle": "FATİH",
+        "ad": "FATİH",
+        "lat": 37.32911,
+        "lon": 29.79212
+    },
+    {
+        "il": "Burdur",
+        "ilce": "TEFENNİ",
+        "mahalle": "GÖKTÜRK",
+        "ad": "GÖKTÜRK",
+        "lat": 37.32707,
+        "lon": 29.79
+    },
+    {
+        "il": "Burdur",
+        "ilce": "TEFENNİ",
+        "mahalle": "KAKLIK (BEYKÖY)",
+        "ad": "KAKLIK (BEYKÖY)",
+        "lat": 37.2944,
+        "lon": 29.68139
+    },
+    {
+        "il": "Burdur",
+        "ilce": "TEFENNİ",
+        "mahalle": "KIR",
+        "ad": "KIR",
+        "lat": 37.31642,
+        "lon": 29.76258
+    },
+    {
+        "il": "Burdur",
+        "ilce": "TEFENNİ",
+        "mahalle": "KÖYÜN KENDİSİ (BAŞPINAR)",
+        "ad": "KÖYÜN KENDİSİ (BAŞPINAR)",
+        "lat": 37.16533,
+        "lon": 29.8261
+    },
+    {
+        "il": "Burdur",
+        "ilce": "TEFENNİ",
+        "mahalle": "KÖYÜN KENDİSİ (BAYRAMLAR)",
+        "ad": "KÖYÜN KENDİSİ (BAYRAMLAR)",
+        "lat": 37.25536,
+        "lon": 29.83212
+    },
+    {
+        "il": "Burdur",
+        "ilce": "TEFENNİ",
+        "mahalle": "KÖYÜN KENDİSİ (BELKAYA)",
+        "ad": "KÖYÜN KENDİSİ (BELKAYA)",
+        "lat": 37.34178,
+        "lon": 29.62916
+    },
+    {
+        "il": "Burdur",
+        "ilce": "TEFENNİ",
+        "mahalle": "KÖYÜN KENDİSİ (ÇAYLI)",
+        "ad": "KÖYÜN KENDİSİ (ÇAYLI)",
+        "lat": 37.20528,
+        "lon": 29.83963
+    },
+    {
+        "il": "Burdur",
+        "ilce": "TEFENNİ",
+        "mahalle": "KÖYÜN KENDİSİ (ECE)",
+        "ad": "KÖYÜN KENDİSİ (ECE)",
+        "lat": 37.38693,
+        "lon": 29.65661
+    },
+    {
+        "il": "Burdur",
+        "ilce": "TEFENNİ",
+        "mahalle": "KÖYÜN KENDİSİ (KARAMUSA)",
+        "ad": "KÖYÜN KENDİSİ (KARAMUSA)",
+        "lat": 37.20737,
+        "lon": 29.73273
+    },
+    {
+        "il": "Burdur",
+        "ilce": "TEFENNİ",
+        "mahalle": "KÖYÜN KENDİSİ (SAZAK)",
+        "ad": "KÖYÜN KENDİSİ (SAZAK)",
+        "lat": 37.41024,
+        "lon": 29.66789
+    },
+    {
+        "il": "Burdur",
+        "ilce": "TEFENNİ",
+        "mahalle": "KÖYÜN KENDİSİ (SEYDİLER)",
+        "ad": "KÖYÜN KENDİSİ (SEYDİLER)",
+        "lat": 37.26689,
+        "lon": 29.77146
+    },
+    {
+        "il": "Burdur",
+        "ilce": "TEFENNİ",
+        "mahalle": "KÖYÜN KENDİSİ (YAYLAKÖY)",
+        "ad": "KÖYÜN KENDİSİ (YAYLAKÖY)",
+        "lat": 37.28971,
+        "lon": 29.95573
+    },
+    {
+        "il": "Burdur",
+        "ilce": "TEFENNİ",
+        "mahalle": "KÖYÜN KENDİSİ (YEŞİLKÖY)",
+        "ad": "KÖYÜN KENDİSİ (YEŞİLKÖY)",
+        "lat": 37.19655,
+        "lon": 29.86061
+    },
+    {
+        "il": "Burdur",
+        "ilce": "TEFENNİ",
+        "mahalle": "KÖYÜN KENDİSİ (YUVA)",
+        "ad": "KÖYÜN KENDİSİ (YUVA)",
+        "lat": 37.21325,
+        "lon": 29.73588
+    },
+    {
+        "il": "Burdur",
+        "ilce": "TEFENNİ",
+        "mahalle": "KÖYÜN KENDİSİ (YUVALAK)",
+        "ad": "KÖYÜN KENDİSİ (YUVALAK)",
+        "lat": 37.29603,
+        "lon": 29.71302
+    },
+    {
+        "il": "Burdur",
+        "ilce": "TEFENNİ",
+        "mahalle": "PAZAR",
+        "ad": "PAZAR",
+        "lat": 37.31329,
+        "lon": 29.77704
+    },
+    {
+        "il": "Burdur",
+        "ilce": "TEFENNİ",
+        "mahalle": "YENİCE",
+        "ad": "YENİCE",
+        "lat": 37.30689,
+        "lon": 29.77207
+    },
+    {
+        "il": "Burdur",
+        "ilce": "TEFENNİ",
+        "mahalle": "YENİ (HASANPAŞA)",
+        "ad": "YENİ (HASANPAŞA)",
+        "lat": 37.27868,
+        "lon": 29.87691
+    },
+    {
+        "il": "Burdur",
+        "ilce": "TEFENNİ",
+        "mahalle": "YOKUŞ",
+        "ad": "YOKUŞ",
+        "lat": 37.30826,
+        "lon": 29.78116
+    },
+    {
+        "il": "Burdur",
+        "ilce": "TEFENNİ",
+        "mahalle": "ZAFER",
+        "ad": "ZAFER",
+        "lat": 37.3587,
+        "lon": 29.66894
+    },
+    {
+        "il": "Burdur",
+        "ilce": "TEFENNİ",
+        "mahalle": "ZAFER (BEYKÖY)",
+        "ad": "ZAFER (BEYKÖY)",
+        "lat": 37.24024,
+        "lon": 29.69289
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "1.KÜME EVLER (ORHANLI)",
+        "ad": "1.KÜME EVLER (ORHANLI)",
+        "lat": 37.63399,
+        "lon": 29.77145
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "2.KÜME EVLER (ORHANLI)",
+        "ad": "2.KÜME EVLER (ORHANLI)",
+        "lat": 37.63303,
+        "lon": 29.83671
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "AŞAĞI CAMİ (GÜNEY)",
+        "ad": "AŞAĞI CAMİ (GÜNEY)",
+        "lat": 37.50431,
+        "lon": 29.5046
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "AŞAĞI (SALDA)",
+        "ad": "AŞAĞI (SALDA)",
+        "lat": 37.53377,
+        "lon": 29.65215
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "ATATÜRK  (ÇUVALLI)",
+        "ad": "ATATÜRK (ÇUVALLI)",
+        "lat": 37.5344,
+        "lon": 29.84542
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "BAHCELİEVLER",
+        "ad": "BAHCELİEVLER",
+        "lat": 37.55444,
+        "lon": 29.80128
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "BAHÇELİ EVLER (ÇALTEPE)",
+        "ad": "BAHÇELİ EVLER (ÇALTEPE)",
+        "lat": 37.45278,
+        "lon": 29.81777
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "CAMİ  (ÇUVALLI)",
+        "ad": "CAMİ (ÇUVALLI)",
+        "lat": 37.51763,
+        "lon": 29.85107
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "DEĞİRMEN",
+        "ad": "DEĞİRMEN",
+        "lat": 37.5065,
+        "lon": 29.74758
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "EMEK",
+        "ad": "EMEK",
+        "lat": 37.50421,
+        "lon": 29.75375
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "HÜYÜK (YARIŞLI)",
+        "ad": "HÜYÜK (YARIŞLI)",
+        "lat": 37.62865,
+        "lon": 29.93777
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KARAATLI",
+        "ad": "KARAATLI",
+        "lat": 37.5685,
+        "lon": 29.81974
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KARAKÖY (HARMANLI)",
+        "ad": "KARAKÖY (HARMANLI)",
+        "lat": 37.61302,
+        "lon": 29.92028
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KARŞI (HARMANLI)",
+        "ad": "KARŞI (HARMANLI)",
+        "lat": 37.57446,
+        "lon": 29.86685
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KAYADİBİ",
+        "ad": "KAYADİBİ",
+        "lat": 37.56208,
+        "lon": 29.791
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KAYAKÖY (ALANKÖY)",
+        "ad": "KAYAKÖY (ALANKÖY)",
+        "lat": 37.69509,
+        "lon": 29.87042
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KOYUNLAR ÇEŞME",
+        "ad": "KOYUNLAR ÇEŞME",
+        "lat": 37.50696,
+        "lon": 29.76343
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KÖYİÇİ (AKÇAKÖY)",
+        "ad": "KÖYİÇİ (AKÇAKÖY)",
+        "lat": 37.72911,
+        "lon": 29.92024
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KÖYİÇİ (ALANKÖY)",
+        "ad": "KÖYİÇİ (ALANKÖY)",
+        "lat": 37.68957,
+        "lon": 29.87653
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KÖYİÇİ (BAŞKUYU)",
+        "ad": "KÖYİÇİ (BAŞKUYU)",
+        "lat": 37.50184,
+        "lon": 29.93227
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KÖYİÇİ (BEDİRLİ)",
+        "ad": "KÖYİÇİ (BEDİRLİ)",
+        "lat": 37.49466,
+        "lon": 29.85572
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KÖYİÇİ (BÜYÜKYAKA)",
+        "ad": "KÖYİÇİ (BÜYÜKYAKA)",
+        "lat": 37.66959,
+        "lon": 29.89556
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KÖYİÇİ (ÇALTEPE)",
+        "ad": "KÖYİÇİ (ÇALTEPE)",
+        "lat": 37.48408,
+        "lon": 29.79609
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KÖYİÇİ (ÇELTEK)",
+        "ad": "KÖYİÇİ (ÇELTEK)",
+        "lat": 37.51601,
+        "lon": 29.94439
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KÖYİÇİ (ÇUVALLI)",
+        "ad": "KÖYİÇİ (ÇUVALLI)",
+        "lat": 37.52298,
+        "lon": 29.85584
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KÖYİÇİ (DOĞANBABA)",
+        "ad": "KÖYİÇİ (DOĞANBABA)",
+        "lat": 37.62827,
+        "lon": 29.62224
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KÖYİÇİ (IŞIKLAR)",
+        "ad": "KÖYİÇİ (IŞIKLAR)",
+        "lat": 37.59387,
+        "lon": 29.75267
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KÖYİÇİ (ONACAK)",
+        "ad": "KÖYİÇİ (ONACAK)",
+        "lat": 37.66981,
+        "lon": 29.94076
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KÖYİÇİ (ÖRENCİK)",
+        "ad": "KÖYİÇİ (ÖRENCİK)",
+        "lat": 37.74751,
+        "lon": 29.98124
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KÖYİÇİ (YARIŞLI)",
+        "ad": "KÖYİÇİ (YARIŞLI)",
+        "lat": 37.59452,
+        "lon": 29.92191
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KÖYÜN KENDİSİ (ARMUT)",
+        "ad": "KÖYÜN KENDİSİ (ARMUT)",
+        "lat": 37.76797,
+        "lon": 29.8895
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KÖYÜN KENDİSİ (AŞAĞI KIRLI)",
+        "ad": "KÖYÜN KENDİSİ (AŞAĞI KIRLI)",
+        "lat": 37.71759,
+        "lon": 29.73909
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KÖYÜN KENDİSİ (BAYINDIR)",
+        "ad": "KÖYÜN KENDİSİ (BAYINDIR)",
+        "lat": 37.66978,
+        "lon": 29.73852
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KÖYÜN KENDİSİ (BEYKÖY)",
+        "ad": "KÖYÜN KENDİSİ (BEYKÖY)",
+        "lat": 37.61096,
+        "lon": 29.8698
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KÖYÜN KENDİSİ (ÇARDAK)",
+        "ad": "KÖYÜN KENDİSİ (ÇARDAK)",
+        "lat": 37.72561,
+        "lon": 29.95209
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KÖYÜN KENDİSİ (DEREKÖY)",
+        "ad": "KÖYÜN KENDİSİ (DEREKÖY)",
+        "lat": 37.69335,
+        "lon": 29.78735
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KÖYÜN KENDİSİ (DÜDEN)",
+        "ad": "KÖYÜN KENDİSİ (DÜDEN)",
+        "lat": 37.61132,
+        "lon": 29.55876
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KÖYÜN KENDİSİ (ELDEN)",
+        "ad": "KÖYÜN KENDİSİ (ELDEN)",
+        "lat": 37.76066,
+        "lon": 29.94856
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KÖYÜN KENDİSİ (GÖKÇEYAKA)",
+        "ad": "KÖYÜN KENDİSİ (GÖKÇEYAKA)",
+        "lat": 37.69711,
+        "lon": 29.90773
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KÖYÜN KENDİSİ (HOROZKÖY)",
+        "ad": "KÖYÜN KENDİSİ (HOROZKÖY)",
+        "lat": 37.47249,
+        "lon": 29.6286
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KÖYÜN KENDİSİ (İĞDİR)",
+        "ad": "KÖYÜN KENDİSİ (İĞDİR)",
+        "lat": 37.79614,
+        "lon": 29.9684
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KÖYÜN KENDİSİ (KARAKÖY)",
+        "ad": "KÖYÜN KENDİSİ (KARAKÖY)",
+        "lat": 37.44296,
+        "lon": 29.5844
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KÖYÜN KENDİSİ (KAVAK)",
+        "ad": "KÖYÜN KENDİSİ (KAVAK)",
+        "lat": 37.59885,
+        "lon": 29.76678
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KÖYÜN KENDİSİ (NİYAZLAR)",
+        "ad": "KÖYÜN KENDİSİ (NİYAZLAR)",
+        "lat": 37.48878,
+        "lon": 29.74797
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KÖYÜN KENDİSİ (ORHANLI)",
+        "ad": "KÖYÜN KENDİSİ (ORHANLI)",
+        "lat": 37.62099,
+        "lon": 29.79612
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KÖYÜN KENDİSİ (SAZAK)",
+        "ad": "KÖYÜN KENDİSİ (SAZAK)",
+        "lat": 37.57255,
+        "lon": 29.92596
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KÖYÜN KENDİSİ (TAŞPINAR)",
+        "ad": "KÖYÜN KENDİSİ (TAŞPINAR)",
+        "lat": 37.64352,
+        "lon": 29.76389
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KÖYÜN KENDİSİ (YUKARI KIRLI)",
+        "ad": "KÖYÜN KENDİSİ (YUKARI KIRLI)",
+        "lat": 37.68377,
+        "lon": 29.6989
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "KUMLUK  (ÇUVALLI)",
+        "ad": "KUMLUK (ÇUVALLI)",
+        "lat": 37.5182,
+        "lon": 29.87906
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "MERKEZ",
+        "ad": "MERKEZ",
+        "lat": 37.51582,
+        "lon": 29.7508
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "MERKEZ (HARMANLI)",
+        "ad": "MERKEZ (HARMANLI)",
+        "lat": 37.60934,
+        "lon": 29.88217
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "ÖMERLER (ÖRENCİK)",
+        "ad": "ÖMERLER (ÖRENCİK)",
+        "lat": 37.72464,
+        "lon": 29.96554
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "SAĞLIK OCAĞI (YARIŞLI)",
+        "ad": "SAĞLIK OCAĞI (YARIŞLI)",
+        "lat": 37.60367,
+        "lon": 29.94063
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "ŞEHİT İSMAİL ERÇOBAN (ÇALTEPE)",
+        "ad": "ŞEHİT İSMAİL ERÇOBAN (ÇALTEPE)",
+        "lat": 37.4518,
+        "lon": 29.80166
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "TEKKE (YARIŞLI)",
+        "ad": "TEKKE (YARIŞLI)",
+        "lat": 37.60222,
+        "lon": 29.92381
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "YAKA (ÇALTEPE)",
+        "ad": "YAKA (ÇALTEPE)",
+        "lat": 37.46092,
+        "lon": 29.78251
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "YENİ BAĞLAR (ÇUVALLI)",
+        "ad": "YENİ BAĞLAR (ÇUVALLI)",
+        "lat": 37.51609,
+        "lon": 29.85107
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "YENİ  (ÇALTEPE)",
+        "ad": "YENİ (ÇALTEPE)",
+        "lat": 37.45909,
+        "lon": 29.80523
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "YUKARI CAMİ (GÜNEY)",
+        "ad": "YUKARI CAMİ (GÜNEY)",
+        "lat": 37.52681,
+        "lon": 29.57931
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "YUKARI MÜSLÜMLER (YARIŞLI)",
+        "ad": "YUKARI MÜSLÜMLER (YARIŞLI)",
+        "lat": 37.59592,
+        "lon": 29.93972
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "YUKARI  (ONACAK)",
+        "ad": "YUKARI (ONACAK)",
+        "lat": 37.64713,
+        "lon": 29.94713
+    },
+    {
+        "il": "Burdur",
+        "ilce": "YEŞİLOVA",
+        "mahalle": "YUKARI (SALDA)",
+        "ad": "YUKARI (SALDA)",
+        "lat": 37.57421,
+        "lon": 29.60729
+    }
+]

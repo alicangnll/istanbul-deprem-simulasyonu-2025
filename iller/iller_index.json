@@ -1,0 +1,542 @@
+[
+  {
+    "slug": "adana",
+    "name": "Adana",
+    "count": 827,
+    "center": [
+      37.2468,
+      35.5554
+    ],
+    "file": "iller/adana/toplanma_alanlari.json"
+  },
+  {
+    "slug": "adiyaman",
+    "name": "Adıyaman",
+    "count": 1216,
+    "center": [
+      37.8123,
+      38.3637
+    ],
+    "file": "iller/adiyaman/toplanma_alanlari.json"
+  },
+  {
+    "slug": "afyonkarahisar",
+    "name": "Afyonkarahisar",
+    "count": 969,
+    "center": [
+      38.6042,
+      30.576
+    ],
+    "file": "iller/afyonkarahisar/toplanma_alanlari.json"
+  },
+  {
+    "slug": "agri",
+    "name": "Ağrı",
+    "count": 963,
+    "center": [
+      39.528,
+      43.2034
+    ],
+    "file": "iller/agri/toplanma_alanlari.json"
+  },
+  {
+    "slug": "aksaray",
+    "name": "Aksaray",
+    "count": 400,
+    "center": [
+      38.5122,
+      33.9971
+    ],
+    "file": "iller/aksaray/toplanma_alanlari.json"
+  },
+  {
+    "slug": "amasya",
+    "name": "Amasya",
+    "count": 719,
+    "center": [
+      40.7427,
+      35.7523
+    ],
+    "file": "iller/amasya/toplanma_alanlari.json"
+  },
+  {
+    "slug": "ankara",
+    "name": "Ankara",
+    "count": 1400,
+    "center": [
+      39.938,
+      32.6597
+    ],
+    "file": "iller/ankara/toplanma_alanlari.json"
+  },
+  {
+    "slug": "antalya",
+    "name": "Antalya",
+    "count": 873,
+    "center": [
+      36.7949,
+      30.9745
+    ],
+    "file": "iller/antalya/toplanma_alanlari.json"
+  },
+  {
+    "slug": "ardahan",
+    "name": "Ardahan",
+    "count": 351,
+    "center": [
+      41.216,
+      42.7876
+    ],
+    "file": "iller/ardahan/toplanma_alanlari.json"
+  },
+  {
+    "slug": "artvin",
+    "name": "Artvin",
+    "count": 1845,
+    "center": [
+      41.1133,
+      41.851
+    ],
+    "file": "iller/artvin/toplanma_alanlari.json"
+  },
+  {
+    "slug": "aydin",
+    "name": "Aydın",
+    "count": 657,
+    "center": [
+      37.8006,
+      28.026
+    ],
+    "file": "iller/aydin/toplanma_alanlari.json"
+  },
+  {
+    "slug": "balikesir",
+    "name": "Balıkesir",
+    "count": 1112,
+    "center": [
+      39.7104,
+      27.8363
+    ],
+    "file": "iller/balikesir/toplanma_alanlari.json"
+  },
+  {
+    "slug": "bartin",
+    "name": "Bartın",
+    "count": 1011,
+    "center": [
+      41.5867,
+      32.4702
+    ],
+    "file": "iller/bartin/toplanma_alanlari.json"
+  },
+  {
+    "slug": "batman",
+    "name": "Batman",
+    "count": 732,
+    "center": [
+      38.0672,
+      41.3766
+    ],
+    "file": "iller/batman/toplanma_alanlari.json"
+  },
+  {
+    "slug": "bayburt",
+    "name": "Bayburt",
+    "count": 237,
+    "center": [
+      40.2826,
+      40.1935
+    ],
+    "file": "iller/bayburt/toplanma_alanlari.json"
+  },
+  {
+    "slug": "bilecik",
+    "name": "Bilecik",
+    "count": 363,
+    "center": [
+      40.1414,
+      30.1108
+    ],
+    "file": "iller/bilecik/toplanma_alanlari.json"
+  },
+  {
+    "slug": "bingol",
+    "name": "Bingöl",
+    "count": 1128,
+    "center": [
+      38.9537,
+      40.6439
+    ],
+    "file": "iller/bingol/toplanma_alanlari.json"
+  },
+  {
+    "slug": "bitlis",
+    "name": "Bitlis",
+    "count": 754,
+    "center": [
+      38.4143,
+      42.2796
+    ],
+    "file": "iller/bitlis/toplanma_alanlari.json"
+  },
+  {
+    "slug": "bolu",
+    "name": "Bolu",
+    "count": 1590,
+    "center": [
+      40.6765,
+      31.7561
+    ],
+    "file": "iller/bolu/toplanma_alanlari.json"
+  },
+  {
+    "slug": "burdur",
+    "name": "Burdur",
+    "count": 493,
+    "center": [
+      37.4316,
+      30.1116
+    ],
+    "file": "iller/burdur/toplanma_alanlari.json"
+  },
+  {
+    "slug": "bursa",
+    "name": "Bursa",
+    "count": 1045,
+    "center": [
+      40.1477,
+      29.0526
+    ],
+    "file": "iller/bursa/toplanma_alanlari.json"
+  },
+  {
+    "slug": "canakkale",
+    "name": "Çanakkale",
+    "count": 903,
+    "center": [
+      40.002,
+      26.744
+    ],
+    "file": "iller/canakkale/toplanma_alanlari.json"
+  },
+  {
+    "slug": "cankiri",
+    "name": "Çankırı",
+    "count": 626,
+    "center": [
+      40.7616,
+      33.3921
+    ],
+    "file": "iller/cankiri/toplanma_alanlari.json"
+  },
+  {
+    "slug": "corum",
+    "name": "Çorum",
+    "count": 1455,
+    "center": [
+      40.6812,
+      34.6605
+    ],
+    "file": "iller/corum/toplanma_alanlari.json"
+  },
+  {
+    "slug": "denizli",
+    "name": "Denizli",
+    "count": 941,
+    "center": [
+      37.7983,
+      29.2129
+    ],
+    "file": "iller/denizli/toplanma_alanlari.json"
+  },
+  {
+    "slug": "diyarbakir",
+    "name": "Diyarbakır",
+    "count": 1016,
+    "center": [
+      38.1054,
+      40.3092
+    ],
+    "file": "iller/diyarbakir/toplanma_alanlari.json"
+  },
+  {
+    "slug": "duzce",
+    "name": "Düzce",
+    "count": 688,
+    "center": [
+      40.8703,
+      31.1655
+    ],
+    "file": "iller/duzce/toplanma_alanlari.json"
+  },
+  {
+    "slug": "edirne",
+    "name": "Edirne",
+    "count": 362,
+    "center": [
+      41.2764,
+      26.6112
+    ],
+    "file": "iller/edirne/toplanma_alanlari.json"
+  },
+  {
+    "slug": "elazig",
+    "name": "Elazığ",
+    "count": 1406,
+    "center": [
+      38.6408,
+      39.3098
+    ],
+    "file": "iller/elazig/toplanma_alanlari.json"
+  },
+  {
+    "slug": "erzincan",
+    "name": "Erzincan",
+    "count": 1003,
+    "center": [
+      39.691,
+      39.3658
+    ],
+    "file": "iller/erzincan/toplanma_alanlari.json"
+  },
+  {
+    "slug": "erzurum",
+    "name": "Erzurum",
+    "count": 1173,
+    "center": [
+      40.0728,
+      41.5757
+    ],
+    "file": "iller/erzurum/toplanma_alanlari.json"
+  },
+  {
+    "slug": "eskisehir",
+    "name": "Eskişehir",
+    "count": 529,
+    "center": [
+      39.6554,
+      30.9414
+    ],
+    "file": "iller/eskisehir/toplanma_alanlari.json"
+  },
+  {
+    "slug": "gaziantep",
+    "name": "Gaziantep",
+    "count": 926,
+    "center": [
+      37.0735,
+      37.4033
+    ],
+    "file": "iller/gaziantep/toplanma_alanlari.json"
+  },
+  {
+    "slug": "giresun",
+    "name": "Giresun",
+    "count": 2685,
+    "center": [
+      40.7939,
+      38.6128
+    ],
+    "file": "iller/giresun/toplanma_alanlari.json"
+  },
+  {
+    "slug": "gumushane",
+    "name": "Gümüşhane",
+    "count": 1150,
+    "center": [
+      40.4679,
+      39.3553
+    ],
+    "file": "iller/gumushane/toplanma_alanlari.json"
+  },
+  {
+    "slug": "hakkari",
+    "name": "Hakkari",
+    "count": 439,
+    "center": [
+      37.4969,
+      44.1343
+    ],
+    "file": "iller/hakkari/toplanma_alanlari.json"
+  },
+  {
+    "slug": "hatay",
+    "name": "Hatay",
+    "count": 1041,
+    "center": [
+      36.3451,
+      36.2487
+    ],
+    "file": "iller/hatay/toplanma_alanlari.json"
+  },
+  {
+    "slug": "igdir",
+    "name": "Iğdır",
+    "count": 243,
+    "center": [
+      39.9395,
+      43.8852
+    ],
+    "file": "iller/igdir/toplanma_alanlari.json"
+  },
+  {
+    "slug": "isparta",
+    "name": "Isparta",
+    "count": 558,
+    "center": [
+      37.9744,
+      30.8939
+    ],
+    "file": "iller/isparta/toplanma_alanlari.json"
+  },
+  {
+    "slug": "istanbul",
+    "name": "İstanbul",
+    "count": 357,
+    "center": [
+      41.0962,
+      28.8578
+    ],
+    "file": "iller/istanbul/toplanma_alanlari.json"
+  },
+  {
+    "slug": "izmir",
+    "name": "İzmir",
+    "count": 2380,
+    "center": [
+      38.4383,
+      27.2242
+    ],
+    "file": "iller/izmir/toplanma_alanlari.json"
+  },
+  {
+    "slug": "kahramanmaras",
+    "name": "Kahramanmaraş",
+    "count": 163,
+    "center": [
+      37.7286,
+      37.04
+    ],
+    "file": "iller/kahramanmaras/toplanma_alanlari.json"
+  },
+  {
+    "slug": "kayseri",
+    "name": "Kayseri",
+    "count": 7,
+    "center": [
+      38.5814,
+      36.4508
+    ],
+    "file": "iller/kayseri/toplanma_alanlari.json"
+  },
+  {
+    "slug": "kilis",
+    "name": "Kilis",
+    "count": 34,
+    "center": [
+      36.7188,
+      37.1358
+    ],
+    "file": "iller/kilis/toplanma_alanlari.json"
+  },
+  {
+    "slug": "kocaeli",
+    "name": "Kocaeli",
+    "count": 338,
+    "center": [
+      40.7645,
+      29.7437
+    ],
+    "file": "iller/kocaeli/toplanma_alanlari.json"
+  },
+  {
+    "slug": "konya",
+    "name": "Konya",
+    "count": 1117,
+    "center": [
+      37.9491,
+      32.5063
+    ],
+    "file": "iller/konya/toplanma_alanlari.json"
+  },
+  {
+    "slug": "malatya",
+    "name": "Malatya",
+    "count": 65,
+    "center": [
+      38.5728,
+      38.039
+    ],
+    "file": "iller/malatya/toplanma_alanlari.json"
+  },
+  {
+    "slug": "manisa",
+    "name": "Manisa",
+    "count": 247,
+    "center": [
+      38.6384,
+      28.0205
+    ],
+    "file": "iller/manisa/toplanma_alanlari.json"
+  },
+  {
+    "slug": "ordu",
+    "name": "Ordu",
+    "count": 76,
+    "center": [
+      40.8481,
+      37.8444
+    ],
+    "file": "iller/ordu/toplanma_alanlari.json"
+  },
+  {
+    "slug": "osmaniye",
+    "name": "Osmaniye",
+    "count": 4,
+    "center": [
+      37.2637,
+      36.603
+    ],
+    "file": "iller/osmaniye/toplanma_alanlari.json"
+  },
+  {
+    "slug": "sakarya",
+    "name": "Sakarya",
+    "count": 812,
+    "center": [
+      40.7539,
+      30.4648
+    ],
+    "file": "iller/sakarya/toplanma_alanlari.json"
+  },
+  {
+    "slug": "sivas",
+    "name": "Sivas",
+    "count": 125,
+    "center": [
+      39.6578,
+      37.4736
+    ],
+    "file": "iller/sivas/toplanma_alanlari.json"
+  },
+  {
+    "slug": "sanliurfa",
+    "name": "Şanlıurfa",
+    "count": 154,
+    "center": [
+      37.1623,
+      38.3195
+    ],
+    "file": "iller/sanliurfa/toplanma_alanlari.json"
+  },
+  {
+    "slug": "tokat",
+    "name": "Tokat",
+    "count": 3,
+    "center": [
+      40.3722,
+      36.9105
+    ],
+    "file": "iller/tokat/toplanma_alanlari.json"
+  }
+]

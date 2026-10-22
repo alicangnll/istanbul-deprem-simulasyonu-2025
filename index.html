@@ -1,5 +1,6 @@
 <!doctype html>
 <html lang="tr">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -11,7 +12,9 @@
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap"
+        rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
     <!-- Leaflet & MarkerCluster (Local Minified) -->
@@ -27,14 +30,14 @@
             --bg-glass-card: rgba(30, 41, 59, 0.75);
             --border-subtle: rgba(255, 255, 255, 0.12);
             --border-highlight: rgba(255, 255, 255, 0.24);
-            
+
             --text-main: #f8fafc;
             --text-muted: #94a3b8;
             --text-subtle: #64748b;
-            
+
             --primary: #38bdf8;
             --primary-glow: rgba(56, 189, 248, 0.25);
-            
+
             --risk-critical: #ef4444;
             --risk-high: #f97316;
             --risk-moderate: #f59e0b;
@@ -49,13 +52,16 @@
             --shadow-panel: 0 10px 25px -5px rgba(0, 0, 0, 0.5), 0 8px 10px -6px rgba(0, 0, 0, 0.4);
         }
 
-        *, *::before, *::after {
+        *,
+        *::before,
+        *::after {
             box-sizing: border-box;
             margin: 0;
             padding: 0;
         }
 
-        html, body {
+        html,
+        body {
             height: 100%;
             width: 100%;
             overflow: hidden;
@@ -73,166 +79,327 @@
         }
 
         /* --------------------------------------------------------------------------
-           1. Üst Sol: Kompakt Başlık ve Uyarı / Bilgilendirme Paneli
+           1. Üst Navigasyon Konteyneri (Flexbox - Üst Üste Binmeyi Önler)
            -------------------------------------------------------------------------- */
-        .brand-panel {
+        .top-nav-bar {
             position: absolute;
-            top: 18px;
-            left: 18px;
+            top: 14px;
+            left: 14px;
+            right: 14px;
             z-index: 1000;
             display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+            gap: 12px;
+            pointer-events: none;
+            flex-wrap: wrap;
+        }
+
+        .brand-panel {
+            position: relative;
+            z-index: 1002;
+            display: flex;
             flex-direction: column;
-            gap: 10px;
+            gap: 8px;
             background: var(--bg-glass);
             backdrop-filter: blur(16px);
             -webkit-backdrop-filter: blur(16px);
             border: 1px solid var(--border-subtle);
             border-radius: var(--radius-lg);
-            padding: 12px 16px;
+            padding: 8px 22px 8px 14px;
             box-shadow: var(--shadow-panel);
             pointer-events: auto;
-            max-width: 480px;
+            min-width: 460px;
+            max-width: 520px;
+            flex-shrink: 0;
         }
 
         .brand-top-row {
             display: flex;
             align-items: center;
             justify-content: space-between;
-            gap: 12px;
+            gap: 16px;
+            width: 100%;
         }
 
         .brand-identity {
             display: flex;
             align-items: center;
-            gap: 10px;
+            gap: 8px;
         }
 
         .brand-icon {
             display: flex;
             align-items: center;
             justify-content: center;
-            width: 36px;
-            height: 36px;
+            width: 32px;
+            height: 32px;
             border-radius: var(--radius-md);
             background: linear-gradient(135deg, rgba(56, 189, 248, 0.2), rgba(14, 165, 233, 0.1));
             border: 1px solid rgba(56, 189, 248, 0.35);
             color: var(--primary);
-            font-size: 1.05rem;
+            font-size: 0.95rem;
             flex-shrink: 0;
         }
 
         .brand-title {
-            font-size: 1.02rem;
+            font-size: 0.92rem;
             font-weight: 700;
             letter-spacing: -0.01em;
             color: #ffffff;
-            line-height: 1.25;
+            line-height: 1.2;
             display: flex;
             align-items: center;
-            gap: 8px;
+            gap: 6px;
+            white-space: nowrap;
         }
 
         .brand-badge {
-            font-size: 0.70rem;
+            font-size: 0.68rem;
             font-weight: 700;
             font-family: var(--font-mono);
             background: rgba(239, 68, 68, 0.15);
             border: 1px solid rgba(239, 68, 68, 0.4);
             color: #fca5a5;
-            padding: 2px 7px;
+            padding: 2px 6px;
             border-radius: var(--radius-pill);
             letter-spacing: 0.5px;
+        }
+
+        .brand-actions {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            flex-shrink: 0;
+        }
+
+        .btn-toggle-warning {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            font-size: 0.76rem;
+            font-weight: 600;
+            color: var(--primary);
+            background: rgba(56, 189, 248, 0.1);
+            border: 1px solid rgba(56, 189, 248, 0.3);
+            padding: 4px 8px;
+            border-radius: var(--radius-pill);
+            cursor: pointer;
+            outline: none;
+            transition: all 0.2s ease;
+            white-space: nowrap;
+        }
+
+        .btn-toggle-warning:hover {
+            background: rgba(56, 189, 248, 0.2);
+            color: #ffffff;
+            border-color: var(--primary);
         }
 
         .home-link {
             display: inline-flex;
             align-items: center;
-            gap: 6px;
-            font-size: 0.80rem;
+            gap: 5px;
+            font-size: 0.76rem;
             font-weight: 600;
             color: var(--text-muted);
             background: rgba(255, 255, 255, 0.06);
             border: 1px solid var(--border-subtle);
-            padding: 5px 11px;
+            padding: 4px 9px;
             border-radius: var(--radius-pill);
             text-decoration: none;
             transition: all 0.2s ease;
             flex-shrink: 0;
+            white-space: nowrap;
         }
+
         .home-link:hover {
             color: #ffffff;
             background: rgba(255, 255, 255, 0.12);
             border-color: var(--border-highlight);
         }
 
-        /* Eski Sürüm Uyarısı (İBB & Fay Hatları Bilgisi) */
+        /* --------------------------------------------------------------------------
+           Bilgilendirme Paneli (.warning-box - Bağımsız Açılır Kart)
+           -------------------------------------------------------------------------- */
         .warning-box {
+            position: absolute;
+            top: calc(100% + 8px);
+            left: 0;
+            width: 100%;
+            min-width: 380px;
+            max-width: calc(100vw - 32px);
+            z-index: 1005;
             display: flex;
-            align-items: flex-start;
+            flex-direction: column;
             gap: 10px;
-            background: rgba(30, 41, 59, 0.7);
-            border: 1px solid rgba(255, 255, 255, 0.08);
-            border-radius: var(--radius-sm);
-            padding: 10px 12px;
-            font-size: 0.79rem;
-            line-height: 1.48;
-            color: #cbd5e1;
+            background: rgba(15, 23, 42, 0.96);
+            backdrop-filter: blur(18px);
+            -webkit-backdrop-filter: blur(18px);
+            border: 1px solid rgba(56, 189, 248, 0.32);
+            border-radius: var(--radius-md);
+            padding: 12px 14px;
+            font-size: 0.85rem;
+            line-height: 1.55;
+            color: #f1f5f9;
+            box-shadow: 0 16px 36px rgba(0, 0, 0, 0.6), 0 0 20px rgba(56, 189, 248, 0.15);
+            transition: opacity 0.25s ease, transform 0.25s ease;
+            transform-origin: top left;
+        }
+
+        .warning-box.collapsed {
+            opacity: 0 !important;
+            transform: scale(0.96) translateY(-6px) !important;
+            pointer-events: none !important;
+            display: none !important;
+        }
+
+        .warning-header-row {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 10px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+            padding-bottom: 8px;
+        }
+
+        .warning-title-wrap {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            color: var(--primary);
         }
 
         .warning-icon {
-            color: var(--primary);
             font-size: 0.95rem;
-            margin-top: 2px;
+            color: #f59e0b;
             flex-shrink: 0;
         }
 
-        .warning-content strong {
-            display: block;
+        .warning-title {
             color: #ffffff;
+            font-size: 0.90rem;
             font-weight: 700;
-            margin-bottom: 2px;
+            letter-spacing: -0.01em;
         }
 
-        .warning-links {
+        .btn-close-warning {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 28px;
+            height: 28px;
+            background: rgba(255, 255, 255, 0.06);
+            border: 1px solid rgba(255, 255, 255, 0.12);
+            border-radius: 6px;
+            color: #94a3b8;
+            font-size: 1.25rem;
+            line-height: 1;
+            cursor: pointer;
+            transition: all 0.15s ease;
+            flex-shrink: 0;
+        }
+
+        .btn-close-warning:hover {
+            color: #ffffff;
+            background: rgba(239, 68, 68, 0.25);
+            border-color: rgba(239, 68, 68, 0.5);
+        }
+
+        .warning-content {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .warning-desc {
+            margin: 0;
+            color: #e2e8f0;
+            font-size: 0.84rem;
+            line-height: 1.55;
+        }
+
+        .warning-desc strong {
+            color: #ffffff;
+            font-weight: 600;
+        }
+
+        .warning-links-chips {
             display: flex;
             flex-wrap: wrap;
-            align-items: center;
-            gap: 6px;
-            margin-top: 5px;
-            font-size: 0.75rem;
-            color: var(--text-subtle);
+            gap: 8px;
         }
 
-        .warning-links a {
-            color: var(--primary);
-            text-decoration: none;
+        .warning-chip {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 0.78rem;
             font-weight: 600;
-            transition: color 0.15s ease;
+            color: #38bdf8;
+            background: rgba(56, 189, 248, 0.10);
+            border: 1px solid rgba(56, 189, 248, 0.28);
+            border-radius: 6px;
+            padding: 5px 9px;
+            text-decoration: none;
+            transition: all 0.2s ease;
         }
-        .warning-links a:hover {
+
+        .warning-chip:hover {
+            background: rgba(56, 189, 248, 0.22);
             color: #ffffff;
-            text-decoration: underline;
+            border-color: var(--primary);
+        }
+
+        .chip-arrow {
+            font-size: 0.70rem;
+            opacity: 0.7;
+        }
+
+        .btn-dismiss-warning {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 7px;
+            width: 100%;
+            padding: 8px 12px;
+            background: rgba(56, 189, 248, 0.12);
+            border: 1px solid rgba(56, 189, 248, 0.3);
+            border-radius: 6px;
+            color: #ffffff;
+            font-size: 0.82rem;
+            font-weight: 600;
+            cursor: pointer;
+            outline: none;
+            transition: all 0.2s ease;
+            margin-top: 2px;
+        }
+
+        .btn-dismiss-warning:hover {
+            background: rgba(56, 189, 248, 0.25);
+            border-color: var(--primary);
         }
 
         /* --------------------------------------------------------------------------
-           2. Üst Sağ: İlçe Seçimi ve Fay Hatları Toolbar
+           2. Üst Sağ: İl/İlçe Seçimi ve Fay Hatları Toolbar
            -------------------------------------------------------------------------- */
         .controls-toolbar {
-            position: absolute;
-            top: 18px;
-            right: 18px;
-            z-index: 1000;
+            position: relative;
+            z-index: 1001;
+            margin-left: auto;
             display: flex;
             align-items: center;
-            gap: 10px;
+            gap: 6px;
             background: var(--bg-glass);
             backdrop-filter: blur(16px);
             -webkit-backdrop-filter: blur(16px);
             border: 1px solid var(--border-subtle);
             border-radius: var(--radius-lg);
-            padding: 8px 12px;
+            padding: 5px 8px;
             box-shadow: var(--shadow-panel);
             pointer-events: auto;
+            flex-wrap: wrap;
+            max-width: 100%;
         }
 
         .district-select-wrap {
@@ -240,32 +407,43 @@
             display: flex;
             align-items: center;
         }
+
         .district-select-wrap i {
             position: absolute;
-            left: 12px;
+            left: 10px;
             color: var(--primary);
-            font-size: 0.85rem;
+            font-size: 0.80rem;
             pointer-events: none;
         }
 
         .district-select {
             appearance: none;
             -webkit-appearance: none;
-            background: rgba(30, 41, 59, 0.8);
+            background: rgba(30, 41, 59, 0.85);
             border: 1px solid var(--border-subtle);
             border-radius: var(--radius-md);
-            padding: 8px 36px 8px 32px;
+            padding: 6px 28px 6px 28px;
             color: #ffffff;
             font-family: var(--font-sans);
-            font-size: 0.88rem;
+            font-size: 0.82rem;
             font-weight: 600;
             outline: none;
             cursor: pointer;
+            height: 34px;
             transition: all 0.2s ease;
-            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%2394a3b8' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='10' viewBox='0 0 24 24' fill='none' stroke='%2394a3b8' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");
             background-repeat: no-repeat;
-            background-position: right 12px center;
+            background-position: right 10px center;
         }
+
+        #provinceFilter {
+            max-width: 130px;
+        }
+
+        #districtFilter {
+            max-width: 175px;
+        }
+
         .district-select:hover,
         .district-select:focus {
             border-color: var(--primary);
@@ -275,34 +453,366 @@
         .btn-fault {
             display: inline-flex;
             align-items: center;
-            gap: 8px;
-            background: rgba(30, 41, 59, 0.8);
+            gap: 6px;
+            background: rgba(30, 41, 59, 0.85);
             border: 1px solid var(--border-subtle);
             border-radius: var(--radius-md);
-            padding: 8px 14px;
+            padding: 6px 10px;
+            height: 34px;
             color: var(--text-main);
             font-family: var(--font-sans);
-            font-size: 0.88rem;
+            font-size: 0.80rem;
             font-weight: 600;
             cursor: pointer;
             outline: none;
             transition: all 0.2s ease;
             white-space: nowrap;
         }
+
         .btn-fault i {
             color: #ef4444;
             transition: transform 0.2s ease;
         }
+
         .btn-fault:hover {
             border-color: rgba(239, 68, 68, 0.4);
             background: rgba(239, 68, 68, 0.12);
             color: #ffffff;
         }
+
         .btn-fault.active {
             background: rgba(239, 68, 68, 0.2);
             border-color: #ef4444;
             color: #ffffff;
             box-shadow: 0 0 12px rgba(239, 68, 68, 0.3);
+        }
+
+        .btn-locate {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            background: rgba(30, 41, 59, 0.85);
+            border: 1px solid var(--border-subtle);
+            border-radius: var(--radius-md);
+            padding: 6px 10px;
+            height: 34px;
+            color: var(--text-main);
+            font-family: var(--font-sans);
+            font-size: 0.80rem;
+            font-weight: 600;
+            cursor: pointer;
+            outline: none;
+            transition: all 0.2s ease;
+            white-space: nowrap;
+        }
+
+        .btn-locate i {
+            color: var(--primary);
+            transition: transform 0.2s ease;
+        }
+
+        .btn-locate:hover {
+            border-color: var(--primary);
+            background: rgba(56, 189, 248, 0.16);
+            color: #ffffff;
+            box-shadow: 0 0 12px rgba(56, 189, 248, 0.3);
+        }
+
+        .btn-locate.active {
+            background: rgba(56, 189, 248, 0.25);
+            border-color: var(--primary);
+            color: #ffffff;
+            box-shadow: 0 0 14px rgba(56, 189, 248, 0.4);
+        }
+
+        .btn-camp {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            background: rgba(30, 41, 59, 0.85);
+            border: 1px solid var(--border-subtle);
+            border-radius: var(--radius-md);
+            padding: 6px 10px;
+            height: 34px;
+            color: var(--text-main);
+            font-family: var(--font-sans);
+            font-size: 0.80rem;
+            font-weight: 600;
+            cursor: pointer;
+            outline: none;
+            transition: all 0.2s ease;
+            white-space: nowrap;
+        }
+
+        .btn-camp i {
+            color: #10b981;
+            transition: transform 0.2s ease;
+        }
+
+        .btn-camp:hover {
+            border-color: rgba(16, 185, 129, 0.4);
+            background: rgba(16, 185, 129, 0.14);
+            color: #ffffff;
+        }
+
+        .btn-camp.active {
+            background: rgba(16, 185, 129, 0.22);
+            border-color: #10b981;
+            color: #ffffff;
+            box-shadow: 0 0 12px rgba(16, 185, 129, 0.35);
+        }
+
+        /* Bursa Kamp / Toplanma Alanı Pini & Cluster */
+        .camp-pin-wrap {
+            background: transparent !important;
+            border: none !important;
+        }
+
+        .custom-camp-pin {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 28px;
+            height: 28px;
+            border-radius: 50%;
+            background: radial-gradient(circle at 35% 35%, #34d399, #059669);
+            color: #ffffff;
+            font-size: 0.82rem;
+            border: 2px solid #ffffff;
+            box-shadow: 0 2px 10px rgba(5, 150, 105, 0.55);
+            transition: transform 0.18s ease, box-shadow 0.18s ease;
+            cursor: pointer;
+        }
+
+        .custom-camp-pin:hover {
+            transform: scale(1.22);
+            box-shadow: 0 0 16px rgba(52, 211, 153, 0.8);
+            z-index: 10000 !important;
+        }
+
+        .bursa-camp-cluster-wrap {
+            background: transparent !important;
+            border: none !important;
+        }
+
+        .bursa-camp-cluster-badge {
+            width: 38px;
+            height: 38px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, #059669, #047857);
+            border: 2px solid #a7f3d0;
+            color: #ffffff;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.74rem;
+            font-weight: 700;
+            font-family: var(--font-sans);
+            box-shadow: 0 0 14px rgba(16, 185, 129, 0.5);
+            gap: 3px;
+            transition: transform 0.15s ease;
+        }
+
+        .bursa-camp-cluster-badge:hover {
+            transform: scale(1.15);
+        }
+
+        .bursa-camp-cluster-badge i {
+            font-size: 0.70rem;
+        }
+
+        /* Konum Gizlilik Modalı */
+        .locate-modal {
+            position: fixed;
+            inset: 0;
+            z-index: 10000;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 16px;
+            backdrop-filter: blur(8px);
+            -webkit-backdrop-filter: blur(8px);
+            background: rgba(10, 15, 29, 0.78);
+            box-sizing: border-box;
+            animation: fadeInModal 0.25s ease-out;
+        }
+
+        @keyframes fadeInModal {
+            from {
+                opacity: 0;
+            }
+
+            to {
+                opacity: 1;
+            }
+        }
+
+        .locate-modal-card {
+            background: rgba(15, 23, 42, 0.96);
+            border: 1px solid rgba(56, 189, 248, 0.35);
+            border-radius: var(--radius-lg, 16px);
+            max-width: 480px;
+            width: 100%;
+            padding: 22px 24px;
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.7), 0 0 30px rgba(56, 189, 248, 0.2);
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+            box-sizing: border-box;
+        }
+
+        .locate-modal-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 12px;
+        }
+
+        .locate-modal-title {
+            font-size: 1.05rem;
+            font-weight: 700;
+            color: #ffffff;
+            display: flex;
+            align-items: center;
+            gap: 9px;
+        }
+
+        .locate-modal-title i {
+            color: var(--primary);
+        }
+
+        .locate-modal-close {
+            background: transparent;
+            border: none;
+            color: var(--text-muted);
+            font-size: 1.4rem;
+            cursor: pointer;
+            line-height: 1;
+            padding: 4px;
+            border-radius: 4px;
+        }
+
+        .locate-modal-close:hover {
+            color: #ffffff;
+        }
+
+        .locate-modal-body {
+            font-size: 0.88rem;
+            line-height: 1.6;
+            color: #cbd5e1;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .locate-privacy-callout {
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+            background: rgba(56, 189, 248, 0.1);
+            border: 1px solid rgba(56, 189, 248, 0.3);
+            border-radius: var(--radius-sm, 8px);
+            padding: 12px 14px;
+            font-size: 0.82rem;
+            color: #e2e8f0;
+        }
+
+        .locate-privacy-callout i {
+            color: var(--primary);
+            font-size: 1.25rem;
+            margin-top: 2px;
+            flex-shrink: 0;
+        }
+
+        .locate-privacy-callout strong {
+            color: #ffffff;
+            display: block;
+            margin-bottom: 2px;
+        }
+
+        .locate-privacy-callout p {
+            margin: 0;
+            line-height: 1.45;
+        }
+
+        .locate-modal-footer {
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+            gap: 10px;
+        }
+
+        .btn-locate-confirm {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: var(--primary);
+            color: #0b0f19;
+            border: none;
+            padding: 9px 18px;
+            border-radius: var(--radius-pill);
+            font-weight: 700;
+            font-size: 0.86rem;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .btn-locate-confirm:hover {
+            background: #ffffff;
+            box-shadow: 0 0 16px rgba(56, 189, 248, 0.5);
+        }
+
+        .btn-locate-cancel {
+            background: transparent;
+            border: 1px solid var(--border-subtle);
+            color: var(--text-muted);
+            padding: 9px 16px;
+            border-radius: var(--radius-pill);
+            font-weight: 600;
+            font-size: 0.86rem;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .btn-locate-cancel:hover {
+            color: #ffffff;
+            border-color: #ffffff;
+        }
+
+        /* Haritada Yanıp Sönen Konum Noktası */
+        .user-location-pulse {
+            position: relative;
+            width: 22px;
+            height: 22px;
+        }
+
+        .user-location-pulse .pulse-ring {
+            position: absolute;
+            inset: -6px;
+            border-radius: 50%;
+            border: 2px solid var(--primary);
+            animation: userPulse 1.8s infinite ease-out;
+        }
+
+        @keyframes userPulse {
+            0% {
+                transform: scale(0.6);
+                opacity: 1;
+            }
+
+            100% {
+                transform: scale(1.8);
+                opacity: 0;
+            }
+        }
+
+        .user-location-pulse .pulse-dot {
+            position: absolute;
+            inset: 3px;
+            background: var(--primary);
+            border: 2px solid #ffffff;
+            border-radius: 50%;
+            box-shadow: 0 0 10px var(--primary);
         }
 
         /* --------------------------------------------------------------------------
@@ -330,6 +840,7 @@
             white-space: nowrap;
             scrollbar-width: none;
         }
+
         .bottom-stats-bar::-webkit-scrollbar {
             display: none;
         }
@@ -352,11 +863,17 @@
         .stat-item.danger strong {
             color: #fca5a5;
         }
+
         .stat-item.warning strong {
             color: #fde047;
         }
+
         .stat-item.shelter strong {
             color: #93c5fd;
+        }
+
+        .stat-item.camp-stat strong {
+            color: #6ee7b7;
         }
 
         .stat-sep {
@@ -380,6 +897,7 @@
             border: 2px solid #ffffff;
             transition: transform 0.15s ease;
         }
+
         .custom-pin:hover {
             transform: scale(1.15);
             z-index: 10000 !important;
@@ -389,14 +907,17 @@
             background: radial-gradient(circle at 35% 35%, #f87171, #dc2626);
             box-shadow: 0 0 12px rgba(220, 38, 38, 0.6);
         }
+
         .pin-high {
             background: radial-gradient(circle at 35% 35%, #fb923c, #ea580c);
             box-shadow: 0 0 10px rgba(234, 88, 12, 0.5);
         }
+
         .pin-moderate {
             background: radial-gradient(circle at 35% 35%, #facc15, #ca8a04);
             box-shadow: 0 0 8px rgba(202, 138, 4, 0.4);
         }
+
         .pin-low {
             background: radial-gradient(circle at 35% 35%, #34d399, #059669);
             box-shadow: 0 0 8px rgba(5, 150, 105, 0.4);
@@ -406,6 +927,7 @@
         .marker-cluster-small {
             background-color: rgba(16, 185, 129, 0.35) !important;
         }
+
         .marker-cluster-small div {
             background-color: rgba(5, 150, 105, 0.9) !important;
             color: #ffffff !important;
@@ -416,6 +938,7 @@
         .marker-cluster-medium {
             background-color: rgba(245, 158, 11, 0.35) !important;
         }
+
         .marker-cluster-medium div {
             background-color: rgba(217, 119, 6, 0.9) !important;
             color: #ffffff !important;
@@ -426,6 +949,7 @@
         .marker-cluster-large {
             background-color: rgba(239, 68, 68, 0.35) !important;
         }
+
         .marker-cluster-large div {
             background-color: rgba(220, 38, 38, 0.9) !important;
             color: #ffffff !important;
@@ -445,11 +969,13 @@
             padding: 0 !important;
             overflow: hidden !important;
         }
+
         .leaflet-popup-content {
             margin: 0 !important;
             line-height: 1.4 !important;
             width: 320px !important;
         }
+
         .leaflet-popup-tip {
             background: #0f172a !important;
             border: 1px solid var(--border-highlight) !important;
@@ -476,6 +1002,7 @@
             color: #ffffff;
             line-height: 1.3;
         }
+
         .popup-district {
             font-size: 0.80rem;
             font-weight: 600;
@@ -493,10 +1020,30 @@
             letter-spacing: 0.5px;
             white-space: nowrap;
         }
-        .badge-critical { background: rgba(239, 68, 68, 0.2); color: #fca5a5; border: 1px solid rgba(239, 68, 68, 0.4); }
-        .badge-high { background: rgba(249, 115, 22, 0.2); color: #fdba74; border: 1px solid rgba(249, 115, 22, 0.4); }
-        .badge-moderate { background: rgba(245, 158, 11, 0.2); color: #fde047; border: 1px solid rgba(245, 158, 11, 0.4); }
-        .badge-low { background: rgba(16, 185, 129, 0.2); color: #86efac; border: 1px solid rgba(16, 185, 129, 0.4); }
+
+        .badge-critical {
+            background: rgba(239, 68, 68, 0.2);
+            color: #fca5a5;
+            border: 1px solid rgba(239, 68, 68, 0.4);
+        }
+
+        .badge-high {
+            background: rgba(249, 115, 22, 0.2);
+            color: #fdba74;
+            border: 1px solid rgba(249, 115, 22, 0.4);
+        }
+
+        .badge-moderate {
+            background: rgba(245, 158, 11, 0.2);
+            color: #fde047;
+            border: 1px solid rgba(245, 158, 11, 0.4);
+        }
+
+        .badge-low {
+            background: rgba(16, 185, 129, 0.2);
+            color: #86efac;
+            border: 1px solid rgba(16, 185, 129, 0.4);
+        }
 
         .popup-body {
             padding: 14px 16px;
@@ -522,14 +1069,17 @@
             flex-direction: column;
             gap: 2px;
         }
+
         .stat-cell.highlight-danger {
             background: rgba(239, 68, 68, 0.12);
             border-color: rgba(239, 68, 68, 0.3);
         }
+
         .stat-cell.highlight-warning {
             background: rgba(245, 158, 11, 0.1);
             border-color: rgba(245, 158, 11, 0.25);
         }
+
         .stat-cell.highlight-shelter {
             grid-column: span 2;
             background: rgba(56, 189, 248, 0.1);
@@ -541,15 +1091,25 @@
             color: var(--text-muted);
             font-weight: 500;
         }
+
         .stat-cell-value {
             font-size: 0.95rem;
             font-weight: 700;
             font-family: var(--font-mono);
             color: #ffffff;
         }
-        .highlight-danger .stat-cell-value { color: #fca5a5; }
-        .highlight-warning .stat-cell-value { color: #fde047; }
-        .highlight-shelter .stat-cell-value { color: #93c5fd; }
+
+        .highlight-danger .stat-cell-value {
+            color: #fca5a5;
+        }
+
+        .highlight-warning .stat-cell-value {
+            color: #fde047;
+        }
+
+        .highlight-shelter .stat-cell-value {
+            color: #93c5fd;
+        }
 
         .popup-section-title {
             font-size: 0.74rem;
@@ -570,6 +1130,7 @@
             align-items: center;
             justify-content: space-between;
         }
+
         .popup-footer a {
             color: var(--primary);
             text-decoration: none;
@@ -591,6 +1152,7 @@
             gap: 16px;
             transition: opacity 0.35s ease;
         }
+
         .loader-spinner {
             width: 44px;
             height: 44px;
@@ -599,7 +1161,12 @@
             border-radius: 50%;
             animation: spin 0.8s linear infinite;
         }
-        @keyframes spin { to { transform: rotate(360deg); } }
+
+        @keyframes spin {
+            to {
+                transform: rotate(360deg);
+            }
+        }
 
         .loader-text {
             font-size: 0.92rem;
@@ -608,42 +1175,153 @@
             letter-spacing: 0.5px;
         }
 
-        /* Mobil Düzenlemeler */
-        @media (max-width: 768px) {
-            .brand-panel {
+        /* Tablet ve Orta Boy Ekranlar (769px - 1100px) */
+        @media (max-width: 1100px) and (min-width: 769px) {
+            .top-nav-bar {
                 top: 10px;
                 left: 10px;
                 right: 10px;
-                max-width: none;
-                padding: 8px 12px;
-                justify-content: space-between;
+                gap: 8px;
             }
-            .brand-icon {
-                width: 34px;
-                height: 34px;
-                font-size: 1rem;
-            }
-            .brand-title {
-                font-size: 0.90rem;
-            }
-            .brand-sub {
-                display: none;
+
+            .brand-panel {
+                min-width: 0;
             }
 
             .controls-toolbar {
-                top: 68px;
-                left: 10px;
-                right: 10px;
-                justify-content: space-between;
-                padding: 6px 10px;
+                margin-left: 0;
+                width: 100%;
+                justify-content: flex-start;
             }
-            .district-select {
-                max-width: 170px;
+        }
+
+        /* Mobil Düzenlemeler (<= 768px) */
+        @media (max-width: 768px) {
+            .top-nav-bar {
+                top: 8px;
+                left: 8px;
+                right: 8px;
+                flex-direction: column;
+                gap: 6px;
+            }
+
+            .brand-panel {
+                width: 100%;
+                min-width: 0;
+                max-width: none;
+                padding: 8px 10px;
+            }
+
+            .brand-top-row {
+                flex-wrap: nowrap;
+                gap: 6px;
+            }
+
+            .brand-icon {
+                width: 28px;
+                height: 28px;
+                font-size: 0.88rem;
+            }
+
+            .brand-title {
+                font-size: 0.84rem;
+                flex-wrap: wrap;
+                gap: 4px 6px;
+            }
+
+            .brand-actions {
+                margin-left: auto;
+                gap: 5px;
+            }
+
+            .btn-toggle-warning {
+                font-size: 0.74rem;
+                padding: 4px 7px;
+            }
+
+            .home-link {
+                font-size: 0.74rem;
+                padding: 4px 7px;
+            }
+
+            .home-link span {
+                display: none;
+            }
+
+            .warning-box {
+                position: fixed;
+                top: 56px;
+                left: 8px;
+                right: 8px;
+                width: auto;
+                max-width: none;
+                max-height: 70vh;
+                overflow-y: auto;
                 font-size: 0.82rem;
+                padding: 10px 12px;
+                gap: 8px;
             }
-            .btn-fault {
+
+            .warning-title {
+                font-size: 0.85rem;
+            }
+
+            .warning-desc {
+                font-size: 0.80rem;
+                line-height: 1.5;
+            }
+
+            .warning-links-chips {
+                flex-direction: column;
+                gap: 6px;
+            }
+
+            .warning-chip {
+                font-size: 0.76rem;
+                padding: 5px 8px;
+                justify-content: space-between;
+            }
+
+            .btn-dismiss-warning {
                 padding: 8px 10px;
                 font-size: 0.82rem;
+            }
+
+            /* Mobilde kontroller üst panelle çarpışmaz, alt kısımda durur */
+            .controls-toolbar {
+                position: fixed;
+                top: auto;
+                bottom: 70px;
+                left: 8px;
+                right: 8px;
+                margin-left: 0;
+                justify-content: flex-start;
+                padding: 5px 8px;
+                gap: 6px;
+                z-index: 999;
+                overflow-x: auto;
+                flex-wrap: nowrap;
+                scrollbar-width: none;
+            }
+
+            .controls-toolbar::-webkit-scrollbar {
+                display: none;
+            }
+
+            .district-select {
+                max-width: 110px;
+                font-size: 0.76rem;
+                padding: 5px 22px 5px 20px;
+                flex-shrink: 0;
+            }
+
+            .btn-fault,
+            .btn-locate,
+            .btn-camp {
+                padding: 5px 8px;
+                font-size: 0.76rem;
+                gap: 5px;
+                flex-shrink: 0;
             }
 
             .bottom-stats-bar {
@@ -651,7 +1329,9 @@
                 width: calc(100vw - 20px);
                 padding: 6px 14px;
                 gap: 12px;
+                z-index: 1000;
             }
+
             .stat-item {
                 font-size: 0.78rem;
             }
@@ -666,49 +1346,99 @@
         <div class="loader-text">İstanbul Deprem Verileri Yükleniyor...</div>
     </div>
 
-    <!-- Üst Sol: Kompakt Marka ve Başlık -->
-    <!-- Üst Sol: Kompakt Marka ve Uyarı Paneli (Eski Sürüm Uyarısı Dahil) -->
-    <header class="brand-panel">
-        <div class="brand-top-row">
-            <div class="brand-identity">
-                <div class="brand-icon">
-                    <i class="fa-solid fa-earth-americas"></i>
+    <!-- Üst Gezinme ve Kontrol Çubuğu (Flexbox - Üst Üste Binmeyi Önler) -->
+    <div class="top-nav-bar">
+        <!-- Sol: Kompakt Marka ve Bilgilendirme -->
+        <header class="brand-panel">
+            <div class="brand-top-row">
+                <div class="brand-identity">
+                    <div class="brand-icon">
+                        <i class="fa-solid fa-earth-americas"></i>
+                    </div>
+                    <div class="brand-title">
+                        <span>İstanbul Deprem Simülasyonu</span>
+                        <span class="brand-badge">7.5 Mw</span>
+                    </div>
                 </div>
-                <div class="brand-title">
-                    İstanbul Deprem Simülasyonu
-                    <span class="brand-badge">7.5 Mw</span>
-                </div>
-            </div>
-            <a href="/" class="home-link" title="Ana Sayfaya Dön">
-                <i class="fa-solid fa-arrow-left"></i> Ana Sayfa
-            </a>
-        </div>
-        <div class="warning-box">
-            <i class="fa-solid fa-circle-info warning-icon"></i>
-            <div class="warning-content">
-                <strong>İBB tarafından tahmin edilen deprem verileridir.</strong>
-                <div>Veri seti 7.5 Mw büyüklüğünde gece olacak deprem senaryosuna göre yapılan analizlerin sonuçlarını içerir.</div>
-                <div class="warning-links">
-                    <span>Kaynak: <a target="_blank" href="https://data.ibb.gov.tr/dataset/deprem-senaryosu-analiz-sonuclari/resource/9c3ac492-de4b-4245-b418-7ad3df67a193" rel="noopener noreferrer">İBB Deprem Senaryosu Analizi</a></span>
-                    <span>•</span>
-                    <span>Fay Hatları: <a target="_blank" href="https://github.com/GEMScienceTools/gem-global-active-faults" rel="noopener noreferrer">GEM Global Active Faults Database (GEM GAF-DB)</a></span>
+                <div class="brand-actions">
+                    <button type="button" id="btnToggleWarning" class="btn-toggle-warning"
+                        title="Bilgilendirmeyi Gizle / Göster" aria-expanded="true">
+                        <i class="fa-solid fa-eye-slash" id="warningToggleIcon"></i>
+                        <span id="warningToggleText">Gizle</span>
+                    </button>
+                    <a href="/" class="home-link" title="Ana Sayfaya Dön">
+                        <i class="fa-solid fa-house"></i> <span>Ana Sayfa</span>
+                    </a>
                 </div>
             </div>
-        </div>
-    </header>
 
-    <!-- Üst Sağ: İlçe Seçimi ve Fay Hatları Toolbar -->
-    <div class="controls-toolbar">
-        <div class="district-select-wrap">
-            <i class="fa-solid fa-location-dot"></i>
-            <select id="districtFilter" class="district-select" aria-label="İlçe Seçin">
-                <option value="ALL">Tüm İstanbul (39 İlçe)</option>
-            </select>
-        </div>
+            <!-- Bilgilendirme Kartı (Bağımsız Açılır Kart) -->
+            <div id="warningBox" class="warning-box">
+                <div class="warning-header-row">
+                    <div class="warning-title-wrap">
+                        <i class="fa-solid fa-triangle-exclamation warning-icon"></i>
+                        <strong class="warning-title">İBB 7.5 Mw Senaryo Bilgilendirmesi</strong>
+                    </div>
+                    <button type="button" id="btnCloseWarning" class="btn-close-warning" title="Kapat / Gizle"
+                        aria-label="Uyarıyı Kapat">&times;</button>
+                </div>
+                <div class="warning-content">
+                    <p class="warning-desc">
+                        Haritada sunulan veriler, <strong>İstanbul Büyükşehir Belediyesi (İBB)</strong> tarafından
+                        hazırlanan <strong>7.5 Mw büyüklüğündeki</strong> olası gece depremi senaryosu analiz sonuçlarını ve
+                        bina hasar/can kaybı tahminlerini içerir.
+                    </p>
+                    <div class="warning-links-chips">
+                        <a target="_blank"
+                            href="https://data.ibb.gov.tr/dataset/deprem-senaryosu-analiz-sonuclari/resource/9c3ac492-de4b-4245-b418-7ad3df67a193"
+                            rel="noopener noreferrer" class="warning-chip">
+                            <i class="fa-solid fa-database"></i>
+                            <span>İBB Açık Veri Portalı</span>
+                            <i class="fa-solid fa-arrow-up-right-from-square chip-arrow"></i>
+                        </a>
+                        <a target="_blank" href="https://github.com/GEMScienceTools/gem-global-active-faults"
+                            rel="noopener noreferrer" class="warning-chip">
+                            <i class="fa-solid fa-wave-square"></i>
+                            <span>GEM Aktif Fay Veritabanı</span>
+                            <i class="fa-solid fa-arrow-up-right-from-square chip-arrow"></i>
+                        </a>
+                    </div>
+                    <button type="button" id="btnDismissWarning" class="btn-dismiss-warning">
+                        <i class="fa-solid fa-check"></i>
+                        <span>Anladım, Haritayı Göster</span>
+                    </button>
+                </div>
+            </div>
+        </header>
 
-        <button type="button" class="btn-fault" id="btnFaultToggle">
-            <i class="fa-solid fa-water"></i> <span>Fay Hatlarını Göster</span>
-        </button>
+        <!-- Sağ: İl/İlçe Seçimi ve Fay Hatları Toolbar -->
+        <div class="controls-toolbar">
+            <div class="district-select-wrap" id="provinceSelectWrap" title="İl Seçin">
+                <i class="fa-solid fa-city"></i>
+                <select id="provinceFilter" class="district-select" aria-label="İl Seçin">
+                    <option value="istanbul">İstanbul</option>
+                </select>
+            </div>
+
+            <div class="district-select-wrap" id="districtSelectWrap" title="İstanbul İlçe Seçin">
+                <i class="fa-solid fa-location-dot"></i>
+                <select id="districtFilter" class="district-select" aria-label="İlçe Seçin">
+                    <option value="ALL">Tüm İstanbul (39 İlçe)</option>
+                </select>
+            </div>
+
+            <button type="button" class="btn-camp active" id="btnCampToggle" title="Afet Toplanma Alanlarını Göster / Gizle">
+                <i class="fa-solid fa-campground"></i> <span>Toplanma</span>
+            </button>
+
+            <button type="button" class="btn-fault" id="btnFaultToggle" title="Türkiye Aktif Fay Hatlarını Göster / Gizle">
+                <i class="fa-solid fa-water"></i> <span>Fay Hatları</span>
+            </button>
+
+            <button type="button" class="btn-locate" id="btnLocate" title="Konumumu Bul (Haritada Göster)">
+                <i class="fa-solid fa-crosshairs"></i> <span>Konum</span>
+            </button>
+        </div>
     </div>
 
     <!-- Harita Konteyneri -->
@@ -720,6 +1450,12 @@
             <i class="fa-solid fa-map-pin" style="color: var(--primary);"></i>
             <span id="labelRegion">Tüm İstanbul</span>:
             <strong id="statMahalle">959 Mahalle</strong>
+        </div>
+        <div class="stat-sep"></div>
+        <div class="stat-item camp-stat">
+            <i class="fa-solid fa-campground" style="color: #10b981;"></i>
+            <span>Toplanma Alanı:</span>
+            <strong id="statToplanmaAlani" style="color: #6ee7b7;">357 Alan</strong>
         </div>
         <div class="stat-sep"></div>
         <div class="stat-item danger">
@@ -741,110 +1477,155 @@
         </div>
     </footer>
 
+    <!-- Konum ve Gizlilik Bildirimi Modalı -->
+    <div id="locateModal" class="locate-modal" role="dialog" aria-modal="true" aria-labelledby="locateModalTitle"
+        style="display: none;">
+        <div class="locate-modal-card">
+            <div class="locate-modal-header">
+                <div class="locate-modal-title" id="locateModalTitle">
+                    <i class="fa-solid fa-shield-halved"></i>
+                    <span>Konum ve Gizlilik Bildirimi</span>
+                </div>
+                <button type="button" class="locate-modal-close" id="btnCloseLocateModal"
+                    aria-label="Kapat">&times;</button>
+            </div>
+            <div class="locate-modal-body">
+                <p>
+                    Konumunuz, yalnızca harita üzerinde <strong>bulunduğunuz noktayı işaretlemek</strong> ve size en
+                    yakın ilçeyi göstermek amacıyla tarayıcınızın Geolocation özelliği üzerinden <strong>anlık
+                        olarak</strong> alınır.
+                </p>
+                <div class="locate-privacy-callout">
+                    <i class="fa-solid fa-lock"></i>
+                    <div>
+                        <strong>Sıfır Kayıt Garantisi:</strong>
+                        <p>Konum koordinatlarınız hiçbir sunucuya gönderilmez, hiçbir veri tabanına kaydedilmez veya
+                            üçüncü taraflarla paylaşılmaz. İşlem %100 cihazınızın tarayıcısında anlık olarak
+                            gerçekleşir.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="locate-modal-footer">
+                <button type="button" id="btnConfirmLocate" class="btn-locate-confirm">
+                    <i class="fa-solid fa-crosshairs"></i> Konumumu Göster
+                </button>
+                <button type="button" id="btnCancelLocate" class="btn-locate-cancel">İptal</button>
+            </div>
+        </div>
+    </div>
+
     <!-- Harita ve Analiz Motoru Scripti -->
     <script>
-    (function(){
-        'use strict';
+        (function () {
+            'use strict';
 
-        // 1. Harita İlk Ayarları (İstanbul Merkezli)
-        const map = L.map('map', {
-            center: [41.0082, 28.9784],
-            zoom: 10,
-            zoomControl: false
-        });
-
-        // Zoom kontrolünü sağ alta alıyoruz
-        L.control.zoom({ position: 'bottomright' }).addTo(map);
-
-        // 2. Basemap Katmanları (100% Free, NO API KEY REQUIRED, NO WATERMARK!)
-        // ArcGIS World Street Map (Varsayılan - Temiz, Net Sokak Haritası)
-        const arcgisStreet = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
-            attribution: '&copy; <a target="_blank" href="https://www.esri.com/">Esri</a>, OpenStreetMap | &copy; Ali Can Gönüllü',
-            maxZoom: 19
-        }).addTo(map);
-
-        // OpenStreetMap Standart
-        const osmStandard = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}.png', {
-            attribution: '&copy; <a target="_blank" href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-            maxZoom: 19
-        });
-
-        // Esri Uydu Görüntüsü
-        const esriSatellite = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
-            attribution: '&copy; Esri &mdash; Source: Esri, Maxar, Earthstar Geographics',
-            maxZoom: 19
-        });
-
-        // Esri Topo
-        const esriTopo = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {
-            attribution: '&copy; Esri, OpenStreetMap',
-            maxZoom: 19
-        });
-
-        // Katman Değiştirici Kontrolü (Sağ Alt Zoom Butonunun Üzerinde)
-        L.control.layers({
-            "Sokak Haritası (ArcGIS)": arcgisStreet,
-            "Standart Harita (OSM)": osmStandard,
-            "Uydu Görüntüsü (Esri)": esriSatellite,
-            "Topografik Harita (Esri)": esriTopo
-        }, null, { position: 'bottomright' }).addTo(map);
-
-        // 3. Marker Cluster Grubu (Optimum performans ve kümeleme)
-        const markersCluster = L.markerClusterGroup({
-            chunkedLoading: true,
-            chunkInterval: 50,
-            chunkDelay: 10,
-            spiderfyOnMaxZoom: true,
-            showCoverageOnHover: false,
-            zoomToBoundsOnClick: true,
-            maxClusterRadius: 40
-        });
-        map.addLayer(markersCluster);
-
-        // State Değişkenleri
-        let allMarkers = [];
-        let markersByDistrict = new Map();
-        let districtStatsMap = new Map();
-        let faultLayer = null;
-        let isFaultVisible = false;
-
-        const fmt = (n) => Number(n || 0).toLocaleString('tr-TR');
-
-        // Risk Seviyesi Hesaplama
-        function getRiskLevel(stats) {
-            const canKaybi = Number(stats.can_kaybi_sayisi || 0);
-            const cokAgir = Number(stats.cok_agir_hasarli_bina_sayisi || 0);
-            const agir = Number(stats.agir_hasarli_bina_sayisi || 0);
-
-            if (canKaybi >= 20 || cokAgir >= 50) {
-                return { level: 'Kritik Risk', badgeClass: 'badge-critical', pinClass: 'pin-critical', size: 26 };
-            }
-            if (canKaybi >= 5 || (cokAgir + agir) >= 40) {
-                return { level: 'Yüksek Risk', badgeClass: 'badge-high', pinClass: 'pin-high', size: 22 };
-            }
-            if (canKaybi > 0 || (cokAgir + agir) >= 10) {
-                return { level: 'Orta Risk', badgeClass: 'badge-moderate', pinClass: 'pin-moderate', size: 18 };
-            }
-            return { level: 'Düşük Risk', badgeClass: 'badge-low', pinClass: 'pin-low', size: 16 };
-        }
-
-        // Şık Marker DivIcon Oluşturucu
-        function createMarkerIcon(risk) {
-            return L.divIcon({
-                className: 'custom-pin-wrap',
-                html: `<div class="custom-pin ${risk.pinClass}" style="width: ${risk.size}px; height: ${risk.size}px;"><i class="fa-solid fa-circle" style="font-size: ${risk.size * 0.35}px;"></i></div>`,
-                iconSize: [risk.size, risk.size],
-                iconAnchor: [risk.size / 2, risk.size / 2],
-                popupAnchor: [0, -risk.size / 2 - 4]
+            // 1. Harita İlk Ayarları (İstanbul Merkezli)
+            const map = L.map('map', {
+                center: [41.0082, 28.9784],
+                zoom: 10,
+                zoomControl: false
             });
-        }
 
-        // Popup HTML Şablonu
-        function buildPopupHtml(stats, risk) {
-            const ilce = stats.ilce_adi || '';
-            const mahalle = stats.mahalle_adi || '';
+            // Zoom kontrolünü sağ alta alıyoruz
+            L.control.zoom({ position: 'bottomright' }).addTo(map);
 
-            return `
+            // 2. Basemap Katmanları (100% Free, NO API KEY REQUIRED, NO WATERMARK!)
+            // ArcGIS World Street Map (Varsayılan - Temiz, Net Sokak Haritası)
+            const arcgisStreet = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
+                attribution: '&copy; <a target="_blank" href="https://www.esri.com/">Esri</a>, OpenStreetMap | &copy; Ali Can Gönüllü',
+                maxZoom: 19
+            }).addTo(map);
+
+            // OpenStreetMap Standart
+            const osmStandard = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}.png', {
+                attribution: '&copy; <a target="_blank" href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+                maxZoom: 19
+            });
+
+            // Esri Uydu Görüntüsü
+            const esriSatellite = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+                attribution: '&copy; Esri &mdash; Source: Esri, Maxar, Earthstar Geographics',
+                maxZoom: 19
+            });
+
+            // Esri Topo
+            const esriTopo = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {
+                attribution: '&copy; Esri, OpenStreetMap',
+                maxZoom: 19
+            });
+
+            // Katman Değiştirici Kontrolü (Sağ Alt Zoom Butonunun Üzerinde)
+            L.control.layers({
+                "Sokak Haritası (ArcGIS)": arcgisStreet,
+                "Standart Harita (OSM)": osmStandard,
+                "Uydu Görüntüsü (Esri)": esriSatellite,
+                "Topografik Harita (Esri)": esriTopo
+            }, null, { position: 'bottomright' }).addTo(map);
+
+            // 3. Marker Cluster Grubu (Optimum performans ve kümeleme)
+            const markersCluster = L.markerClusterGroup({
+                chunkedLoading: true,
+                chunkInterval: 50,
+                chunkDelay: 10,
+                spiderfyOnMaxZoom: true,
+                showCoverageOnHover: false,
+                zoomToBoundsOnClick: true,
+                maxClusterRadius: 40
+            });
+            map.addLayer(markersCluster);
+
+            // State Değişkenleri
+            let allMarkers = [];
+            let markersByDistrict = new Map();
+            let districtStatsMap = new Map();
+            let faultLayer = null;
+            let isFaultVisible = false;
+            let campCluster = null;
+            let isCampVisible = true;
+            let bursaCampCluster = null; // backward compatibility
+            let isBursaCampVisible = true; // backward compatibility
+            let bursaHighlightPolygon = null;
+            let allCampData = [];
+            let istanbulCampData = [];
+            let istanbulCampCount = 357;
+
+            const fmt = (n) => Number(n || 0).toLocaleString('tr-TR');
+
+            // Risk Seviyesi Hesaplama
+            function getRiskLevel(stats) {
+                const canKaybi = Number(stats.can_kaybi_sayisi || 0);
+                const cokAgir = Number(stats.cok_agir_hasarli_bina_sayisi || 0);
+                const agir = Number(stats.agir_hasarli_bina_sayisi || 0);
+
+                if (canKaybi >= 20 || cokAgir >= 50) {
+                    return { level: 'Kritik Risk', badgeClass: 'badge-critical', pinClass: 'pin-critical', size: 26 };
+                }
+                if (canKaybi >= 5 || (cokAgir + agir) >= 40) {
+                    return { level: 'Yüksek Risk', badgeClass: 'badge-high', pinClass: 'pin-high', size: 22 };
+                }
+                if (canKaybi > 0 || (cokAgir + agir) >= 10) {
+                    return { level: 'Orta Risk', badgeClass: 'badge-moderate', pinClass: 'pin-moderate', size: 18 };
+                }
+                return { level: 'Düşük Risk', badgeClass: 'badge-low', pinClass: 'pin-low', size: 16 };
+            }
+
+            // Şık Marker DivIcon Oluşturucu
+            function createMarkerIcon(risk) {
+                return L.divIcon({
+                    className: 'custom-pin-wrap',
+                    html: `<div class="custom-pin ${risk.pinClass}" style="width: ${risk.size}px; height: ${risk.size}px;"><i class="fa-solid fa-circle" style="font-size: ${risk.size * 0.35}px;"></i></div>`,
+                    iconSize: [risk.size, risk.size],
+                    iconAnchor: [risk.size / 2, risk.size / 2],
+                    popupAnchor: [0, -risk.size / 2 - 4]
+                });
+            }
+
+            // Popup HTML Şablonu
+            function buildPopupHtml(stats, risk) {
+                const ilce = stats.ilce_adi || '';
+                const mahalle = stats.mahalle_adi || '';
+
+                return `
                 <div class="popup-card">
                     <div class="popup-header">
                         <div>
@@ -924,254 +1705,786 @@
                     </div>
                 </div>
             `;
-        }
+            }
 
-        // Ana Veri Yükleme ve Algoritma Motoru (O(1) Haritalama, Sıfır N+1 İstek)
-        async function initData() {
-            try {
-                // 1. İki JSON dosyasını eşzamanlı tek seferde çekiyoruz (O(1) Network)
-                const [depremResponse, ilceResponse] = await Promise.all([
-                    fetch('deprem.json'),
-                    fetch('ilce.json')
-                ]);
-
-                if (!depremResponse.ok || !ilceResponse.ok) {
-                    throw new Error('Deprem veri dosyaları yüklenemedi!');
-                }
-
-                const depremList = await depremResponse.json();
-                const ilceList = await ilceResponse.json();
-
-                // 2. Deprem Verilerini Hızlı Arama İçin Map'e Alıyoruz (O(1) Lookup)
-                const depremMap = new Map();
-                const cityTotals = {
-                    canKaybi: 0,
-                    agirHasar: 0,
-                    barinma: 0,
-                    mahalleCount: 0
-                };
-
-                for (let i = 0; i < depremList.length; i++) {
-                    const row = depremList[i];
-                    const key = `${row.ilce_adi},${row.mahalle_adi}`.toUpperCase().trim();
-                    depremMap.set(key, row);
-
-                    // Şehir toplamları
-                    cityTotals.canKaybi += Number(row.can_kaybi_sayisi || 0);
-                    cityTotals.agirHasar += Number(row.cok_agir_hasarli_bina_sayisi || 0) + Number(row.agir_hasarli_bina_sayisi || 0);
-                    cityTotals.barinma += Number(row.gecici_barinma || 0);
-                }
-
-                // 3. İlçe Konumlarını İşleme ve Deduplication (391 Çift Koordinatı Temizleme)
-                const uniqueLocations = new Set();
-                const batchMarkers = [];
-                const districtSet = new Set();
-
-                for (let i = 0; i < ilceList.length; i++) {
-                    const item = ilceList[i];
-                    const lat = parseFloat(item.lat);
-                    const lon = parseFloat(item.lon);
-
-                    if (isNaN(lat) || isNaN(lon)) continue;
-
-                    // Benzersiz koordinat kontrolü
-                    const coordKey = `${lat.toFixed(5)},${lon.toFixed(5)}`;
-                    if (uniqueLocations.has(coordKey)) {
-                        continue;
+            // Ana Veri Yükleme ve Algoritma Motoru (O(1) Haritalama, Sıfır N+1 İstek)
+            async function initData() {
+                try {
+                    async function fetchJsonWithCandidates(candidates) {
+                        for (const url of candidates) {
+                            try {
+                                const res = await fetch(url);
+                                if (res.ok) return res;
+                            } catch (e) { }
+                        }
+                        throw new Error('Dosya yüklenemedi: ' + candidates[0]);
                     }
-                    uniqueLocations.add(coordKey);
 
-                    // İlçe ve Mahalle Eşleştirme
-                    const rawName = item.ilce_adi || '';
-                    const matchKey = rawName.toUpperCase().trim();
-                    const stats = depremMap.get(matchKey);
+                    // 1. JSON dosyalarını eşzamanlı tek seferde çekiyoruz (O(1) Network)
+                    const [depremResponse, ilceResponse, campResponse, indexResponse] = await Promise.all([
+                        fetchJsonWithCandidates([
+                            'iller/istanbul/deprem.json',
+                            './iller/istanbul/deprem.json',
+                            '/istdeprem/iller/istanbul/deprem.json',
+                            'deprem.json'
+                        ]),
+                        fetchJsonWithCandidates([
+                            'iller/istanbul/ilce.json',
+                            './iller/istanbul/ilce.json',
+                            '/istdeprem/iller/istanbul/ilce.json',
+                            'ilce.json'
+                        ]),
+                        fetchJsonWithCandidates([
+                            'iller/turkiye_toplanma_alanlari.json',
+                            './iller/turkiye_toplanma_alanlari.json',
+                            '/istdeprem/iller/turkiye_toplanma_alanlari.json',
+                            'turkiye_toplanma_alanlari.json'
+                        ]).catch(err => {
+                            console.warn('Türkiye toplanma alanları yüklenemedi:', err);
+                            return null;
+                        }),
+                        fetchJsonWithCandidates([
+                            'iller/iller_index.json',
+                            './iller/iller_index.json',
+                            '/istdeprem/iller/iller_index.json',
+                            'iller_index.json'
+                        ]).catch(err => {
+                            console.warn('İller indexi yüklenemedi:', err);
+                            return null;
+                        })
+                    ]);
 
-                    if (!stats) continue;
+                    const depremList = await depremResponse.json();
+                    const ilceList = await ilceResponse.json();
 
-                    const ilceName = stats.ilce_adi;
-                    districtSet.add(ilceName);
-
-                    // İlçe istatistik toplamları
-                    if (!districtStatsMap.has(ilceName)) {
-                        districtStatsMap.set(ilceName, {
-                            count: 0,
-                            canKaybi: 0,
-                            agirHasar: 0,
-                            barinma: 0
-                        });
+                    // 2. Deprem Verilerini Hızlı Arama İçin Map'e Alıyoruz (O(1) Lookup)
+                    function normalizeLocationKey(str) {
+                        return (str || '')
+                            .replace(/İ/g, 'I')
+                            .replace(/ı/g, 'i')
+                            .replace(/Ş/g, 'S')
+                            .replace(/ş/g, 's')
+                            .replace(/Ğ/g, 'G')
+                            .replace(/ğ/g, 'g')
+                            .replace(/Ü/g, 'U')
+                            .replace(/ü/g, 'u')
+                            .replace(/Ö/g, 'O')
+                            .replace(/ö/g, 'o')
+                            .replace(/Ç/g, 'C')
+                            .replace(/ç/g, 'c')
+                            .toUpperCase()
+                            .replace(/[\s\.\-_]+/g, '')
+                            .trim();
                     }
-                    const dStat = districtStatsMap.get(ilceName);
-                    dStat.count++;
-                    dStat.canKaybi += Number(stats.can_kaybi_sayisi || 0);
-                    dStat.agirHasar += Number(stats.cok_agir_hasarli_bina_sayisi || 0) + Number(stats.agir_hasarli_bina_sayisi || 0);
-                    dStat.barinma += Number(stats.gecici_barinma || 0);
 
-                    // Risk ve Marker
-                    const risk = getRiskLevel(stats);
-                    const markerIcon = createMarkerIcon(risk);
-                    const marker = L.marker([lat, lon], { icon: markerIcon });
-
-                    const popupHtml = buildPopupHtml(stats, risk);
-                    marker.bindPopup(popupHtml, { maxWidth: 340, minWidth: 300 });
-
-                    marker.customData = {
-                        district: ilceName,
-                        mahalle: stats.mahalle_adi,
-                        stats: stats,
-                        risk: risk
+                    const depremMap = new Map();
+                    const cityTotals = {
+                        canKaybi: 0,
+                        agirHasar: 0,
+                        barinma: 0,
+                        mahalleCount: depremList.length
                     };
 
-                    batchMarkers.push(marker);
+                    for (let i = 0; i < depremList.length; i++) {
+                        const row = depremList[i];
+                        const rawKey = `${row.ilce_adi},${row.mahalle_adi}`.toUpperCase().trim();
+                        const normKey = normalizeLocationKey(rawKey);
+                        depremMap.set(rawKey, row);
+                        depremMap.set(normKey, row);
 
-                    if (!markersByDistrict.has(ilceName)) {
-                        markersByDistrict.set(ilceName, []);
+                        // Şehir toplamları (959 Resmi İBB Mahalle)
+                        cityTotals.canKaybi += Number(row.can_kaybi_sayisi || 0);
+                        cityTotals.agirHasar += Number(row.cok_agir_hasarli_bina_sayisi || 0) + Number(row.agir_hasarli_bina_sayisi || 0);
+                        cityTotals.barinma += Number(row.gecici_barinma || 0);
+
+                        // İlçe istatistik toplamları (Resmi İBB verileri)
+                        const ilceName = row.ilce_adi;
+                        if (!districtStatsMap.has(ilceName)) {
+                            districtStatsMap.set(ilceName, {
+                                count: 0,
+                                canKaybi: 0,
+                                agirHasar: 0,
+                                barinma: 0
+                            });
+                        }
+                        const dStat = districtStatsMap.get(ilceName);
+                        dStat.count++;
+                        dStat.canKaybi += Number(row.can_kaybi_sayisi || 0);
+                        dStat.agirHasar += Number(row.cok_agir_hasarli_bina_sayisi || 0) + Number(row.agir_hasarli_bina_sayisi || 0);
+                        dStat.barinma += Number(row.gecici_barinma || 0);
                     }
-                    markersByDistrict.get(ilceName).push(marker);
-                }
 
-                allMarkers = batchMarkers;
-                cityTotals.mahalleCount = batchMarkers.length;
+                    // 3. İlçe Konumlarını İşleme ve Deduplication (391 Çift Koordinatı Temizleme)
+                    const uniqueLocations = new Set();
+                    const batchMarkers = [];
+                    const districtSet = new Set();
 
-                // 4. Markerları Tek Seferde Toplu Ekliyoruz (Sıfır Lag)
-                markersCluster.addLayers(batchMarkers);
+                    for (let i = 0; i < ilceList.length; i++) {
+                        const item = ilceList[i];
+                        const lat = parseFloat(item.lat);
+                        const lon = parseFloat(item.lon);
 
-                // 5. Şehir İstatistiklerini Güncelle
-                updateStatsDisplay('Tüm İstanbul', cityTotals.mahalleCount, cityTotals.canKaybi, cityTotals.agirHasar, cityTotals.barinma);
+                        if (isNaN(lat) || isNaN(lon)) continue;
 
-                // 6. İlçe Seçim Kutusunu Doldur
-                populateDistrictFilter(Array.from(districtSet).sort((a, b) => a.localeCompare(b, 'tr')));
+                        // Benzersiz koordinat kontrolü
+                        const coordKey = `${lat.toFixed(5)},${lon.toFixed(5)}`;
+                        if (uniqueLocations.has(coordKey)) {
+                            continue;
+                        }
+                        uniqueLocations.add(coordKey);
 
-                // Yükleme Ekranını Kapat
-                const loader = document.getElementById('loader');
-                loader.style.opacity = '0';
-                setTimeout(() => loader.style.display = 'none', 350);
+                        // İlçe ve Mahalle Eşleştirme (Normalizasyon Destekli)
+                        const rawName = item.ilce_adi || '';
+                        const matchKey = rawName.toUpperCase().trim();
+                        const stats = depremMap.get(matchKey) || depremMap.get(normalizeLocationKey(rawName));
 
-            } catch (err) {
-                console.error('Veri yükleme hatası:', err);
-                const loader = document.getElementById('loader');
-                loader.innerHTML = `
+                        if (!stats) continue;
+
+                        const ilceName = stats.ilce_adi;
+                        districtSet.add(ilceName);
+
+                        // Risk ve Marker
+                        const risk = getRiskLevel(stats);
+                        const markerIcon = createMarkerIcon(risk);
+                        const marker = L.marker([lat, lon], { icon: markerIcon });
+
+                        const popupHtml = buildPopupHtml(stats, risk);
+                        marker.bindPopup(popupHtml, { maxWidth: 340, minWidth: 300 });
+
+                        marker.customData = {
+                            district: ilceName,
+                            mahalle: stats.mahalle_adi,
+                            stats: stats,
+                            risk: risk
+                        };
+
+                        batchMarkers.push(marker);
+
+                        if (!markersByDistrict.has(ilceName)) {
+                            markersByDistrict.set(ilceName, []);
+                        }
+                        markersByDistrict.get(ilceName).push(marker);
+                    }
+
+                    allMarkers = batchMarkers;
+                    cityTotals.mahalleCount = depremList.length;
+
+                    // 4. Markerları Tek Seferde Toplu Ekliyoruz (Sıfır Lag)
+                    markersCluster.addLayers(batchMarkers);
+
+                    // 5. Şehir İstatistiklerini Güncelle
+                    updateStatsDisplay('Tüm İstanbul', cityTotals.mahalleCount, cityTotals.canKaybi, cityTotals.agirHasar, cityTotals.barinma);
+
+                    // 6. İlçe Seçim Kutusunu Doldur
+                    populateDistrictFilter(Array.from(districtSet).sort((a, b) => a.localeCompare(b, 'tr')));
+
+                    // 7. İl Seçim Kutusunu Doldur
+                    if (indexResponse && indexResponse.ok) {
+                        try {
+                            const indexList = await indexResponse.json();
+                            populateProvinceFilter(indexList);
+                        } catch (iErr) {
+                            console.warn('İller index parse hatası:', iErr);
+                        }
+                    }
+
+                    // 8. Türkiye Toplanma Alanlarını Haritaya Ekle (Kamp Simgesi)
+                    if (campResponse && campResponse.ok) {
+                        try {
+                            const campData = await campResponse.json();
+                            allCampData = campData;
+                            istanbulCampData = campData.filter(x => {
+                                const il = (x.il || '').toUpperCase();
+                                return il === 'İSTANBUL' || il === 'ISTANBUL';
+                            });
+                            istanbulCampCount = istanbulCampData.length || 357;
+                            initTurkeyCampAreas(campData);
+                            updateStatsDisplay('Tüm İstanbul', cityTotals.mahalleCount, cityTotals.canKaybi, cityTotals.agirHasar, cityTotals.barinma, istanbulCampCount);
+                        } catch (cErr) {
+                            console.warn('Toplanma alanları parse hatası:', cErr);
+                        }
+                    }
+
+                    // Yükleme Ekranını Kapat
+                    const loader = document.getElementById('loader');
+                    loader.style.opacity = '0';
+                    setTimeout(() => loader.style.display = 'none', 350);
+
+                } catch (err) {
+                    console.error('Veri yükleme hatası:', err);
+                    const loader = document.getElementById('loader');
+                    loader.innerHTML = `
                     <div style="color: #ef4444; font-size: 1.1rem; text-align: center; max-width: 400px; padding: 20px;">
                         <i class="fa-solid fa-circle-exclamation" style="font-size: 2.5rem; margin-bottom: 12px;"></i>
                         <div>Veriler yüklenirken bir sorun oluştu!</div>
                         <div style="font-size: 0.85rem; color: #94a3b8; margin-top: 6px;">Lütfen sayfayı yenileyiniz.</div>
                     </div>
                 `;
+                }
             }
-        }
 
-        // İstatistik Çubuğunu Güncelleme
-        function updateStatsDisplay(regionName, count, canKaybi, agirHasar, barinma) {
-            document.getElementById('labelRegion').textContent = regionName;
-            document.getElementById('statMahalle').textContent = `${fmt(count)} Mahalle`;
-            document.getElementById('statCanKaybi').textContent = fmt(canKaybi);
-            document.getElementById('statAgirHasar').textContent = fmt(agirHasar);
-            document.getElementById('statBarinma').textContent = `${fmt(barinma)} Hane`;
-        }
+            // İstatistik Çubuğunu Güncelleme
+            function updateStatsDisplay(regionName, count, canKaybi, agirHasar, barinma, toplanmaSayisi) {
+                document.getElementById('labelRegion').textContent = regionName;
+                document.getElementById('statMahalle').textContent = typeof count === 'number' ? `${fmt(count)} Mahalle` : count;
+                document.getElementById('statCanKaybi').textContent = typeof canKaybi === 'number' ? fmt(canKaybi) : canKaybi;
+                document.getElementById('statAgirHasar').textContent = typeof agirHasar === 'number' ? fmt(agirHasar) : agirHasar;
+                document.getElementById('statBarinma').textContent = typeof barinma === 'number' ? `${fmt(barinma)} Hane` : barinma;
 
-        // İlçe Seçim Kutusunu Doldurma
-        function populateDistrictFilter(districtList) {
-            const select = document.getElementById('districtFilter');
-            districtList.forEach(dist => {
-                const opt = document.createElement('option');
-                opt.value = dist;
-                const dStat = districtStatsMap.get(dist);
-                opt.textContent = `${dist} (${dStat ? dStat.count : 0} Mahalle)`;
-                select.appendChild(opt);
-            });
+                const statToplanma = document.getElementById('statToplanmaAlani');
+                if (statToplanma) {
+                    const c = (toplanmaSayisi !== undefined && toplanmaSayisi !== null) ? toplanmaSayisi : istanbulCampCount;
+                    statToplanma.textContent = typeof c === 'number' ? `${fmt(c)} Alan` : c;
+                }
+            }
 
-            select.addEventListener('change', function() {
-                filterByDistrict(this.value);
-            });
-        }
-
-        // İlçe Filtreleme Fonksiyonu
-        function filterByDistrict(district) {
-            markersCluster.clearLayers();
-
-            if (district === 'ALL') {
-                markersCluster.addLayers(allMarkers);
-                let tMah = allMarkers.length, tCan = 0, tAgir = 0, tBar = 0;
-                districtStatsMap.forEach(s => {
-                    tCan += s.canKaybi;
-                    tAgir += s.agirHasar;
-                    tBar += s.barinma;
+            // İlçe Seçim Kutusunu Doldurma
+            function populateDistrictFilter(districtList) {
+                const select = document.getElementById('districtFilter');
+                districtList.forEach(dist => {
+                    const opt = document.createElement('option');
+                    opt.value = dist;
+                    const dStat = districtStatsMap.get(dist);
+                    opt.textContent = `${dist} (${dStat ? dStat.count : 0} Mahalle)`;
+                    select.appendChild(opt);
                 });
-                updateStatsDisplay('Tüm İstanbul', tMah, tCan, tAgir, tBar);
-                map.setView([41.0082, 28.9784], 10);
-            } else {
-                const filtered = markersByDistrict.get(district) || [];
-                markersCluster.addLayers(filtered);
 
-                const dStat = districtStatsMap.get(district) || { count: 0, canKaybi: 0, agirHasar: 0, barinma: 0 };
-                updateStatsDisplay(district, dStat.count, dStat.canKaybi, dStat.agirHasar, dStat.barinma);
-
-                if (filtered.length > 0) {
-                    const group = L.featureGroup(filtered);
-                    map.fitBounds(group.getBounds().pad(0.12));
-                }
-            }
-        }
-
-        // 7. Fay Hatları Katmanı (Optimize 300KB Marmara/Türkiye GeoJSON)
-        const btnFaultToggle = document.getElementById('btnFaultToggle');
-        btnFaultToggle.addEventListener('click', async function() {
-            if (isFaultVisible) {
-                if (faultLayer) {
-                    map.removeLayer(faultLayer);
-                }
-                isFaultVisible = false;
-                btnFaultToggle.classList.remove('active');
-                btnFaultToggle.innerHTML = `<i class="fa-solid fa-water"></i> <span>Fay Hatlarını Göster</span>`;
-                return;
+                select.addEventListener('change', function () {
+                    filterByDistrict(this.value);
+                });
             }
 
-            btnFaultToggle.innerHTML = `<i class="fa-solid fa-spinner fa-spin"></i> <span>Yükleniyor...</span>`;
+            // İlçe Filtreleme Fonksiyonu
+            function filterByDistrict(district) {
+                markersCluster.clearLayers();
 
-            try {
-                if (!faultLayer) {
-                    const res = await fetch('fay_hatlari_turkiye.geojson');
-                    if (!res.ok) {
-                        throw new Error('Fay hattı verisi yüklenemedi: ' + res.status);
+                if (district === 'ALL') {
+                    markersCluster.addLayers(allMarkers);
+                    updateStatsDisplay('Tüm İstanbul', cityTotals.mahalleCount, cityTotals.canKaybi, cityTotals.agirHasar, cityTotals.barinma, istanbulCampCount);
+                    map.setView([41.0082, 28.9784], 10);
+                } else {
+                    const filtered = markersByDistrict.get(district) || [];
+                    markersCluster.addLayers(filtered);
+
+                    const dStat = districtStatsMap.get(district) || { count: 0, canKaybi: 0, agirHasar: 0, barinma: 0 };
+                    const dNorm = district.toUpperCase().trim();
+                    const dCampCount = istanbulCampData.filter(x => (x.ilce || '').toUpperCase().trim() === dNorm).length;
+                    updateStatsDisplay(district, dStat.count, dStat.canKaybi, dStat.agirHasar, dStat.barinma, dCampCount);
+
+                    if (filtered.length > 0) {
+                        const group = L.featureGroup(filtered);
+                        map.fitBounds(group.getBounds().pad(0.12));
                     }
-                    const faultGeoData = await res.json();
+                }
+            }
 
-                    faultLayer = L.geoJSON(faultGeoData, {
-                        style: function() {
-                            return {
-                                color: '#dc2626',
-                                weight: 3,
-                                opacity: 0.9,
-                                dashArray: '6, 5'
-                            };
-                        },
-                        onEachFeature: function(feature, layer) {
-                            const name = feature.properties?.name || 'Aktif Fay Hattı';
-                            layer.bindPopup(`
+            // 6.1 Türkiye Geneli Afet Toplanma Alanları Katmanı (Kamp Sembolü, Kümeleme ve Yol Tarifi)
+            function initTurkeyCampAreas(campList) {
+                if (!Array.isArray(campList) || !campList.length) return;
+
+                function escapeHtml(str) {
+                    if (!str) return '';
+                    return String(str)
+                        .replace(/&/g, '&amp;')
+                        .replace(/</g, '&lt;')
+                        .replace(/>/g, '&gt;')
+                        .replace(/"/g, '&quot;')
+                        .replace(/'/g, '&#039;');
+                }
+
+                const campMarkers = [];
+                for (let i = 0; i < campList.length; i++) {
+                    const item = campList[i];
+                    const lat = item.lat;
+                    const lon = item.lon;
+                    if (!lat || !lon) continue;
+
+                    const areaName = item.ad || 'Toplanma Alanı';
+                    const cityName = item.il || '';
+                    const districtName = item.ilce || '';
+                    const mahalleName = item.mahalle || '';
+
+                    const campIcon = L.divIcon({
+                        className: 'camp-pin-wrap',
+                        html: `<div class="custom-camp-pin" title="${escapeHtml(areaName)}"><i class="fa-solid fa-campground"></i></div>`,
+                        iconSize: [28, 28],
+                        iconAnchor: [14, 14],
+                        popupAnchor: [0, -14]
+                    });
+
+                    const marker = L.marker([lat, lon], { icon: campIcon });
+
+                    const popupContent = `
+                        <div class="popup-card">
+                            <div class="popup-header" style="background: linear-gradient(180deg, rgba(6, 78, 59, 0.92), rgba(15, 23, 42, 0.95)); border-bottom: 1px solid rgba(16, 185, 129, 0.35);">
+                                <div>
+                                    <div class="popup-district" style="color: #34d399; display: flex; align-items: center; gap: 5px;">
+                                        <i class="fa-solid fa-map-location-dot"></i> ${escapeHtml(cityName)}${districtName ? ' / ' + escapeHtml(districtName) : ''}
+                                    </div>
+                                    <div class="popup-title" style="margin-top: 4px; font-size: 0.96rem;">${escapeHtml(areaName)}</div>
+                                </div>
+                                <span class="popup-risk-badge" style="background: rgba(16, 185, 129, 0.2); color: #6ee7b7; border: 1px solid rgba(16, 185, 129, 0.4); display: flex; align-items: center; gap: 4px;">
+                                    <i class="fa-solid fa-campground"></i> Toplanma Alanı
+                                </span>
+                            </div>
+                            <div class="popup-body" style="padding: 12px 14px; gap: 8px;">
+                                ${mahalleName ? `
+                                <div class="stat-cell" style="background: rgba(16, 185, 129, 0.08); border: 1px solid rgba(16, 185, 129, 0.2);">
+                                    <span class="stat-cell-label" style="color: #a7f3d0;">Mahalle</span>
+                                    <span class="stat-cell-value" style="font-size: 0.88rem; color: #ffffff;">${escapeHtml(mahalleName)} Mahallesi</span>
+                                </div>` : ''}
+                                <div style="font-size: 0.76rem; color: #94a3b8; line-height: 1.45; display: flex; align-items: flex-start; gap: 6px; margin-top: 2px;">
+                                    <i class="fa-solid fa-shield-heart" style="color: #10b981; margin-top: 2px; flex-shrink: 0;"></i>
+                                    <span>Afet ve acil durumlarda güvenli toplanma ve çadır/geçici barınma alanıdır.</span>
+                                </div>
+                                <a href="https://www.google.com/maps/dir/?api=1&destination=${lat},${lon}" target="_blank" rel="noopener noreferrer" style="margin-top: 6px; display: inline-flex; align-items: center; justify-content: center; gap: 6px; padding: 7px 12px; background: rgba(16, 185, 129, 0.2); border: 1px solid rgba(16, 185, 129, 0.4); border-radius: 6px; color: #6ee7b7; text-decoration: none; font-size: 0.8rem; font-weight: 500;">
+                                    <i class="fa-solid fa-diamond-turn-right"></i> Yol Tarifi Al
+                                </a>
+                            </div>
+                        </div>
+                    `;
+
+                    marker.bindPopup(popupContent, { maxWidth: 320, minWidth: 260 });
+                    campMarkers.push(marker);
+                }
+
+                campCluster = L.markerClusterGroup({
+                    chunkedLoading: true,
+                    chunkInterval: 50,
+                    maxClusterRadius: 45,
+                    iconCreateFunction: function (cluster) {
+                        const count = cluster.getChildCount();
+                        return L.divIcon({
+                            html: `<div class="bursa-camp-cluster-badge"><i class="fa-solid fa-campground"></i> <span>${count.toLocaleString('tr-TR')}</span></div>`,
+                            className: 'bursa-camp-cluster-wrap',
+                            iconSize: [42, 42],
+                            iconAnchor: [21, 21]
+                        });
+                    }
+                });
+
+                campCluster.addLayers(campMarkers);
+                map.addLayer(campCluster);
+                bursaCampCluster = campCluster;
+
+                const btnCampToggle = document.getElementById('btnCampToggle') || document.getElementById('btnBursaCampToggle');
+                if (btnCampToggle) {
+                    btnCampToggle.innerHTML = `<i class="fa-solid fa-campground"></i> <span>Toplanma Alanları (${campMarkers.length.toLocaleString('tr-TR')})</span>`;
+                    btnCampToggle.addEventListener('click', function () {
+                        if (isCampVisible) {
+                            map.removeLayer(campCluster);
+                            isCampVisible = false;
+                            isBursaCampVisible = false;
+                            btnCampToggle.classList.remove('active');
+                            btnCampToggle.innerHTML = `<i class="fa-solid fa-campground"></i> <span>Toplanma Alanlarını Göster</span>`;
+                        } else {
+                            map.addLayer(campCluster);
+                            isCampVisible = true;
+                            isBursaCampVisible = true;
+                            btnCampToggle.classList.add('active');
+                            btnCampToggle.innerHTML = `<i class="fa-solid fa-campground"></i> <span>Toplanma Alanları (${campMarkers.length.toLocaleString('tr-TR')})</span>`;
+                        }
+                    });
+                }
+            }
+
+            function initBursaCampAreas(data) {
+                if (data && data.features) {
+                    const mapped = data.features.map(f => {
+                        const p = f.properties || {};
+                        const coords = f.geometry ? f.geometry.coordinates : null;
+                        let lat = 0, lon = 0;
+                        if (coords) {
+                            if (f.geometry.type === 'Point') {
+                                lat = coords[1]; lon = coords[0];
+                            } else {
+                                lat = 40.1885; lon = 29.0610;
+                            }
+                        }
+                        return { il: 'BURSA', ilce: p.ilce || 'Bursa', mahalle: p.mahalle || '', ad: p.ad || 'Toplanma Alanı', lat, lon };
+                    });
+                    initTurkeyCampAreas(mapped);
+                }
+            }
+
+            // 6.2 İl Seçim Kutusunu Doldurma ve İle Göre Harita Konumlandırma
+            function populateProvinceFilter(indexList) {
+                const select = document.getElementById('provinceFilter');
+                if (!select || !Array.isArray(indexList)) return;
+
+                indexList.forEach(il => {
+                    const opt = document.createElement('option');
+                    opt.value = il.slug;
+                    opt.textContent = `${il.name} (${il.count.toLocaleString('tr-TR')} Alan)`;
+                    select.appendChild(opt);
+                });
+
+                select.addEventListener('change', function () {
+                    const slug = this.value;
+                    const districtWrap = document.getElementById('districtSelectWrap');
+                    if (slug === 'istanbul') {
+                        if (districtWrap) districtWrap.style.display = 'flex';
+                        map.setView([41.0082, 28.9784], 10);
+                        filterByDistrict('ALL');
+                    } else {
+                        if (districtWrap) districtWrap.style.display = 'none';
+                        const found = indexList.find(x => x.slug === slug);
+                        if (found && found.center) {
+                            map.setView(found.center, 12);
+                            updateStatsDisplay(found.name, `${found.count.toLocaleString('tr-TR')} Toplanma Alanı`, 0, 0, 0);
+                        }
+                    }
+                });
+            }
+
+            // 7. Fay Hatları Katmanı (Optimize 300KB Marmara/Türkiye GeoJSON)
+            const btnFaultToggle = document.getElementById('btnFaultToggle');
+            btnFaultToggle.addEventListener('click', async function () {
+                if (isFaultVisible) {
+                    if (faultLayer) {
+                        map.removeLayer(faultLayer);
+                    }
+                    isFaultVisible = false;
+                    btnFaultToggle.classList.remove('active');
+                    btnFaultToggle.innerHTML = `<i class="fa-solid fa-water"></i> <span>Fay Hatlarını Göster</span>`;
+                    return;
+                }
+
+                btnFaultToggle.innerHTML = `<i class="fa-solid fa-spinner fa-spin"></i> <span>Yükleniyor...</span>`;
+
+                try {
+                    if (!faultLayer) {
+                        let res = null;
+                        const candidates = ['fay_hatlari_turkiye.geojson', './fay_hatlari_turkiye.geojson', '/istdeprem/fay_hatlari_turkiye.geojson'];
+                        for (const url of candidates) {
+                            try {
+                                const attempt = await fetch(url);
+                                if (attempt.ok) { res = attempt; break; }
+                            } catch (e) { }
+                        }
+                        if (!res || !res.ok) {
+                            throw new Error('Fay hattı verisi yüklenemedi');
+                        }
+                        const faultGeoData = await res.json();
+
+                        faultLayer = L.geoJSON(faultGeoData, {
+                            style: function () {
+                                return {
+                                    color: '#dc2626',
+                                    weight: 3,
+                                    opacity: 0.9,
+                                    dashArray: '6, 5'
+                                };
+                            },
+                            onEachFeature: function (feature, layer) {
+                                const name = feature.properties?.name || 'Aktif Fay Hattı';
+                                layer.bindPopup(`
                                 <div style="font-family: var(--font-sans); padding: 8px;">
                                     <strong style="color: #dc2626;"><i class="fa-solid fa-triangle-exclamation"></i> ${name}</strong>
                                     <div style="font-size: 0.8rem; color: #475569; margin-top: 4px;">GEM Global Active Faults Database</div>
                                 </div>
                             `);
+                            }
+                        });
+                    }
+
+                    map.addLayer(faultLayer);
+                    isFaultVisible = true;
+                    btnFaultToggle.classList.add('active');
+                    btnFaultToggle.innerHTML = `<i class="fa-solid fa-eye-slash"></i> <span>Fay Hatlarını Gizle</span>`;
+                } catch (err) {
+                    console.error('Fay hattı yükleme hatası:', err);
+                    btnFaultToggle.innerHTML = `<i class="fa-solid fa-triangle-exclamation"></i> <span>Hata Oluştu</span>`;
+                    setTimeout(() => {
+                        btnFaultToggle.innerHTML = `<i class="fa-solid fa-water"></i> <span>Fay Hatlarını Göster</span>`;
+                    }, 2500);
+                }
+            });
+
+            // 8. Bilgilendirme / Uyarı Kutusunu Gizleme / Açma Mantığı
+            const btnToggleWarning = document.getElementById('btnToggleWarning');
+            const btnCloseWarning = document.getElementById('btnCloseWarning');
+            const btnDismissWarning = document.getElementById('btnDismissWarning');
+            const warningBox = document.getElementById('warningBox');
+            const warningToggleIcon = document.getElementById('warningToggleIcon');
+            const warningToggleText = document.getElementById('warningToggleText');
+
+            function setWarningState(isOpen) {
+                if (!warningBox) return;
+                if (isOpen) {
+                    warningBox.classList.remove('collapsed');
+                    if (warningToggleIcon) warningToggleIcon.className = 'fa-solid fa-eye-slash';
+                    if (warningToggleText) warningToggleText.textContent = 'Gizle';
+                    if (btnToggleWarning) {
+                        btnToggleWarning.setAttribute('aria-expanded', 'true');
+                        btnToggleWarning.classList.remove('active-hint');
+                    }
+                    try { localStorage.setItem('istdeprem_info_open', '1'); } catch (e) { }
+                } else {
+                    warningBox.classList.add('collapsed');
+                    if (warningToggleIcon) warningToggleIcon.className = 'fa-solid fa-circle-info';
+                    if (warningToggleText) warningToggleText.textContent = 'Bilgilendirme';
+                    if (btnToggleWarning) {
+                        btnToggleWarning.setAttribute('aria-expanded', 'false');
+                        btnToggleWarning.classList.add('active-hint');
+                    }
+                    try { localStorage.setItem('istdeprem_info_open', '0'); } catch (e) { }
+                }
+            }
+
+            if (btnToggleWarning && warningBox) {
+                btnToggleWarning.addEventListener('click', function () {
+                    const isCurrentlyOpen = !warningBox.classList.contains('collapsed');
+                    setWarningState(!isCurrentlyOpen);
+                });
+            }
+            if (btnCloseWarning && warningBox) {
+                btnCloseWarning.addEventListener('click', function () {
+                    setWarningState(false);
+                });
+            }
+            if (btnDismissWarning && warningBox) {
+                btnDismissWarning.addEventListener('click', function () {
+                    setWarningState(false);
+                });
+            }
+
+            // Mobilde ekran darsa veya kullanıcı daha önce kapattıysa kapalı başlat
+            try {
+                const savedState = localStorage.getItem('istdeprem_info_open');
+                if (savedState === '0' || (savedState === null && window.innerWidth <= 640)) {
+                    setWarningState(false);
+                }
+            } catch (e) { }
+
+            // 9. Konumumu Bul Mantığı (Sıfır Kayıt & Akıllı Ağ / GPS Fallback)
+            const btnLocate = document.getElementById('btnLocate');
+            const locateModal = document.getElementById('locateModal');
+            const btnConfirmLocate = document.getElementById('btnConfirmLocate');
+            const btnCancelLocate = document.getElementById('btnCancelLocate');
+            const btnCloseLocateModal = document.getElementById('btnCloseLocateModal');
+
+            let userLocationMarker = null;
+            let userAccuracyCircle = null;
+
+            function closeLocateModal() {
+                if (locateModal) locateModal.style.display = 'none';
+            }
+
+            function openLocateModal() {
+                if (locateModal) {
+                    locateModal.style.display = 'flex';
+                }
+            }
+
+            if (btnCloseLocateModal) btnCloseLocateModal.addEventListener('click', closeLocateModal);
+            if (btnCancelLocate) btnCancelLocate.addEventListener('click', closeLocateModal);
+            if (locateModal) {
+                locateModal.addEventListener('click', function (e) {
+                    if (e.target === locateModal) closeLocateModal();
+                });
+            }
+
+            function showUserLocationOnMap(lat, lng, accuracy, isIpFallback, statusMsg) {
+                if (userLocationMarker) map.removeLayer(userLocationMarker);
+                if (userAccuracyCircle) map.removeLayer(userAccuracyCircle);
+
+                const pulseIcon = L.divIcon({
+                    className: 'custom-pulse-icon',
+                    html: `<div class="user-location-pulse"><div class="pulse-ring"></div><div class="pulse-dot"></div></div>`,
+                    iconSize: [22, 22],
+                    iconAnchor: [11, 11]
+                });
+
+                userLocationMarker = L.marker([lat, lng], {
+                    icon: pulseIcon,
+                    zIndexOffset: 1000,
+                    draggable: true
+                }).addTo(map);
+
+                userAccuracyCircle = L.circle([lat, lng], {
+                    radius: Math.min(accuracy || 500, 2500),
+                    color: isIpFallback ? '#f59e0b' : '#38bdf8',
+                    fillColor: isIpFallback ? '#f59e0b' : '#38bdf8',
+                    fillOpacity: 0.12,
+                    weight: 1.5
+                }).addTo(map);
+
+                let nearestDistrict = '';
+                let nearestMahalle = '';
+                let minDistanceSq = Infinity;
+
+                if (allMarkers && allMarkers.length > 0) {
+                    for (let i = 0; i < allMarkers.length; i++) {
+                        const m = allMarkers[i];
+                        const mPos = m.getLatLng();
+                        const dLat = lat - mPos.lat;
+                        const dLng = lng - mPos.lng;
+                        const distSq = dLat * dLat + dLng * dLng;
+                        if (distSq < minDistanceSq) {
+                            minDistanceSq = distSq;
+                            if (m.customData) {
+                                nearestMahalle = m.customData.mahalle || '';
+                                nearestDistrict = m.customData.district || '';
+                            }
                         }
-                    });
+                    }
                 }
 
-                map.addLayer(faultLayer);
-                isFaultVisible = true;
-                btnFaultToggle.classList.add('active');
-                btnFaultToggle.innerHTML = `<i class="fa-solid fa-eye-slash"></i> <span>Fay Hatlarını Gizle</span>`;
-            } catch (err) {
-                console.error('Fay hattı yükleme hatası:', err);
-                btnFaultToggle.innerHTML = `<i class="fa-solid fa-triangle-exclamation"></i> <span>Hata Oluştu</span>`;
-                setTimeout(() => {
-                    btnFaultToggle.innerHTML = `<i class="fa-solid fa-water"></i> <span>Fay Hatlarını Göster</span>`;
-                }, 2500);
-            }
-        });
+                let regionText = '';
+                if (minDistanceSq < 0.25 && nearestDistrict) {
+                    regionText = `<div style="margin: 6px 0; color: #ffffff; font-size: 0.88rem;">En Yakın Bölge: <strong>${nearestMahalle} (${nearestDistrict})</strong></div>`;
+                } else {
+                    regionText = `<div style="margin: 6px 0; color: #94a3b8; font-size: 0.82rem;">İstanbul çalışma sınırları içerisindesiniz.</div>`;
+                }
 
-        // Başlat
-        initData();
-    })();
+                let headerTitle = isIpFallback
+                    ? `<div style="font-weight: 700; color: #f59e0b; font-size: 0.95rem; display: flex; align-items: center; gap: 6px;"><i class="fa-solid fa-wifi"></i> Yaklaşık Ağ / İnternet Konumunuz</div>`
+                    : `<div style="font-weight: 700; color: #38bdf8; font-size: 0.95rem; display: flex; align-items: center; gap: 6px;"><i class="fa-solid fa-location-crosshairs"></i> Bulunduğunuz Konum (GPS)</div>`;
+
+                let privacyNote = isIpFallback
+                    ? `<div style="font-size: 0.74rem; color: #cbd5e1; line-height: 1.45; border-top: 1px solid rgba(255,255,255,0.1); padding-top: 6px; margin-top: 6px;">
+                        ⚠️ <em>Tarayıcı / macOS GPS izni vermediği için yaklaşık internet sağlayıcı konumunuz gösterildi.</em><br>
+                        💡 <strong>İpucu:</strong> Noktayı dilediğiniz cadde/mahalleye sürükleyip bırakabilirsiniz.
+                       </div>`
+                    : `<div style="font-size: 0.72rem; color: #64748b; line-height: 1.35; border-top: 1px solid rgba(255,255,255,0.1); padding-top: 5px; margin-top: 4px;">
+                        🔒 <strong>Gizlilik:</strong> Konum koordinatlarınız hiçbir yere kaydedilmemiştir (Hassasiyet: ±${Math.round(accuracy)}m). Noktayı sürükleyebilirsiniz.
+                       </div>`;
+
+                const popupContent = `
+                    <div style="font-family: var(--font-sans); padding: 8px 4px; min-width: 220px;">
+                        ${headerTitle}
+                        ${regionText}
+                        ${privacyNote}
+                    </div>
+                `;
+
+                userLocationMarker.bindPopup(popupContent).openPopup();
+                map.flyTo([lat, lng], 13, { duration: 1.5 });
+
+                userLocationMarker.on('dragend', function (e) {
+                    const newPos = e.target.getLatLng();
+                    showUserLocationOnMap(newPos.lat, newPos.lng, 25, false);
+                });
+
+                if (btnLocate) {
+                    btnLocate.classList.add('active');
+                    btnLocate.innerHTML = isIpFallback
+                        ? `<i class="fa-solid fa-wifi"></i> <span>Ağ Konumu</span>`
+                        : `<i class="fa-solid fa-crosshairs"></i> <span>Konumum</span>`;
+                }
+            }
+
+            function performGeolocation() {
+                if (btnLocate) {
+                    btnLocate.classList.add('active');
+                    btnLocate.innerHTML = `<i class="fa-solid fa-spinner fa-spin"></i> <span>Konum Alınıyor...</span>`;
+                }
+
+                function fallbackToIp(gpsReason) {
+                    console.log('GPS alınamadı, IP konumuna geçiliyor:', gpsReason);
+                    fetch('https://get.geojs.io/v1/ip/geo.json')
+                        .then(function (res) { return res.json(); })
+                        .then(function (data) {
+                            if (data && data.latitude && data.longitude) {
+                                var ipLat = parseFloat(data.latitude);
+                                var ipLng = parseFloat(data.longitude);
+                                showUserLocationOnMap(ipLat, ipLng, 1200, true, gpsReason);
+                            } else {
+                                throw new Error('IP koordinatları bulunamadı');
+                            }
+                        })
+                        .catch(function (err) {
+                            console.warn('IP fallback hatası:', err);
+                            // İstanbul Fatih / Merkez varsayılan konumuyla haritada göster
+                            showUserLocationOnMap(41.0151, 28.9537, 2000, true, 'Varsayılan İstanbul Konumu');
+                        });
+                }
+
+                if (!navigator.geolocation) {
+                    fallbackToIp('Tarayıcı Geolocation API desteklemiyor');
+                    return;
+                }
+
+                var didSucceed = false;
+
+                function onGpsSuccess(position) {
+                    didSucceed = true;
+                    showUserLocationOnMap(
+                        position.coords.latitude,
+                        position.coords.longitude,
+                        position.coords.accuracy || 30,
+                        false
+                    );
+                }
+
+                function onGpsError(error) {
+                    if (didSucceed) return;
+                    console.warn('Geolocation hatası (IP Fallback devreye giriyor):', error);
+                    // Hata ne olursa olsun (izin reddi, macOS engeli, timeout, HTTP context vb.)
+                    // Kullanıcıyı alert ile engellemek yerine anında IP/Ağ konumuna geç!
+                    fallbackToIp(error.message || 'GPS izni alınamadı');
+                }
+
+                // 1. Önce GPS/Hassas konum dene (5 saniye timeout)
+                // 2. Yanıt gelmezse normal doğruluk dene
+                // 3. İzin verilmemişse otomatik IP fallback çalışsın
+                try {
+                    navigator.geolocation.getCurrentPosition(
+                        onGpsSuccess,
+                        function (err) {
+                            if (err.code === err.TIMEOUT || err.code === err.POSITION_UNAVAILABLE) {
+                                navigator.geolocation.getCurrentPosition(
+                                    onGpsSuccess,
+                                    onGpsError,
+                                    { enableHighAccuracy: false, timeout: 8000, maximumAge: 120000 }
+                                );
+                            } else {
+                                onGpsError(err);
+                            }
+                        },
+                        { enableHighAccuracy: true, timeout: 5000, maximumAge: 60000 }
+                    );
+                } catch (e) {
+                    fallbackToIp(e.message || 'Geolocation çağrısı başarısız');
+                }
+            }
+
+            function handleLocateClick(e) {
+                if (e) {
+                    e.preventDefault();
+                    e.stopPropagation();
+                }
+                try {
+                    const privacySeen = localStorage.getItem('istdeprem_location_privacy_seen');
+                    if (privacySeen === '1') {
+                        performGeolocation();
+                    } else {
+                        openLocateModal();
+                    }
+                } catch (err) {
+                    openLocateModal();
+                }
+            }
+
+            if (btnLocate) {
+                btnLocate.addEventListener('click', handleLocateClick);
+                btnLocate.addEventListener('touchend', handleLocateClick, { passive: false });
+            }
+
+            if (btnConfirmLocate) {
+                btnConfirmLocate.addEventListener('click', function (e) {
+                    if (e) e.preventDefault();
+                    try { localStorage.setItem('istdeprem_location_privacy_seen', '1'); } catch (err) { }
+                    closeLocateModal();
+                    performGeolocation();
+                });
+            }
+
+            // Başlat
+            initData();
+        })();
     </script>
 </body>
+
 </html>
