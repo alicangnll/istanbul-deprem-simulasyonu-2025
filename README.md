@@ -2,7 +2,7 @@
 
 İBB'nin (İstanbul Büyükşehir Belediyesi) **7.5 Mw büyüklüğündeki gece depremi senaryosuna** göre hazırlanmış analiz sonuçlarını, mahalle bazında interaktif bir harita üzerinde görselleştiren tek sayfalık web uygulaması.
 
-🔗 **Canlı Demo:** [alicangnll.github.io/istanbul-deprem-simulasyonu-2025](https://alicangnll.github.io/istanbul-deprem-simulasyonu-2025/)
+🔗 **Canlı Demo:** [alicangnll.github.io/deprem-simulasyonu](https://alicangnll.github.io/deprem-simulasyonu/)
 
 📊 **Kapsam:** 39 ilçe, 959 mahalle — can kaybı, yaralı, bina hasarı, altyapı hasarı ve geçici barınma tahminleri.
 
