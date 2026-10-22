@@ -30,16 +30,6 @@
     "file": "iller/afyonkarahisar/toplanma_alanlari.json"
   },
   {
-    "slug": "agri",
-    "name": "Ağrı",
-    "count": 963,
-    "center": [
-      39.528,
-      43.2034
-    ],
-    "file": "iller/agri/toplanma_alanlari.json"
-  },
-  {
     "slug": "aksaray",
     "name": "Aksaray",
     "count": 400,
@@ -108,6 +98,16 @@
       28.026
     ],
     "file": "iller/aydin/toplanma_alanlari.json"
+  },
+  {
+    "slug": "agri",
+    "name": "Ağrı",
+    "count": 963,
+    "center": [
+      39.528,
+      43.2034
+    ],
+    "file": "iller/agri/toplanma_alanlari.json"
   },
   {
     "slug": "balikesir",
@@ -208,36 +208,6 @@
       29.0526
     ],
     "file": "iller/bursa/toplanma_alanlari.json"
-  },
-  {
-    "slug": "canakkale",
-    "name": "Çanakkale",
-    "count": 903,
-    "center": [
-      40.002,
-      26.744
-    ],
-    "file": "iller/canakkale/toplanma_alanlari.json"
-  },
-  {
-    "slug": "cankiri",
-    "name": "Çankırı",
-    "count": 626,
-    "center": [
-      40.7616,
-      33.3921
-    ],
-    "file": "iller/cankiri/toplanma_alanlari.json"
-  },
-  {
-    "slug": "corum",
-    "name": "Çorum",
-    "count": 1455,
-    "center": [
-      40.6812,
-      34.6605
-    ],
-    "file": "iller/corum/toplanma_alanlari.json"
   },
   {
     "slug": "denizli",
@@ -370,16 +340,6 @@
     "file": "iller/hatay/toplanma_alanlari.json"
   },
   {
-    "slug": "igdir",
-    "name": "Iğdır",
-    "count": 243,
-    "center": [
-      39.9395,
-      43.8852
-    ],
-    "file": "iller/igdir/toplanma_alanlari.json"
-  },
-  {
     "slug": "isparta",
     "name": "Isparta",
     "count": 558,
@@ -390,24 +350,14 @@
     "file": "iller/isparta/toplanma_alanlari.json"
   },
   {
-    "slug": "istanbul",
-    "name": "İstanbul",
-    "count": 357,
+    "slug": "igdir",
+    "name": "Iğdır",
+    "count": 243,
     "center": [
-      41.0962,
-      28.8578
+      39.9395,
+      43.8852
     ],
-    "file": "iller/istanbul/toplanma_alanlari.json"
-  },
-  {
-    "slug": "izmir",
-    "name": "İzmir",
-    "count": 2380,
-    "center": [
-      38.4383,
-      27.2242
-    ],
-    "file": "iller/izmir/toplanma_alanlari.json"
+    "file": "iller/igdir/toplanma_alanlari.json"
   },
   {
     "slug": "kahramanmaras",
@@ -520,16 +470,6 @@
     "file": "iller/sivas/toplanma_alanlari.json"
   },
   {
-    "slug": "sanliurfa",
-    "name": "Şanlıurfa",
-    "count": 154,
-    "center": [
-      37.1623,
-      38.3195
-    ],
-    "file": "iller/sanliurfa/toplanma_alanlari.json"
-  },
-  {
     "slug": "tokat",
     "name": "Tokat",
     "count": 3,
@@ -538,5 +478,65 @@
       36.9105
     ],
     "file": "iller/tokat/toplanma_alanlari.json"
+  },
+  {
+    "slug": "canakkale",
+    "name": "Çanakkale",
+    "count": 903,
+    "center": [
+      40.002,
+      26.744
+    ],
+    "file": "iller/canakkale/toplanma_alanlari.json"
+  },
+  {
+    "slug": "cankiri",
+    "name": "Çankırı",
+    "count": 626,
+    "center": [
+      40.7616,
+      33.3921
+    ],
+    "file": "iller/cankiri/toplanma_alanlari.json"
+  },
+  {
+    "slug": "corum",
+    "name": "Çorum",
+    "count": 1455,
+    "center": [
+      40.6812,
+      34.6605
+    ],
+    "file": "iller/corum/toplanma_alanlari.json"
+  },
+  {
+    "slug": "i-stanbul",
+    "name": "İstanbul",
+    "count": 357,
+    "center": [
+      41.0962,
+      28.8578
+    ],
+    "file": "iller/i-stanbul/toplanma_alanlari.json"
+  },
+  {
+    "slug": "i-zmir",
+    "name": "İzmir",
+    "count": 2380,
+    "center": [
+      38.4383,
+      27.2242
+    ],
+    "file": "iller/i-zmir/toplanma_alanlari.json"
+  },
+  {
+    "slug": "sanliurfa",
+    "name": "Şanlıurfa",
+    "count": 154,
+    "center": [
+      37.1623,
+      38.3195
+    ],
+    "file": "iller/sanliurfa/toplanma_alanlari.json"
   }
 ]

@@ -562,6 +562,88 @@
             box-shadow: 0 0 12px rgba(16, 185, 129, 0.35);
         }
 
+        /* Fay Risk Düzeyleri Lejantı (Floating Mini Legend) */
+        .fault-risk-legend {
+            position: fixed;
+            bottom: 46px;
+            right: 14px;
+            z-index: 1050;
+            background: rgba(15, 23, 42, 0.94);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.14);
+            border-radius: var(--radius-md);
+            padding: 10px 14px;
+            font-family: var(--font-sans);
+            box-shadow: 0 12px 30px rgba(0, 0, 0, 0.7);
+            max-width: 320px;
+            pointer-events: auto;
+            animation: fadeInFaultLegend 0.25s ease-out;
+        }
+
+        @keyframes fadeInFaultLegend {
+            from { opacity: 0; transform: translateY(8px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .fault-risk-legend .legend-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 8px;
+            margin-bottom: 8px;
+            padding-bottom: 6px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+        }
+
+        .fault-risk-legend .legend-title {
+            font-size: 0.74rem;
+            font-weight: 700;
+            color: #e2e8f0;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .fault-risk-legend .legend-close-btn {
+            background: transparent;
+            border: none;
+            color: #94a3b8;
+            font-size: 1.15rem;
+            line-height: 1;
+            cursor: pointer;
+            padding: 0 4px;
+            transition: color 0.15s ease;
+        }
+
+        .fault-risk-legend .legend-close-btn:hover {
+            color: #ffffff;
+        }
+
+        .fault-risk-legend .legend-list {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+
+        .fault-risk-legend .legend-row {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 0.72rem;
+            color: #cbd5e1;
+            line-height: 1.3;
+        }
+
+        .fault-risk-legend .legend-line {
+            width: 20px;
+            height: 3.5px;
+            border-radius: 2px;
+            flex-shrink: 0;
+        }
+
         /* Bursa Kamp / Toplanma Alanı Pini & Cluster */
         .camp-pin-wrap {
             background: transparent !important;
@@ -1444,6 +1526,40 @@
     <!-- Harita Konteyneri -->
     <div id="map"></div>
 
+    <!-- Fay Risk Düzeyleri Lejantı (Fay Katmanı Aktifken Görünür) -->
+    <div id="faultRiskLegend" class="fault-risk-legend" style="display: none;">
+        <div class="legend-header">
+            <div class="legend-title"><i class="fa-solid fa-layer-group" style="color: #38bdf8;"></i> Diri Fay Risk Düzeyleri</div>
+            <button type="button" id="btnCloseFaultLegend" title="Lejantı Kapat" class="legend-close-btn">&times;</button>
+        </div>
+        <div class="legend-list">
+            <div class="legend-row">
+                <span class="legend-line" style="background: #ef4444;"></span>
+                <span class="legend-text"><strong style="color: #f87171;">Kritik Boşluk</strong> (Marmara 1766, Yedisu 1784)</span>
+            </div>
+            <div class="legend-row">
+                <span class="legend-line" style="background: #f97316;"></span>
+                <span class="legend-text"><strong style="color: #fb923c;">Yüksek Risk</strong> (Gemlik, Bandırma)</span>
+            </div>
+            <div class="legend-row">
+                <span class="legend-line" style="background: #f59e0b;"></span>
+                <span class="legend-text"><strong style="color: #fbbf24;">Orta Risk</strong> (KAF 20. yy, Graben Fayları)</span>
+            </div>
+            <div class="legend-row">
+                <span class="legend-line" style="background: #10b981;"></span>
+                <span class="legend-text"><strong style="color: #34d399;">Düşük / Boşaldı</strong> (2023 Maraş, 1999 Gölcük)</span>
+            </div>
+            <div class="legend-row">
+                <span class="legend-line" style="background: #38bdf8;"></span>
+                <span class="legend-text"><strong style="color: #7dd3fc;">Yavaş Deformasyon</strong> (&lt;1 mm/yıl, İç Anadolu)</span>
+            </div>
+            <div class="legend-row">
+                <span class="legend-line" style="background: #a855f7;"></span>
+                <span class="legend-text"><strong style="color: #c084fc;">Megathrust</strong> (Helen - Kıbrıs Yayı)</span>
+            </div>
+        </div>
+    </div>
+
     <!-- Alt: Şık Kayan İstatistik Çubuğu -->
     <footer class="bottom-stats-bar">
         <div class="stat-item">
@@ -2137,8 +2253,18 @@
                 });
             }
 
-            // 7. Fay Hatları Katmanı (Optimize 300KB Marmara/Türkiye GeoJSON)
+            // 7. Fay Hatları Katmanı (Dinamik Sismotektonik Risk Atlası & Tarihsel Kırılmalar)
             const btnFaultToggle = document.getElementById('btnFaultToggle');
+            const faultRiskLegendEl = document.getElementById('faultRiskLegend');
+            const btnCloseFaultLegend = document.getElementById('btnCloseFaultLegend');
+
+            if (btnCloseFaultLegend && faultRiskLegendEl) {
+                btnCloseFaultLegend.addEventListener('click', function (e) {
+                    e.stopPropagation();
+                    faultRiskLegendEl.style.display = 'none';
+                });
+            }
+
             btnFaultToggle.addEventListener('click', async function () {
                 if (isFaultVisible) {
                     if (faultLayer) {
@@ -2147,6 +2273,7 @@
                     isFaultVisible = false;
                     btnFaultToggle.classList.remove('active');
                     btnFaultToggle.innerHTML = `<i class="fa-solid fa-water"></i> <span>Fay Hatlarını Göster</span>`;
+                    if (faultRiskLegendEl) faultRiskLegendEl.style.display = 'none';
                     return;
                 }
 
@@ -2169,12 +2296,12 @@
 
                         faultLayer = L.geoJSON(faultGeoData, {
                             style: function (feature) {
-                                const c = feature.properties?.color || '#ef4444';
+                                const c = feature.properties?.color || '#f59e0b';
                                 return {
                                     color: c,
-                                    weight: 4,
+                                    weight: 3.5,
                                     opacity: 0.92,
-                                    dashArray: '6, 5',
+                                    dashArray: '6, 4',
                                     lineCap: 'round',
                                     lineJoin: 'round'
                                 };
@@ -2189,36 +2316,62 @@
                                 const lastEvent = p.last_event || 'Diri fay aktivitesi devam etmektedir';
                                 const recurrence = p.recurrence || '~250 - 500 yıl';
                                 const maxMw = p.max_mw || '6.5 - 7.0 Mw';
-                                const gapBadge = p.gap_badge || 'DİRİ FAY';
-                                const catalogId = p.catalog_id || 'MTA / GEM';
-                                const color = p.color || '#ef4444';
+                                const gapBadge = p.gap_badge || 'ORTA RİSK';
+                                const riskLevel = p.risk_level || 'Orta Risk (Diri Fay Gerilim Birikimi)';
+                                const riskDesc = p.risk_desc || lastEvent;
+                                const color = p.color || '#f59e0b';
+
+                                // Sismotektonik İkon Belirleme
+                                let riskIcon = 'fa-triangle-exclamation';
+                                if (gapBadge.includes('KRİTİK') || gapBadge.includes('BOŞLUK')) {
+                                    riskIcon = 'fa-fire-flame-curved';
+                                } else if (gapBadge.includes('ENERJİ') || gapBadge.includes('BOŞALDI') || gapBadge.includes('DÜŞÜK')) {
+                                    riskIcon = 'fa-circle-check';
+                                } else if (gapBadge.includes('YAVAŞ')) {
+                                    riskIcon = 'fa-gauge';
+                                } else if (gapBadge.includes('MEGATHRUST')) {
+                                    riskIcon = 'fa-water';
+                                } else if (gapBadge.includes('YÜKSEK')) {
+                                    riskIcon = 'fa-bell';
+                                }
 
                                 const popupHtml = `
-                                <div class="popup-card" style="font-family: var(--font-sans); width: 330px; background: #0f172a; border-radius: 12px; overflow: hidden; box-shadow: 0 20px 40px rgba(0,0,0,0.8);">
-                                    <div class="popup-header" style="background: linear-gradient(135deg, rgba(239, 68, 68, 0.32), rgba(15, 23, 42, 0.95)); border-bottom: 1px solid rgba(239, 68, 68, 0.4); padding: 12px 14px; display: flex; align-items: flex-start; justify-content: space-between; gap: 8px;">
+                                <div class="popup-card" style="font-family: var(--font-sans); width: 335px; background: #0f172a; border-radius: 12px; overflow: hidden; box-shadow: 0 20px 40px rgba(0,0,0,0.85); border: 1px solid rgba(255,255,255,0.12);">
+                                    <div class="popup-header" style="background: linear-gradient(135deg, ${color}33, rgba(15, 23, 42, 0.98)); border-bottom: 1px solid ${color}55; padding: 12px 14px; display: flex; align-items: flex-start; justify-content: space-between; gap: 8px;">
                                         <div>
-                                            <div style="font-size: 0.72rem; font-weight: 700; color: #f87171; text-transform: uppercase; letter-spacing: 0.6px; margin-bottom: 3px;">
+                                            <div style="font-size: 0.70rem; font-weight: 700; color: ${color}; text-transform: uppercase; letter-spacing: 0.6px; margin-bottom: 3px;">
                                                 <i class="fa-solid fa-water"></i> ${system}
                                             </div>
                                             <div class="popup-title" style="font-size: 0.95rem; font-weight: 700; color: #ffffff; line-height: 1.35;">${name}</div>
                                         </div>
-                                        <span style="font-size: 0.68rem; font-weight: 800; background: ${gapBadge.includes('BOŞLUK') ? 'rgba(239,68,68,0.25)' : 'rgba(56,189,248,0.15)'}; border: 1px solid ${gapBadge.includes('BOŞLUK') ? '#ef4444' : '#38bdf8'}; color: ${gapBadge.includes('BOŞLUK') ? '#fca5a5' : '#7dd3fc'}; padding: 3px 8px; border-radius: 9999px; white-space: nowrap; flex-shrink: 0; letter-spacing: 0.5px;">
+                                        <span style="font-size: 0.68rem; font-weight: 800; background: ${color}26; border: 1px solid ${color}; color: ${color}; padding: 3px 9px; border-radius: 9999px; white-space: nowrap; flex-shrink: 0; letter-spacing: 0.5px;">
                                             ${gapBadge}
                                         </span>
                                     </div>
                                     
                                     <div style="padding: 12px 14px; display: flex; flex-direction: column; gap: 8px; font-size: 0.82rem;">
-                                        <!-- Öne Çıkarılmış Son Kırılma Yılı Kartı -->
-                                        <div style="background: rgba(239, 68, 68, 0.14); border: 1px solid rgba(239, 68, 68, 0.35); border-radius: 8px; padding: 9px 11px;">
-                                            <div style="font-size: 0.70rem; font-weight: 700; color: #fca5a5; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 3px; display: flex; align-items: center; gap: 5px;">
-                                                <i class="fa-solid fa-clock-rotate-left"></i> Son Kırılma Yılı:
+                                        <!-- Güncel Sismotektonik Risk & Durum Kartı -->
+                                        <div style="background: ${color}16; border: 1px solid ${color}44; border-radius: 8px; padding: 9px 11px;">
+                                            <div style="font-size: 0.68rem; font-weight: 800; color: ${color}; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 3px; display: flex; align-items: center; gap: 6px;">
+                                                <i class="fa-solid ${riskIcon}"></i> Güncel Deprem Riski & Durum:
                                             </div>
-                                            <div style="font-size: 1.05rem; font-weight: 800; color: #ffffff; letter-spacing: -0.01em;">${lastYear}</div>
-                                            <div style="font-size: 0.74rem; color: #cbd5e1; margin-top: 3px; line-height: 1.35;">${lastEvent}</div>
+                                            <div style="font-size: 0.92rem; font-weight: 800; color: #ffffff; line-height: 1.3;">${riskLevel}</div>
+                                            <div style="font-size: 0.73rem; color: #cbd5e1; margin-top: 3px; line-height: 1.35;">${riskDesc}</div>
+                                        </div>
+
+                                        <!-- Son Kırılma Yılı Kartı -->
+                                        <div style="background: rgba(255, 255, 255, 0.04); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 8px; padding: 8px 11px;">
+                                            <div style="display: flex; justify-content: space-between; align-items: center;">
+                                                <span style="font-size: 0.70rem; font-weight: 700; color: #94a3b8; text-transform: uppercase; letter-spacing: 0.4px;">
+                                                    <i class="fa-solid fa-clock-rotate-left" style="color: ${color};"></i> Son Kırılma Yılı:
+                                                </span>
+                                                <strong style="font-size: 0.88rem; font-weight: 800; color: #ffffff;">${lastYear}</strong>
+                                            </div>
+                                            <div style="font-size: 0.72rem; color: #94a3b8; margin-top: 3px; line-height: 1.3;">${lastEvent}</div>
                                         </div>
 
                                         <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.06); padding-bottom: 5px;">
-                                            <span style="color: #94a3b8;"><i class="fa-solid fa-triangle-exclamation" style="width: 16px; color: #f59e0b;"></i> Beklenen Büyüklük:</span>
+                                            <span style="color: #94a3b8;"><i class="fa-solid fa-bolt" style="width: 16px; color: #f59e0b;"></i> Beklenen Büyüklük:</span>
                                             <strong style="color: #fbbf24; font-family: var(--font-mono); font-size: 0.88rem;">${maxMw}</strong>
                                         </div>
 
@@ -2238,22 +2391,22 @@
                                         </div>
                                     </div>
 
-                                    <div style="padding: 7px 14px; background: rgba(0,0,0,0.35); border-top: 1px solid rgba(255,255,255,0.06); font-size: 0.70rem; color: #64748b; display: flex; justify-content: space-between; align-items: center;">
-                                        <span>GEM / SHARE-EMME Tarihsel Sismoloji</span>
-                                        <span style="color: #38bdf8;"><i class="fa-solid fa-circle-check"></i> Tıklanan Fay</span>
+                                    <div style="padding: 7px 14px; background: rgba(0,0,0,0.45); border-top: 1px solid rgba(255,255,255,0.06); font-size: 0.70rem; color: #64748b; display: flex; justify-content: space-between; align-items: center;">
+                                        <span>GEM & MTA Tarihsel Sismoloji</span>
+                                        <span style="color: ${color}; font-weight: 600;"><i class="fa-solid fa-circle-dot"></i> Tıklanan Fay</span>
                                     </div>
                                 </div>`;
 
                                 layer.bindPopup(popupHtml, {
-                                    maxWidth: 340,
-                                    minWidth: 300,
+                                    maxWidth: 350,
+                                    minWidth: 310,
                                     className: 'fault-leaflet-popup'
                                 });
 
                                 layer.on({
                                     mouseover: function (e) {
                                         const l = e.target;
-                                        l.setStyle({ weight: 6.5, opacity: 1, color: '#fbbf24' });
+                                        l.setStyle({ weight: 6, opacity: 1, color: '#fbbf24' });
                                     },
                                     mouseout: function (e) {
                                         if (faultLayer) {
@@ -2272,6 +2425,7 @@
                     isFaultVisible = true;
                     btnFaultToggle.classList.add('active');
                     btnFaultToggle.innerHTML = `<i class="fa-solid fa-eye-slash"></i> <span>Fay Hatlarını Gizle</span>`;
+                    if (faultRiskLegendEl) faultRiskLegendEl.style.display = 'block';
                 } catch (err) {
                     console.error('Fay hattı yükleme hatası:', err);
                     btnFaultToggle.innerHTML = `<i class="fa-solid fa-triangle-exclamation"></i> <span>Hata Oluştu</span>`;

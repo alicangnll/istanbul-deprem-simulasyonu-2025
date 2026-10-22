@@ -1,1 +1,26 @@
-[{"il":"Tokat","ilce":"ALMUS","mahalle":"EREK","ad":"Süleyman Arslan Parkı","lat":40.37643,"lon":36.91053},{"il":"Tokat","ilce":"ALMUS","mahalle":"EREK","ad":"Tufantepe Mevkii","lat":40.36484,"lon":36.91044},{"il":"Tokat","ilce":"ALMUS","mahalle":"EREK","ad":"Erek Mah. Çim Saha","lat":40.37541,"lon":36.9106}]
+[
+  {
+    "il": "Tokat",
+    "ilce": "ALMUS",
+    "mahalle": "EREK",
+    "ad": "Süleyman Arslan Parkı",
+    "lat": 40.37643,
+    "lon": 36.91053
+  },
+  {
+    "il": "Tokat",
+    "ilce": "ALMUS",
+    "mahalle": "EREK",
+    "ad": "Tufantepe Mevkii",
+    "lat": 40.36484,
+    "lon": 36.91044
+  },
+  {
+    "il": "Tokat",
+    "ilce": "ALMUS",
+    "mahalle": "EREK",
+    "ad": "Erek Mah. Çim Saha",
+    "lat": 40.37541,
+    "lon": 36.9106
+  }
+]

@@ -1,1 +1,5506 @@
-[{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"ACARA (DOĞANCILAR)","ad":"ACARA (DOĞANCILAR)","lat":41.07551,"lon":31.14343},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"AHMETDAĞI (TAHİRLİ)","ad":"AHMETDAĞI (TAHİRLİ)","lat":41.07725,"lon":31.0682},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"AYAZLI","ad":"AYAZLI","lat":41.0953,"lon":31.20553},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"BATTALLAR (KARATAVUK)","ad":"BATTALLAR (KARATAVUK)","lat":41.00522,"lon":31.00923},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"BEYLİK AĞACI (KURUKAVAK)","ad":"BEYLİK AĞACI (KURUKAVAK)","lat":40.95967,"lon":31.01983},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"CUMHURİYET","ad":"CUMHURİYET","lat":41.08784,"lon":31.11681},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"DOĞANCILAR","ad":"DOĞANCILAR","lat":41.06424,"lon":31.16448},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"DÖNGELLİ MÜCAVİR (DÖNGELLİ)","ad":"DÖNGELLİ MÜCAVİR (DÖNGELLİ)","lat":41.08481,"lon":31.17791},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"EDİLLİ AĞZI (EDİLLİ)","ad":"EDİLLİ AĞZI (EDİLLİ)","lat":41.08069,"lon":31.08551},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"GİRESUNLULAR (DOĞANCILAR)","ad":"GİRESUNLULAR (DOĞANCILAR)","lat":41.07488,"lon":31.16175},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"HACI YUSUFLAR","ad":"HACI YUSUFLAR","lat":41.08928,"lon":31.11326},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KARABURUN 2 (HASANÇAVUŞ)","ad":"KARABURUN 2 (HASANÇAVUŞ)","lat":41.0709,"lon":31.01683},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KARABURUN (HASANÇAVUŞ)","ad":"KARABURUN (HASANÇAVUŞ)","lat":41.07104,"lon":31.01606},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KAYADİBİ (KARATAVUK)","ad":"KAYADİBİ (KARATAVUK)","lat":41.00097,"lon":31.04632},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KEÇİKAYA  (PAŞALAR)","ad":"KEÇİKAYA (PAŞALAR)","lat":41.0764,"lon":31.03731},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KİRAZYANI (ÇAYAĞZI)","ad":"KİRAZYANI (ÇAYAĞZI)","lat":41.09079,"lon":31.21881},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYİÇİ (HASANÇAVUŞ)","ad":"KÖYİÇİ (HASANÇAVUŞ)","lat":41.06643,"lon":31.01571},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYİÇİ (KARATAVUK)","ad":"KÖYİÇİ (KARATAVUK)","lat":40.99564,"lon":31.01759},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (AKKAYA)","ad":"KÖYÜN KENDİSİ (AKKAYA)","lat":41.10332,"lon":31.3016},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (AKTAŞ)","ad":"KÖYÜN KENDİSİ (AKTAŞ)","lat":41.04246,"lon":31.06409},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (ALTUNÇAY)","ad":"KÖYÜN KENDİSİ (ALTUNÇAY)","lat":41.04441,"lon":31.27948},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (ARABACI)","ad":"KÖYÜN KENDİSİ (ARABACI)","lat":41.05683,"lon":31.09763},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (BALATLI)","ad":"KÖYÜN KENDİSİ (BALATLI)","lat":41.03872,"lon":31.15951},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (BEYHANLI)","ad":"KÖYÜN KENDİSİ (BEYHANLI)","lat":41.10014,"lon":31.24474},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (ÇAYAĞZI)","ad":"KÖYÜN KENDİSİ (ÇAYAĞZI)","lat":41.09797,"lon":31.23142},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (ÇİÇEKPINAR)","ad":"KÖYÜN KENDİSİ (ÇİÇEKPINAR)","lat":41.0553,"lon":31.19418},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (DADALI)","ad":"KÖYÜN KENDİSİ (DADALI)","lat":41.08105,"lon":31.21747},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (DAVUTAĞA)","ad":"KÖYÜN KENDİSİ (DAVUTAĞA)","lat":40.97137,"lon":30.96531},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (DEREDİBİ)","ad":"KÖYÜN KENDİSİ (DEREDİBİ)","lat":41.02871,"lon":31.18376},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (DEREKÖY)","ad":"KÖYÜN KENDİSİ (DEREKÖY)","lat":41.01664,"lon":31.23634},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (DİLAVER)","ad":"KÖYÜN KENDİSİ (DİLAVER)","lat":40.99568,"lon":30.96137},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (DÖNGELLİ)","ad":"KÖYÜN KENDİSİ (DÖNGELLİ)","lat":41.0941,"lon":31.20567},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (EDİLLİ)","ad":"KÖYÜN KENDİSİ (EDİLLİ)","lat":41.08072,"lon":31.0856},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (ESMAHANIM)","ad":"KÖYÜN KENDİSİ (ESMAHANIM)","lat":41.01109,"lon":30.99801},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (FAKILLI)","ad":"KÖYÜN KENDİSİ (FAKILLI)","lat":41.06321,"lon":31.17322},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (GÖKTEPE)","ad":"KÖYÜN KENDİSİ (GÖKTEPE)","lat":41.06942,"lon":31.10173},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (HEMŞİN)","ad":"KÖYÜN KENDİSİ (HEMŞİN)","lat":41.04662,"lon":31.02678},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (KALKIN)","ad":"KÖYÜN KENDİSİ (KALKIN)","lat":41.06799,"lon":31.05397},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (KEPENÇ)","ad":"KÖYÜN KENDİSİ (KEPENÇ)","lat":41.07581,"lon":31.11757},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (KINIK)","ad":"KÖYÜN KENDİSİ (KINIK)","lat":41.05837,"lon":31.13862},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (KİRAZLI)","ad":"KÖYÜN KENDİSİ (KİRAZLI)","lat":41.04259,"lon":31.12916},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (KOÇAR)","ad":"KÖYÜN KENDİSİ (KOÇAR)","lat":41.04108,"lon":31.11019},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (KOÇULLU)","ad":"KÖYÜN KENDİSİ (KOÇULLU)","lat":41.04001,"lon":31.08938},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (KURUGÖL)","ad":"KÖYÜN KENDİSİ (KURUGÖL)","lat":41.02725,"lon":31.10892},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (KÜPLER)","ad":"KÖYÜN KENDİSİ (KÜPLER)","lat":40.96452,"lon":30.99555},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (MELENAĞZI)","ad":"KÖYÜN KENDİSİ (MELENAĞZI)","lat":41.07264,"lon":30.97315},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (NAZIMBEY)","ad":"KÖYÜN KENDİSİ (NAZIMBEY)","lat":41.06215,"lon":30.99068},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (ORTANCA)","ad":"KÖYÜN KENDİSİ (ORTANCA)","lat":41.07207,"lon":31.12419},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (PAŞALAR)","ad":"KÖYÜN KENDİSİ (PAŞALAR)","lat":41.07437,"lon":31.02965},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (SARIYAYLA)","ad":"KÖYÜN KENDİSİ (SARIYAYLA)","lat":41.0299,"lon":31.07306},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (SUBAŞI)","ad":"KÖYÜN KENDİSİ (SUBAŞI)","lat":41.00921,"lon":31.21961},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (TAHİRLİ)","ad":"KÖYÜN KENDİSİ (TAHİRLİ)","lat":41.07116,"lon":31.07045},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (TEPEKÖY)","ad":"KÖYÜN KENDİSİ (TEPEKÖY)","lat":41.0478,"lon":31.24389},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (UĞURLU)","ad":"KÖYÜN KENDİSİ (UĞURLU)","lat":41.04562,"lon":31.01397},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (YENİCE)","ad":"KÖYÜN KENDİSİ (YENİCE)","lat":41.02281,"lon":31.01458},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KÖYÜN KENDİSİ (YEŞİLKÖY)","ad":"KÖYÜN KENDİSİ (YEŞİLKÖY)","lat":41.03445,"lon":31.124},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KUMPINAR (ÇAYAĞZI)","ad":"KUMPINAR (ÇAYAĞZI)","lat":41.09961,"lon":31.22768},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"KURUKAVAK","ad":"KURUKAVAK","lat":40.97675,"lon":31.02993},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"MERKEZ (KARATAVUK)","ad":"MERKEZ (KARATAVUK)","lat":41.00762,"lon":31.025},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"MÜCAVİR (AKKAYA)","ad":"MÜCAVİR (AKKAYA)","lat":41.10352,"lon":31.25046},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"MÜCAVİR (BEYHANLI)","ad":"MÜCAVİR (BEYHANLI)","lat":41.09794,"lon":31.23194},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"MÜCAVİR (KALKIN)","ad":"MÜCAVİR (KALKIN)","lat":41.07644,"lon":31.05185},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"MÜCAVİR (MELENAĞZI)","ad":"MÜCAVİR (MELENAĞZI)","lat":41.0706,"lon":31.00591},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"ORHANGAZİ","ad":"ORHANGAZİ","lat":41.08653,"lon":31.11782},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"OSMANİYE","ad":"OSMANİYE","lat":41.09046,"lon":31.14019},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"YALI","ad":"YALI","lat":41.09002,"lon":31.12494},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"YALI  (BEYHANLI)","ad":"YALI (BEYHANLI)","lat":41.08651,"lon":31.24526},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"YENİ","ad":"YENİ","lat":41.08578,"lon":31.12591},{"il":"Düzce","ilce":"AKÇAKOCA","mahalle":"YUKARI","ad":"YUKARI","lat":41.08402,"lon":31.11583},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"ALİ USTA (ÇELİKDERE)","ad":"ALİ USTA (ÇELİKDERE)","lat":40.93638,"lon":30.8959},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"ALT (ÇELİKDERE)","ad":"ALT (ÇELİKDERE)","lat":40.92734,"lon":30.89849},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"ARİF (ÜVEZBELİ)","ad":"ARİF (ÜVEZBELİ)","lat":40.89991,"lon":30.9175},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"CAMİ (SUBAŞI)","ad":"CAMİ (SUBAŞI)","lat":40.91422,"lon":30.95679},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"ÇEVRİK","ad":"ÇEVRİK","lat":40.87978,"lon":30.96609},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"DEĞİRMEN (SUBAŞI)","ad":"DEĞİRMEN (SUBAŞI)","lat":40.91844,"lon":30.96618},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"DERE (KIZILÜZÜM)","ad":"DERE (KIZILÜZÜM)","lat":40.9091,"lon":30.84583},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"DERE (YENİTEPE)","ad":"DERE (YENİTEPE)","lat":40.92917,"lon":30.97713},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"ELMALIDERE (YEŞİLTEPE)","ad":"ELMALIDERE (YEŞİLTEPE)","lat":40.92856,"lon":30.92478},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"ESKİOĞLU (YEŞİLTEPE)","ad":"ESKİOĞLU (YEŞİLTEPE)","lat":40.93286,"lon":30.92062},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"FIRINYANI  (ORDULUKARADERE)","ad":"FIRINYANI (ORDULUKARADERE)","lat":40.90279,"lon":30.87714},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"GÜNEY (ORDULUKARADERE)","ad":"GÜNEY (ORDULUKARADERE)","lat":40.9181,"lon":30.89228},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"HATİPOĞLU (KIZILÜZÜM)","ad":"HATİPOĞLU (KIZILÜZÜM)","lat":40.9042,"lon":30.86512},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"İMRİZ (HAMASCIK)","ad":"İMRİZ (HAMASCIK)","lat":40.95921,"lon":30.94842},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"KABAÇAYIR (AVLAYAN)","ad":"KABAÇAYIR (AVLAYAN)","lat":40.88666,"lon":30.99062},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"KAŞALTI (ÜVEZBELİ)","ad":"KAŞALTI (ÜVEZBELİ)","lat":40.90912,"lon":30.91039},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"KERSEN DÜZÜ (ÜVEZBELİ)","ad":"KERSEN DÜZÜ (ÜVEZBELİ)","lat":40.92897,"lon":30.92833},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"KIRAN (ÇELİKDERE)","ad":"KIRAN (ÇELİKDERE)","lat":40.93393,"lon":30.89687},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"KIRAN (ÜVEZBELİ)","ad":"KIRAN (ÜVEZBELİ)","lat":40.90063,"lon":30.91652},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"KIRAN (YEŞİLTEPE)","ad":"KIRAN (YEŞİLTEPE)","lat":40.94885,"lon":30.91874},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"KORAZOĞLU (DOKUZDEĞİRMEN)","ad":"KORAZOĞLU (DOKUZDEĞİRMEN)","lat":40.92656,"lon":30.93676},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"KOZLAR (AVLAYAN)","ad":"KOZLAR (AVLAYAN)","lat":40.88584,"lon":30.97881},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"KÖYÜN KENDİSİ (AKPINAR)","ad":"KÖYÜN KENDİSİ (AKPINAR)","lat":40.9436,"lon":30.97311},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"KÖYÜN KENDİSİ (ÇAMLIPINAR)","ad":"KÖYÜN KENDİSİ (ÇAMLIPINAR)","lat":40.91735,"lon":30.93335},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"KÖYÜN KENDİSİ (ESENTEPE)","ad":"KÖYÜN KENDİSİ (ESENTEPE)","lat":40.95046,"lon":30.92394},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"KÖYÜN KENDİSİ (HARMANKAYA)","ad":"KÖYÜN KENDİSİ (HARMANKAYA)","lat":40.95883,"lon":30.9326},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"KÖYÜN KENDİSİ (IĞDIR)","ad":"KÖYÜN KENDİSİ (IĞDIR)","lat":40.91459,"lon":30.94272},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"KÖYÜN KENDİSİ (MISIRLIK)","ad":"KÖYÜN KENDİSİ (MISIRLIK)","lat":40.94721,"lon":30.98624},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"KÖYÜN KENDİSİ (ÖREN)","ad":"KÖYÜN KENDİSİ (ÖREN)","lat":40.88286,"lon":30.92159},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"KÖYÜN KENDİSİ (TAŞLIK)","ad":"KÖYÜN KENDİSİ (TAŞLIK)","lat":40.89261,"lon":30.90512},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"KÖYÜN KENDİSİ (YUKARIAVLAYAN)","ad":"KÖYÜN KENDİSİ (YUKARIAVLAYAN)","lat":40.89286,"lon":30.97385},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"KURU ALİ (KIZILÜZÜM)","ad":"KURU ALİ (KIZILÜZÜM)","lat":40.92047,"lon":30.87193},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"KUZ (ORDULUKARADERE)","ad":"KUZ (ORDULUKARADERE)","lat":40.90119,"lon":30.8915},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"KÜREKLİK (ÜVEZBELİ)","ad":"KÜREKLİK (ÜVEZBELİ)","lat":40.90851,"lon":30.89713},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"MEHMET AKİF","ad":"MEHMET AKİF","lat":40.8825,"lon":30.9435},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"MERKEZ (AVLAYAN)","ad":"MERKEZ (AVLAYAN)","lat":40.90707,"lon":30.99781},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"MERKEZ (BÜYÜKMELEN)","ad":"MERKEZ (BÜYÜKMELEN)","lat":40.96355,"lon":30.94334},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"MERKEZ (ÇELİKDERE)","ad":"MERKEZ (ÇELİKDERE)","lat":40.92853,"lon":30.88846},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"MERKEZ (DOKUZDEĞİRMEN)","ad":"MERKEZ (DOKUZDEĞİRMEN)","lat":40.92302,"lon":30.95639},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"MERKEZ (HAMASCIK)","ad":"MERKEZ (HAMASCIK)","lat":40.94452,"lon":30.96503},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"MERKEZ (KIZILÜZÜM)","ad":"MERKEZ (KIZILÜZÜM)","lat":40.91807,"lon":30.82363},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"MERKEZ (ORDULUKARADERE)","ad":"MERKEZ (ORDULUKARADERE)","lat":40.90011,"lon":30.87902},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"MERKEZ (SIRTPINAR)","ad":"MERKEZ (SIRTPINAR)","lat":40.89819,"lon":30.94142},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"MERKEZ (ÜVEZBELİ)","ad":"MERKEZ (ÜVEZBELİ)","lat":40.89917,"lon":30.90222},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"MERKEZ (YENİTEPE)","ad":"MERKEZ (YENİTEPE)","lat":40.92633,"lon":30.97408},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"OKUL (ORDULUKARADERE)","ad":"OKUL (ORDULUKARADERE)","lat":40.91552,"lon":30.88203},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"ORTA","ad":"ORTA","lat":40.87441,"lon":30.94671},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"ORTA (YEŞİLTEPE)","ad":"ORTA (YEŞİLTEPE)","lat":40.93793,"lon":30.9138},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"OSMANCIK (AVLAYAN)","ad":"OSMANCIK (AVLAYAN)","lat":40.88396,"lon":30.98453},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"ÖRENİÇİ (ÇELİKDERE)","ad":"ÖRENİÇİ (ÇELİKDERE)","lat":40.92229,"lon":30.88442},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"ÖREN (SIRTPINAR)","ad":"ÖREN (SIRTPINAR)","lat":40.87933,"lon":30.93452},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"SIVAZOĞLU (ÜVEZBELİ)","ad":"SIVAZOĞLU (ÜVEZBELİ)","lat":40.90129,"lon":30.9161},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"SÜLEYMAN HANCI (BÜYÜKMELEN)","ad":"SÜLEYMAN HANCI (BÜYÜKMELEN)","lat":40.96853,"lon":30.9428},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"ŞAKİR (ORDULUKARADERE)","ad":"ŞAKİR (ORDULUKARADERE)","lat":40.90633,"lon":30.8945},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"TOMAS (HAMASCIK)","ad":"TOMAS (HAMASCIK)","lat":40.94793,"lon":30.95497},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"YAKA","ad":"YAKA","lat":40.89231,"lon":30.95923},{"il":"Düzce","ilce":"CUMAYERİ","mahalle":"YENİ","ad":"YENİ","lat":40.87976,"lon":30.96502},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"ALİMLER (PIRPIR)","ad":"ALİMLER (PIRPIR)","lat":40.87535,"lon":31.02709},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"ARABACI","ad":"ARABACI","lat":40.86535,"lon":31.04133},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"ÇAKALLAR (PIRPIR)","ad":"ÇAKALLAR (PIRPIR)","lat":40.86677,"lon":31.02435},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"ÇİLİMLİ OSB (SÖĞÜTLÜ)","ad":"ÇİLİMLİ OSB (SÖĞÜTLÜ)","lat":40.88326,"lon":31.0656},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"DİKMELİ MÜCAVİR (DİKMELİ)","ad":"DİKMELİ MÜCAVİR (DİKMELİ)","lat":40.85603,"lon":31.07339},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"GÜLEBELER (DİKMELİ)","ad":"GÜLEBELER (DİKMELİ)","lat":40.86787,"lon":31.07643},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"KANAL (PIRPIR)","ad":"KANAL (PIRPIR)","lat":40.85964,"lon":31.03251},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"KAVAKLIK (KIRKHARMAN)","ad":"KAVAKLIK (KIRKHARMAN)","lat":40.94933,"lon":30.98657},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"KOCAVELİLER (PIRPIR)","ad":"KOCAVELİLER (PIRPIR)","lat":40.87098,"lon":31.02036},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"KÖYÜN KENDİSİ (BIÇKIBAŞI)","ad":"KÖYÜN KENDİSİ (BIÇKIBAŞI)","lat":40.93889,"lon":31.07605},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"KÖYÜN KENDİSİ (ÇALILIK)","ad":"KÖYÜN KENDİSİ (ÇALILIK)","lat":40.89259,"lon":31.09726},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"KÖYÜN KENDİSİ (DÖNGELLİ)","ad":"KÖYÜN KENDİSİ (DÖNGELLİ)","lat":40.85438,"lon":31.0299},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"KÖYÜN KENDİSİ (ESENLİ)","ad":"KÖYÜN KENDİSİ (ESENLİ)","lat":40.88722,"lon":31.11269},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"KÖYÜN KENDİSİ (HIZARDERE)","ad":"KÖYÜN KENDİSİ (HIZARDERE)","lat":40.93709,"lon":31.06426},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"KÖYÜN KENDİSİ (İSHAKLAR)","ad":"KÖYÜN KENDİSİ (İSHAKLAR)","lat":40.87798,"lon":31.09675},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"KÖYÜN KENDİSİ (KAFYAYLA)","ad":"KÖYÜN KENDİSİ (KAFYAYLA)","lat":40.92365,"lon":31.10187},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"KÖYÜN KENDİSİ (KARAÇÖRTLEN)","ad":"KÖYÜN KENDİSİ (KARAÇÖRTLEN)","lat":40.9298,"lon":31.00618},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"KÖYÜN KENDİSİ (KİRAZTARLA)","ad":"KÖYÜN KENDİSİ (KİRAZTARLA)","lat":40.88967,"lon":31.08798},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"KÖYÜN KENDİSİ (KUŞOĞLU)","ad":"KÖYÜN KENDİSİ (KUŞOĞLU)","lat":40.88116,"lon":31.08862},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"KÖYÜN KENDİSİ (SARIMEŞE)","ad":"KÖYÜN KENDİSİ (SARIMEŞE)","lat":40.91171,"lon":31.07334},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"KÖYÜN KENDİSİ (TEPEKÖY)","ad":"KÖYÜN KENDİSİ (TEPEKÖY)","lat":40.88901,"lon":31.02528},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"KÖYÜN KENDİSİ (YENİKÖY)","ad":"KÖYÜN KENDİSİ (YENİKÖY)","lat":40.88656,"lon":30.9963},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"KÖYÜN KENDİSİ (YUKARIKARAKÖY)","ad":"KÖYÜN KENDİSİ (YUKARIKARAKÖY)","lat":40.90084,"lon":31.0044},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"KÜLTÜR (PIRPIR)","ad":"KÜLTÜR (PIRPIR)","lat":40.86621,"lon":31.02815},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"MAHİRAĞA","ad":"MAHİRAĞA","lat":40.8826,"lon":31.05428},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"MERKEZ (ALACAMESCİT)","ad":"MERKEZ (ALACAMESCİT)","lat":40.86767,"lon":31.1018},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"MERKEZ (DİKMELİ)","ad":"MERKEZ (DİKMELİ)","lat":40.85991,"lon":31.07739},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"MERKEZ (KIRKHARMAN)","ad":"MERKEZ (KIRKHARMAN)","lat":40.94061,"lon":31.00019},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"MERKEZ (YENİVAKIF)","ad":"MERKEZ (YENİVAKIF)","lat":40.90894,"lon":31.08963},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"ORMAN (ALACAMESCİT)","ad":"ORMAN (ALACAMESCİT)","lat":40.86167,"lon":31.09202},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"ORMAN MÜCAVİR (ALACAMESCİT)","ad":"ORMAN MÜCAVİR (ALACAMESCİT)","lat":40.85653,"lon":31.09088},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"ORTA (PIRPIR)","ad":"ORTA (PIRPIR)","lat":40.87291,"lon":31.02974},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"ÖMERCİKLER (PIRPIR)","ad":"ÖMERCİKLER (PIRPIR)","lat":40.87282,"lon":31.03847},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"ŞEREFİYE","ad":"ŞEREFİYE","lat":40.88952,"lon":31.04275},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"TOPÇULAR","ad":"TOPÇULAR","lat":40.87517,"lon":31.04956},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"ULUCAMİ","ad":"ULUCAMİ","lat":40.89826,"lon":31.0427},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"YENİ  (YENİVAKIF)","ad":"YENİ (YENİVAKIF)","lat":40.89766,"lon":31.10074},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"YEŞİL","ad":"YEŞİL","lat":40.91606,"lon":31.06795},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"YEŞİLTEPE","ad":"YEŞİLTEPE","lat":40.92575,"lon":31.04367},{"il":"Düzce","ilce":"ÇİLİMLİ","mahalle":"YUKARIKÖY (KIRKHARMAN)","ad":"YUKARIKÖY (KIRKHARMAN)","lat":40.95378,"lon":30.99655},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"AÇMA","ad":"AÇMA","lat":40.77347,"lon":31.03728},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"ALBAYRAK (SAÇMALIPINAR)","ad":"ALBAYRAK (SAÇMALIPINAR)","lat":40.74475,"lon":30.95412},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"ALT (BEKİROĞLU)","ad":"ALT (BEKİROĞLU)","lat":40.76039,"lon":30.91738},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"BALKAYA (SAÇMALIPINAR)","ad":"BALKAYA (SAÇMALIPINAR)","lat":40.71083,"lon":30.94311},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"BIÇKI (SAÇMALIPINAR)","ad":"BIÇKI (SAÇMALIPINAR)","lat":40.75277,"lon":30.95056},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"CEVİZLİK (HAMAMÜSTÜ)","ad":"CEVİZLİK (HAMAMÜSTÜ)","lat":40.75622,"lon":31.05381},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"CİNO (YUNUSEFENDİ)","ad":"CİNO (YUNUSEFENDİ)","lat":40.75668,"lon":31.00406},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"CUMAKIRI","ad":"CUMAKIRI","lat":40.77853,"lon":30.97679},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"DELİHÜSEYİN (DEĞİRMENTEPE)","ad":"DELİHÜSEYİN (DEĞİRMENTEPE)","lat":40.75081,"lon":30.89866},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"DELİ MEHMET  (GÜZELDERE)","ad":"DELİ MEHMET (GÜZELDERE)","lat":40.72427,"lon":31.04373},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"DERE  (ÇAMLIBEL)","ad":"DERE (ÇAMLIBEL)","lat":40.7361,"lon":31.02748},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"DERE (HAMAMÜSTÜ)","ad":"DERE (HAMAMÜSTÜ)","lat":40.75399,"lon":31.05541},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"DURSUNLU (DEĞİRMENTEPE)","ad":"DURSUNLU (DEĞİRMENTEPE)","lat":40.75711,"lon":30.90842},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"ESEN","ad":"ESEN","lat":40.80151,"lon":31.0119},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"FATİH","ad":"FATİH","lat":40.78414,"lon":31.02895},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"GÖLCÜK (HAMAMÜSTÜ)","ad":"GÖLCÜK (HAMAMÜSTÜ)","lat":40.7409,"lon":31.04077},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"GÜNEY (SAÇMALIPINAR)","ad":"GÜNEY (SAÇMALIPINAR)","lat":40.72548,"lon":30.92085},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"HACIOĞLU (BEKİROĞLU)","ad":"HACIOĞLU (BEKİROĞLU)","lat":40.77049,"lon":30.90809},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"İMAMLAR","ad":"İMAMLAR","lat":40.79103,"lon":31.02624},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"KARACA (ÇAMLIBEL)","ad":"KARACA (ÇAMLIBEL)","lat":40.74858,"lon":31.0287},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"KARAMAHMUT (SAÇMALIPINAR)","ad":"KARAMAHMUT (SAÇMALIPINAR)","lat":40.75034,"lon":30.91991},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"KIRAN (SAÇMALIPINAR)","ad":"KIRAN (SAÇMALIPINAR)","lat":40.74357,"lon":30.92841},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"KIZILCIK (DEĞİRMENTEPE)","ad":"KIZILCIK (DEĞİRMENTEPE)","lat":40.75552,"lon":30.90829},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"KÖYÜN KENDİSİ (AÇMA)","ad":"KÖYÜN KENDİSİ (AÇMA)","lat":40.76372,"lon":31.00014},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"KÖYÜN KENDİSİ (AKSU)","ad":"KÖYÜN KENDİSİ (AKSU)","lat":40.76491,"lon":30.9607},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"KÖYÜN KENDİSİ (BAKACAK)","ad":"KÖYÜN KENDİSİ (BAKACAK)","lat":40.75271,"lon":30.96417},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"KÖYÜN KENDİSİ (ÇAY)","ad":"KÖYÜN KENDİSİ (ÇAY)","lat":40.76102,"lon":30.94928},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"KÖYÜN KENDİSİ (GÜZELDERE)","ad":"KÖYÜN KENDİSİ (GÜZELDERE)","lat":40.73573,"lon":31.04277},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"KÖYÜN KENDİSİ (HACISÜLEYMANBEY)","ad":"KÖYÜN KENDİSİ (HACISÜLEYMANBEY)","lat":40.77372,"lon":30.96077},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"KÖYÜN KENDİSİ (HACIYAKUP)","ad":"KÖYÜN KENDİSİ (HACIYAKUP)","lat":40.77126,"lon":31.02753},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"KÖYÜN KENDİSİ (İÇMELER)","ad":"KÖYÜN KENDİSİ (İÇMELER)","lat":40.81888,"lon":31.02585},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"KÖYÜN KENDİSİ (KEMERYANI)","ad":"KÖYÜN KENDİSİ (KEMERYANI)","lat":40.83261,"lon":31.01149},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"KÖYÜN KENDİSİ (MUHAPDEDE)","ad":"KÖYÜN KENDİSİ (MUHAPDEDE)","lat":40.76412,"lon":30.89707},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"KÖYÜN KENDİSİ (SARIDERE)","ad":"KÖYÜN KENDİSİ (SARIDERE)","lat":40.83543,"lon":31.00265},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"KÖYÜN KENDİSİ (TAŞLIK)","ad":"KÖYÜN KENDİSİ (TAŞLIK)","lat":40.76275,"lon":30.9958},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"KÖYÜN KENDİSİ (YAZLIK)","ad":"KÖYÜN KENDİSİ (YAZLIK)","lat":40.79428,"lon":30.95598},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"KÖYÜN KENDİSİ (YEŞİLOVA)","ad":"KÖYÜN KENDİSİ (YEŞİLOVA)","lat":40.78058,"lon":30.96241},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"KÖYÜN KENDİSİ (ZEKERİYA)","ad":"KÖYÜN KENDİSİ (ZEKERİYA)","lat":40.78893,"lon":30.93673},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"KUM  (BEKİROĞLU)","ad":"KUM (BEKİROĞLU)","lat":40.77387,"lon":30.92477},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"KURTDÜZÜ (SAÇMALIPINAR)","ad":"KURTDÜZÜ (SAÇMALIPINAR)","lat":40.74641,"lon":30.96296},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"KUYUDÜZÜ","ad":"KUYUDÜZÜ","lat":40.80958,"lon":30.97982},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"KÜLTÜR","ad":"KÜLTÜR","lat":40.77945,"lon":30.99528},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"MERKEZ (BEKİROĞLU)","ad":"MERKEZ (BEKİROĞLU)","lat":40.77097,"lon":30.92046},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"MERKEZ (ÇAMLIBEL)","ad":"MERKEZ (ÇAMLIBEL)","lat":40.73501,"lon":31.02753},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"MERKEZ (DEĞİRMENTEPE)","ad":"MERKEZ (DEĞİRMENTEPE)","lat":40.75337,"lon":30.91227},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"MERKEZ (HAMAMÜSTÜ)","ad":"MERKEZ (HAMAMÜSTÜ)","lat":40.75728,"lon":31.03704},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"MERKEZ (YUNUSEFENDİ)","ad":"MERKEZ (YUNUSEFENDİ)","lat":40.75964,"lon":31.02659},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"ORTA (HAMAMÜSTÜ)","ad":"ORTA (HAMAMÜSTÜ)","lat":40.75976,"lon":31.0338},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"ORTA (SAÇMALIPINAR)","ad":"ORTA (SAÇMALIPINAR)","lat":40.73611,"lon":30.95278},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"ŞİMŞİRLİTEPE (SAÇMALIPINAR)","ad":"ŞİMŞİRLİTEPE (SAÇMALIPINAR)","lat":40.73837,"lon":30.96847},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"YANIK 1 (SAÇMALIPINAR)","ad":"YANIK 1 (SAÇMALIPINAR)","lat":40.72515,"lon":30.94268},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"YANIK 2 (SAÇMALIPINAR)","ad":"YANIK 2 (SAÇMALIPINAR)","lat":40.71372,"lon":30.97167},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"YAZIPINAR","ad":"YAZIPINAR","lat":40.80979,"lon":31.0058},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"YAZLIK (MÜCAVİR) (YAZLIK)","ad":"YAZLIK (MÜCAVİR) (YAZLIK)","lat":40.78279,"lon":30.97677},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"YENİ","ad":"YENİ","lat":40.78316,"lon":30.99454},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"YENİ (SAÇMALIPINAR)","ad":"YENİ (SAÇMALIPINAR)","lat":40.72431,"lon":30.95764},{"il":"Düzce","ilce":"GÖLYAKA","mahalle":"YEŞİL","ad":"YEŞİL","lat":40.77766,"lon":30.98704},{"il":"Düzce","ilce":"GÜMÜŞOVA","mahalle":"ADAKÖYÜ (ADAKÖY)","ad":"ADAKÖYÜ (ADAKÖY)","lat":40.85884,"lon":31.00118},{"il":"Düzce","ilce":"GÜMÜŞOVA","mahalle":"ÇAYBÜKÜ","ad":"ÇAYBÜKÜ","lat":40.85764,"lon":30.9806},{"il":"Düzce","ilce":"GÜMÜŞOVA","mahalle":"FATİH","ad":"FATİH","lat":40.86397,"lon":30.95878},{"il":"Düzce","ilce":"GÜMÜŞOVA","mahalle":"HACIKADİRLER","ad":"HACIKADİRLER","lat":40.85589,"lon":31.00394},{"il":"Düzce","ilce":"GÜMÜŞOVA","mahalle":"HACILAR","ad":"HACILAR","lat":40.86254,"lon":30.92866},{"il":"Düzce","ilce":"GÜMÜŞOVA","mahalle":"KAHVELERYANI","ad":"KAHVELERYANI","lat":40.85476,"lon":31.00862},{"il":"Düzce","ilce":"GÜMÜŞOVA","mahalle":"KIŞLA","ad":"KIŞLA","lat":40.86404,"lon":30.93195},{"il":"Düzce","ilce":"GÜMÜŞOVA","mahalle":"KÖYÜN KENDİSİ (ADAKÖY)","ad":"KÖYÜN KENDİSİ (ADAKÖY)","lat":40.86483,"lon":30.99061},{"il":"Düzce","ilce":"GÜMÜŞOVA","mahalle":"KÖYÜN KENDİSİ (ARDIÇDİBİ)","ad":"KÖYÜN KENDİSİ (ARDIÇDİBİ)","lat":40.82517,"lon":30.94051},{"il":"Düzce","ilce":"GÜMÜŞOVA","mahalle":"KÖYÜN KENDİSİ (ÇAYBÜKÜ)","ad":"KÖYÜN KENDİSİ (ÇAYBÜKÜ)","lat":40.86654,"lon":30.98526},{"il":"Düzce","ilce":"GÜMÜŞOVA","mahalle":"KÖYÜN KENDİSİ (DEDEDÜZÜ)","ad":"KÖYÜN KENDİSİ (DEDEDÜZÜ)","lat":40.89884,"lon":30.86706},{"il":"Düzce","ilce":"GÜMÜŞOVA","mahalle":"KÖYÜN KENDİSİ (DEREKÖY)","ad":"KÖYÜN KENDİSİ (DEREKÖY)","lat":40.81629,"lon":30.92714},{"il":"Düzce","ilce":"GÜMÜŞOVA","mahalle":"KÖYÜN KENDİSİ (ELMACIK)","ad":"KÖYÜN KENDİSİ (ELMACIK)","lat":40.84177,"lon":30.97814},{"il":"Düzce","ilce":"GÜMÜŞOVA","mahalle":"KÖYÜN KENDİSİ (HALİLBEY)","ad":"KÖYÜN KENDİSİ (HALİLBEY)","lat":40.85375,"lon":30.92084},{"il":"Düzce","ilce":"GÜMÜŞOVA","mahalle":"KÖYÜN KENDİSİ (KAHVELERYANI)","ad":"KÖYÜN KENDİSİ (KAHVELERYANI)","lat":40.86314,"lon":31.01094},{"il":"Düzce","ilce":"GÜMÜŞOVA","mahalle":"KÖYÜN KENDİSİ (KIYIKÖY)","ad":"KÖYÜN KENDİSİ (KIYIKÖY)","lat":40.87956,"lon":30.89522},{"il":"Düzce","ilce":"GÜMÜŞOVA","mahalle":"KÖYÜN KENDİSİ (PAZARCIK)","ad":"KÖYÜN KENDİSİ (PAZARCIK)","lat":40.91162,"lon":30.8222},{"il":"Düzce","ilce":"GÜMÜŞOVA","mahalle":"KÖYÜN KENDİSİ (SOĞUKSU)","ad":"KÖYÜN KENDİSİ (SOĞUKSU)","lat":40.86655,"lon":30.8778},{"il":"Düzce","ilce":"GÜMÜŞOVA","mahalle":"KÖYÜN KENDİSİ (SULTANİYE)","ad":"KÖYÜN KENDİSİ (SULTANİYE)","lat":40.85075,"lon":30.99753},{"il":"Düzce","ilce":"GÜMÜŞOVA","mahalle":"KÖYÜN KENDİSİ (YAKABAŞI)","ad":"KÖYÜN KENDİSİ (YAKABAŞI)","lat":40.85387,"lon":30.98596},{"il":"Düzce","ilce":"GÜMÜŞOVA","mahalle":"KÖYÜN KENDİSİ (YEŞİLYAYLA)","ad":"KÖYÜN KENDİSİ (YEŞİLYAYLA)","lat":40.82553,"lon":30.89537},{"il":"Düzce","ilce":"GÜMÜŞOVA","mahalle":"KÖYÜN KENDİSİ (YILDIZTEPE)","ad":"KÖYÜN KENDİSİ (YILDIZTEPE)","lat":40.83762,"lon":30.95562},{"il":"Düzce","ilce":"GÜMÜŞOVA","mahalle":"KÖYÜN KENDİSİ (YONGALIK)","ad":"KÖYÜN KENDİSİ (YONGALIK)","lat":40.82938,"lon":30.94216},{"il":"Düzce","ilce":"GÜMÜŞOVA","mahalle":"KÜLTÜR","ad":"KÜLTÜR","lat":40.85419,"lon":30.94201},{"il":"Düzce","ilce":"GÜMÜŞOVA","mahalle":"MERKEZ","ad":"MERKEZ","lat":40.84721,"lon":30.94703},{"il":"Düzce","ilce":"GÜMÜŞOVA","mahalle":"SELAMLAR","ad":"SELAMLAR","lat":40.86091,"lon":30.96376},{"il":"Düzce","ilce":"GÜMÜŞOVA","mahalle":"YAKABAŞI","ad":"YAKABAŞI","lat":40.85389,"lon":30.98655},{"il":"Düzce","ilce":"GÜMÜŞOVA","mahalle":"YENİ","ad":"YENİ","lat":40.84902,"lon":30.932},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"28 EVLER (DARIYERİ YÖRÜKLER)","ad":"28 EVLER (DARIYERİ YÖRÜKLER)","lat":40.81719,"lon":31.27018},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"ALT (ÇATALÇAM)","ad":"ALT (ÇATALÇAM)","lat":40.71193,"lon":31.29508},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"ALT (HACIAZİZLER)","ad":"ALT (HACIAZİZLER)","lat":40.71156,"lon":31.33452},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"BAŞYAZICIOĞLU DAĞ EVLERİ (DARIYERİBAKACAK)","ad":"BAŞYAZICIOĞLU DAĞ EVLERİ (DARIYERİBAKACAK)","lat":40.74814,"lon":31.37434},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"BEKTAŞLI (BIÇKIYANI)","ad":"BEKTAŞLI (BIÇKIYANI)","lat":40.71645,"lon":31.35472},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"BÜLBÜLDERE (ÇAMOLUK)","ad":"BÜLBÜLDERE (ÇAMOLUK)","lat":40.74382,"lon":31.28606},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"ÇAMLIK (ÇATALÇAM)","ad":"ÇAMLIK (ÇATALÇAM)","lat":40.70672,"lon":31.2959},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"ÇAYKARA (YEŞİLTEPE)","ad":"ÇAYKARA (YEŞİLTEPE)","lat":40.75231,"lon":31.36756},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"ÇELE","ad":"ÇELE","lat":40.77728,"lon":31.2957},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"ÇİLLİOĞLU (SARIÇÖKEK)","ad":"ÇİLLİOĞLU (SARIÇÖKEK)","lat":40.77979,"lon":31.32834},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"ÇİMENLİKORULUK (TAVAK)","ad":"ÇİMENLİKORULUK (TAVAK)","lat":40.73459,"lon":31.30729},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"D-100 BOLUDAĞI KARAYOLU (DARIYERİBAKACAK)","ad":"D-100 BOLUDAĞI KARAYOLU (DARIYERİBAKACAK)","lat":40.75297,"lon":31.37838},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"D-100 KARAYOLU (DARIYERİHASANBEY)","ad":"D-100 KARAYOLU (DARIYERİHASANBEY)","lat":40.77196,"lon":31.33999},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"DEGİRMENYANI (SARIÇÖKEK)","ad":"DEGİRMENYANI (SARIÇÖKEK)","lat":40.81813,"lon":31.32762},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"DEREBOYU (DARIYERİHASANBEY)","ad":"DEREBOYU (DARIYERİHASANBEY)","lat":40.77606,"lon":31.34289},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"DERE (ÇAMLICA)","ad":"DERE (ÇAMLICA)","lat":40.73165,"lon":31.34989},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"DERE (DİPSİZGÖL)","ad":"DERE (DİPSİZGÖL)","lat":40.72948,"lon":31.35913},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"DİP (DARIYERİHASANBEY)","ad":"DİP (DARIYERİHASANBEY)","lat":40.79717,"lon":31.3912},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"DOĞANTEPE (DİPSİZGÖL)","ad":"DOĞANTEPE (DİPSİZGÖL)","lat":40.73035,"lon":31.36823},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"DÜZGÖSTEK (YENİYURT)","ad":"DÜZGÖSTEK (YENİYURT)","lat":40.6873,"lon":31.30681},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"DÜZORMANI (SARIÇÖKEK)","ad":"DÜZORMANI (SARIÇÖKEK)","lat":40.80889,"lon":31.31336},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"ELMALI (DARIYERİHASANBEY)","ad":"ELMALI (DARIYERİHASANBEY)","lat":40.77686,"lon":31.33611},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"ESKİKÖY","ad":"ESKİKÖY","lat":40.75458,"lon":31.33476},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"FATİH (ÜÇKÖPRÜ)","ad":"FATİH (ÜÇKÖPRÜ)","lat":40.79535,"lon":31.24108},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"FENERBAHÇE (ÜÇKÖPRÜ)","ad":"FENERBAHÇE (ÜÇKÖPRÜ)","lat":40.78869,"lon":31.26514},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"FINDIKLI (ÇATALÇAM)","ad":"FINDIKLI (ÇATALÇAM)","lat":40.72479,"lon":31.30337},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"GÜLDERE (DARIYERİHASANBEY)","ad":"GÜLDERE (DARIYERİHASANBEY)","lat":40.77082,"lon":31.34082},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"GÜNEY (SAZKÖY)","ad":"GÜNEY (SAZKÖY)","lat":40.73429,"lon":31.2672},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"HACIMEHMET (DARIYERİMENGENCİK)","ad":"HACIMEHMET (DARIYERİMENGENCİK)","lat":40.7891,"lon":31.24504},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"HAMZALI (BIÇKIYANI)","ad":"HAMZALI (BIÇKIYANI)","lat":40.71189,"lon":31.37157},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"HENDANOĞLU (DARIYERİHASANBEY)","ad":"HENDANOĞLU (DARIYERİHASANBEY)","lat":40.75706,"lon":31.35139},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"İKİZLER (ALTUNKÖY)","ad":"İKİZLER (ALTUNKÖY)","lat":40.70666,"lon":31.33252},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"İLHANLI (YENİYURT)","ad":"İLHANLI (YENİYURT)","lat":40.69278,"lon":31.30621},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"KAHVECİ (DARIYERİMENGENCİK)","ad":"KAHVECİ (DARIYERİMENGENCİK)","lat":40.77492,"lon":31.2364},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"KARAÇALI","ad":"KARAÇALI","lat":40.78086,"lon":31.29308},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"KARŞI (YENİYURT)","ad":"KARŞI (YENİYURT)","lat":40.70058,"lon":31.31706},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"KOYTAKLI (ÇAMLICA)","ad":"KOYTAKLI (ÇAMLICA)","lat":40.72185,"lon":31.35476},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"KÖYÜN KENDİSİ (ÇAKIRSAYVAN)","ad":"KÖYÜN KENDİSİ (ÇAKIRSAYVAN)","lat":40.73535,"lon":31.27961},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"KÖYÜN KENDİSİ (FINDIKLI)","ad":"KÖYÜN KENDİSİ (FINDIKLI)","lat":40.77898,"lon":31.25843},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"KULUBEYANI (DARIYERİHASANBEY)","ad":"KULUBEYANI (DARIYERİHASANBEY)","lat":40.78583,"lon":31.40502},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"KUMLUCA","ad":"KUMLUCA","lat":40.77801,"lon":31.32573},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"KUZUMLU (BIÇKIYANI)","ad":"KUZUMLU (BIÇKIYANI)","lat":40.72116,"lon":31.3712},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"KÜLTÜR (DİPSİZGÖL)","ad":"KÜLTÜR (DİPSİZGÖL)","lat":40.74926,"lon":31.344},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"KÜTÜKLÜ (YENİYURT)","ad":"KÜTÜKLÜ (YENİYURT)","lat":40.68743,"lon":31.29379},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"MEHMETPINAR (YENİYURT)","ad":"MEHMETPINAR (YENİYURT)","lat":40.69657,"lon":31.30395},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"MERKEZ","ad":"MERKEZ","lat":40.77983,"lon":31.3254},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"MERKEZ  (ALTUNKÖY)","ad":"MERKEZ (ALTUNKÖY)","lat":40.71268,"lon":31.31928},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"MERKEZ (BIÇKIYANI)","ad":"MERKEZ (BIÇKIYANI)","lat":40.72497,"lon":31.35597},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"MERKEZ (ÇAMLICA)","ad":"MERKEZ (ÇAMLICA)","lat":40.72803,"lon":31.34149},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"MERKEZ (ÇAMOLUK)","ad":"MERKEZ (ÇAMOLUK)","lat":40.75861,"lon":31.30186},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"MERKEZ (ÇATALÇAM)","ad":"MERKEZ (ÇATALÇAM)","lat":40.71672,"lon":31.29198},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"MERKEZ (DARIYERİBAKACAK)","ad":"MERKEZ (DARIYERİBAKACAK)","lat":40.75291,"lon":31.40442},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"MERKEZ (DARIYERİHASANBEY)","ad":"MERKEZ (DARIYERİHASANBEY)","lat":40.77708,"lon":31.33781},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"MERKEZ (DARIYERİMENGENCİK)","ad":"MERKEZ (DARIYERİMENGENCİK)","lat":40.79858,"lon":31.2353},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"MERKEZ (DARIYERİ YÖRÜKLER)","ad":"MERKEZ (DARIYERİ YÖRÜKLER)","lat":40.83655,"lon":31.29074},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"MERKEZ (DİPSİZGÖL)","ad":"MERKEZ (DİPSİZGÖL)","lat":40.73383,"lon":31.35969},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"MERKEZ (HACIAZİZLER)","ad":"MERKEZ (HACIAZİZLER)","lat":40.70099,"lon":31.3424},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"MERKEZ (MURATBEY)","ad":"MERKEZ (MURATBEY)","lat":40.74052,"lon":31.341},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"MERKEZ (SARIÇÖKEK)","ad":"MERKEZ (SARIÇÖKEK)","lat":40.78387,"lon":31.32101},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"MERKEZ (SAZKÖY)","ad":"MERKEZ (SAZKÖY)","lat":40.76739,"lon":31.2726},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"MERKEZ (TAVAK)","ad":"MERKEZ (TAVAK)","lat":40.75805,"lon":31.31636},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"MERKEZYAYLA (ALTUNKÖY)","ad":"MERKEZYAYLA (ALTUNKÖY)","lat":40.71767,"lon":31.31548},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"MERKEZ (YENİYURT)","ad":"MERKEZ (YENİYURT)","lat":40.69095,"lon":31.32193},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"MERKEZ (YEŞİLTEPE)","ad":"MERKEZ (YEŞİLTEPE)","lat":40.74244,"lon":31.37945},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"MEŞELİK (DARIYERİHASANBEY)","ad":"MEŞELİK (DARIYERİHASANBEY)","lat":40.80448,"lon":31.36091},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"OFLU (ALTUNKÖY)","ad":"OFLU (ALTUNKÖY)","lat":40.70187,"lon":31.3299},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"ONBAŞI (TAVAK)","ad":"ONBAŞI (TAVAK)","lat":40.74012,"lon":31.31301},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"ORTA (DİPSİZGÖL)","ad":"ORTA (DİPSİZGÖL)","lat":40.73107,"lon":31.36731},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"ORTA (HACIAZİZLER)","ad":"ORTA (HACIAZİZLER)","lat":40.70604,"lon":31.34079},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"OSMANÇAVUŞ (TAVAK)","ad":"OSMANÇAVUŞ (TAVAK)","lat":40.74113,"lon":31.30543},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"SAĞLIK (DİPSİZGÖL)","ad":"SAĞLIK (DİPSİZGÖL)","lat":40.73471,"lon":31.37572},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"SAKARCA (ÇATALÇAM)","ad":"SAKARCA (ÇATALÇAM)","lat":40.69512,"lon":31.28833},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"SARIYER","ad":"SARIYER","lat":40.77053,"lon":31.31473},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"SİNEKLİ  (ÇAKIRSAYVAN)","ad":"SİNEKLİ (ÇAKIRSAYVAN)","lat":40.71502,"lon":31.27106},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"SOĞUKSU (YEŞİLTEPE)","ad":"SOĞUKSU (YEŞİLTEPE)","lat":40.74405,"lon":31.35748},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"ŞAFAK (ÜÇKÖPRÜ)","ad":"ŞAFAK (ÜÇKÖPRÜ)","lat":40.79507,"lon":31.25508},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"ŞEVKİ (DARIYERİHASANBEY)","ad":"ŞEVKİ (DARIYERİHASANBEY)","lat":40.75952,"lon":31.34274},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"ŞİMŞİR","ad":"ŞİMŞİR","lat":40.78557,"lon":31.27129},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"ŞİRİNEVLER (DARIYERİHASANBEY)","ad":"ŞİRİNEVLER (DARIYERİHASANBEY)","lat":40.80615,"lon":31.34663},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"TAHTALIK (SARIÇÖKEK)","ad":"TAHTALIK (SARIÇÖKEK)","lat":40.79889,"lon":31.33466},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"TAŞALTI (DARIYERİHASANBEY)","ad":"TAŞALTI (DARIYERİHASANBEY)","lat":40.76723,"lon":31.35674},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"TEKİRSU (DİPSİZGÖL)","ad":"TEKİRSU (DİPSİZGÖL)","lat":40.73185,"lon":31.37975},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"TÜTEKYATAK (YENİYURT)","ad":"TÜTEKYATAK (YENİYURT)","lat":40.70811,"lon":31.30927},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"UFUK (ÜÇKÖPRÜ)","ad":"UFUK (ÜÇKÖPRÜ)","lat":40.79949,"lon":31.24285},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"ÜST (ÇATALÇAM)","ad":"ÜST (ÇATALÇAM)","lat":40.71125,"lon":31.29706},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"VELİOĞLU ALİOSMAN (MURATBEY)","ad":"VELİOĞLU ALİOSMAN (MURATBEY)","lat":40.73383,"lon":31.32761},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"VEYSELUSTA (TAVAK)","ad":"VEYSELUSTA (TAVAK)","lat":40.74255,"lon":31.31557},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"YAĞCILAR BİLAL (MURATBEY)","ad":"YAĞCILAR BİLAL (MURATBEY)","lat":40.75445,"lon":31.33323},{"il":"Düzce","ilce":"KAYNAŞLI","mahalle":"YENİDOĞAN (ÜÇKÖPRÜ)","ad":"YENİDOĞAN (ÜÇKÖPRÜ)","lat":40.79413,"lon":31.25294},{"il":"Düzce","ilce":"MERKEZ","mahalle":"AÇMALAR (ASAR)","ad":"AÇMALAR (ASAR)","lat":40.88203,"lon":31.30108},{"il":"Düzce","ilce":"MERKEZ","mahalle":"AFANOĞLU (YENİ AYNALI)","ad":"AFANOĞLU (YENİ AYNALI)","lat":40.90578,"lon":31.10941},{"il":"Düzce","ilce":"MERKEZ","mahalle":"AĞAKÖYÜ","ad":"AĞAKÖYÜ","lat":40.83863,"lon":31.12347},{"il":"Düzce","ilce":"MERKEZ","mahalle":"AKÇALAR (OTLUOĞLU)","ad":"AKÇALAR (OTLUOĞLU)","lat":40.83318,"lon":31.11679},{"il":"Düzce","ilce":"MERKEZ","mahalle":"AKINLAR","ad":"AKINLAR","lat":40.86485,"lon":31.13738},{"il":"Düzce","ilce":"MERKEZ","mahalle":"AKPINAR","ad":"AKPINAR","lat":40.82402,"lon":31.19806},{"il":"Düzce","ilce":"MERKEZ","mahalle":"ALAÇAM (DERDİN)","ad":"ALAÇAM (DERDİN)","lat":40.7275,"lon":31.23594},{"il":"Düzce","ilce":"MERKEZ","mahalle":"ARAPÇİFTLİĞİ","ad":"ARAPÇİFTLİĞİ","lat":40.88047,"lon":31.1543},{"il":"Düzce","ilce":"MERKEZ","mahalle":"AŞAĞI (YÖRÜK)","ad":"AŞAĞI (YÖRÜK)","lat":40.8995,"lon":31.19392},{"il":"Düzce","ilce":"MERKEZ","mahalle":"AZİZİYE","ad":"AZİZİYE","lat":40.84836,"lon":31.14192},{"il":"Düzce","ilce":"MERKEZ","mahalle":"AZMİMİLLİ","ad":"AZMİMİLLİ","lat":40.83023,"lon":31.17487},{"il":"Düzce","ilce":"MERKEZ","mahalle":"BAHÇELİEVLER","ad":"BAHÇELİEVLER","lat":40.86625,"lon":31.23252},{"il":"Düzce","ilce":"MERKEZ","mahalle":"BAHÇELİEVLER (DERDİN)","ad":"BAHÇELİEVLER (DERDİN)","lat":40.70838,"lon":31.2187},{"il":"Düzce","ilce":"MERKEZ","mahalle":"BALLAR","ad":"BALLAR","lat":40.95635,"lon":31.15967},{"il":"Düzce","ilce":"MERKEZ","mahalle":"BEYCİLER","ad":"BEYCİLER","lat":40.868,"lon":31.18143},{"il":"Düzce","ilce":"MERKEZ","mahalle":"BEYTEPE","ad":"BEYTEPE","lat":40.79046,"lon":31.17646},{"il":"Düzce","ilce":"MERKEZ","mahalle":"BUCAKKURULU (SAMANDERE)","ad":"BUCAKKURULU (SAMANDERE)","lat":40.69399,"lon":31.26014},{"il":"Düzce","ilce":"MERKEZ","mahalle":"BURHANİYE","ad":"BURHANİYE","lat":40.84283,"lon":31.16945},{"il":"Düzce","ilce":"MERKEZ","mahalle":"BÜK (ÇINARDÜZÜ)","ad":"BÜK (ÇINARDÜZÜ)","lat":40.77127,"lon":31.17532},{"il":"Düzce","ilce":"MERKEZ","mahalle":"CAMİKEBİR","ad":"CAMİKEBİR","lat":40.84033,"lon":31.15468},{"il":"Düzce","ilce":"MERKEZ","mahalle":"CAPOĞLU (KABALAK)","ad":"CAPOĞLU (KABALAK)","lat":40.96135,"lon":31.20259},{"il":"Düzce","ilce":"MERKEZ","mahalle":"CEDİDİYE","ad":"CEDİDİYE","lat":40.83295,"lon":31.17165},{"il":"Düzce","ilce":"MERKEZ","mahalle":"CUMA (AYDINPINAR)","ad":"CUMA (AYDINPINAR)","lat":40.76853,"lon":31.1031},{"il":"Düzce","ilce":"MERKEZ","mahalle":"CUMHURİYET","ad":"CUMHURİYET","lat":40.78092,"lon":31.17743},{"il":"Düzce","ilce":"MERKEZ","mahalle":"CUMHURİYET OSB2","ad":"CUMHURİYET OSB2","lat":40.78583,"lon":31.19523},{"il":"Düzce","ilce":"MERKEZ","mahalle":"CUMHURİYET (ÜÇYOL)","ad":"CUMHURİYET (ÜÇYOL)","lat":40.83396,"lon":31.05258},{"il":"Düzce","ilce":"MERKEZ","mahalle":"ÇAKIRLAR","ad":"ÇAKIRLAR","lat":40.89636,"lon":31.20861},{"il":"Düzce","ilce":"MERKEZ","mahalle":"ÇAKMANLAR (SİNİRCİ)","ad":"ÇAKMANLAR (SİNİRCİ)","lat":40.80949,"lon":31.15743},{"il":"Düzce","ilce":"MERKEZ","mahalle":"ÇAM (ESKİ MENGENCİK)","ad":"ÇAM (ESKİ MENGENCİK)","lat":40.79785,"lon":31.21663},{"il":"Düzce","ilce":"MERKEZ","mahalle":"ÇAMKÖY","ad":"ÇAMKÖY","lat":40.88965,"lon":31.17396},{"il":"Düzce","ilce":"MERKEZ","mahalle":"ÇAMLIEVLER","ad":"ÇAMLIEVLER","lat":40.8748,"lon":31.23519},{"il":"Düzce","ilce":"MERKEZ","mahalle":"ÇAMLIK (UĞUR)","ad":"ÇAMLIK (UĞUR)","lat":40.74532,"lon":31.19147},{"il":"Düzce","ilce":"MERKEZ","mahalle":"ÇAVUŞLAR","ad":"ÇAVUŞLAR","lat":40.8772,"lon":31.1822},{"il":"Düzce","ilce":"MERKEZ","mahalle":"ÇAY","ad":"ÇAY","lat":40.83696,"lon":31.15873},{"il":"Düzce","ilce":"MERKEZ","mahalle":"ÇAYIRBAŞI (NASIRLI)","ad":"ÇAYIRBAŞI (NASIRLI)","lat":40.91277,"lon":31.21052},{"il":"Düzce","ilce":"MERKEZ","mahalle":"ÇAYIRTARLA","ad":"ÇAYIRTARLA","lat":40.96957,"lon":31.14605},{"il":"Düzce","ilce":"MERKEZ","mahalle":"ÇİÇEK (İSTİLLİ)","ad":"ÇİÇEK (İSTİLLİ)","lat":40.8468,"lon":31.10261},{"il":"Düzce","ilce":"MERKEZ","mahalle":"ÇİFTEPINARLAR","ad":"ÇİFTEPINARLAR","lat":40.91391,"lon":31.15903},{"il":"Düzce","ilce":"MERKEZ","mahalle":"ÇİMEN (YENİ TAŞKÖPRÜ)","ad":"ÇİMEN (YENİ TAŞKÖPRÜ)","lat":40.83051,"lon":31.10253},{"il":"Düzce","ilce":"MERKEZ","mahalle":"ÇOBANOĞLU (YENİ AYNALI)","ad":"ÇOBANOĞLU (YENİ AYNALI)","lat":40.90478,"lon":31.09466},{"il":"Düzce","ilce":"MERKEZ","mahalle":"ÇORAK (KAYMAKÇI)","ad":"ÇORAK (KAYMAKÇI)","lat":40.89324,"lon":31.09959},{"il":"Düzce","ilce":"MERKEZ","mahalle":"ÇORAK (UĞUR)","ad":"ÇORAK (UĞUR)","lat":40.74678,"lon":31.19287},{"il":"Düzce","ilce":"MERKEZ","mahalle":"DARICI","ad":"DARICI","lat":40.82988,"lon":31.16582},{"il":"Düzce","ilce":"MERKEZ","mahalle":"DEDELER","ad":"DEDELER","lat":40.8422,"lon":31.1983},{"il":"Düzce","ilce":"MERKEZ","mahalle":"DEĞİRMENBAŞI","ad":"DEĞİRMENBAŞI","lat":40.77926,"lon":31.1832},{"il":"Düzce","ilce":"MERKEZ","mahalle":"DEĞİRMEN (GÖLORMANI)","ad":"DEĞİRMEN (GÖLORMANI)","lat":40.75512,"lon":31.08016},{"il":"Düzce","ilce":"MERKEZ","mahalle":"DEĞİRMENÜSTÜ (SAMANDERE)","ad":"DEĞİRMENÜSTÜ (SAMANDERE)","lat":40.70592,"lon":31.26192},{"il":"Düzce","ilce":"MERKEZ","mahalle":"DEMETEVLER","ad":"DEMETEVLER","lat":40.87315,"lon":31.21573},{"il":"Düzce","ilce":"MERKEZ","mahalle":"DEMİRCİLER (ASAR)","ad":"DEMİRCİLER (ASAR)","lat":40.89132,"lon":31.30309},{"il":"Düzce","ilce":"MERKEZ","mahalle":"DEPO (GÖLORMANI)","ad":"DEPO (GÖLORMANI)","lat":40.75893,"lon":31.06927},{"il":"Düzce","ilce":"MERKEZ","mahalle":"DERE (DERDİN)","ad":"DERE (DERDİN)","lat":40.7054,"lon":31.24444},{"il":"Düzce","ilce":"MERKEZ","mahalle":"DERE (KURTSUYU)","ad":"DERE (KURTSUYU)","lat":40.97933,"lon":31.26147},{"il":"Düzce","ilce":"MERKEZ","mahalle":"DERELİTÜTÜNCÜ","ad":"DERELİTÜTÜNCÜ","lat":40.84355,"lon":31.19245},{"il":"Düzce","ilce":"MERKEZ","mahalle":"DEVELİ (HACI AHMETLER)","ad":"DEVELİ (HACI AHMETLER)","lat":40.79788,"lon":31.15393},{"il":"Düzce","ilce":"MERKEZ","mahalle":"DİNLER (KABALAK)","ad":"DİNLER (KABALAK)","lat":40.96605,"lon":31.18823},{"il":"Düzce","ilce":"MERKEZ","mahalle":"DOĞANLI MÜCAVİR (DOĞANLI)","ad":"DOĞANLI MÜCAVİR (DOĞANLI)","lat":40.80228,"lon":31.24556},{"il":"Düzce","ilce":"MERKEZ","mahalle":"DOKUZPINAR","ad":"DOKUZPINAR","lat":40.99725,"lon":31.18575},{"il":"Düzce","ilce":"MERKEZ","mahalle":"DORUK (DERDİN)","ad":"DORUK (DERDİN)","lat":40.68626,"lon":31.23023},{"il":"Düzce","ilce":"MERKEZ","mahalle":"EFENDİ (HOCAOĞLU)","ad":"EFENDİ (HOCAOĞLU)","lat":40.81017,"lon":31.09703},{"il":"Düzce","ilce":"MERKEZ","mahalle":"ESENTEPE","ad":"ESENTEPE","lat":40.86465,"lon":31.24098},{"il":"Düzce","ilce":"MERKEZ","mahalle":"FABRİKA (DERDİN)","ad":"FABRİKA (DERDİN)","lat":40.71581,"lon":31.2383},{"il":"Düzce","ilce":"MERKEZ","mahalle":"FATİH","ad":"FATİH","lat":40.85124,"lon":31.13816},{"il":"Düzce","ilce":"MERKEZ","mahalle":"FEVZİÇAKMAK","ad":"FEVZİÇAKMAK","lat":40.83517,"lon":31.17621},{"il":"Düzce","ilce":"MERKEZ","mahalle":"FINDIKÇUKURU (UĞUR)","ad":"FINDIKÇUKURU (UĞUR)","lat":40.71555,"lon":31.19361},{"il":"Düzce","ilce":"MERKEZ","mahalle":"GICIR (OTLUOĞLU)","ad":"GICIR (OTLUOĞLU)","lat":40.82672,"lon":31.12954},{"il":"Düzce","ilce":"MERKEZ","mahalle":"GÜNBAŞI MÜCAVİR (GÜNBAŞI)","ad":"GÜNBAŞI MÜCAVİR (GÜNBAŞI)","lat":40.83991,"lon":31.23428},{"il":"Düzce","ilce":"MERKEZ","mahalle":"GÜZELBAHÇE","ad":"GÜZELBAHÇE","lat":40.86038,"lon":31.23129},{"il":"Düzce","ilce":"MERKEZ","mahalle":"HACIMUSTAFADÜZÜ (SAMANDERE)","ad":"HACIMUSTAFADÜZÜ (SAMANDERE)","lat":40.73008,"lon":31.26418},{"il":"Düzce","ilce":"MERKEZ","mahalle":"HACIYATAĞI (SAMANDERE)","ad":"HACIYATAĞI (SAMANDERE)","lat":40.70616,"lon":31.2702},{"il":"Düzce","ilce":"MERKEZ","mahalle":"HAKKI HOCA (AYDINPINAR)","ad":"HAKKI HOCA (AYDINPINAR)","lat":40.75867,"lon":31.10079},{"il":"Düzce","ilce":"MERKEZ","mahalle":"HAMAMDAĞI (DERDİN)","ad":"HAMAMDAĞI (DERDİN)","lat":40.75156,"lon":31.24597},{"il":"Düzce","ilce":"MERKEZ","mahalle":"HAMAMÜSTÜ (DERDİN)","ad":"HAMAMÜSTÜ (DERDİN)","lat":40.73335,"lon":31.25318},{"il":"Düzce","ilce":"MERKEZ","mahalle":"HAMİDİYE","ad":"HAMİDİYE","lat":40.84693,"lon":31.16506},{"il":"Düzce","ilce":"MERKEZ","mahalle":"HAMZA (AYBAŞI)","ad":"HAMZA (AYBAŞI)","lat":40.94961,"lon":31.1133},{"il":"Düzce","ilce":"MERKEZ","mahalle":"HATIPLAR (SİNİRCİ)","ad":"HATIPLAR (SİNİRCİ)","lat":40.81899,"lon":31.15018},{"il":"Düzce","ilce":"MERKEZ","mahalle":"HATİPLİ (HATİPLİ KETENCİLER)","ad":"HATİPLİ (HATİPLİ KETENCİLER)","lat":40.91861,"lon":31.17189},{"il":"Düzce","ilce":"MERKEZ","mahalle":"HECİNLER (ESENÇAM)","ad":"HECİNLER (ESENÇAM)","lat":40.91154,"lon":31.25585},{"il":"Düzce","ilce":"MERKEZ","mahalle":"HÜRRİYET (ÜÇYOL)","ad":"HÜRRİYET (ÜÇYOL)","lat":40.83323,"lon":31.05344},{"il":"Düzce","ilce":"MERKEZ","mahalle":"İSLAHİYE MÜCAVİR (İSLAHİYE)","ad":"İSLAHİYE MÜCAVİR (İSLAHİYE)","lat":40.84647,"lon":31.04306},{"il":"Düzce","ilce":"MERKEZ","mahalle":"İSTİKLAL","ad":"İSTİKLAL","lat":40.7832,"lon":31.15915},{"il":"Düzce","ilce":"MERKEZ","mahalle":"İSTİKLAL OSB1","ad":"İSTİKLAL OSB1","lat":40.79036,"lon":31.13539},{"il":"Düzce","ilce":"MERKEZ","mahalle":"İSTİKLAL (ÜÇYOL)","ad":"İSTİKLAL (ÜÇYOL)","lat":40.84174,"lon":31.05432},{"il":"Düzce","ilce":"MERKEZ","mahalle":"İZMİRLİ (KABALAK)","ad":"İZMİRLİ (KABALAK)","lat":40.96094,"lon":31.17773},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KALYONCU (GÖLORMANI)","ad":"KALYONCU (GÖLORMANI)","lat":40.75432,"lon":31.07099},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KARA AĞAÇ (GÜNBAŞI)","ad":"KARA AĞAÇ (GÜNBAŞI)","lat":40.83907,"lon":31.25181},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KARACA","ad":"KARACA","lat":40.85166,"lon":31.16875},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KARAÇAVUŞ (GÖLORMANI)","ad":"KARAÇAVUŞ (GÖLORMANI)","lat":40.74668,"lon":31.08696},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KARA HACIMUSA","ad":"KARA HACIMUSA","lat":40.85965,"lon":31.14786},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KARAÖMER (DÜVERDÜZÜ)","ad":"KARAÖMER (DÜVERDÜZÜ)","lat":40.94632,"lon":31.10714},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KARASAKAL (GÖLORMANI)","ad":"KARASAKAL (GÖLORMANI)","lat":40.76372,"lon":31.09033},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KARDELEN (DERDİN)","ad":"KARDELEN (DERDİN)","lat":40.69897,"lon":31.22955},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KASIM (KEMERKASIM)","ad":"KASIM (KEMERKASIM)","lat":40.94434,"lon":31.20887},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KAVAKLAR (SİNİRCİ)","ad":"KAVAKLAR (SİNİRCİ)","lat":40.81402,"lon":31.16637},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KAZUKOĞLU","ad":"KAZUKOĞLU","lat":40.87699,"lon":31.19163},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KEMER (KEMERKASIM)","ad":"KEMER (KEMERKASIM)","lat":40.93141,"lon":31.20185},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KETENCİLER (HATİPLİ KETENCİLER)","ad":"KETENCİLER (HATİPLİ KETENCİLER)","lat":40.91511,"lon":31.19236},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KIRKACAK (GÜVEN)","ad":"KIRKACAK (GÜVEN)","lat":40.77278,"lon":31.19613},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KİREÇKUYUSU (GÜVEN)","ad":"KİREÇKUYUSU (GÜVEN)","lat":40.76372,"lon":31.21086},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KİREMİTOCAĞI","ad":"KİREMİTOCAĞI","lat":40.84034,"lon":31.14952},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KOCAYAYLA (SAMANDERE)","ad":"KOCAYAYLA (SAMANDERE)","lat":40.70747,"lon":31.24686},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KOÇYAZI","ad":"KOÇYAZI","lat":40.85197,"lon":31.18339},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖRPEŞLER","ad":"KÖRPEŞLER","lat":40.86688,"lon":31.15964},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (AKBIYIKLAR)","ad":"KÖYÜN KENDİSİ (AKBIYIKLAR)","lat":40.8829,"lon":31.27131},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (AKTARLA)","ad":"KÖYÜN KENDİSİ (AKTARLA)","lat":40.75083,"lon":31.15967},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (AKYAZI)","ad":"KÖYÜN KENDİSİ (AKYAZI)","lat":40.9092,"lon":31.2101},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (ALTINPINAR)","ad":"KÖYÜN KENDİSİ (ALTINPINAR)","lat":40.81933,"lon":31.22484},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (AYNALI)","ad":"KÖYÜN KENDİSİ (AYNALI)","lat":40.91964,"lon":31.12594},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (BATAKLI ÇİFTLİK)","ad":"KÖYÜN KENDİSİ (BATAKLI ÇİFTLİK)","lat":40.81456,"lon":31.11614},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (BOSTANLIK)","ad":"KÖYÜN KENDİSİ (BOSTANLIK)","lat":40.84247,"lon":31.06387},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (BÜYÜKAÇMA)","ad":"KÖYÜN KENDİSİ (BÜYÜKAÇMA)","lat":40.79314,"lon":31.20249},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (ÇAKIRHACI İBRAHİM)","ad":"KÖYÜN KENDİSİ (ÇAKIRHACI İBRAHİM)","lat":40.77624,"lon":31.12869},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (ÇALICUMA)","ad":"KÖYÜN KENDİSİ (ÇALICUMA)","lat":40.80272,"lon":31.17523},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (ÇAMLISU)","ad":"KÖYÜN KENDİSİ (ÇAMLISU)","lat":40.9621,"lon":31.25646},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (ÇINARLI)","ad":"KÖYÜN KENDİSİ (ÇINARLI)","lat":40.77304,"lon":31.11377},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (ÇİFTLİK)","ad":"KÖYÜN KENDİSİ (ÇİFTLİK)","lat":40.91298,"lon":31.23801},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (DEVELİ BESNİ)","ad":"KÖYÜN KENDİSİ (DEVELİ BESNİ)","lat":40.78353,"lon":31.13625},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (DOĞANLI)","ad":"KÖYÜN KENDİSİ (DOĞANLI)","lat":40.80523,"lon":31.23352},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (DURAKLAR)","ad":"KÖYÜN KENDİSİ (DURAKLAR)","lat":40.79554,"lon":31.12379},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (EMİNAÇMA)","ad":"KÖYÜN KENDİSİ (EMİNAÇMA)","lat":40.9682,"lon":31.23989},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (ERDEMLİ)","ad":"KÖYÜN KENDİSİ (ERDEMLİ)","lat":40.94976,"lon":31.11902},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (ESENTEPE)","ad":"KÖYÜN KENDİSİ (ESENTEPE)","lat":40.89365,"lon":31.25068},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (FINDIKLI AKSU)","ad":"KÖYÜN KENDİSİ (FINDIKLI AKSU)","lat":40.89102,"lon":31.35546},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (GÖKÇE)","ad":"KÖYÜN KENDİSİ (GÖKÇE)","lat":40.82246,"lon":31.20051},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (GÜLDERE)","ad":"KÖYÜN KENDİSİ (GÜLDERE)","lat":40.9436,"lon":31.18851},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (GÜMÜŞPINAR)","ad":"KÖYÜN KENDİSİ (GÜMÜŞPINAR)","lat":40.81415,"lon":31.21687},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (GÜNDOLAMASI)","ad":"KÖYÜN KENDİSİ (GÜNDOLAMASI)","lat":40.84427,"lon":31.22722},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (HASANLAR)","ad":"KÖYÜN KENDİSİ (HASANLAR)","lat":40.92634,"lon":31.26995},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (İHSANİYE)","ad":"KÖYÜN KENDİSİ (İHSANİYE)","lat":40.85234,"lon":31.07766},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (İSLAHİYE)","ad":"KÖYÜN KENDİSİ (İSLAHİYE)","lat":40.84707,"lon":31.04417},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (KADIOĞLU)","ad":"KÖYÜN KENDİSİ (KADIOĞLU)","lat":40.88541,"lon":31.12051},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (KALEDİBİ)","ad":"KÖYÜN KENDİSİ (KALEDİBİ)","lat":40.77322,"lon":31.16783},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (KARADERE HASANAĞA)","ad":"KÖYÜN KENDİSİ (KARADERE HASANAĞA)","lat":40.84312,"lon":31.07118},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (KAVAKBIÇKI)","ad":"KÖYÜN KENDİSİ (KAVAKBIÇKI)","lat":40.76435,"lon":31.16602},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (KIZILCIK)","ad":"KÖYÜN KENDİSİ (KIZILCIK)","lat":40.80164,"lon":31.11923},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (KONAKLI)","ad":"KÖYÜN KENDİSİ (KONAKLI)","lat":40.78443,"lon":31.12361},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (KOZLUK)","ad":"KÖYÜN KENDİSİ (KOZLUK)","lat":40.96666,"lon":31.22761},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (KÖPRÜBAŞI)","ad":"KÖYÜN KENDİSİ (KÖPRÜBAŞI)","lat":40.83423,"lon":31.03513},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (KUŞAÇMASI)","ad":"KÖYÜN KENDİSİ (KUŞAÇMASI)","lat":40.80524,"lon":31.07758},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (KUTLU)","ad":"KÖYÜN KENDİSİ (KUTLU)","lat":40.77452,"lon":31.15561},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (KÜÇÜKAHMET)","ad":"KÖYÜN KENDİSİ (KÜÇÜKAHMET)","lat":40.80322,"lon":31.12824},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (KÜÇÜKMEHMET)","ad":"KÖYÜN KENDİSİ (KÜÇÜKMEHMET)","lat":40.81165,"lon":31.13509},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (MAMURE)","ad":"KÖYÜN KENDİSİ (MAMURE)","lat":40.84785,"lon":31.10647},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (MURADİYEMENGENCİK)","ad":"KÖYÜN KENDİSİ (MURADİYEMENGENCİK)","lat":40.792,"lon":31.21003},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (MUSABABA)","ad":"KÖYÜN KENDİSİ (MUSABABA)","lat":40.83662,"lon":31.24266},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (OSMANCA)","ad":"KÖYÜN KENDİSİ (OSMANCA)","lat":40.94183,"lon":31.14532},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (OVAPINAR)","ad":"KÖYÜN KENDİSİ (OVAPINAR)","lat":40.79289,"lon":31.20526},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (ÖZYANIK)","ad":"KÖYÜN KENDİSİ (ÖZYANIK)","lat":40.69317,"lon":31.25362},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (PAŞAKONAĞI)","ad":"KÖYÜN KENDİSİ (PAŞAKONAĞI)","lat":40.81881,"lon":31.0728},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (PAŞAORMANI)","ad":"KÖYÜN KENDİSİ (PAŞAORMANI)","lat":40.80982,"lon":31.19744},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (PINARLAR)","ad":"KÖYÜN KENDİSİ (PINARLAR)","lat":40.80959,"lon":31.19499},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (SANCAKDERE)","ad":"KÖYÜN KENDİSİ (SANCAKDERE)","lat":40.95027,"lon":31.14905},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (SUNCUK)","ad":"KÖYÜN KENDİSİ (SUNCUK)","lat":40.95711,"lon":31.13955},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (ŞAZİYE)","ad":"KÖYÜN KENDİSİ (ŞAZİYE)","lat":40.8498,"lon":31.04746},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (TURAPLAR)","ad":"KÖYÜN KENDİSİ (TURAPLAR)","lat":40.81802,"lon":31.13473},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (YAKA)","ad":"KÖYÜN KENDİSİ (YAKA)","lat":40.93093,"lon":31.13446},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (YAYAKBAŞI)","ad":"KÖYÜN KENDİSİ (YAYAKBAŞI)","lat":40.8394,"lon":31.02228},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (YAYLA)","ad":"KÖYÜN KENDİSİ (YAYLA)","lat":40.96332,"lon":31.22262},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (YENİ KARAKÖY)","ad":"KÖYÜN KENDİSİ (YENİ KARAKÖY)","lat":40.7942,"lon":31.10751},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (YEŞİLÇAM)","ad":"KÖYÜN KENDİSİ (YEŞİLÇAM)","lat":40.80992,"lon":31.25766},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (YEŞİLÇİMEN)","ad":"KÖYÜN KENDİSİ (YEŞİLÇİMEN)","lat":40.82641,"lon":31.22379},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KURUDERE (DAĞDİBİ)","ad":"KURUDERE (DAĞDİBİ)","lat":40.77484,"lon":31.23463},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KURULUK (ÇINARDÜZÜ)","ad":"KURULUK (ÇINARDÜZÜ)","lat":40.74122,"lon":31.16751},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KURUOĞLU (OZANLAR)","ad":"KURUOĞLU (OZANLAR)","lat":40.82763,"lon":31.11667},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KUŞYUVASI (SAMANDERE)","ad":"KUŞYUVASI (SAMANDERE)","lat":40.68853,"lon":31.25963},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KUYUMCUHACIALİ","ad":"KUYUMCUHACIALİ","lat":40.86342,"lon":31.1915},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÜLTÜR","ad":"KÜLTÜR","lat":40.84186,"lon":31.16029},{"il":"Düzce","ilce":"MERKEZ","mahalle":"KÜRT (BALLICA)","ad":"KÜRT (BALLICA)","lat":40.7853,"lon":31.08585},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERGİÇ","ad":"MERGİÇ","lat":40.84834,"lon":31.12557},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (ASAR)","ad":"MERKEZ (ASAR)","lat":40.87822,"lon":31.2701},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (AYBAŞI)","ad":"MERKEZ (AYBAŞI)","lat":40.92976,"lon":31.10846},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (AYDINPINAR)","ad":"MERKEZ (AYDINPINAR)","lat":40.76653,"lon":31.111},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (BAHÇE)","ad":"MERKEZ (BAHÇE)","lat":40.8312,"lon":31.08454},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (BALLICA)","ad":"MERKEZ (BALLICA)","lat":40.78477,"lon":31.10478},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (ÇINARDÜZÜ)","ad":"MERKEZ (ÇINARDÜZÜ)","lat":40.7598,"lon":31.18216},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (DAĞDİBİ)","ad":"MERKEZ (DAĞDİBİ)","lat":40.77732,"lon":31.21653},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (DÜVERDÜZÜ)","ad":"MERKEZ (DÜVERDÜZÜ)","lat":40.94276,"lon":31.09123},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (DÜZ)","ad":"MERKEZ (DÜZ)","lat":40.93357,"lon":31.16583},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (ESENÇAM)","ad":"MERKEZ (ESENÇAM)","lat":40.90966,"lon":31.28348},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (ESKİ MENGENCİK)","ad":"MERKEZ (ESKİ MENGENCİK)","lat":40.78762,"lon":31.23022},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (GÖLORMANI)","ad":"MERKEZ (GÖLORMANI)","lat":40.79173,"lon":31.02999},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (GÜNBAŞI)","ad":"MERKEZ (GÜNBAŞI)","lat":40.84509,"lon":31.24637},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (GÜVEN)","ad":"MERKEZ (GÜVEN)","lat":40.77835,"lon":31.20135},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (HACI AHMETLER)","ad":"MERKEZ (HACI AHMETLER)","lat":40.80892,"lon":31.1452},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (HOCAOĞLU)","ad":"MERKEZ (HOCAOĞLU)","lat":40.8052,"lon":31.10517},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (İSTİLLİ)","ad":"MERKEZ (İSTİLLİ)","lat":40.84296,"lon":31.08314},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (KABALAK)","ad":"MERKEZ (KABALAK)","lat":40.96184,"lon":31.17665},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (KAYMAKÇI)","ad":"MERKEZ (KAYMAKÇI)","lat":40.90565,"lon":31.11192},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (KİRAZLI)","ad":"MERKEZ (KİRAZLI)","lat":40.81201,"lon":31.21168},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (KURTSUYU)","ad":"MERKEZ (KURTSUYU)","lat":40.98579,"lon":31.26195},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (MUNCURLU)","ad":"MERKEZ (MUNCURLU)","lat":40.82588,"lon":31.25046},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (NASIRLI)","ad":"MERKEZ (NASIRLI)","lat":40.94644,"lon":31.24192},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (OTLUOĞLU)","ad":"MERKEZ (OTLUOĞLU)","lat":40.82543,"lon":31.14326},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (OZANLAR)","ad":"MERKEZ (OZANLAR)","lat":40.82459,"lon":31.11089},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (SAMANDERE)","ad":"MERKEZ (SAMANDERE)","lat":40.7026,"lon":31.2844},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (SİNİRCİ)","ad":"MERKEZ (SİNİRCİ)","lat":40.81753,"lon":31.16297},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (TAŞKÖPRÜ)","ad":"MERKEZ (TAŞKÖPRÜ)","lat":40.86801,"lon":31.11596},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (UĞUR)","ad":"MERKEZ (UĞUR)","lat":40.75281,"lon":31.21237},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (ÜÇYOL)","ad":"MERKEZ (ÜÇYOL)","lat":40.84065,"lon":31.0491},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (YENİ AYNALI)","ad":"MERKEZ (YENİ AYNALI)","lat":40.92471,"lon":31.10268},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (YENİ TAŞKÖPRÜ)","ad":"MERKEZ (YENİ TAŞKÖPRÜ)","lat":40.83701,"lon":31.1114},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MERKEZ (YÖRÜK)","ad":"MERKEZ (YÖRÜK)","lat":40.89035,"lon":31.19285},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MEZARLIK (KABALAK)","ad":"MEZARLIK (KABALAK)","lat":40.95421,"lon":31.17766},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MOLLAOĞLU (OZANLAR)","ad":"MOLLAOĞLU (OZANLAR)","lat":40.82052,"lon":31.09225},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MUNCURLU MÜCAVİR (MUNCURLU)","ad":"MUNCURLU MÜCAVİR (MUNCURLU)","lat":40.8251,"lon":31.23811},{"il":"Düzce","ilce":"MERKEZ","mahalle":"MUSABABA MÜCAVİR (MUSABABA)","ad":"MUSABABA MÜCAVİR (MUSABABA)","lat":40.83676,"lon":31.23931},{"il":"Düzce","ilce":"MERKEZ","mahalle":"NALBANTOĞLU","ad":"NALBANTOĞLU","lat":40.86662,"lon":31.22701},{"il":"Düzce","ilce":"MERKEZ","mahalle":"NUHLAR","ad":"NUHLAR","lat":40.92743,"lon":31.24238},{"il":"Düzce","ilce":"MERKEZ","mahalle":"NUHLAR (NASIRLI)","ad":"NUHLAR (NASIRLI)","lat":40.91679,"lon":31.23248},{"il":"Düzce","ilce":"MERKEZ","mahalle":"NUSRETTİN","ad":"NUSRETTİN","lat":40.84256,"lon":31.16848},{"il":"Düzce","ilce":"MERKEZ","mahalle":"NUSRET YILMAZ (GÖLORMANI)","ad":"NUSRET YILMAZ (GÖLORMANI)","lat":40.76016,"lon":31.08169},{"il":"Düzce","ilce":"MERKEZ","mahalle":"ORHANGAZİ","ad":"ORHANGAZİ","lat":40.91817,"lon":31.16917},{"il":"Düzce","ilce":"MERKEZ","mahalle":"ORTA (OTLUOĞLU)","ad":"ORTA (OTLUOĞLU)","lat":40.8262,"lon":31.13572},{"il":"Düzce","ilce":"MERKEZ","mahalle":"ORTA (YENİ AYNALI)","ad":"ORTA (YENİ AYNALI)","lat":40.90952,"lon":31.11632},{"il":"Düzce","ilce":"MERKEZ","mahalle":"OTLAKLAR (KURTSUYU)","ad":"OTLAKLAR (KURTSUYU)","lat":40.97905,"lon":31.25589},{"il":"Düzce","ilce":"MERKEZ","mahalle":"OVA (YENİ AYNALI)","ad":"OVA (YENİ AYNALI)","lat":40.9072,"lon":31.11707},{"il":"Düzce","ilce":"MERKEZ","mahalle":"PETEKLİ (KURTSUYU)","ad":"PETEKLİ (KURTSUYU)","lat":40.9803,"lon":31.27688},{"il":"Düzce","ilce":"MERKEZ","mahalle":"POYRAZ (GÜNBAŞI)","ad":"POYRAZ (GÜNBAŞI)","lat":40.84985,"lon":31.24916},{"il":"Düzce","ilce":"MERKEZ","mahalle":"SADIK (SAMANDERE)","ad":"SADIK (SAMANDERE)","lat":40.712,"lon":31.26633},{"il":"Düzce","ilce":"MERKEZ","mahalle":"SALLAR","ad":"SALLAR","lat":40.85454,"lon":31.23859},{"il":"Düzce","ilce":"MERKEZ","mahalle":"SANCAKLAR","ad":"SANCAKLAR","lat":40.87416,"lon":31.1693},{"il":"Düzce","ilce":"MERKEZ","mahalle":"SANTRAL (AYDINPINAR)","ad":"SANTRAL (AYDINPINAR)","lat":40.75414,"lon":31.11088},{"il":"Düzce","ilce":"MERKEZ","mahalle":"SARAYYERİ","ad":"SARAYYERİ","lat":40.88511,"lon":31.1412},{"il":"Düzce","ilce":"MERKEZ","mahalle":"SARIÇAM (ÇINARDÜZÜ)","ad":"SARIÇAM (ÇINARDÜZÜ)","lat":40.75361,"lon":31.19387},{"il":"Düzce","ilce":"MERKEZ","mahalle":"SARIKASIM (NASIRLI)","ad":"SARIKASIM (NASIRLI)","lat":40.91014,"lon":31.22461},{"il":"Düzce","ilce":"MERKEZ","mahalle":"SOĞUKPINAR","ad":"SOĞUKPINAR","lat":40.84008,"lon":31.20347},{"il":"Düzce","ilce":"MERKEZ","mahalle":"ŞEHİT BAYRAM GÖKMEN","ad":"ŞEHİT BAYRAM GÖKMEN","lat":40.89241,"lon":31.16776},{"il":"Düzce","ilce":"MERKEZ","mahalle":"ŞEHİT HÜSEYİN KIL","ad":"ŞEHİT HÜSEYİN KIL","lat":40.90676,"lon":31.13808},{"il":"Düzce","ilce":"MERKEZ","mahalle":"ŞEHİT KEMAL IŞILDAK","ad":"ŞEHİT KEMAL IŞILDAK","lat":40.92104,"lon":31.14357},{"il":"Düzce","ilce":"MERKEZ","mahalle":"ŞEHİT MURAT DEMİR","ad":"ŞEHİT MURAT DEMİR","lat":40.91115,"lon":31.16324},{"il":"Düzce","ilce":"MERKEZ","mahalle":"ŞEKERPINAR","ad":"ŞEKERPINAR","lat":40.98854,"lon":31.16144},{"il":"Düzce","ilce":"MERKEZ","mahalle":"ŞEREFİYE","ad":"ŞEREFİYE","lat":40.83991,"lon":31.16297},{"il":"Düzce","ilce":"MERKEZ","mahalle":"ŞIRALIK","ad":"ŞIRALIK","lat":40.82046,"lon":31.19873},{"il":"Düzce","ilce":"MERKEZ","mahalle":"ŞOSE ALTI (AYDINPINAR)","ad":"ŞOSE ALTI (AYDINPINAR)","lat":40.77411,"lon":31.08949},{"il":"Düzce","ilce":"MERKEZ","mahalle":"TANTAN KUYU (KURTSUYU)","ad":"TANTAN KUYU (KURTSUYU)","lat":40.97741,"lon":31.24738},{"il":"Düzce","ilce":"MERKEZ","mahalle":"TATİL KÖYÜ (DERDİN)","ad":"TATİL KÖYÜ (DERDİN)","lat":40.70111,"lon":31.22145},{"il":"Düzce","ilce":"MERKEZ","mahalle":"TEKİRPINAR (KABALAK)","ad":"TEKİRPINAR (KABALAK)","lat":40.9915,"lon":31.18337},{"il":"Düzce","ilce":"MERKEZ","mahalle":"TERZİALİLER","ad":"TERZİALİLER","lat":40.90797,"lon":31.14534},{"il":"Düzce","ilce":"MERKEZ","mahalle":"TINAZ (YENİ TAŞKÖPRÜ)","ad":"TINAZ (YENİ TAŞKÖPRÜ)","lat":40.82915,"lon":31.09672},{"il":"Düzce","ilce":"MERKEZ","mahalle":"TOKMAKTARLA (NASIRLI)","ad":"TOKMAKTARLA (NASIRLI)","lat":40.91926,"lon":31.20792},{"il":"Düzce","ilce":"MERKEZ","mahalle":"TOKUŞLAR","ad":"TOKUŞLAR","lat":40.89005,"lon":31.18335},{"il":"Düzce","ilce":"MERKEZ","mahalle":"TONYALI (KURTSUYU)","ad":"TONYALI (KURTSUYU)","lat":40.99597,"lon":31.27798},{"il":"Düzce","ilce":"MERKEZ","mahalle":"TÜTÜNLÜK (SAMANDERE)","ad":"TÜTÜNLÜK (SAMANDERE)","lat":40.71922,"lon":31.25135},{"il":"Düzce","ilce":"MERKEZ","mahalle":"UÇUK (UĞUR)","ad":"UÇUK (UĞUR)","lat":40.72797,"lon":31.2252},{"il":"Düzce","ilce":"MERKEZ","mahalle":"UZUNALİ (GÖLORMANI)","ad":"UZUNALİ (GÖLORMANI)","lat":40.74612,"lon":31.08137},{"il":"Düzce","ilce":"MERKEZ","mahalle":"UZUNMUSTAFA","ad":"UZUNMUSTAFA","lat":40.84833,"lon":31.14949},{"il":"Düzce","ilce":"MERKEZ","mahalle":"ÜÇKESE (ESENÇAM)","ad":"ÜÇKESE (ESENÇAM)","lat":40.90888,"lon":31.30721},{"il":"Düzce","ilce":"MERKEZ","mahalle":"YAHYALAR","ad":"YAHYALAR","lat":40.85711,"lon":31.19452},{"il":"Düzce","ilce":"MERKEZ","mahalle":"YAMALI (İSTİLLİ)","ad":"YAMALI (İSTİLLİ)","lat":40.8443,"lon":31.10858},{"il":"Düzce","ilce":"MERKEZ","mahalle":"YANIK (DERDİN)","ad":"YANIK (DERDİN)","lat":40.69082,"lon":31.23862},{"il":"Düzce","ilce":"MERKEZ","mahalle":"YAYLAKAPI (AYDINPINAR)","ad":"YAYLAKAPI (AYDINPINAR)","lat":40.75074,"lon":31.09948},{"il":"Düzce","ilce":"MERKEZ","mahalle":"YAZLIK","ad":"YAZLIK","lat":40.9499,"lon":31.16246},{"il":"Düzce","ilce":"MERKEZ","mahalle":"YENİ","ad":"YENİ","lat":40.79205,"lon":31.16324},{"il":"Düzce","ilce":"MERKEZ","mahalle":"YENİ (BAHÇE)","ad":"YENİ (BAHÇE)","lat":40.81543,"lon":31.07719},{"il":"Düzce","ilce":"MERKEZ","mahalle":"YENİ  (KİRAZLI)","ad":"YENİ (KİRAZLI)","lat":40.81574,"lon":31.21379},{"il":"Düzce","ilce":"MERKEZ","mahalle":"YEŞİL (AYDINPINAR)","ad":"YEŞİL (AYDINPINAR)","lat":40.76093,"lon":31.10764},{"il":"Düzce","ilce":"MERKEZ","mahalle":"YEŞİLÇAM MÜCAVİR (YEŞİLÇAM)","ad":"YEŞİLÇAM MÜCAVİR (YEŞİLÇAM)","lat":40.80975,"lon":31.25262},{"il":"Düzce","ilce":"MERKEZ","mahalle":"YEŞİLKÖY","ad":"YEŞİLKÖY","lat":40.94256,"lon":31.15418},{"il":"Düzce","ilce":"MERKEZ","mahalle":"YEŞİLTEPE","ad":"YEŞİLTEPE","lat":40.85804,"lon":31.24466},{"il":"Düzce","ilce":"MERKEZ","mahalle":"YILANKAYA (AYDINPINAR)","ad":"YILANKAYA (AYDINPINAR)","lat":40.74718,"lon":31.10146},{"il":"Düzce","ilce":"MERKEZ","mahalle":"YUKARI (GÜNBAŞI)","ad":"YUKARI (GÜNBAŞI)","lat":40.83968,"lon":31.24867},{"il":"Düzce","ilce":"MERKEZ","mahalle":"YUKARI YAHYALAR","ad":"YUKARI YAHYALAR","lat":40.85432,"lon":31.20843},{"il":"Düzce","ilce":"MERKEZ","mahalle":"YUKARI (YÖRÜK)","ad":"YUKARI (YÖRÜK)","lat":40.90894,"lon":31.19818},{"il":"Düzce","ilce":"MERKEZ","mahalle":"YUNUSLAR (KEMERKASIM)","ad":"YUNUSLAR (KEMERKASIM)","lat":40.91974,"lon":31.20455},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"AHMETÇİLER","ad":"AHMETÇİLER","lat":40.99952,"lon":31.44131},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"AKSU (HOŞAFOĞLU)","ad":"AKSU (HOŞAFOĞLU)","lat":40.95294,"lon":31.39061},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"AŞAĞI (HACILAR)","ad":"AŞAĞI (HACILAR)","lat":40.985,"lon":31.50121},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"AŞAĞI (YILGIN)","ad":"AŞAĞI (YILGIN)","lat":41.00448,"lon":31.38476},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"ATATÜRK","ad":"ATATÜRK","lat":40.98946,"lon":31.4495},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"AVUTLUK (DİBEKTAŞ)","ad":"AVUTLUK (DİBEKTAŞ)","lat":40.99831,"lon":31.35297},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"AYDIN (DUTLAR)","ad":"AYDIN (DUTLAR)","lat":40.94188,"lon":31.33214},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"BELEN (HOCATMAN)","ad":"BELEN (HOCATMAN)","lat":40.9314,"lon":31.45104},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"ÇAYIRCIK (KIRIK)","ad":"ÇAYIRCIK (KIRIK)","lat":40.92016,"lon":31.3945},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"ÇIRNIK (AKSAKLAR)","ad":"ÇIRNIK (AKSAKLAR)","lat":41.02987,"lon":31.52069},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"ÇORAK (BEKİRLER)","ad":"ÇORAK (BEKİRLER)","lat":40.957,"lon":31.53659},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"DAĞ (TIRAŞLAR)","ad":"DAĞ (TIRAŞLAR)","lat":41.0034,"lon":31.42532},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"DEREİÇİ (YILGIN)","ad":"DEREİÇİ (YILGIN)","lat":40.98578,"lon":31.3832},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"DOĞANCILAR (REDİFLER)","ad":"DOĞANCILAR (REDİFLER)","lat":40.95449,"lon":31.4479},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"DOKUZ (HACIYERİ)","ad":"DOKUZ (HACIYERİ)","lat":40.93514,"lon":31.5059},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"ELMAS (DİBEKTAŞ)","ad":"ELMAS (DİBEKTAŞ)","lat":40.99755,"lon":31.32812},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"ERENLER (TIRAŞLAR)","ad":"ERENLER (TIRAŞLAR)","lat":41.00343,"lon":31.42241},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"GÜNEYALTI (GÜNEY)","ad":"GÜNEYALTI (GÜNEY)","lat":40.95488,"lon":31.42607},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"GÜNEY (ÇAMLI)","ad":"GÜNEY (ÇAMLI)","lat":40.97669,"lon":31.29224},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"GÜNEY (GERİŞ)","ad":"GÜNEY (GERİŞ)","lat":40.89718,"lon":31.3518},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"İSMAİLÇAYIRI (AKÇAÖREN)","ad":"İSMAİLÇAYIRI (AKÇAÖREN)","lat":40.94776,"lon":31.2837},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"KARAKİRAZ (KIRIK)","ad":"KARAKİRAZ (KIRIK)","lat":40.9204,"lon":31.40244},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"KAZAKLAR (GÖKÇEAĞAÇ)","ad":"KAZAKLAR (GÖKÇEAĞAÇ)","lat":40.93733,"lon":31.40961},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"KİRSEYANI (HOCATMAN)","ad":"KİRSEYANI (HOCATMAN)","lat":40.92767,"lon":31.46776},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"KÖYÜN KENDİSİ (ASAR)","ad":"KÖYÜN KENDİSİ (ASAR)","lat":40.97818,"lon":31.3254},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"KÖYÜN KENDİSİ (AYDINYAYLA)","ad":"KÖYÜN KENDİSİ (AYDINYAYLA)","lat":41.02111,"lon":31.5678},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"KÖYÜN KENDİSİ (ÇİFTLİK)","ad":"KÖYÜN KENDİSİ (ÇİFTLİK)","lat":41.02792,"lon":31.53959},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"KÖYÜN KENDİSİ (GAZİLER)","ad":"KÖYÜN KENDİSİ (GAZİLER)","lat":40.99519,"lon":31.56303},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"KÖYÜN KENDİSİ (GELENÖZ)","ad":"KÖYÜN KENDİSİ (GELENÖZ)","lat":40.94241,"lon":31.34676},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"KÖYÜN KENDİSİ (GÜNEY)","ad":"KÖYÜN KENDİSİ (GÜNEY)","lat":40.95536,"lon":31.42591},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"KÖYÜN KENDİSİ (HEBELER)","ad":"KÖYÜN KENDİSİ (HEBELER)","lat":40.99683,"lon":31.45762},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"KÖYÜN KENDİSİ (İĞNELER)","ad":"KÖYÜN KENDİSİ (İĞNELER)","lat":40.97222,"lon":31.36394},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"KÖYÜN KENDİSİ (KÖSELER)","ad":"KÖYÜN KENDİSİ (KÖSELER)","lat":41.0086,"lon":31.45885},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"KÖYÜN KENDİSİ (MENGEN)","ad":"KÖYÜN KENDİSİ (MENGEN)","lat":41.00418,"lon":31.66895},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"KÖYÜN KENDİSİ (ORHANGAZİ)","ad":"KÖYÜN KENDİSİ (ORHANGAZİ)","lat":40.9632,"lon":31.38524},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"KÖYÜN KENDİSİ (SARIKAYA)","ad":"KÖYÜN KENDİSİ (SARIKAYA)","lat":40.94303,"lon":31.40661},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"KÖYÜN KENDİSİ (TUĞRUL)","ad":"KÖYÜN KENDİSİ (TUĞRUL)","lat":40.95371,"lon":31.32042},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"KÖYÜN KENDİSİ (YAĞCILAR)","ad":"KÖYÜN KENDİSİ (YAĞCILAR)","lat":40.96367,"lon":31.46951},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"KÖYÜN KENDİSİ (YAYLATEPE)","ad":"KÖYÜN KENDİSİ (YAYLATEPE)","lat":41.03575,"lon":31.75619},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"KÖYÜN KENDİSİ (YOĞUNPELİT)","ad":"KÖYÜN KENDİSİ (YOĞUNPELİT)","lat":40.98892,"lon":31.66542},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"KURUCA (YENİYER)","ad":"KURUCA (YENİYER)","lat":41.01609,"lon":31.37459},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"KURUHÜSEYİN (DİBEKTAŞ)","ad":"KURUHÜSEYİN (DİBEKTAŞ)","lat":40.98785,"lon":31.36039},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"KUZEY (ÇAMLI)","ad":"KUZEY (ÇAMLI)","lat":40.99562,"lon":31.29938},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"MAREŞAL FEVZİ  ÇAKMAK","ad":"MAREŞAL FEVZİ ÇAKMAK","lat":40.96288,"lon":31.45561},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"MEHMETKÖY (AKSAKLAR)","ad":"MEHMETKÖY (AKSAKLAR)","lat":41.01888,"lon":31.4668},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"MELEN KIYISI (BEKİRLER)","ad":"MELEN KIYISI (BEKİRLER)","lat":40.96404,"lon":31.51235},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"MERKEZ (AKÇAÖREN)","ad":"MERKEZ (AKÇAÖREN)","lat":40.93655,"lon":31.29397},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"MERKEZ (BEKİRLER)","ad":"MERKEZ (BEKİRLER)","lat":40.96695,"lon":31.5303},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"MERKEZ (ÇUKURÖREN)","ad":"MERKEZ (ÇUKURÖREN)","lat":40.96686,"lon":31.54026},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"MERKEZ (DİBEKTAŞ)","ad":"MERKEZ (DİBEKTAŞ)","lat":40.99582,"lon":31.34406},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"MERKEZ (DOĞANLAR)","ad":"MERKEZ (DOĞANLAR)","lat":40.96506,"lon":31.47531},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"MERKEZ (DUTLAR)","ad":"MERKEZ (DUTLAR)","lat":40.95135,"lon":31.32902},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"MERKEZ (GERİŞ)","ad":"MERKEZ (GERİŞ)","lat":40.93229,"lon":31.3455},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"MERKEZ (GÖKÇEAĞAÇ)","ad":"MERKEZ (GÖKÇEAĞAÇ)","lat":40.93242,"lon":31.44441},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"MERKEZ (HACIYERİ)","ad":"MERKEZ (HACIYERİ)","lat":40.94567,"lon":31.48703},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"MERKEZ (HOCATMAN)","ad":"MERKEZ (HOCATMAN)","lat":40.94824,"lon":31.466},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"MERKEZ (HOŞAFOĞLU)","ad":"MERKEZ (HOŞAFOĞLU)","lat":40.9628,"lon":31.37498},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"MERKEZ (KARAKAŞ)","ad":"MERKEZ (KARAKAŞ)","lat":40.99444,"lon":31.60046},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"MERKEZ (KIRIK)","ad":"MERKEZ (KIRIK)","lat":40.91883,"lon":31.37114},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"MERKEZ (KOCAOĞLU)","ad":"MERKEZ (KOCAOĞLU)","lat":40.96784,"lon":31.27982},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"MERKEZ (NAŞLAR)","ad":"MERKEZ (NAŞLAR)","lat":40.98099,"lon":31.41538},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"MERKEZ (REDİFLER)","ad":"MERKEZ (REDİFLER)","lat":40.9676,"lon":31.46283},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"MERKEZ (TIRAŞLAR)","ad":"MERKEZ (TIRAŞLAR)","lat":40.97082,"lon":31.43421},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"MERKEZ (YENİYER)","ad":"MERKEZ (YENİYER)","lat":41.00165,"lon":31.35833},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"ORHANGAZİ","ad":"ORHANGAZİ","lat":40.96092,"lon":31.44267},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"ORTA (AKSAKLAR)","ad":"ORTA (AKSAKLAR)","lat":41.01929,"lon":31.49875},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"ORTA (HOCAKÖY)","ad":"ORTA (HOCAKÖY)","lat":41.00354,"lon":31.59412},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"OSMANCIK (YILGIN)","ad":"OSMANCIK (YILGIN)","lat":40.98105,"lon":31.40665},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"PINARCIK (KOCAOĞLU)","ad":"PINARCIK (KOCAOĞLU)","lat":40.972,"lon":31.27088},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"RESULLER (ÇUKURÖREN)","ad":"RESULLER (ÇUKURÖREN)","lat":40.97339,"lon":31.5617},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"SALAVAT (KIRIK)","ad":"SALAVAT (KIRIK)","lat":40.94619,"lon":31.35604},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"SETLİK (GERİŞ)","ad":"SETLİK (GERİŞ)","lat":40.93481,"lon":31.35701},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"ŞABAN (GÖKÇEAĞAÇ)","ad":"ŞABAN (GÖKÇEAĞAÇ)","lat":40.94821,"lon":31.4281},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"ŞABANLAR (GÖKÇEAĞAÇ)","ad":"ŞABANLAR (GÖKÇEAĞAÇ)","lat":40.95347,"lon":31.43732},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"ŞERENALTI (NAŞLAR)","ad":"ŞERENALTI (NAŞLAR)","lat":40.96542,"lon":31.38995},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"TAVUKPINARI (ÇAMLI)","ad":"TAVUKPINARI (ÇAMLI)","lat":40.97869,"lon":31.2877},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"TURNACILAR (AKÇAÖREN)","ad":"TURNACILAR (AKÇAÖREN)","lat":40.9296,"lon":31.26954},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"VAYISLAR (DOĞANLAR)","ad":"VAYISLAR (DOĞANLAR)","lat":40.97049,"lon":31.48958},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"YAPLAR (KARAKAŞ)","ad":"YAPLAR (KARAKAŞ)","lat":40.99007,"lon":31.5832},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"YÖRÜKLER (GÖKÇEAĞAÇ)","ad":"YÖRÜKLER (GÖKÇEAĞAÇ)","lat":40.95591,"lon":31.43408},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"YUKARI AKÇAÖREN (KOCAOĞLU)","ad":"YUKARI AKÇAÖREN (KOCAOĞLU)","lat":40.9691,"lon":31.31575},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"YUKARI (ÇAMLI)","ad":"YUKARI (ÇAMLI)","lat":40.98531,"lon":31.31615},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"YUKARI (HACILAR)","ad":"YUKARI (HACILAR)","lat":41.0301,"lon":31.52954},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"YUKARI (HOCAKÖY)","ad":"YUKARI (HOCAKÖY)","lat":41.03298,"lon":31.6712},{"il":"Düzce","ilce":"YIĞILCA","mahalle":"YUKARI (YILGIN)","ad":"YUKARI (YILGIN)","lat":41.00486,"lon":31.39439}]
+[
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "ACARA (DOĞANCILAR)",
+    "ad": "ACARA (DOĞANCILAR)",
+    "lat": 41.07551,
+    "lon": 31.14343
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "AHMETDAĞI (TAHİRLİ)",
+    "ad": "AHMETDAĞI (TAHİRLİ)",
+    "lat": 41.07725,
+    "lon": 31.0682
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "AYAZLI",
+    "ad": "AYAZLI",
+    "lat": 41.0953,
+    "lon": 31.20553
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "BATTALLAR (KARATAVUK)",
+    "ad": "BATTALLAR (KARATAVUK)",
+    "lat": 41.00522,
+    "lon": 31.00923
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "BEYLİK AĞACI (KURUKAVAK)",
+    "ad": "BEYLİK AĞACI (KURUKAVAK)",
+    "lat": 40.95967,
+    "lon": 31.01983
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "CUMHURİYET",
+    "ad": "CUMHURİYET",
+    "lat": 41.08784,
+    "lon": 31.11681
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "DOĞANCILAR",
+    "ad": "DOĞANCILAR",
+    "lat": 41.06424,
+    "lon": 31.16448
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "DÖNGELLİ MÜCAVİR (DÖNGELLİ)",
+    "ad": "DÖNGELLİ MÜCAVİR (DÖNGELLİ)",
+    "lat": 41.08481,
+    "lon": 31.17791
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "EDİLLİ AĞZI (EDİLLİ)",
+    "ad": "EDİLLİ AĞZI (EDİLLİ)",
+    "lat": 41.08069,
+    "lon": 31.08551
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "GİRESUNLULAR (DOĞANCILAR)",
+    "ad": "GİRESUNLULAR (DOĞANCILAR)",
+    "lat": 41.07488,
+    "lon": 31.16175
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "HACI YUSUFLAR",
+    "ad": "HACI YUSUFLAR",
+    "lat": 41.08928,
+    "lon": 31.11326
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KARABURUN 2 (HASANÇAVUŞ)",
+    "ad": "KARABURUN 2 (HASANÇAVUŞ)",
+    "lat": 41.0709,
+    "lon": 31.01683
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KARABURUN (HASANÇAVUŞ)",
+    "ad": "KARABURUN (HASANÇAVUŞ)",
+    "lat": 41.07104,
+    "lon": 31.01606
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KAYADİBİ (KARATAVUK)",
+    "ad": "KAYADİBİ (KARATAVUK)",
+    "lat": 41.00097,
+    "lon": 31.04632
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KEÇİKAYA  (PAŞALAR)",
+    "ad": "KEÇİKAYA (PAŞALAR)",
+    "lat": 41.0764,
+    "lon": 31.03731
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KİRAZYANI (ÇAYAĞZI)",
+    "ad": "KİRAZYANI (ÇAYAĞZI)",
+    "lat": 41.09079,
+    "lon": 31.21881
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYİÇİ (HASANÇAVUŞ)",
+    "ad": "KÖYİÇİ (HASANÇAVUŞ)",
+    "lat": 41.06643,
+    "lon": 31.01571
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYİÇİ (KARATAVUK)",
+    "ad": "KÖYİÇİ (KARATAVUK)",
+    "lat": 40.99564,
+    "lon": 31.01759
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (AKKAYA)",
+    "ad": "KÖYÜN KENDİSİ (AKKAYA)",
+    "lat": 41.10332,
+    "lon": 31.3016
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (AKTAŞ)",
+    "ad": "KÖYÜN KENDİSİ (AKTAŞ)",
+    "lat": 41.04246,
+    "lon": 31.06409
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (ALTUNÇAY)",
+    "ad": "KÖYÜN KENDİSİ (ALTUNÇAY)",
+    "lat": 41.04441,
+    "lon": 31.27948
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (ARABACI)",
+    "ad": "KÖYÜN KENDİSİ (ARABACI)",
+    "lat": 41.05683,
+    "lon": 31.09763
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (BALATLI)",
+    "ad": "KÖYÜN KENDİSİ (BALATLI)",
+    "lat": 41.03872,
+    "lon": 31.15951
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (BEYHANLI)",
+    "ad": "KÖYÜN KENDİSİ (BEYHANLI)",
+    "lat": 41.10014,
+    "lon": 31.24474
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (ÇAYAĞZI)",
+    "ad": "KÖYÜN KENDİSİ (ÇAYAĞZI)",
+    "lat": 41.09797,
+    "lon": 31.23142
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (ÇİÇEKPINAR)",
+    "ad": "KÖYÜN KENDİSİ (ÇİÇEKPINAR)",
+    "lat": 41.0553,
+    "lon": 31.19418
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (DADALI)",
+    "ad": "KÖYÜN KENDİSİ (DADALI)",
+    "lat": 41.08105,
+    "lon": 31.21747
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (DAVUTAĞA)",
+    "ad": "KÖYÜN KENDİSİ (DAVUTAĞA)",
+    "lat": 40.97137,
+    "lon": 30.96531
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (DEREDİBİ)",
+    "ad": "KÖYÜN KENDİSİ (DEREDİBİ)",
+    "lat": 41.02871,
+    "lon": 31.18376
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (DEREKÖY)",
+    "ad": "KÖYÜN KENDİSİ (DEREKÖY)",
+    "lat": 41.01664,
+    "lon": 31.23634
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (DİLAVER)",
+    "ad": "KÖYÜN KENDİSİ (DİLAVER)",
+    "lat": 40.99568,
+    "lon": 30.96137
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (DÖNGELLİ)",
+    "ad": "KÖYÜN KENDİSİ (DÖNGELLİ)",
+    "lat": 41.0941,
+    "lon": 31.20567
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (EDİLLİ)",
+    "ad": "KÖYÜN KENDİSİ (EDİLLİ)",
+    "lat": 41.08072,
+    "lon": 31.0856
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (ESMAHANIM)",
+    "ad": "KÖYÜN KENDİSİ (ESMAHANIM)",
+    "lat": 41.01109,
+    "lon": 30.99801
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (FAKILLI)",
+    "ad": "KÖYÜN KENDİSİ (FAKILLI)",
+    "lat": 41.06321,
+    "lon": 31.17322
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (GÖKTEPE)",
+    "ad": "KÖYÜN KENDİSİ (GÖKTEPE)",
+    "lat": 41.06942,
+    "lon": 31.10173
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (HEMŞİN)",
+    "ad": "KÖYÜN KENDİSİ (HEMŞİN)",
+    "lat": 41.04662,
+    "lon": 31.02678
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (KALKIN)",
+    "ad": "KÖYÜN KENDİSİ (KALKIN)",
+    "lat": 41.06799,
+    "lon": 31.05397
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (KEPENÇ)",
+    "ad": "KÖYÜN KENDİSİ (KEPENÇ)",
+    "lat": 41.07581,
+    "lon": 31.11757
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (KINIK)",
+    "ad": "KÖYÜN KENDİSİ (KINIK)",
+    "lat": 41.05837,
+    "lon": 31.13862
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (KİRAZLI)",
+    "ad": "KÖYÜN KENDİSİ (KİRAZLI)",
+    "lat": 41.04259,
+    "lon": 31.12916
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (KOÇAR)",
+    "ad": "KÖYÜN KENDİSİ (KOÇAR)",
+    "lat": 41.04108,
+    "lon": 31.11019
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (KOÇULLU)",
+    "ad": "KÖYÜN KENDİSİ (KOÇULLU)",
+    "lat": 41.04001,
+    "lon": 31.08938
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (KURUGÖL)",
+    "ad": "KÖYÜN KENDİSİ (KURUGÖL)",
+    "lat": 41.02725,
+    "lon": 31.10892
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (KÜPLER)",
+    "ad": "KÖYÜN KENDİSİ (KÜPLER)",
+    "lat": 40.96452,
+    "lon": 30.99555
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (MELENAĞZI)",
+    "ad": "KÖYÜN KENDİSİ (MELENAĞZI)",
+    "lat": 41.07264,
+    "lon": 30.97315
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (NAZIMBEY)",
+    "ad": "KÖYÜN KENDİSİ (NAZIMBEY)",
+    "lat": 41.06215,
+    "lon": 30.99068
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (ORTANCA)",
+    "ad": "KÖYÜN KENDİSİ (ORTANCA)",
+    "lat": 41.07207,
+    "lon": 31.12419
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (PAŞALAR)",
+    "ad": "KÖYÜN KENDİSİ (PAŞALAR)",
+    "lat": 41.07437,
+    "lon": 31.02965
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (SARIYAYLA)",
+    "ad": "KÖYÜN KENDİSİ (SARIYAYLA)",
+    "lat": 41.0299,
+    "lon": 31.07306
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (SUBAŞI)",
+    "ad": "KÖYÜN KENDİSİ (SUBAŞI)",
+    "lat": 41.00921,
+    "lon": 31.21961
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (TAHİRLİ)",
+    "ad": "KÖYÜN KENDİSİ (TAHİRLİ)",
+    "lat": 41.07116,
+    "lon": 31.07045
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (TEPEKÖY)",
+    "ad": "KÖYÜN KENDİSİ (TEPEKÖY)",
+    "lat": 41.0478,
+    "lon": 31.24389
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (UĞURLU)",
+    "ad": "KÖYÜN KENDİSİ (UĞURLU)",
+    "lat": 41.04562,
+    "lon": 31.01397
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (YENİCE)",
+    "ad": "KÖYÜN KENDİSİ (YENİCE)",
+    "lat": 41.02281,
+    "lon": 31.01458
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KÖYÜN KENDİSİ (YEŞİLKÖY)",
+    "ad": "KÖYÜN KENDİSİ (YEŞİLKÖY)",
+    "lat": 41.03445,
+    "lon": 31.124
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KUMPINAR (ÇAYAĞZI)",
+    "ad": "KUMPINAR (ÇAYAĞZI)",
+    "lat": 41.09961,
+    "lon": 31.22768
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "KURUKAVAK",
+    "ad": "KURUKAVAK",
+    "lat": 40.97675,
+    "lon": 31.02993
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "MERKEZ (KARATAVUK)",
+    "ad": "MERKEZ (KARATAVUK)",
+    "lat": 41.00762,
+    "lon": 31.025
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "MÜCAVİR (AKKAYA)",
+    "ad": "MÜCAVİR (AKKAYA)",
+    "lat": 41.10352,
+    "lon": 31.25046
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "MÜCAVİR (BEYHANLI)",
+    "ad": "MÜCAVİR (BEYHANLI)",
+    "lat": 41.09794,
+    "lon": 31.23194
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "MÜCAVİR (KALKIN)",
+    "ad": "MÜCAVİR (KALKIN)",
+    "lat": 41.07644,
+    "lon": 31.05185
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "MÜCAVİR (MELENAĞZI)",
+    "ad": "MÜCAVİR (MELENAĞZI)",
+    "lat": 41.0706,
+    "lon": 31.00591
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "ORHANGAZİ",
+    "ad": "ORHANGAZİ",
+    "lat": 41.08653,
+    "lon": 31.11782
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "OSMANİYE",
+    "ad": "OSMANİYE",
+    "lat": 41.09046,
+    "lon": 31.14019
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "YALI",
+    "ad": "YALI",
+    "lat": 41.09002,
+    "lon": 31.12494
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "YALI  (BEYHANLI)",
+    "ad": "YALI (BEYHANLI)",
+    "lat": 41.08651,
+    "lon": 31.24526
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "YENİ",
+    "ad": "YENİ",
+    "lat": 41.08578,
+    "lon": 31.12591
+  },
+  {
+    "il": "Düzce",
+    "ilce": "AKÇAKOCA",
+    "mahalle": "YUKARI",
+    "ad": "YUKARI",
+    "lat": 41.08402,
+    "lon": 31.11583
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "ALİ USTA (ÇELİKDERE)",
+    "ad": "ALİ USTA (ÇELİKDERE)",
+    "lat": 40.93638,
+    "lon": 30.8959
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "ALT (ÇELİKDERE)",
+    "ad": "ALT (ÇELİKDERE)",
+    "lat": 40.92734,
+    "lon": 30.89849
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "ARİF (ÜVEZBELİ)",
+    "ad": "ARİF (ÜVEZBELİ)",
+    "lat": 40.89991,
+    "lon": 30.9175
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "CAMİ (SUBAŞI)",
+    "ad": "CAMİ (SUBAŞI)",
+    "lat": 40.91422,
+    "lon": 30.95679
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "ÇEVRİK",
+    "ad": "ÇEVRİK",
+    "lat": 40.87978,
+    "lon": 30.96609
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "DEĞİRMEN (SUBAŞI)",
+    "ad": "DEĞİRMEN (SUBAŞI)",
+    "lat": 40.91844,
+    "lon": 30.96618
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "DERE (KIZILÜZÜM)",
+    "ad": "DERE (KIZILÜZÜM)",
+    "lat": 40.9091,
+    "lon": 30.84583
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "DERE (YENİTEPE)",
+    "ad": "DERE (YENİTEPE)",
+    "lat": 40.92917,
+    "lon": 30.97713
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "ELMALIDERE (YEŞİLTEPE)",
+    "ad": "ELMALIDERE (YEŞİLTEPE)",
+    "lat": 40.92856,
+    "lon": 30.92478
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "ESKİOĞLU (YEŞİLTEPE)",
+    "ad": "ESKİOĞLU (YEŞİLTEPE)",
+    "lat": 40.93286,
+    "lon": 30.92062
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "FIRINYANI  (ORDULUKARADERE)",
+    "ad": "FIRINYANI (ORDULUKARADERE)",
+    "lat": 40.90279,
+    "lon": 30.87714
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "GÜNEY (ORDULUKARADERE)",
+    "ad": "GÜNEY (ORDULUKARADERE)",
+    "lat": 40.9181,
+    "lon": 30.89228
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "HATİPOĞLU (KIZILÜZÜM)",
+    "ad": "HATİPOĞLU (KIZILÜZÜM)",
+    "lat": 40.9042,
+    "lon": 30.86512
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "İMRİZ (HAMASCIK)",
+    "ad": "İMRİZ (HAMASCIK)",
+    "lat": 40.95921,
+    "lon": 30.94842
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "KABAÇAYIR (AVLAYAN)",
+    "ad": "KABAÇAYIR (AVLAYAN)",
+    "lat": 40.88666,
+    "lon": 30.99062
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "KAŞALTI (ÜVEZBELİ)",
+    "ad": "KAŞALTI (ÜVEZBELİ)",
+    "lat": 40.90912,
+    "lon": 30.91039
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "KERSEN DÜZÜ (ÜVEZBELİ)",
+    "ad": "KERSEN DÜZÜ (ÜVEZBELİ)",
+    "lat": 40.92897,
+    "lon": 30.92833
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "KIRAN (ÇELİKDERE)",
+    "ad": "KIRAN (ÇELİKDERE)",
+    "lat": 40.93393,
+    "lon": 30.89687
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "KIRAN (ÜVEZBELİ)",
+    "ad": "KIRAN (ÜVEZBELİ)",
+    "lat": 40.90063,
+    "lon": 30.91652
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "KIRAN (YEŞİLTEPE)",
+    "ad": "KIRAN (YEŞİLTEPE)",
+    "lat": 40.94885,
+    "lon": 30.91874
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "KORAZOĞLU (DOKUZDEĞİRMEN)",
+    "ad": "KORAZOĞLU (DOKUZDEĞİRMEN)",
+    "lat": 40.92656,
+    "lon": 30.93676
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "KOZLAR (AVLAYAN)",
+    "ad": "KOZLAR (AVLAYAN)",
+    "lat": 40.88584,
+    "lon": 30.97881
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "KÖYÜN KENDİSİ (AKPINAR)",
+    "ad": "KÖYÜN KENDİSİ (AKPINAR)",
+    "lat": 40.9436,
+    "lon": 30.97311
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "KÖYÜN KENDİSİ (ÇAMLIPINAR)",
+    "ad": "KÖYÜN KENDİSİ (ÇAMLIPINAR)",
+    "lat": 40.91735,
+    "lon": 30.93335
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "KÖYÜN KENDİSİ (ESENTEPE)",
+    "ad": "KÖYÜN KENDİSİ (ESENTEPE)",
+    "lat": 40.95046,
+    "lon": 30.92394
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "KÖYÜN KENDİSİ (HARMANKAYA)",
+    "ad": "KÖYÜN KENDİSİ (HARMANKAYA)",
+    "lat": 40.95883,
+    "lon": 30.9326
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "KÖYÜN KENDİSİ (IĞDIR)",
+    "ad": "KÖYÜN KENDİSİ (IĞDIR)",
+    "lat": 40.91459,
+    "lon": 30.94272
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "KÖYÜN KENDİSİ (MISIRLIK)",
+    "ad": "KÖYÜN KENDİSİ (MISIRLIK)",
+    "lat": 40.94721,
+    "lon": 30.98624
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "KÖYÜN KENDİSİ (ÖREN)",
+    "ad": "KÖYÜN KENDİSİ (ÖREN)",
+    "lat": 40.88286,
+    "lon": 30.92159
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "KÖYÜN KENDİSİ (TAŞLIK)",
+    "ad": "KÖYÜN KENDİSİ (TAŞLIK)",
+    "lat": 40.89261,
+    "lon": 30.90512
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "KÖYÜN KENDİSİ (YUKARIAVLAYAN)",
+    "ad": "KÖYÜN KENDİSİ (YUKARIAVLAYAN)",
+    "lat": 40.89286,
+    "lon": 30.97385
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "KURU ALİ (KIZILÜZÜM)",
+    "ad": "KURU ALİ (KIZILÜZÜM)",
+    "lat": 40.92047,
+    "lon": 30.87193
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "KUZ (ORDULUKARADERE)",
+    "ad": "KUZ (ORDULUKARADERE)",
+    "lat": 40.90119,
+    "lon": 30.8915
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "KÜREKLİK (ÜVEZBELİ)",
+    "ad": "KÜREKLİK (ÜVEZBELİ)",
+    "lat": 40.90851,
+    "lon": 30.89713
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "MEHMET AKİF",
+    "ad": "MEHMET AKİF",
+    "lat": 40.8825,
+    "lon": 30.9435
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "MERKEZ (AVLAYAN)",
+    "ad": "MERKEZ (AVLAYAN)",
+    "lat": 40.90707,
+    "lon": 30.99781
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "MERKEZ (BÜYÜKMELEN)",
+    "ad": "MERKEZ (BÜYÜKMELEN)",
+    "lat": 40.96355,
+    "lon": 30.94334
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "MERKEZ (ÇELİKDERE)",
+    "ad": "MERKEZ (ÇELİKDERE)",
+    "lat": 40.92853,
+    "lon": 30.88846
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "MERKEZ (DOKUZDEĞİRMEN)",
+    "ad": "MERKEZ (DOKUZDEĞİRMEN)",
+    "lat": 40.92302,
+    "lon": 30.95639
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "MERKEZ (HAMASCIK)",
+    "ad": "MERKEZ (HAMASCIK)",
+    "lat": 40.94452,
+    "lon": 30.96503
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "MERKEZ (KIZILÜZÜM)",
+    "ad": "MERKEZ (KIZILÜZÜM)",
+    "lat": 40.91807,
+    "lon": 30.82363
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "MERKEZ (ORDULUKARADERE)",
+    "ad": "MERKEZ (ORDULUKARADERE)",
+    "lat": 40.90011,
+    "lon": 30.87902
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "MERKEZ (SIRTPINAR)",
+    "ad": "MERKEZ (SIRTPINAR)",
+    "lat": 40.89819,
+    "lon": 30.94142
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "MERKEZ (ÜVEZBELİ)",
+    "ad": "MERKEZ (ÜVEZBELİ)",
+    "lat": 40.89917,
+    "lon": 30.90222
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "MERKEZ (YENİTEPE)",
+    "ad": "MERKEZ (YENİTEPE)",
+    "lat": 40.92633,
+    "lon": 30.97408
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "OKUL (ORDULUKARADERE)",
+    "ad": "OKUL (ORDULUKARADERE)",
+    "lat": 40.91552,
+    "lon": 30.88203
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "ORTA",
+    "ad": "ORTA",
+    "lat": 40.87441,
+    "lon": 30.94671
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "ORTA (YEŞİLTEPE)",
+    "ad": "ORTA (YEŞİLTEPE)",
+    "lat": 40.93793,
+    "lon": 30.9138
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "OSMANCIK (AVLAYAN)",
+    "ad": "OSMANCIK (AVLAYAN)",
+    "lat": 40.88396,
+    "lon": 30.98453
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "ÖRENİÇİ (ÇELİKDERE)",
+    "ad": "ÖRENİÇİ (ÇELİKDERE)",
+    "lat": 40.92229,
+    "lon": 30.88442
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "ÖREN (SIRTPINAR)",
+    "ad": "ÖREN (SIRTPINAR)",
+    "lat": 40.87933,
+    "lon": 30.93452
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "SIVAZOĞLU (ÜVEZBELİ)",
+    "ad": "SIVAZOĞLU (ÜVEZBELİ)",
+    "lat": 40.90129,
+    "lon": 30.9161
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "SÜLEYMAN HANCI (BÜYÜKMELEN)",
+    "ad": "SÜLEYMAN HANCI (BÜYÜKMELEN)",
+    "lat": 40.96853,
+    "lon": 30.9428
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "ŞAKİR (ORDULUKARADERE)",
+    "ad": "ŞAKİR (ORDULUKARADERE)",
+    "lat": 40.90633,
+    "lon": 30.8945
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "TOMAS (HAMASCIK)",
+    "ad": "TOMAS (HAMASCIK)",
+    "lat": 40.94793,
+    "lon": 30.95497
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "YAKA",
+    "ad": "YAKA",
+    "lat": 40.89231,
+    "lon": 30.95923
+  },
+  {
+    "il": "Düzce",
+    "ilce": "CUMAYERİ",
+    "mahalle": "YENİ",
+    "ad": "YENİ",
+    "lat": 40.87976,
+    "lon": 30.96502
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "ALİMLER (PIRPIR)",
+    "ad": "ALİMLER (PIRPIR)",
+    "lat": 40.87535,
+    "lon": 31.02709
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "ARABACI",
+    "ad": "ARABACI",
+    "lat": 40.86535,
+    "lon": 31.04133
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "ÇAKALLAR (PIRPIR)",
+    "ad": "ÇAKALLAR (PIRPIR)",
+    "lat": 40.86677,
+    "lon": 31.02435
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "ÇİLİMLİ OSB (SÖĞÜTLÜ)",
+    "ad": "ÇİLİMLİ OSB (SÖĞÜTLÜ)",
+    "lat": 40.88326,
+    "lon": 31.0656
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "DİKMELİ MÜCAVİR (DİKMELİ)",
+    "ad": "DİKMELİ MÜCAVİR (DİKMELİ)",
+    "lat": 40.85603,
+    "lon": 31.07339
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "GÜLEBELER (DİKMELİ)",
+    "ad": "GÜLEBELER (DİKMELİ)",
+    "lat": 40.86787,
+    "lon": 31.07643
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "KANAL (PIRPIR)",
+    "ad": "KANAL (PIRPIR)",
+    "lat": 40.85964,
+    "lon": 31.03251
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "KAVAKLIK (KIRKHARMAN)",
+    "ad": "KAVAKLIK (KIRKHARMAN)",
+    "lat": 40.94933,
+    "lon": 30.98657
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "KOCAVELİLER (PIRPIR)",
+    "ad": "KOCAVELİLER (PIRPIR)",
+    "lat": 40.87098,
+    "lon": 31.02036
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "KÖYÜN KENDİSİ (BIÇKIBAŞI)",
+    "ad": "KÖYÜN KENDİSİ (BIÇKIBAŞI)",
+    "lat": 40.93889,
+    "lon": 31.07605
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "KÖYÜN KENDİSİ (ÇALILIK)",
+    "ad": "KÖYÜN KENDİSİ (ÇALILIK)",
+    "lat": 40.89259,
+    "lon": 31.09726
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "KÖYÜN KENDİSİ (DÖNGELLİ)",
+    "ad": "KÖYÜN KENDİSİ (DÖNGELLİ)",
+    "lat": 40.85438,
+    "lon": 31.0299
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "KÖYÜN KENDİSİ (ESENLİ)",
+    "ad": "KÖYÜN KENDİSİ (ESENLİ)",
+    "lat": 40.88722,
+    "lon": 31.11269
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "KÖYÜN KENDİSİ (HIZARDERE)",
+    "ad": "KÖYÜN KENDİSİ (HIZARDERE)",
+    "lat": 40.93709,
+    "lon": 31.06426
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "KÖYÜN KENDİSİ (İSHAKLAR)",
+    "ad": "KÖYÜN KENDİSİ (İSHAKLAR)",
+    "lat": 40.87798,
+    "lon": 31.09675
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "KÖYÜN KENDİSİ (KAFYAYLA)",
+    "ad": "KÖYÜN KENDİSİ (KAFYAYLA)",
+    "lat": 40.92365,
+    "lon": 31.10187
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "KÖYÜN KENDİSİ (KARAÇÖRTLEN)",
+    "ad": "KÖYÜN KENDİSİ (KARAÇÖRTLEN)",
+    "lat": 40.9298,
+    "lon": 31.00618
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "KÖYÜN KENDİSİ (KİRAZTARLA)",
+    "ad": "KÖYÜN KENDİSİ (KİRAZTARLA)",
+    "lat": 40.88967,
+    "lon": 31.08798
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "KÖYÜN KENDİSİ (KUŞOĞLU)",
+    "ad": "KÖYÜN KENDİSİ (KUŞOĞLU)",
+    "lat": 40.88116,
+    "lon": 31.08862
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "KÖYÜN KENDİSİ (SARIMEŞE)",
+    "ad": "KÖYÜN KENDİSİ (SARIMEŞE)",
+    "lat": 40.91171,
+    "lon": 31.07334
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "KÖYÜN KENDİSİ (TEPEKÖY)",
+    "ad": "KÖYÜN KENDİSİ (TEPEKÖY)",
+    "lat": 40.88901,
+    "lon": 31.02528
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "KÖYÜN KENDİSİ (YENİKÖY)",
+    "ad": "KÖYÜN KENDİSİ (YENİKÖY)",
+    "lat": 40.88656,
+    "lon": 30.9963
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "KÖYÜN KENDİSİ (YUKARIKARAKÖY)",
+    "ad": "KÖYÜN KENDİSİ (YUKARIKARAKÖY)",
+    "lat": 40.90084,
+    "lon": 31.0044
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "KÜLTÜR (PIRPIR)",
+    "ad": "KÜLTÜR (PIRPIR)",
+    "lat": 40.86621,
+    "lon": 31.02815
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "MAHİRAĞA",
+    "ad": "MAHİRAĞA",
+    "lat": 40.8826,
+    "lon": 31.05428
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "MERKEZ (ALACAMESCİT)",
+    "ad": "MERKEZ (ALACAMESCİT)",
+    "lat": 40.86767,
+    "lon": 31.1018
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "MERKEZ (DİKMELİ)",
+    "ad": "MERKEZ (DİKMELİ)",
+    "lat": 40.85991,
+    "lon": 31.07739
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "MERKEZ (KIRKHARMAN)",
+    "ad": "MERKEZ (KIRKHARMAN)",
+    "lat": 40.94061,
+    "lon": 31.00019
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "MERKEZ (YENİVAKIF)",
+    "ad": "MERKEZ (YENİVAKIF)",
+    "lat": 40.90894,
+    "lon": 31.08963
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "ORMAN (ALACAMESCİT)",
+    "ad": "ORMAN (ALACAMESCİT)",
+    "lat": 40.86167,
+    "lon": 31.09202
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "ORMAN MÜCAVİR (ALACAMESCİT)",
+    "ad": "ORMAN MÜCAVİR (ALACAMESCİT)",
+    "lat": 40.85653,
+    "lon": 31.09088
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "ORTA (PIRPIR)",
+    "ad": "ORTA (PIRPIR)",
+    "lat": 40.87291,
+    "lon": 31.02974
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "ÖMERCİKLER (PIRPIR)",
+    "ad": "ÖMERCİKLER (PIRPIR)",
+    "lat": 40.87282,
+    "lon": 31.03847
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "ŞEREFİYE",
+    "ad": "ŞEREFİYE",
+    "lat": 40.88952,
+    "lon": 31.04275
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "TOPÇULAR",
+    "ad": "TOPÇULAR",
+    "lat": 40.87517,
+    "lon": 31.04956
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "ULUCAMİ",
+    "ad": "ULUCAMİ",
+    "lat": 40.89826,
+    "lon": 31.0427
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "YENİ  (YENİVAKIF)",
+    "ad": "YENİ (YENİVAKIF)",
+    "lat": 40.89766,
+    "lon": 31.10074
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "YEŞİL",
+    "ad": "YEŞİL",
+    "lat": 40.91606,
+    "lon": 31.06795
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "YEŞİLTEPE",
+    "ad": "YEŞİLTEPE",
+    "lat": 40.92575,
+    "lon": 31.04367
+  },
+  {
+    "il": "Düzce",
+    "ilce": "ÇİLİMLİ",
+    "mahalle": "YUKARIKÖY (KIRKHARMAN)",
+    "ad": "YUKARIKÖY (KIRKHARMAN)",
+    "lat": 40.95378,
+    "lon": 30.99655
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "AÇMA",
+    "ad": "AÇMA",
+    "lat": 40.77347,
+    "lon": 31.03728
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "ALBAYRAK (SAÇMALIPINAR)",
+    "ad": "ALBAYRAK (SAÇMALIPINAR)",
+    "lat": 40.74475,
+    "lon": 30.95412
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "ALT (BEKİROĞLU)",
+    "ad": "ALT (BEKİROĞLU)",
+    "lat": 40.76039,
+    "lon": 30.91738
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "BALKAYA (SAÇMALIPINAR)",
+    "ad": "BALKAYA (SAÇMALIPINAR)",
+    "lat": 40.71083,
+    "lon": 30.94311
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "BIÇKI (SAÇMALIPINAR)",
+    "ad": "BIÇKI (SAÇMALIPINAR)",
+    "lat": 40.75277,
+    "lon": 30.95056
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "CEVİZLİK (HAMAMÜSTÜ)",
+    "ad": "CEVİZLİK (HAMAMÜSTÜ)",
+    "lat": 40.75622,
+    "lon": 31.05381
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "CİNO (YUNUSEFENDİ)",
+    "ad": "CİNO (YUNUSEFENDİ)",
+    "lat": 40.75668,
+    "lon": 31.00406
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "CUMAKIRI",
+    "ad": "CUMAKIRI",
+    "lat": 40.77853,
+    "lon": 30.97679
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "DELİHÜSEYİN (DEĞİRMENTEPE)",
+    "ad": "DELİHÜSEYİN (DEĞİRMENTEPE)",
+    "lat": 40.75081,
+    "lon": 30.89866
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "DELİ MEHMET  (GÜZELDERE)",
+    "ad": "DELİ MEHMET (GÜZELDERE)",
+    "lat": 40.72427,
+    "lon": 31.04373
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "DERE  (ÇAMLIBEL)",
+    "ad": "DERE (ÇAMLIBEL)",
+    "lat": 40.7361,
+    "lon": 31.02748
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "DERE (HAMAMÜSTÜ)",
+    "ad": "DERE (HAMAMÜSTÜ)",
+    "lat": 40.75399,
+    "lon": 31.05541
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "DURSUNLU (DEĞİRMENTEPE)",
+    "ad": "DURSUNLU (DEĞİRMENTEPE)",
+    "lat": 40.75711,
+    "lon": 30.90842
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "ESEN",
+    "ad": "ESEN",
+    "lat": 40.80151,
+    "lon": 31.0119
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "FATİH",
+    "ad": "FATİH",
+    "lat": 40.78414,
+    "lon": 31.02895
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "GÖLCÜK (HAMAMÜSTÜ)",
+    "ad": "GÖLCÜK (HAMAMÜSTÜ)",
+    "lat": 40.7409,
+    "lon": 31.04077
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "GÜNEY (SAÇMALIPINAR)",
+    "ad": "GÜNEY (SAÇMALIPINAR)",
+    "lat": 40.72548,
+    "lon": 30.92085
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "HACIOĞLU (BEKİROĞLU)",
+    "ad": "HACIOĞLU (BEKİROĞLU)",
+    "lat": 40.77049,
+    "lon": 30.90809
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "İMAMLAR",
+    "ad": "İMAMLAR",
+    "lat": 40.79103,
+    "lon": 31.02624
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "KARACA (ÇAMLIBEL)",
+    "ad": "KARACA (ÇAMLIBEL)",
+    "lat": 40.74858,
+    "lon": 31.0287
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "KARAMAHMUT (SAÇMALIPINAR)",
+    "ad": "KARAMAHMUT (SAÇMALIPINAR)",
+    "lat": 40.75034,
+    "lon": 30.91991
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "KIRAN (SAÇMALIPINAR)",
+    "ad": "KIRAN (SAÇMALIPINAR)",
+    "lat": 40.74357,
+    "lon": 30.92841
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "KIZILCIK (DEĞİRMENTEPE)",
+    "ad": "KIZILCIK (DEĞİRMENTEPE)",
+    "lat": 40.75552,
+    "lon": 30.90829
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "KÖYÜN KENDİSİ (AÇMA)",
+    "ad": "KÖYÜN KENDİSİ (AÇMA)",
+    "lat": 40.76372,
+    "lon": 31.00014
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "KÖYÜN KENDİSİ (AKSU)",
+    "ad": "KÖYÜN KENDİSİ (AKSU)",
+    "lat": 40.76491,
+    "lon": 30.9607
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "KÖYÜN KENDİSİ (BAKACAK)",
+    "ad": "KÖYÜN KENDİSİ (BAKACAK)",
+    "lat": 40.75271,
+    "lon": 30.96417
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "KÖYÜN KENDİSİ (ÇAY)",
+    "ad": "KÖYÜN KENDİSİ (ÇAY)",
+    "lat": 40.76102,
+    "lon": 30.94928
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "KÖYÜN KENDİSİ (GÜZELDERE)",
+    "ad": "KÖYÜN KENDİSİ (GÜZELDERE)",
+    "lat": 40.73573,
+    "lon": 31.04277
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "KÖYÜN KENDİSİ (HACISÜLEYMANBEY)",
+    "ad": "KÖYÜN KENDİSİ (HACISÜLEYMANBEY)",
+    "lat": 40.77372,
+    "lon": 30.96077
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "KÖYÜN KENDİSİ (HACIYAKUP)",
+    "ad": "KÖYÜN KENDİSİ (HACIYAKUP)",
+    "lat": 40.77126,
+    "lon": 31.02753
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "KÖYÜN KENDİSİ (İÇMELER)",
+    "ad": "KÖYÜN KENDİSİ (İÇMELER)",
+    "lat": 40.81888,
+    "lon": 31.02585
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "KÖYÜN KENDİSİ (KEMERYANI)",
+    "ad": "KÖYÜN KENDİSİ (KEMERYANI)",
+    "lat": 40.83261,
+    "lon": 31.01149
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "KÖYÜN KENDİSİ (MUHAPDEDE)",
+    "ad": "KÖYÜN KENDİSİ (MUHAPDEDE)",
+    "lat": 40.76412,
+    "lon": 30.89707
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "KÖYÜN KENDİSİ (SARIDERE)",
+    "ad": "KÖYÜN KENDİSİ (SARIDERE)",
+    "lat": 40.83543,
+    "lon": 31.00265
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "KÖYÜN KENDİSİ (TAŞLIK)",
+    "ad": "KÖYÜN KENDİSİ (TAŞLIK)",
+    "lat": 40.76275,
+    "lon": 30.9958
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "KÖYÜN KENDİSİ (YAZLIK)",
+    "ad": "KÖYÜN KENDİSİ (YAZLIK)",
+    "lat": 40.79428,
+    "lon": 30.95598
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "KÖYÜN KENDİSİ (YEŞİLOVA)",
+    "ad": "KÖYÜN KENDİSİ (YEŞİLOVA)",
+    "lat": 40.78058,
+    "lon": 30.96241
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "KÖYÜN KENDİSİ (ZEKERİYA)",
+    "ad": "KÖYÜN KENDİSİ (ZEKERİYA)",
+    "lat": 40.78893,
+    "lon": 30.93673
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "KUM  (BEKİROĞLU)",
+    "ad": "KUM (BEKİROĞLU)",
+    "lat": 40.77387,
+    "lon": 30.92477
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "KURTDÜZÜ (SAÇMALIPINAR)",
+    "ad": "KURTDÜZÜ (SAÇMALIPINAR)",
+    "lat": 40.74641,
+    "lon": 30.96296
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "KUYUDÜZÜ",
+    "ad": "KUYUDÜZÜ",
+    "lat": 40.80958,
+    "lon": 30.97982
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "KÜLTÜR",
+    "ad": "KÜLTÜR",
+    "lat": 40.77945,
+    "lon": 30.99528
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "MERKEZ (BEKİROĞLU)",
+    "ad": "MERKEZ (BEKİROĞLU)",
+    "lat": 40.77097,
+    "lon": 30.92046
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "MERKEZ (ÇAMLIBEL)",
+    "ad": "MERKEZ (ÇAMLIBEL)",
+    "lat": 40.73501,
+    "lon": 31.02753
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "MERKEZ (DEĞİRMENTEPE)",
+    "ad": "MERKEZ (DEĞİRMENTEPE)",
+    "lat": 40.75337,
+    "lon": 30.91227
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "MERKEZ (HAMAMÜSTÜ)",
+    "ad": "MERKEZ (HAMAMÜSTÜ)",
+    "lat": 40.75728,
+    "lon": 31.03704
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "MERKEZ (YUNUSEFENDİ)",
+    "ad": "MERKEZ (YUNUSEFENDİ)",
+    "lat": 40.75964,
+    "lon": 31.02659
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "ORTA (HAMAMÜSTÜ)",
+    "ad": "ORTA (HAMAMÜSTÜ)",
+    "lat": 40.75976,
+    "lon": 31.0338
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "ORTA (SAÇMALIPINAR)",
+    "ad": "ORTA (SAÇMALIPINAR)",
+    "lat": 40.73611,
+    "lon": 30.95278
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "ŞİMŞİRLİTEPE (SAÇMALIPINAR)",
+    "ad": "ŞİMŞİRLİTEPE (SAÇMALIPINAR)",
+    "lat": 40.73837,
+    "lon": 30.96847
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "YANIK 1 (SAÇMALIPINAR)",
+    "ad": "YANIK 1 (SAÇMALIPINAR)",
+    "lat": 40.72515,
+    "lon": 30.94268
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "YANIK 2 (SAÇMALIPINAR)",
+    "ad": "YANIK 2 (SAÇMALIPINAR)",
+    "lat": 40.71372,
+    "lon": 30.97167
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "YAZIPINAR",
+    "ad": "YAZIPINAR",
+    "lat": 40.80979,
+    "lon": 31.0058
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "YAZLIK (MÜCAVİR) (YAZLIK)",
+    "ad": "YAZLIK (MÜCAVİR) (YAZLIK)",
+    "lat": 40.78279,
+    "lon": 30.97677
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "YENİ",
+    "ad": "YENİ",
+    "lat": 40.78316,
+    "lon": 30.99454
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "YENİ (SAÇMALIPINAR)",
+    "ad": "YENİ (SAÇMALIPINAR)",
+    "lat": 40.72431,
+    "lon": 30.95764
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÖLYAKA",
+    "mahalle": "YEŞİL",
+    "ad": "YEŞİL",
+    "lat": 40.77766,
+    "lon": 30.98704
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÜMÜŞOVA",
+    "mahalle": "ADAKÖYÜ (ADAKÖY)",
+    "ad": "ADAKÖYÜ (ADAKÖY)",
+    "lat": 40.85884,
+    "lon": 31.00118
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÜMÜŞOVA",
+    "mahalle": "ÇAYBÜKÜ",
+    "ad": "ÇAYBÜKÜ",
+    "lat": 40.85764,
+    "lon": 30.9806
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÜMÜŞOVA",
+    "mahalle": "FATİH",
+    "ad": "FATİH",
+    "lat": 40.86397,
+    "lon": 30.95878
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÜMÜŞOVA",
+    "mahalle": "HACIKADİRLER",
+    "ad": "HACIKADİRLER",
+    "lat": 40.85589,
+    "lon": 31.00394
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÜMÜŞOVA",
+    "mahalle": "HACILAR",
+    "ad": "HACILAR",
+    "lat": 40.86254,
+    "lon": 30.92866
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÜMÜŞOVA",
+    "mahalle": "KAHVELERYANI",
+    "ad": "KAHVELERYANI",
+    "lat": 40.85476,
+    "lon": 31.00862
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÜMÜŞOVA",
+    "mahalle": "KIŞLA",
+    "ad": "KIŞLA",
+    "lat": 40.86404,
+    "lon": 30.93195
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÜMÜŞOVA",
+    "mahalle": "KÖYÜN KENDİSİ (ADAKÖY)",
+    "ad": "KÖYÜN KENDİSİ (ADAKÖY)",
+    "lat": 40.86483,
+    "lon": 30.99061
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÜMÜŞOVA",
+    "mahalle": "KÖYÜN KENDİSİ (ARDIÇDİBİ)",
+    "ad": "KÖYÜN KENDİSİ (ARDIÇDİBİ)",
+    "lat": 40.82517,
+    "lon": 30.94051
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÜMÜŞOVA",
+    "mahalle": "KÖYÜN KENDİSİ (ÇAYBÜKÜ)",
+    "ad": "KÖYÜN KENDİSİ (ÇAYBÜKÜ)",
+    "lat": 40.86654,
+    "lon": 30.98526
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÜMÜŞOVA",
+    "mahalle": "KÖYÜN KENDİSİ (DEDEDÜZÜ)",
+    "ad": "KÖYÜN KENDİSİ (DEDEDÜZÜ)",
+    "lat": 40.89884,
+    "lon": 30.86706
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÜMÜŞOVA",
+    "mahalle": "KÖYÜN KENDİSİ (DEREKÖY)",
+    "ad": "KÖYÜN KENDİSİ (DEREKÖY)",
+    "lat": 40.81629,
+    "lon": 30.92714
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÜMÜŞOVA",
+    "mahalle": "KÖYÜN KENDİSİ (ELMACIK)",
+    "ad": "KÖYÜN KENDİSİ (ELMACIK)",
+    "lat": 40.84177,
+    "lon": 30.97814
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÜMÜŞOVA",
+    "mahalle": "KÖYÜN KENDİSİ (HALİLBEY)",
+    "ad": "KÖYÜN KENDİSİ (HALİLBEY)",
+    "lat": 40.85375,
+    "lon": 30.92084
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÜMÜŞOVA",
+    "mahalle": "KÖYÜN KENDİSİ (KAHVELERYANI)",
+    "ad": "KÖYÜN KENDİSİ (KAHVELERYANI)",
+    "lat": 40.86314,
+    "lon": 31.01094
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÜMÜŞOVA",
+    "mahalle": "KÖYÜN KENDİSİ (KIYIKÖY)",
+    "ad": "KÖYÜN KENDİSİ (KIYIKÖY)",
+    "lat": 40.87956,
+    "lon": 30.89522
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÜMÜŞOVA",
+    "mahalle": "KÖYÜN KENDİSİ (PAZARCIK)",
+    "ad": "KÖYÜN KENDİSİ (PAZARCIK)",
+    "lat": 40.91162,
+    "lon": 30.8222
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÜMÜŞOVA",
+    "mahalle": "KÖYÜN KENDİSİ (SOĞUKSU)",
+    "ad": "KÖYÜN KENDİSİ (SOĞUKSU)",
+    "lat": 40.86655,
+    "lon": 30.8778
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÜMÜŞOVA",
+    "mahalle": "KÖYÜN KENDİSİ (SULTANİYE)",
+    "ad": "KÖYÜN KENDİSİ (SULTANİYE)",
+    "lat": 40.85075,
+    "lon": 30.99753
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÜMÜŞOVA",
+    "mahalle": "KÖYÜN KENDİSİ (YAKABAŞI)",
+    "ad": "KÖYÜN KENDİSİ (YAKABAŞI)",
+    "lat": 40.85387,
+    "lon": 30.98596
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÜMÜŞOVA",
+    "mahalle": "KÖYÜN KENDİSİ (YEŞİLYAYLA)",
+    "ad": "KÖYÜN KENDİSİ (YEŞİLYAYLA)",
+    "lat": 40.82553,
+    "lon": 30.89537
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÜMÜŞOVA",
+    "mahalle": "KÖYÜN KENDİSİ (YILDIZTEPE)",
+    "ad": "KÖYÜN KENDİSİ (YILDIZTEPE)",
+    "lat": 40.83762,
+    "lon": 30.95562
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÜMÜŞOVA",
+    "mahalle": "KÖYÜN KENDİSİ (YONGALIK)",
+    "ad": "KÖYÜN KENDİSİ (YONGALIK)",
+    "lat": 40.82938,
+    "lon": 30.94216
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÜMÜŞOVA",
+    "mahalle": "KÜLTÜR",
+    "ad": "KÜLTÜR",
+    "lat": 40.85419,
+    "lon": 30.94201
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÜMÜŞOVA",
+    "mahalle": "MERKEZ",
+    "ad": "MERKEZ",
+    "lat": 40.84721,
+    "lon": 30.94703
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÜMÜŞOVA",
+    "mahalle": "SELAMLAR",
+    "ad": "SELAMLAR",
+    "lat": 40.86091,
+    "lon": 30.96376
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÜMÜŞOVA",
+    "mahalle": "YAKABAŞI",
+    "ad": "YAKABAŞI",
+    "lat": 40.85389,
+    "lon": 30.98655
+  },
+  {
+    "il": "Düzce",
+    "ilce": "GÜMÜŞOVA",
+    "mahalle": "YENİ",
+    "ad": "YENİ",
+    "lat": 40.84902,
+    "lon": 30.932
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "28 EVLER (DARIYERİ YÖRÜKLER)",
+    "ad": "28 EVLER (DARIYERİ YÖRÜKLER)",
+    "lat": 40.81719,
+    "lon": 31.27018
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "ALT (ÇATALÇAM)",
+    "ad": "ALT (ÇATALÇAM)",
+    "lat": 40.71193,
+    "lon": 31.29508
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "ALT (HACIAZİZLER)",
+    "ad": "ALT (HACIAZİZLER)",
+    "lat": 40.71156,
+    "lon": 31.33452
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "BAŞYAZICIOĞLU DAĞ EVLERİ (DARIYERİBAKACAK)",
+    "ad": "BAŞYAZICIOĞLU DAĞ EVLERİ (DARIYERİBAKACAK)",
+    "lat": 40.74814,
+    "lon": 31.37434
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "BEKTAŞLI (BIÇKIYANI)",
+    "ad": "BEKTAŞLI (BIÇKIYANI)",
+    "lat": 40.71645,
+    "lon": 31.35472
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "BÜLBÜLDERE (ÇAMOLUK)",
+    "ad": "BÜLBÜLDERE (ÇAMOLUK)",
+    "lat": 40.74382,
+    "lon": 31.28606
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "ÇAMLIK (ÇATALÇAM)",
+    "ad": "ÇAMLIK (ÇATALÇAM)",
+    "lat": 40.70672,
+    "lon": 31.2959
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "ÇAYKARA (YEŞİLTEPE)",
+    "ad": "ÇAYKARA (YEŞİLTEPE)",
+    "lat": 40.75231,
+    "lon": 31.36756
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "ÇELE",
+    "ad": "ÇELE",
+    "lat": 40.77728,
+    "lon": 31.2957
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "ÇİLLİOĞLU (SARIÇÖKEK)",
+    "ad": "ÇİLLİOĞLU (SARIÇÖKEK)",
+    "lat": 40.77979,
+    "lon": 31.32834
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "ÇİMENLİKORULUK (TAVAK)",
+    "ad": "ÇİMENLİKORULUK (TAVAK)",
+    "lat": 40.73459,
+    "lon": 31.30729
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "D-100 BOLUDAĞI KARAYOLU (DARIYERİBAKACAK)",
+    "ad": "D-100 BOLUDAĞI KARAYOLU (DARIYERİBAKACAK)",
+    "lat": 40.75297,
+    "lon": 31.37838
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "D-100 KARAYOLU (DARIYERİHASANBEY)",
+    "ad": "D-100 KARAYOLU (DARIYERİHASANBEY)",
+    "lat": 40.77196,
+    "lon": 31.33999
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "DEGİRMENYANI (SARIÇÖKEK)",
+    "ad": "DEGİRMENYANI (SARIÇÖKEK)",
+    "lat": 40.81813,
+    "lon": 31.32762
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "DEREBOYU (DARIYERİHASANBEY)",
+    "ad": "DEREBOYU (DARIYERİHASANBEY)",
+    "lat": 40.77606,
+    "lon": 31.34289
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "DERE (ÇAMLICA)",
+    "ad": "DERE (ÇAMLICA)",
+    "lat": 40.73165,
+    "lon": 31.34989
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "DERE (DİPSİZGÖL)",
+    "ad": "DERE (DİPSİZGÖL)",
+    "lat": 40.72948,
+    "lon": 31.35913
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "DİP (DARIYERİHASANBEY)",
+    "ad": "DİP (DARIYERİHASANBEY)",
+    "lat": 40.79717,
+    "lon": 31.3912
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "DOĞANTEPE (DİPSİZGÖL)",
+    "ad": "DOĞANTEPE (DİPSİZGÖL)",
+    "lat": 40.73035,
+    "lon": 31.36823
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "DÜZGÖSTEK (YENİYURT)",
+    "ad": "DÜZGÖSTEK (YENİYURT)",
+    "lat": 40.6873,
+    "lon": 31.30681
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "DÜZORMANI (SARIÇÖKEK)",
+    "ad": "DÜZORMANI (SARIÇÖKEK)",
+    "lat": 40.80889,
+    "lon": 31.31336
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "ELMALI (DARIYERİHASANBEY)",
+    "ad": "ELMALI (DARIYERİHASANBEY)",
+    "lat": 40.77686,
+    "lon": 31.33611
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "ESKİKÖY",
+    "ad": "ESKİKÖY",
+    "lat": 40.75458,
+    "lon": 31.33476
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "FATİH (ÜÇKÖPRÜ)",
+    "ad": "FATİH (ÜÇKÖPRÜ)",
+    "lat": 40.79535,
+    "lon": 31.24108
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "FENERBAHÇE (ÜÇKÖPRÜ)",
+    "ad": "FENERBAHÇE (ÜÇKÖPRÜ)",
+    "lat": 40.78869,
+    "lon": 31.26514
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "FINDIKLI (ÇATALÇAM)",
+    "ad": "FINDIKLI (ÇATALÇAM)",
+    "lat": 40.72479,
+    "lon": 31.30337
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "GÜLDERE (DARIYERİHASANBEY)",
+    "ad": "GÜLDERE (DARIYERİHASANBEY)",
+    "lat": 40.77082,
+    "lon": 31.34082
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "GÜNEY (SAZKÖY)",
+    "ad": "GÜNEY (SAZKÖY)",
+    "lat": 40.73429,
+    "lon": 31.2672
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "HACIMEHMET (DARIYERİMENGENCİK)",
+    "ad": "HACIMEHMET (DARIYERİMENGENCİK)",
+    "lat": 40.7891,
+    "lon": 31.24504
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "HAMZALI (BIÇKIYANI)",
+    "ad": "HAMZALI (BIÇKIYANI)",
+    "lat": 40.71189,
+    "lon": 31.37157
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "HENDANOĞLU (DARIYERİHASANBEY)",
+    "ad": "HENDANOĞLU (DARIYERİHASANBEY)",
+    "lat": 40.75706,
+    "lon": 31.35139
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "İKİZLER (ALTUNKÖY)",
+    "ad": "İKİZLER (ALTUNKÖY)",
+    "lat": 40.70666,
+    "lon": 31.33252
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "İLHANLI (YENİYURT)",
+    "ad": "İLHANLI (YENİYURT)",
+    "lat": 40.69278,
+    "lon": 31.30621
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "KAHVECİ (DARIYERİMENGENCİK)",
+    "ad": "KAHVECİ (DARIYERİMENGENCİK)",
+    "lat": 40.77492,
+    "lon": 31.2364
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "KARAÇALI",
+    "ad": "KARAÇALI",
+    "lat": 40.78086,
+    "lon": 31.29308
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "KARŞI (YENİYURT)",
+    "ad": "KARŞI (YENİYURT)",
+    "lat": 40.70058,
+    "lon": 31.31706
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "KOYTAKLI (ÇAMLICA)",
+    "ad": "KOYTAKLI (ÇAMLICA)",
+    "lat": 40.72185,
+    "lon": 31.35476
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "KÖYÜN KENDİSİ (ÇAKIRSAYVAN)",
+    "ad": "KÖYÜN KENDİSİ (ÇAKIRSAYVAN)",
+    "lat": 40.73535,
+    "lon": 31.27961
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "KÖYÜN KENDİSİ (FINDIKLI)",
+    "ad": "KÖYÜN KENDİSİ (FINDIKLI)",
+    "lat": 40.77898,
+    "lon": 31.25843
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "KULUBEYANI (DARIYERİHASANBEY)",
+    "ad": "KULUBEYANI (DARIYERİHASANBEY)",
+    "lat": 40.78583,
+    "lon": 31.40502
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "KUMLUCA",
+    "ad": "KUMLUCA",
+    "lat": 40.77801,
+    "lon": 31.32573
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "KUZUMLU (BIÇKIYANI)",
+    "ad": "KUZUMLU (BIÇKIYANI)",
+    "lat": 40.72116,
+    "lon": 31.3712
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "KÜLTÜR (DİPSİZGÖL)",
+    "ad": "KÜLTÜR (DİPSİZGÖL)",
+    "lat": 40.74926,
+    "lon": 31.344
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "KÜTÜKLÜ (YENİYURT)",
+    "ad": "KÜTÜKLÜ (YENİYURT)",
+    "lat": 40.68743,
+    "lon": 31.29379
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "MEHMETPINAR (YENİYURT)",
+    "ad": "MEHMETPINAR (YENİYURT)",
+    "lat": 40.69657,
+    "lon": 31.30395
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "MERKEZ",
+    "ad": "MERKEZ",
+    "lat": 40.77983,
+    "lon": 31.3254
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "MERKEZ  (ALTUNKÖY)",
+    "ad": "MERKEZ (ALTUNKÖY)",
+    "lat": 40.71268,
+    "lon": 31.31928
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "MERKEZ (BIÇKIYANI)",
+    "ad": "MERKEZ (BIÇKIYANI)",
+    "lat": 40.72497,
+    "lon": 31.35597
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "MERKEZ (ÇAMLICA)",
+    "ad": "MERKEZ (ÇAMLICA)",
+    "lat": 40.72803,
+    "lon": 31.34149
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "MERKEZ (ÇAMOLUK)",
+    "ad": "MERKEZ (ÇAMOLUK)",
+    "lat": 40.75861,
+    "lon": 31.30186
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "MERKEZ (ÇATALÇAM)",
+    "ad": "MERKEZ (ÇATALÇAM)",
+    "lat": 40.71672,
+    "lon": 31.29198
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "MERKEZ (DARIYERİBAKACAK)",
+    "ad": "MERKEZ (DARIYERİBAKACAK)",
+    "lat": 40.75291,
+    "lon": 31.40442
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "MERKEZ (DARIYERİHASANBEY)",
+    "ad": "MERKEZ (DARIYERİHASANBEY)",
+    "lat": 40.77708,
+    "lon": 31.33781
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "MERKEZ (DARIYERİMENGENCİK)",
+    "ad": "MERKEZ (DARIYERİMENGENCİK)",
+    "lat": 40.79858,
+    "lon": 31.2353
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "MERKEZ (DARIYERİ YÖRÜKLER)",
+    "ad": "MERKEZ (DARIYERİ YÖRÜKLER)",
+    "lat": 40.83655,
+    "lon": 31.29074
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "MERKEZ (DİPSİZGÖL)",
+    "ad": "MERKEZ (DİPSİZGÖL)",
+    "lat": 40.73383,
+    "lon": 31.35969
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "MERKEZ (HACIAZİZLER)",
+    "ad": "MERKEZ (HACIAZİZLER)",
+    "lat": 40.70099,
+    "lon": 31.3424
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "MERKEZ (MURATBEY)",
+    "ad": "MERKEZ (MURATBEY)",
+    "lat": 40.74052,
+    "lon": 31.341
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "MERKEZ (SARIÇÖKEK)",
+    "ad": "MERKEZ (SARIÇÖKEK)",
+    "lat": 40.78387,
+    "lon": 31.32101
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "MERKEZ (SAZKÖY)",
+    "ad": "MERKEZ (SAZKÖY)",
+    "lat": 40.76739,
+    "lon": 31.2726
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "MERKEZ (TAVAK)",
+    "ad": "MERKEZ (TAVAK)",
+    "lat": 40.75805,
+    "lon": 31.31636
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "MERKEZYAYLA (ALTUNKÖY)",
+    "ad": "MERKEZYAYLA (ALTUNKÖY)",
+    "lat": 40.71767,
+    "lon": 31.31548
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "MERKEZ (YENİYURT)",
+    "ad": "MERKEZ (YENİYURT)",
+    "lat": 40.69095,
+    "lon": 31.32193
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "MERKEZ (YEŞİLTEPE)",
+    "ad": "MERKEZ (YEŞİLTEPE)",
+    "lat": 40.74244,
+    "lon": 31.37945
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "MEŞELİK (DARIYERİHASANBEY)",
+    "ad": "MEŞELİK (DARIYERİHASANBEY)",
+    "lat": 40.80448,
+    "lon": 31.36091
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "OFLU (ALTUNKÖY)",
+    "ad": "OFLU (ALTUNKÖY)",
+    "lat": 40.70187,
+    "lon": 31.3299
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "ONBAŞI (TAVAK)",
+    "ad": "ONBAŞI (TAVAK)",
+    "lat": 40.74012,
+    "lon": 31.31301
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "ORTA (DİPSİZGÖL)",
+    "ad": "ORTA (DİPSİZGÖL)",
+    "lat": 40.73107,
+    "lon": 31.36731
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "ORTA (HACIAZİZLER)",
+    "ad": "ORTA (HACIAZİZLER)",
+    "lat": 40.70604,
+    "lon": 31.34079
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "OSMANÇAVUŞ (TAVAK)",
+    "ad": "OSMANÇAVUŞ (TAVAK)",
+    "lat": 40.74113,
+    "lon": 31.30543
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "SAĞLIK (DİPSİZGÖL)",
+    "ad": "SAĞLIK (DİPSİZGÖL)",
+    "lat": 40.73471,
+    "lon": 31.37572
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "SAKARCA (ÇATALÇAM)",
+    "ad": "SAKARCA (ÇATALÇAM)",
+    "lat": 40.69512,
+    "lon": 31.28833
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "SARIYER",
+    "ad": "SARIYER",
+    "lat": 40.77053,
+    "lon": 31.31473
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "SİNEKLİ  (ÇAKIRSAYVAN)",
+    "ad": "SİNEKLİ (ÇAKIRSAYVAN)",
+    "lat": 40.71502,
+    "lon": 31.27106
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "SOĞUKSU (YEŞİLTEPE)",
+    "ad": "SOĞUKSU (YEŞİLTEPE)",
+    "lat": 40.74405,
+    "lon": 31.35748
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "ŞAFAK (ÜÇKÖPRÜ)",
+    "ad": "ŞAFAK (ÜÇKÖPRÜ)",
+    "lat": 40.79507,
+    "lon": 31.25508
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "ŞEVKİ (DARIYERİHASANBEY)",
+    "ad": "ŞEVKİ (DARIYERİHASANBEY)",
+    "lat": 40.75952,
+    "lon": 31.34274
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "ŞİMŞİR",
+    "ad": "ŞİMŞİR",
+    "lat": 40.78557,
+    "lon": 31.27129
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "ŞİRİNEVLER (DARIYERİHASANBEY)",
+    "ad": "ŞİRİNEVLER (DARIYERİHASANBEY)",
+    "lat": 40.80615,
+    "lon": 31.34663
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "TAHTALIK (SARIÇÖKEK)",
+    "ad": "TAHTALIK (SARIÇÖKEK)",
+    "lat": 40.79889,
+    "lon": 31.33466
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "TAŞALTI (DARIYERİHASANBEY)",
+    "ad": "TAŞALTI (DARIYERİHASANBEY)",
+    "lat": 40.76723,
+    "lon": 31.35674
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "TEKİRSU (DİPSİZGÖL)",
+    "ad": "TEKİRSU (DİPSİZGÖL)",
+    "lat": 40.73185,
+    "lon": 31.37975
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "TÜTEKYATAK (YENİYURT)",
+    "ad": "TÜTEKYATAK (YENİYURT)",
+    "lat": 40.70811,
+    "lon": 31.30927
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "UFUK (ÜÇKÖPRÜ)",
+    "ad": "UFUK (ÜÇKÖPRÜ)",
+    "lat": 40.79949,
+    "lon": 31.24285
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "ÜST (ÇATALÇAM)",
+    "ad": "ÜST (ÇATALÇAM)",
+    "lat": 40.71125,
+    "lon": 31.29706
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "VELİOĞLU ALİOSMAN (MURATBEY)",
+    "ad": "VELİOĞLU ALİOSMAN (MURATBEY)",
+    "lat": 40.73383,
+    "lon": 31.32761
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "VEYSELUSTA (TAVAK)",
+    "ad": "VEYSELUSTA (TAVAK)",
+    "lat": 40.74255,
+    "lon": 31.31557
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "YAĞCILAR BİLAL (MURATBEY)",
+    "ad": "YAĞCILAR BİLAL (MURATBEY)",
+    "lat": 40.75445,
+    "lon": 31.33323
+  },
+  {
+    "il": "Düzce",
+    "ilce": "KAYNAŞLI",
+    "mahalle": "YENİDOĞAN (ÜÇKÖPRÜ)",
+    "ad": "YENİDOĞAN (ÜÇKÖPRÜ)",
+    "lat": 40.79413,
+    "lon": 31.25294
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "AÇMALAR (ASAR)",
+    "ad": "AÇMALAR (ASAR)",
+    "lat": 40.88203,
+    "lon": 31.30108
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "AFANOĞLU (YENİ AYNALI)",
+    "ad": "AFANOĞLU (YENİ AYNALI)",
+    "lat": 40.90578,
+    "lon": 31.10941
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "AĞAKÖYÜ",
+    "ad": "AĞAKÖYÜ",
+    "lat": 40.83863,
+    "lon": 31.12347
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "AKÇALAR (OTLUOĞLU)",
+    "ad": "AKÇALAR (OTLUOĞLU)",
+    "lat": 40.83318,
+    "lon": 31.11679
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "AKINLAR",
+    "ad": "AKINLAR",
+    "lat": 40.86485,
+    "lon": 31.13738
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "AKPINAR",
+    "ad": "AKPINAR",
+    "lat": 40.82402,
+    "lon": 31.19806
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "ALAÇAM (DERDİN)",
+    "ad": "ALAÇAM (DERDİN)",
+    "lat": 40.7275,
+    "lon": 31.23594
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "ARAPÇİFTLİĞİ",
+    "ad": "ARAPÇİFTLİĞİ",
+    "lat": 40.88047,
+    "lon": 31.1543
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "AŞAĞI (YÖRÜK)",
+    "ad": "AŞAĞI (YÖRÜK)",
+    "lat": 40.8995,
+    "lon": 31.19392
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "AZİZİYE",
+    "ad": "AZİZİYE",
+    "lat": 40.84836,
+    "lon": 31.14192
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "AZMİMİLLİ",
+    "ad": "AZMİMİLLİ",
+    "lat": 40.83023,
+    "lon": 31.17487
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "BAHÇELİEVLER",
+    "ad": "BAHÇELİEVLER",
+    "lat": 40.86625,
+    "lon": 31.23252
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "BAHÇELİEVLER (DERDİN)",
+    "ad": "BAHÇELİEVLER (DERDİN)",
+    "lat": 40.70838,
+    "lon": 31.2187
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "BALLAR",
+    "ad": "BALLAR",
+    "lat": 40.95635,
+    "lon": 31.15967
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "BEYCİLER",
+    "ad": "BEYCİLER",
+    "lat": 40.868,
+    "lon": 31.18143
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "BEYTEPE",
+    "ad": "BEYTEPE",
+    "lat": 40.79046,
+    "lon": 31.17646
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "BUCAKKURULU (SAMANDERE)",
+    "ad": "BUCAKKURULU (SAMANDERE)",
+    "lat": 40.69399,
+    "lon": 31.26014
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "BURHANİYE",
+    "ad": "BURHANİYE",
+    "lat": 40.84283,
+    "lon": 31.16945
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "BÜK (ÇINARDÜZÜ)",
+    "ad": "BÜK (ÇINARDÜZÜ)",
+    "lat": 40.77127,
+    "lon": 31.17532
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "CAMİKEBİR",
+    "ad": "CAMİKEBİR",
+    "lat": 40.84033,
+    "lon": 31.15468
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "CAPOĞLU (KABALAK)",
+    "ad": "CAPOĞLU (KABALAK)",
+    "lat": 40.96135,
+    "lon": 31.20259
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "CEDİDİYE",
+    "ad": "CEDİDİYE",
+    "lat": 40.83295,
+    "lon": 31.17165
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "CUMA (AYDINPINAR)",
+    "ad": "CUMA (AYDINPINAR)",
+    "lat": 40.76853,
+    "lon": 31.1031
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "CUMHURİYET",
+    "ad": "CUMHURİYET",
+    "lat": 40.78092,
+    "lon": 31.17743
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "CUMHURİYET OSB2",
+    "ad": "CUMHURİYET OSB2",
+    "lat": 40.78583,
+    "lon": 31.19523
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "CUMHURİYET (ÜÇYOL)",
+    "ad": "CUMHURİYET (ÜÇYOL)",
+    "lat": 40.83396,
+    "lon": 31.05258
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "ÇAKIRLAR",
+    "ad": "ÇAKIRLAR",
+    "lat": 40.89636,
+    "lon": 31.20861
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "ÇAKMANLAR (SİNİRCİ)",
+    "ad": "ÇAKMANLAR (SİNİRCİ)",
+    "lat": 40.80949,
+    "lon": 31.15743
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "ÇAM (ESKİ MENGENCİK)",
+    "ad": "ÇAM (ESKİ MENGENCİK)",
+    "lat": 40.79785,
+    "lon": 31.21663
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "ÇAMKÖY",
+    "ad": "ÇAMKÖY",
+    "lat": 40.88965,
+    "lon": 31.17396
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "ÇAMLIEVLER",
+    "ad": "ÇAMLIEVLER",
+    "lat": 40.8748,
+    "lon": 31.23519
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "ÇAMLIK (UĞUR)",
+    "ad": "ÇAMLIK (UĞUR)",
+    "lat": 40.74532,
+    "lon": 31.19147
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "ÇAVUŞLAR",
+    "ad": "ÇAVUŞLAR",
+    "lat": 40.8772,
+    "lon": 31.1822
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "ÇAY",
+    "ad": "ÇAY",
+    "lat": 40.83696,
+    "lon": 31.15873
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "ÇAYIRBAŞI (NASIRLI)",
+    "ad": "ÇAYIRBAŞI (NASIRLI)",
+    "lat": 40.91277,
+    "lon": 31.21052
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "ÇAYIRTARLA",
+    "ad": "ÇAYIRTARLA",
+    "lat": 40.96957,
+    "lon": 31.14605
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "ÇİÇEK (İSTİLLİ)",
+    "ad": "ÇİÇEK (İSTİLLİ)",
+    "lat": 40.8468,
+    "lon": 31.10261
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "ÇİFTEPINARLAR",
+    "ad": "ÇİFTEPINARLAR",
+    "lat": 40.91391,
+    "lon": 31.15903
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "ÇİMEN (YENİ TAŞKÖPRÜ)",
+    "ad": "ÇİMEN (YENİ TAŞKÖPRÜ)",
+    "lat": 40.83051,
+    "lon": 31.10253
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "ÇOBANOĞLU (YENİ AYNALI)",
+    "ad": "ÇOBANOĞLU (YENİ AYNALI)",
+    "lat": 40.90478,
+    "lon": 31.09466
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "ÇORAK (KAYMAKÇI)",
+    "ad": "ÇORAK (KAYMAKÇI)",
+    "lat": 40.89324,
+    "lon": 31.09959
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "ÇORAK (UĞUR)",
+    "ad": "ÇORAK (UĞUR)",
+    "lat": 40.74678,
+    "lon": 31.19287
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "DARICI",
+    "ad": "DARICI",
+    "lat": 40.82988,
+    "lon": 31.16582
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "DEDELER",
+    "ad": "DEDELER",
+    "lat": 40.8422,
+    "lon": 31.1983
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "DEĞİRMENBAŞI",
+    "ad": "DEĞİRMENBAŞI",
+    "lat": 40.77926,
+    "lon": 31.1832
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "DEĞİRMEN (GÖLORMANI)",
+    "ad": "DEĞİRMEN (GÖLORMANI)",
+    "lat": 40.75512,
+    "lon": 31.08016
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "DEĞİRMENÜSTÜ (SAMANDERE)",
+    "ad": "DEĞİRMENÜSTÜ (SAMANDERE)",
+    "lat": 40.70592,
+    "lon": 31.26192
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "DEMETEVLER",
+    "ad": "DEMETEVLER",
+    "lat": 40.87315,
+    "lon": 31.21573
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "DEMİRCİLER (ASAR)",
+    "ad": "DEMİRCİLER (ASAR)",
+    "lat": 40.89132,
+    "lon": 31.30309
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "DEPO (GÖLORMANI)",
+    "ad": "DEPO (GÖLORMANI)",
+    "lat": 40.75893,
+    "lon": 31.06927
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "DERE (DERDİN)",
+    "ad": "DERE (DERDİN)",
+    "lat": 40.7054,
+    "lon": 31.24444
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "DERE (KURTSUYU)",
+    "ad": "DERE (KURTSUYU)",
+    "lat": 40.97933,
+    "lon": 31.26147
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "DERELİTÜTÜNCÜ",
+    "ad": "DERELİTÜTÜNCÜ",
+    "lat": 40.84355,
+    "lon": 31.19245
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "DEVELİ (HACI AHMETLER)",
+    "ad": "DEVELİ (HACI AHMETLER)",
+    "lat": 40.79788,
+    "lon": 31.15393
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "DİNLER (KABALAK)",
+    "ad": "DİNLER (KABALAK)",
+    "lat": 40.96605,
+    "lon": 31.18823
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "DOĞANLI MÜCAVİR (DOĞANLI)",
+    "ad": "DOĞANLI MÜCAVİR (DOĞANLI)",
+    "lat": 40.80228,
+    "lon": 31.24556
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "DOKUZPINAR",
+    "ad": "DOKUZPINAR",
+    "lat": 40.99725,
+    "lon": 31.18575
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "DORUK (DERDİN)",
+    "ad": "DORUK (DERDİN)",
+    "lat": 40.68626,
+    "lon": 31.23023
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "EFENDİ (HOCAOĞLU)",
+    "ad": "EFENDİ (HOCAOĞLU)",
+    "lat": 40.81017,
+    "lon": 31.09703
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "ESENTEPE",
+    "ad": "ESENTEPE",
+    "lat": 40.86465,
+    "lon": 31.24098
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "FABRİKA (DERDİN)",
+    "ad": "FABRİKA (DERDİN)",
+    "lat": 40.71581,
+    "lon": 31.2383
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "FATİH",
+    "ad": "FATİH",
+    "lat": 40.85124,
+    "lon": 31.13816
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "FEVZİÇAKMAK",
+    "ad": "FEVZİÇAKMAK",
+    "lat": 40.83517,
+    "lon": 31.17621
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "FINDIKÇUKURU (UĞUR)",
+    "ad": "FINDIKÇUKURU (UĞUR)",
+    "lat": 40.71555,
+    "lon": 31.19361
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "GICIR (OTLUOĞLU)",
+    "ad": "GICIR (OTLUOĞLU)",
+    "lat": 40.82672,
+    "lon": 31.12954
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "GÜNBAŞI MÜCAVİR (GÜNBAŞI)",
+    "ad": "GÜNBAŞI MÜCAVİR (GÜNBAŞI)",
+    "lat": 40.83991,
+    "lon": 31.23428
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "GÜZELBAHÇE",
+    "ad": "GÜZELBAHÇE",
+    "lat": 40.86038,
+    "lon": 31.23129
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "HACIMUSTAFADÜZÜ (SAMANDERE)",
+    "ad": "HACIMUSTAFADÜZÜ (SAMANDERE)",
+    "lat": 40.73008,
+    "lon": 31.26418
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "HACIYATAĞI (SAMANDERE)",
+    "ad": "HACIYATAĞI (SAMANDERE)",
+    "lat": 40.70616,
+    "lon": 31.2702
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "HAKKI HOCA (AYDINPINAR)",
+    "ad": "HAKKI HOCA (AYDINPINAR)",
+    "lat": 40.75867,
+    "lon": 31.10079
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "HAMAMDAĞI (DERDİN)",
+    "ad": "HAMAMDAĞI (DERDİN)",
+    "lat": 40.75156,
+    "lon": 31.24597
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "HAMAMÜSTÜ (DERDİN)",
+    "ad": "HAMAMÜSTÜ (DERDİN)",
+    "lat": 40.73335,
+    "lon": 31.25318
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "HAMİDİYE",
+    "ad": "HAMİDİYE",
+    "lat": 40.84693,
+    "lon": 31.16506
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "HAMZA (AYBAŞI)",
+    "ad": "HAMZA (AYBAŞI)",
+    "lat": 40.94961,
+    "lon": 31.1133
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "HATIPLAR (SİNİRCİ)",
+    "ad": "HATIPLAR (SİNİRCİ)",
+    "lat": 40.81899,
+    "lon": 31.15018
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "HATİPLİ (HATİPLİ KETENCİLER)",
+    "ad": "HATİPLİ (HATİPLİ KETENCİLER)",
+    "lat": 40.91861,
+    "lon": 31.17189
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "HECİNLER (ESENÇAM)",
+    "ad": "HECİNLER (ESENÇAM)",
+    "lat": 40.91154,
+    "lon": 31.25585
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "HÜRRİYET (ÜÇYOL)",
+    "ad": "HÜRRİYET (ÜÇYOL)",
+    "lat": 40.83323,
+    "lon": 31.05344
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "İSLAHİYE MÜCAVİR (İSLAHİYE)",
+    "ad": "İSLAHİYE MÜCAVİR (İSLAHİYE)",
+    "lat": 40.84647,
+    "lon": 31.04306
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "İSTİKLAL",
+    "ad": "İSTİKLAL",
+    "lat": 40.7832,
+    "lon": 31.15915
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "İSTİKLAL OSB1",
+    "ad": "İSTİKLAL OSB1",
+    "lat": 40.79036,
+    "lon": 31.13539
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "İSTİKLAL (ÜÇYOL)",
+    "ad": "İSTİKLAL (ÜÇYOL)",
+    "lat": 40.84174,
+    "lon": 31.05432
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "İZMİRLİ (KABALAK)",
+    "ad": "İZMİRLİ (KABALAK)",
+    "lat": 40.96094,
+    "lon": 31.17773
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KALYONCU (GÖLORMANI)",
+    "ad": "KALYONCU (GÖLORMANI)",
+    "lat": 40.75432,
+    "lon": 31.07099
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KARA AĞAÇ (GÜNBAŞI)",
+    "ad": "KARA AĞAÇ (GÜNBAŞI)",
+    "lat": 40.83907,
+    "lon": 31.25181
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KARACA",
+    "ad": "KARACA",
+    "lat": 40.85166,
+    "lon": 31.16875
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KARAÇAVUŞ (GÖLORMANI)",
+    "ad": "KARAÇAVUŞ (GÖLORMANI)",
+    "lat": 40.74668,
+    "lon": 31.08696
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KARA HACIMUSA",
+    "ad": "KARA HACIMUSA",
+    "lat": 40.85965,
+    "lon": 31.14786
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KARAÖMER (DÜVERDÜZÜ)",
+    "ad": "KARAÖMER (DÜVERDÜZÜ)",
+    "lat": 40.94632,
+    "lon": 31.10714
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KARASAKAL (GÖLORMANI)",
+    "ad": "KARASAKAL (GÖLORMANI)",
+    "lat": 40.76372,
+    "lon": 31.09033
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KARDELEN (DERDİN)",
+    "ad": "KARDELEN (DERDİN)",
+    "lat": 40.69897,
+    "lon": 31.22955
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KASIM (KEMERKASIM)",
+    "ad": "KASIM (KEMERKASIM)",
+    "lat": 40.94434,
+    "lon": 31.20887
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KAVAKLAR (SİNİRCİ)",
+    "ad": "KAVAKLAR (SİNİRCİ)",
+    "lat": 40.81402,
+    "lon": 31.16637
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KAZUKOĞLU",
+    "ad": "KAZUKOĞLU",
+    "lat": 40.87699,
+    "lon": 31.19163
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KEMER (KEMERKASIM)",
+    "ad": "KEMER (KEMERKASIM)",
+    "lat": 40.93141,
+    "lon": 31.20185
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KETENCİLER (HATİPLİ KETENCİLER)",
+    "ad": "KETENCİLER (HATİPLİ KETENCİLER)",
+    "lat": 40.91511,
+    "lon": 31.19236
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KIRKACAK (GÜVEN)",
+    "ad": "KIRKACAK (GÜVEN)",
+    "lat": 40.77278,
+    "lon": 31.19613
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KİREÇKUYUSU (GÜVEN)",
+    "ad": "KİREÇKUYUSU (GÜVEN)",
+    "lat": 40.76372,
+    "lon": 31.21086
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KİREMİTOCAĞI",
+    "ad": "KİREMİTOCAĞI",
+    "lat": 40.84034,
+    "lon": 31.14952
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KOCAYAYLA (SAMANDERE)",
+    "ad": "KOCAYAYLA (SAMANDERE)",
+    "lat": 40.70747,
+    "lon": 31.24686
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KOÇYAZI",
+    "ad": "KOÇYAZI",
+    "lat": 40.85197,
+    "lon": 31.18339
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖRPEŞLER",
+    "ad": "KÖRPEŞLER",
+    "lat": 40.86688,
+    "lon": 31.15964
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (AKBIYIKLAR)",
+    "ad": "KÖYÜN KENDİSİ (AKBIYIKLAR)",
+    "lat": 40.8829,
+    "lon": 31.27131
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (AKTARLA)",
+    "ad": "KÖYÜN KENDİSİ (AKTARLA)",
+    "lat": 40.75083,
+    "lon": 31.15967
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (AKYAZI)",
+    "ad": "KÖYÜN KENDİSİ (AKYAZI)",
+    "lat": 40.9092,
+    "lon": 31.2101
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (ALTINPINAR)",
+    "ad": "KÖYÜN KENDİSİ (ALTINPINAR)",
+    "lat": 40.81933,
+    "lon": 31.22484
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (AYNALI)",
+    "ad": "KÖYÜN KENDİSİ (AYNALI)",
+    "lat": 40.91964,
+    "lon": 31.12594
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (BATAKLI ÇİFTLİK)",
+    "ad": "KÖYÜN KENDİSİ (BATAKLI ÇİFTLİK)",
+    "lat": 40.81456,
+    "lon": 31.11614
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (BOSTANLIK)",
+    "ad": "KÖYÜN KENDİSİ (BOSTANLIK)",
+    "lat": 40.84247,
+    "lon": 31.06387
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (BÜYÜKAÇMA)",
+    "ad": "KÖYÜN KENDİSİ (BÜYÜKAÇMA)",
+    "lat": 40.79314,
+    "lon": 31.20249
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (ÇAKIRHACI İBRAHİM)",
+    "ad": "KÖYÜN KENDİSİ (ÇAKIRHACI İBRAHİM)",
+    "lat": 40.77624,
+    "lon": 31.12869
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (ÇALICUMA)",
+    "ad": "KÖYÜN KENDİSİ (ÇALICUMA)",
+    "lat": 40.80272,
+    "lon": 31.17523
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (ÇAMLISU)",
+    "ad": "KÖYÜN KENDİSİ (ÇAMLISU)",
+    "lat": 40.9621,
+    "lon": 31.25646
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (ÇINARLI)",
+    "ad": "KÖYÜN KENDİSİ (ÇINARLI)",
+    "lat": 40.77304,
+    "lon": 31.11377
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (ÇİFTLİK)",
+    "ad": "KÖYÜN KENDİSİ (ÇİFTLİK)",
+    "lat": 40.91298,
+    "lon": 31.23801
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (DEVELİ BESNİ)",
+    "ad": "KÖYÜN KENDİSİ (DEVELİ BESNİ)",
+    "lat": 40.78353,
+    "lon": 31.13625
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (DOĞANLI)",
+    "ad": "KÖYÜN KENDİSİ (DOĞANLI)",
+    "lat": 40.80523,
+    "lon": 31.23352
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (DURAKLAR)",
+    "ad": "KÖYÜN KENDİSİ (DURAKLAR)",
+    "lat": 40.79554,
+    "lon": 31.12379
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (EMİNAÇMA)",
+    "ad": "KÖYÜN KENDİSİ (EMİNAÇMA)",
+    "lat": 40.9682,
+    "lon": 31.23989
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (ERDEMLİ)",
+    "ad": "KÖYÜN KENDİSİ (ERDEMLİ)",
+    "lat": 40.94976,
+    "lon": 31.11902
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (ESENTEPE)",
+    "ad": "KÖYÜN KENDİSİ (ESENTEPE)",
+    "lat": 40.89365,
+    "lon": 31.25068
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (FINDIKLI AKSU)",
+    "ad": "KÖYÜN KENDİSİ (FINDIKLI AKSU)",
+    "lat": 40.89102,
+    "lon": 31.35546
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (GÖKÇE)",
+    "ad": "KÖYÜN KENDİSİ (GÖKÇE)",
+    "lat": 40.82246,
+    "lon": 31.20051
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (GÜLDERE)",
+    "ad": "KÖYÜN KENDİSİ (GÜLDERE)",
+    "lat": 40.9436,
+    "lon": 31.18851
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (GÜMÜŞPINAR)",
+    "ad": "KÖYÜN KENDİSİ (GÜMÜŞPINAR)",
+    "lat": 40.81415,
+    "lon": 31.21687
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (GÜNDOLAMASI)",
+    "ad": "KÖYÜN KENDİSİ (GÜNDOLAMASI)",
+    "lat": 40.84427,
+    "lon": 31.22722
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (HASANLAR)",
+    "ad": "KÖYÜN KENDİSİ (HASANLAR)",
+    "lat": 40.92634,
+    "lon": 31.26995
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (İHSANİYE)",
+    "ad": "KÖYÜN KENDİSİ (İHSANİYE)",
+    "lat": 40.85234,
+    "lon": 31.07766
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (İSLAHİYE)",
+    "ad": "KÖYÜN KENDİSİ (İSLAHİYE)",
+    "lat": 40.84707,
+    "lon": 31.04417
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (KADIOĞLU)",
+    "ad": "KÖYÜN KENDİSİ (KADIOĞLU)",
+    "lat": 40.88541,
+    "lon": 31.12051
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (KALEDİBİ)",
+    "ad": "KÖYÜN KENDİSİ (KALEDİBİ)",
+    "lat": 40.77322,
+    "lon": 31.16783
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (KARADERE HASANAĞA)",
+    "ad": "KÖYÜN KENDİSİ (KARADERE HASANAĞA)",
+    "lat": 40.84312,
+    "lon": 31.07118
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (KAVAKBIÇKI)",
+    "ad": "KÖYÜN KENDİSİ (KAVAKBIÇKI)",
+    "lat": 40.76435,
+    "lon": 31.16602
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (KIZILCIK)",
+    "ad": "KÖYÜN KENDİSİ (KIZILCIK)",
+    "lat": 40.80164,
+    "lon": 31.11923
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (KONAKLI)",
+    "ad": "KÖYÜN KENDİSİ (KONAKLI)",
+    "lat": 40.78443,
+    "lon": 31.12361
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (KOZLUK)",
+    "ad": "KÖYÜN KENDİSİ (KOZLUK)",
+    "lat": 40.96666,
+    "lon": 31.22761
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (KÖPRÜBAŞI)",
+    "ad": "KÖYÜN KENDİSİ (KÖPRÜBAŞI)",
+    "lat": 40.83423,
+    "lon": 31.03513
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (KUŞAÇMASI)",
+    "ad": "KÖYÜN KENDİSİ (KUŞAÇMASI)",
+    "lat": 40.80524,
+    "lon": 31.07758
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (KUTLU)",
+    "ad": "KÖYÜN KENDİSİ (KUTLU)",
+    "lat": 40.77452,
+    "lon": 31.15561
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (KÜÇÜKAHMET)",
+    "ad": "KÖYÜN KENDİSİ (KÜÇÜKAHMET)",
+    "lat": 40.80322,
+    "lon": 31.12824
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (KÜÇÜKMEHMET)",
+    "ad": "KÖYÜN KENDİSİ (KÜÇÜKMEHMET)",
+    "lat": 40.81165,
+    "lon": 31.13509
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (MAMURE)",
+    "ad": "KÖYÜN KENDİSİ (MAMURE)",
+    "lat": 40.84785,
+    "lon": 31.10647
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (MURADİYEMENGENCİK)",
+    "ad": "KÖYÜN KENDİSİ (MURADİYEMENGENCİK)",
+    "lat": 40.792,
+    "lon": 31.21003
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (MUSABABA)",
+    "ad": "KÖYÜN KENDİSİ (MUSABABA)",
+    "lat": 40.83662,
+    "lon": 31.24266
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (OSMANCA)",
+    "ad": "KÖYÜN KENDİSİ (OSMANCA)",
+    "lat": 40.94183,
+    "lon": 31.14532
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (OVAPINAR)",
+    "ad": "KÖYÜN KENDİSİ (OVAPINAR)",
+    "lat": 40.79289,
+    "lon": 31.20526
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (ÖZYANIK)",
+    "ad": "KÖYÜN KENDİSİ (ÖZYANIK)",
+    "lat": 40.69317,
+    "lon": 31.25362
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (PAŞAKONAĞI)",
+    "ad": "KÖYÜN KENDİSİ (PAŞAKONAĞI)",
+    "lat": 40.81881,
+    "lon": 31.0728
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (PAŞAORMANI)",
+    "ad": "KÖYÜN KENDİSİ (PAŞAORMANI)",
+    "lat": 40.80982,
+    "lon": 31.19744
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (PINARLAR)",
+    "ad": "KÖYÜN KENDİSİ (PINARLAR)",
+    "lat": 40.80959,
+    "lon": 31.19499
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (SANCAKDERE)",
+    "ad": "KÖYÜN KENDİSİ (SANCAKDERE)",
+    "lat": 40.95027,
+    "lon": 31.14905
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (SUNCUK)",
+    "ad": "KÖYÜN KENDİSİ (SUNCUK)",
+    "lat": 40.95711,
+    "lon": 31.13955
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (ŞAZİYE)",
+    "ad": "KÖYÜN KENDİSİ (ŞAZİYE)",
+    "lat": 40.8498,
+    "lon": 31.04746
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (TURAPLAR)",
+    "ad": "KÖYÜN KENDİSİ (TURAPLAR)",
+    "lat": 40.81802,
+    "lon": 31.13473
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (YAKA)",
+    "ad": "KÖYÜN KENDİSİ (YAKA)",
+    "lat": 40.93093,
+    "lon": 31.13446
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (YAYAKBAŞI)",
+    "ad": "KÖYÜN KENDİSİ (YAYAKBAŞI)",
+    "lat": 40.8394,
+    "lon": 31.02228
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (YAYLA)",
+    "ad": "KÖYÜN KENDİSİ (YAYLA)",
+    "lat": 40.96332,
+    "lon": 31.22262
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (YENİ KARAKÖY)",
+    "ad": "KÖYÜN KENDİSİ (YENİ KARAKÖY)",
+    "lat": 40.7942,
+    "lon": 31.10751
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (YEŞİLÇAM)",
+    "ad": "KÖYÜN KENDİSİ (YEŞİLÇAM)",
+    "lat": 40.80992,
+    "lon": 31.25766
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (YEŞİLÇİMEN)",
+    "ad": "KÖYÜN KENDİSİ (YEŞİLÇİMEN)",
+    "lat": 40.82641,
+    "lon": 31.22379
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KURUDERE (DAĞDİBİ)",
+    "ad": "KURUDERE (DAĞDİBİ)",
+    "lat": 40.77484,
+    "lon": 31.23463
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KURULUK (ÇINARDÜZÜ)",
+    "ad": "KURULUK (ÇINARDÜZÜ)",
+    "lat": 40.74122,
+    "lon": 31.16751
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KURUOĞLU (OZANLAR)",
+    "ad": "KURUOĞLU (OZANLAR)",
+    "lat": 40.82763,
+    "lon": 31.11667
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KUŞYUVASI (SAMANDERE)",
+    "ad": "KUŞYUVASI (SAMANDERE)",
+    "lat": 40.68853,
+    "lon": 31.25963
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KUYUMCUHACIALİ",
+    "ad": "KUYUMCUHACIALİ",
+    "lat": 40.86342,
+    "lon": 31.1915
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÜLTÜR",
+    "ad": "KÜLTÜR",
+    "lat": 40.84186,
+    "lon": 31.16029
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "KÜRT (BALLICA)",
+    "ad": "KÜRT (BALLICA)",
+    "lat": 40.7853,
+    "lon": 31.08585
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERGİÇ",
+    "ad": "MERGİÇ",
+    "lat": 40.84834,
+    "lon": 31.12557
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (ASAR)",
+    "ad": "MERKEZ (ASAR)",
+    "lat": 40.87822,
+    "lon": 31.2701
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (AYBAŞI)",
+    "ad": "MERKEZ (AYBAŞI)",
+    "lat": 40.92976,
+    "lon": 31.10846
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (AYDINPINAR)",
+    "ad": "MERKEZ (AYDINPINAR)",
+    "lat": 40.76653,
+    "lon": 31.111
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (BAHÇE)",
+    "ad": "MERKEZ (BAHÇE)",
+    "lat": 40.8312,
+    "lon": 31.08454
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (BALLICA)",
+    "ad": "MERKEZ (BALLICA)",
+    "lat": 40.78477,
+    "lon": 31.10478
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (ÇINARDÜZÜ)",
+    "ad": "MERKEZ (ÇINARDÜZÜ)",
+    "lat": 40.7598,
+    "lon": 31.18216
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (DAĞDİBİ)",
+    "ad": "MERKEZ (DAĞDİBİ)",
+    "lat": 40.77732,
+    "lon": 31.21653
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (DÜVERDÜZÜ)",
+    "ad": "MERKEZ (DÜVERDÜZÜ)",
+    "lat": 40.94276,
+    "lon": 31.09123
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (DÜZ)",
+    "ad": "MERKEZ (DÜZ)",
+    "lat": 40.93357,
+    "lon": 31.16583
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (ESENÇAM)",
+    "ad": "MERKEZ (ESENÇAM)",
+    "lat": 40.90966,
+    "lon": 31.28348
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (ESKİ MENGENCİK)",
+    "ad": "MERKEZ (ESKİ MENGENCİK)",
+    "lat": 40.78762,
+    "lon": 31.23022
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (GÖLORMANI)",
+    "ad": "MERKEZ (GÖLORMANI)",
+    "lat": 40.79173,
+    "lon": 31.02999
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (GÜNBAŞI)",
+    "ad": "MERKEZ (GÜNBAŞI)",
+    "lat": 40.84509,
+    "lon": 31.24637
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (GÜVEN)",
+    "ad": "MERKEZ (GÜVEN)",
+    "lat": 40.77835,
+    "lon": 31.20135
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (HACI AHMETLER)",
+    "ad": "MERKEZ (HACI AHMETLER)",
+    "lat": 40.80892,
+    "lon": 31.1452
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (HOCAOĞLU)",
+    "ad": "MERKEZ (HOCAOĞLU)",
+    "lat": 40.8052,
+    "lon": 31.10517
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (İSTİLLİ)",
+    "ad": "MERKEZ (İSTİLLİ)",
+    "lat": 40.84296,
+    "lon": 31.08314
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (KABALAK)",
+    "ad": "MERKEZ (KABALAK)",
+    "lat": 40.96184,
+    "lon": 31.17665
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (KAYMAKÇI)",
+    "ad": "MERKEZ (KAYMAKÇI)",
+    "lat": 40.90565,
+    "lon": 31.11192
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (KİRAZLI)",
+    "ad": "MERKEZ (KİRAZLI)",
+    "lat": 40.81201,
+    "lon": 31.21168
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (KURTSUYU)",
+    "ad": "MERKEZ (KURTSUYU)",
+    "lat": 40.98579,
+    "lon": 31.26195
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (MUNCURLU)",
+    "ad": "MERKEZ (MUNCURLU)",
+    "lat": 40.82588,
+    "lon": 31.25046
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (NASIRLI)",
+    "ad": "MERKEZ (NASIRLI)",
+    "lat": 40.94644,
+    "lon": 31.24192
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (OTLUOĞLU)",
+    "ad": "MERKEZ (OTLUOĞLU)",
+    "lat": 40.82543,
+    "lon": 31.14326
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (OZANLAR)",
+    "ad": "MERKEZ (OZANLAR)",
+    "lat": 40.82459,
+    "lon": 31.11089
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (SAMANDERE)",
+    "ad": "MERKEZ (SAMANDERE)",
+    "lat": 40.7026,
+    "lon": 31.2844
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (SİNİRCİ)",
+    "ad": "MERKEZ (SİNİRCİ)",
+    "lat": 40.81753,
+    "lon": 31.16297
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (TAŞKÖPRÜ)",
+    "ad": "MERKEZ (TAŞKÖPRÜ)",
+    "lat": 40.86801,
+    "lon": 31.11596
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (UĞUR)",
+    "ad": "MERKEZ (UĞUR)",
+    "lat": 40.75281,
+    "lon": 31.21237
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (ÜÇYOL)",
+    "ad": "MERKEZ (ÜÇYOL)",
+    "lat": 40.84065,
+    "lon": 31.0491
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (YENİ AYNALI)",
+    "ad": "MERKEZ (YENİ AYNALI)",
+    "lat": 40.92471,
+    "lon": 31.10268
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (YENİ TAŞKÖPRÜ)",
+    "ad": "MERKEZ (YENİ TAŞKÖPRÜ)",
+    "lat": 40.83701,
+    "lon": 31.1114
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (YÖRÜK)",
+    "ad": "MERKEZ (YÖRÜK)",
+    "lat": 40.89035,
+    "lon": 31.19285
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MEZARLIK (KABALAK)",
+    "ad": "MEZARLIK (KABALAK)",
+    "lat": 40.95421,
+    "lon": 31.17766
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MOLLAOĞLU (OZANLAR)",
+    "ad": "MOLLAOĞLU (OZANLAR)",
+    "lat": 40.82052,
+    "lon": 31.09225
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MUNCURLU MÜCAVİR (MUNCURLU)",
+    "ad": "MUNCURLU MÜCAVİR (MUNCURLU)",
+    "lat": 40.8251,
+    "lon": 31.23811
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "MUSABABA MÜCAVİR (MUSABABA)",
+    "ad": "MUSABABA MÜCAVİR (MUSABABA)",
+    "lat": 40.83676,
+    "lon": 31.23931
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "NALBANTOĞLU",
+    "ad": "NALBANTOĞLU",
+    "lat": 40.86662,
+    "lon": 31.22701
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "NUHLAR",
+    "ad": "NUHLAR",
+    "lat": 40.92743,
+    "lon": 31.24238
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "NUHLAR (NASIRLI)",
+    "ad": "NUHLAR (NASIRLI)",
+    "lat": 40.91679,
+    "lon": 31.23248
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "NUSRETTİN",
+    "ad": "NUSRETTİN",
+    "lat": 40.84256,
+    "lon": 31.16848
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "NUSRET YILMAZ (GÖLORMANI)",
+    "ad": "NUSRET YILMAZ (GÖLORMANI)",
+    "lat": 40.76016,
+    "lon": 31.08169
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "ORHANGAZİ",
+    "ad": "ORHANGAZİ",
+    "lat": 40.91817,
+    "lon": 31.16917
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "ORTA (OTLUOĞLU)",
+    "ad": "ORTA (OTLUOĞLU)",
+    "lat": 40.8262,
+    "lon": 31.13572
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "ORTA (YENİ AYNALI)",
+    "ad": "ORTA (YENİ AYNALI)",
+    "lat": 40.90952,
+    "lon": 31.11632
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "OTLAKLAR (KURTSUYU)",
+    "ad": "OTLAKLAR (KURTSUYU)",
+    "lat": 40.97905,
+    "lon": 31.25589
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "OVA (YENİ AYNALI)",
+    "ad": "OVA (YENİ AYNALI)",
+    "lat": 40.9072,
+    "lon": 31.11707
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "PETEKLİ (KURTSUYU)",
+    "ad": "PETEKLİ (KURTSUYU)",
+    "lat": 40.9803,
+    "lon": 31.27688
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "POYRAZ (GÜNBAŞI)",
+    "ad": "POYRAZ (GÜNBAŞI)",
+    "lat": 40.84985,
+    "lon": 31.24916
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "SADIK (SAMANDERE)",
+    "ad": "SADIK (SAMANDERE)",
+    "lat": 40.712,
+    "lon": 31.26633
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "SALLAR",
+    "ad": "SALLAR",
+    "lat": 40.85454,
+    "lon": 31.23859
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "SANCAKLAR",
+    "ad": "SANCAKLAR",
+    "lat": 40.87416,
+    "lon": 31.1693
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "SANTRAL (AYDINPINAR)",
+    "ad": "SANTRAL (AYDINPINAR)",
+    "lat": 40.75414,
+    "lon": 31.11088
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "SARAYYERİ",
+    "ad": "SARAYYERİ",
+    "lat": 40.88511,
+    "lon": 31.1412
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "SARIÇAM (ÇINARDÜZÜ)",
+    "ad": "SARIÇAM (ÇINARDÜZÜ)",
+    "lat": 40.75361,
+    "lon": 31.19387
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "SARIKASIM (NASIRLI)",
+    "ad": "SARIKASIM (NASIRLI)",
+    "lat": 40.91014,
+    "lon": 31.22461
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "SOĞUKPINAR",
+    "ad": "SOĞUKPINAR",
+    "lat": 40.84008,
+    "lon": 31.20347
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "ŞEHİT BAYRAM GÖKMEN",
+    "ad": "ŞEHİT BAYRAM GÖKMEN",
+    "lat": 40.89241,
+    "lon": 31.16776
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "ŞEHİT HÜSEYİN KIL",
+    "ad": "ŞEHİT HÜSEYİN KIL",
+    "lat": 40.90676,
+    "lon": 31.13808
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "ŞEHİT KEMAL IŞILDAK",
+    "ad": "ŞEHİT KEMAL IŞILDAK",
+    "lat": 40.92104,
+    "lon": 31.14357
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "ŞEHİT MURAT DEMİR",
+    "ad": "ŞEHİT MURAT DEMİR",
+    "lat": 40.91115,
+    "lon": 31.16324
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "ŞEKERPINAR",
+    "ad": "ŞEKERPINAR",
+    "lat": 40.98854,
+    "lon": 31.16144
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "ŞEREFİYE",
+    "ad": "ŞEREFİYE",
+    "lat": 40.83991,
+    "lon": 31.16297
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "ŞIRALIK",
+    "ad": "ŞIRALIK",
+    "lat": 40.82046,
+    "lon": 31.19873
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "ŞOSE ALTI (AYDINPINAR)",
+    "ad": "ŞOSE ALTI (AYDINPINAR)",
+    "lat": 40.77411,
+    "lon": 31.08949
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "TANTAN KUYU (KURTSUYU)",
+    "ad": "TANTAN KUYU (KURTSUYU)",
+    "lat": 40.97741,
+    "lon": 31.24738
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "TATİL KÖYÜ (DERDİN)",
+    "ad": "TATİL KÖYÜ (DERDİN)",
+    "lat": 40.70111,
+    "lon": 31.22145
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "TEKİRPINAR (KABALAK)",
+    "ad": "TEKİRPINAR (KABALAK)",
+    "lat": 40.9915,
+    "lon": 31.18337
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "TERZİALİLER",
+    "ad": "TERZİALİLER",
+    "lat": 40.90797,
+    "lon": 31.14534
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "TINAZ (YENİ TAŞKÖPRÜ)",
+    "ad": "TINAZ (YENİ TAŞKÖPRÜ)",
+    "lat": 40.82915,
+    "lon": 31.09672
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "TOKMAKTARLA (NASIRLI)",
+    "ad": "TOKMAKTARLA (NASIRLI)",
+    "lat": 40.91926,
+    "lon": 31.20792
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "TOKUŞLAR",
+    "ad": "TOKUŞLAR",
+    "lat": 40.89005,
+    "lon": 31.18335
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "TONYALI (KURTSUYU)",
+    "ad": "TONYALI (KURTSUYU)",
+    "lat": 40.99597,
+    "lon": 31.27798
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "TÜTÜNLÜK (SAMANDERE)",
+    "ad": "TÜTÜNLÜK (SAMANDERE)",
+    "lat": 40.71922,
+    "lon": 31.25135
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "UÇUK (UĞUR)",
+    "ad": "UÇUK (UĞUR)",
+    "lat": 40.72797,
+    "lon": 31.2252
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "UZUNALİ (GÖLORMANI)",
+    "ad": "UZUNALİ (GÖLORMANI)",
+    "lat": 40.74612,
+    "lon": 31.08137
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "UZUNMUSTAFA",
+    "ad": "UZUNMUSTAFA",
+    "lat": 40.84833,
+    "lon": 31.14949
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "ÜÇKESE (ESENÇAM)",
+    "ad": "ÜÇKESE (ESENÇAM)",
+    "lat": 40.90888,
+    "lon": 31.30721
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "YAHYALAR",
+    "ad": "YAHYALAR",
+    "lat": 40.85711,
+    "lon": 31.19452
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "YAMALI (İSTİLLİ)",
+    "ad": "YAMALI (İSTİLLİ)",
+    "lat": 40.8443,
+    "lon": 31.10858
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "YANIK (DERDİN)",
+    "ad": "YANIK (DERDİN)",
+    "lat": 40.69082,
+    "lon": 31.23862
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "YAYLAKAPI (AYDINPINAR)",
+    "ad": "YAYLAKAPI (AYDINPINAR)",
+    "lat": 40.75074,
+    "lon": 31.09948
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "YAZLIK",
+    "ad": "YAZLIK",
+    "lat": 40.9499,
+    "lon": 31.16246
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "YENİ",
+    "ad": "YENİ",
+    "lat": 40.79205,
+    "lon": 31.16324
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "YENİ (BAHÇE)",
+    "ad": "YENİ (BAHÇE)",
+    "lat": 40.81543,
+    "lon": 31.07719
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "YENİ  (KİRAZLI)",
+    "ad": "YENİ (KİRAZLI)",
+    "lat": 40.81574,
+    "lon": 31.21379
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "YEŞİL (AYDINPINAR)",
+    "ad": "YEŞİL (AYDINPINAR)",
+    "lat": 40.76093,
+    "lon": 31.10764
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "YEŞİLÇAM MÜCAVİR (YEŞİLÇAM)",
+    "ad": "YEŞİLÇAM MÜCAVİR (YEŞİLÇAM)",
+    "lat": 40.80975,
+    "lon": 31.25262
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "YEŞİLKÖY",
+    "ad": "YEŞİLKÖY",
+    "lat": 40.94256,
+    "lon": 31.15418
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "YEŞİLTEPE",
+    "ad": "YEŞİLTEPE",
+    "lat": 40.85804,
+    "lon": 31.24466
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "YILANKAYA (AYDINPINAR)",
+    "ad": "YILANKAYA (AYDINPINAR)",
+    "lat": 40.74718,
+    "lon": 31.10146
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "YUKARI (GÜNBAŞI)",
+    "ad": "YUKARI (GÜNBAŞI)",
+    "lat": 40.83968,
+    "lon": 31.24867
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "YUKARI YAHYALAR",
+    "ad": "YUKARI YAHYALAR",
+    "lat": 40.85432,
+    "lon": 31.20843
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "YUKARI (YÖRÜK)",
+    "ad": "YUKARI (YÖRÜK)",
+    "lat": 40.90894,
+    "lon": 31.19818
+  },
+  {
+    "il": "Düzce",
+    "ilce": "MERKEZ",
+    "mahalle": "YUNUSLAR (KEMERKASIM)",
+    "ad": "YUNUSLAR (KEMERKASIM)",
+    "lat": 40.91974,
+    "lon": 31.20455
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "AHMETÇİLER",
+    "ad": "AHMETÇİLER",
+    "lat": 40.99952,
+    "lon": 31.44131
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "AKSU (HOŞAFOĞLU)",
+    "ad": "AKSU (HOŞAFOĞLU)",
+    "lat": 40.95294,
+    "lon": 31.39061
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "AŞAĞI (HACILAR)",
+    "ad": "AŞAĞI (HACILAR)",
+    "lat": 40.985,
+    "lon": 31.50121
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "AŞAĞI (YILGIN)",
+    "ad": "AŞAĞI (YILGIN)",
+    "lat": 41.00448,
+    "lon": 31.38476
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "ATATÜRK",
+    "ad": "ATATÜRK",
+    "lat": 40.98946,
+    "lon": 31.4495
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "AVUTLUK (DİBEKTAŞ)",
+    "ad": "AVUTLUK (DİBEKTAŞ)",
+    "lat": 40.99831,
+    "lon": 31.35297
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "AYDIN (DUTLAR)",
+    "ad": "AYDIN (DUTLAR)",
+    "lat": 40.94188,
+    "lon": 31.33214
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "BELEN (HOCATMAN)",
+    "ad": "BELEN (HOCATMAN)",
+    "lat": 40.9314,
+    "lon": 31.45104
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "ÇAYIRCIK (KIRIK)",
+    "ad": "ÇAYIRCIK (KIRIK)",
+    "lat": 40.92016,
+    "lon": 31.3945
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "ÇIRNIK (AKSAKLAR)",
+    "ad": "ÇIRNIK (AKSAKLAR)",
+    "lat": 41.02987,
+    "lon": 31.52069
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "ÇORAK (BEKİRLER)",
+    "ad": "ÇORAK (BEKİRLER)",
+    "lat": 40.957,
+    "lon": 31.53659
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "DAĞ (TIRAŞLAR)",
+    "ad": "DAĞ (TIRAŞLAR)",
+    "lat": 41.0034,
+    "lon": 31.42532
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "DEREİÇİ (YILGIN)",
+    "ad": "DEREİÇİ (YILGIN)",
+    "lat": 40.98578,
+    "lon": 31.3832
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "DOĞANCILAR (REDİFLER)",
+    "ad": "DOĞANCILAR (REDİFLER)",
+    "lat": 40.95449,
+    "lon": 31.4479
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "DOKUZ (HACIYERİ)",
+    "ad": "DOKUZ (HACIYERİ)",
+    "lat": 40.93514,
+    "lon": 31.5059
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "ELMAS (DİBEKTAŞ)",
+    "ad": "ELMAS (DİBEKTAŞ)",
+    "lat": 40.99755,
+    "lon": 31.32812
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "ERENLER (TIRAŞLAR)",
+    "ad": "ERENLER (TIRAŞLAR)",
+    "lat": 41.00343,
+    "lon": 31.42241
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "GÜNEYALTI (GÜNEY)",
+    "ad": "GÜNEYALTI (GÜNEY)",
+    "lat": 40.95488,
+    "lon": 31.42607
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "GÜNEY (ÇAMLI)",
+    "ad": "GÜNEY (ÇAMLI)",
+    "lat": 40.97669,
+    "lon": 31.29224
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "GÜNEY (GERİŞ)",
+    "ad": "GÜNEY (GERİŞ)",
+    "lat": 40.89718,
+    "lon": 31.3518
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "İSMAİLÇAYIRI (AKÇAÖREN)",
+    "ad": "İSMAİLÇAYIRI (AKÇAÖREN)",
+    "lat": 40.94776,
+    "lon": 31.2837
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "KARAKİRAZ (KIRIK)",
+    "ad": "KARAKİRAZ (KIRIK)",
+    "lat": 40.9204,
+    "lon": 31.40244
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "KAZAKLAR (GÖKÇEAĞAÇ)",
+    "ad": "KAZAKLAR (GÖKÇEAĞAÇ)",
+    "lat": 40.93733,
+    "lon": 31.40961
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "KİRSEYANI (HOCATMAN)",
+    "ad": "KİRSEYANI (HOCATMAN)",
+    "lat": 40.92767,
+    "lon": 31.46776
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "KÖYÜN KENDİSİ (ASAR)",
+    "ad": "KÖYÜN KENDİSİ (ASAR)",
+    "lat": 40.97818,
+    "lon": 31.3254
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "KÖYÜN KENDİSİ (AYDINYAYLA)",
+    "ad": "KÖYÜN KENDİSİ (AYDINYAYLA)",
+    "lat": 41.02111,
+    "lon": 31.5678
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "KÖYÜN KENDİSİ (ÇİFTLİK)",
+    "ad": "KÖYÜN KENDİSİ (ÇİFTLİK)",
+    "lat": 41.02792,
+    "lon": 31.53959
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "KÖYÜN KENDİSİ (GAZİLER)",
+    "ad": "KÖYÜN KENDİSİ (GAZİLER)",
+    "lat": 40.99519,
+    "lon": 31.56303
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "KÖYÜN KENDİSİ (GELENÖZ)",
+    "ad": "KÖYÜN KENDİSİ (GELENÖZ)",
+    "lat": 40.94241,
+    "lon": 31.34676
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "KÖYÜN KENDİSİ (GÜNEY)",
+    "ad": "KÖYÜN KENDİSİ (GÜNEY)",
+    "lat": 40.95536,
+    "lon": 31.42591
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "KÖYÜN KENDİSİ (HEBELER)",
+    "ad": "KÖYÜN KENDİSİ (HEBELER)",
+    "lat": 40.99683,
+    "lon": 31.45762
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "KÖYÜN KENDİSİ (İĞNELER)",
+    "ad": "KÖYÜN KENDİSİ (İĞNELER)",
+    "lat": 40.97222,
+    "lon": 31.36394
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "KÖYÜN KENDİSİ (KÖSELER)",
+    "ad": "KÖYÜN KENDİSİ (KÖSELER)",
+    "lat": 41.0086,
+    "lon": 31.45885
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "KÖYÜN KENDİSİ (MENGEN)",
+    "ad": "KÖYÜN KENDİSİ (MENGEN)",
+    "lat": 41.00418,
+    "lon": 31.66895
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "KÖYÜN KENDİSİ (ORHANGAZİ)",
+    "ad": "KÖYÜN KENDİSİ (ORHANGAZİ)",
+    "lat": 40.9632,
+    "lon": 31.38524
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "KÖYÜN KENDİSİ (SARIKAYA)",
+    "ad": "KÖYÜN KENDİSİ (SARIKAYA)",
+    "lat": 40.94303,
+    "lon": 31.40661
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "KÖYÜN KENDİSİ (TUĞRUL)",
+    "ad": "KÖYÜN KENDİSİ (TUĞRUL)",
+    "lat": 40.95371,
+    "lon": 31.32042
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "KÖYÜN KENDİSİ (YAĞCILAR)",
+    "ad": "KÖYÜN KENDİSİ (YAĞCILAR)",
+    "lat": 40.96367,
+    "lon": 31.46951
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "KÖYÜN KENDİSİ (YAYLATEPE)",
+    "ad": "KÖYÜN KENDİSİ (YAYLATEPE)",
+    "lat": 41.03575,
+    "lon": 31.75619
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "KÖYÜN KENDİSİ (YOĞUNPELİT)",
+    "ad": "KÖYÜN KENDİSİ (YOĞUNPELİT)",
+    "lat": 40.98892,
+    "lon": 31.66542
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "KURUCA (YENİYER)",
+    "ad": "KURUCA (YENİYER)",
+    "lat": 41.01609,
+    "lon": 31.37459
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "KURUHÜSEYİN (DİBEKTAŞ)",
+    "ad": "KURUHÜSEYİN (DİBEKTAŞ)",
+    "lat": 40.98785,
+    "lon": 31.36039
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "KUZEY (ÇAMLI)",
+    "ad": "KUZEY (ÇAMLI)",
+    "lat": 40.99562,
+    "lon": 31.29938
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "MAREŞAL FEVZİ  ÇAKMAK",
+    "ad": "MAREŞAL FEVZİ ÇAKMAK",
+    "lat": 40.96288,
+    "lon": 31.45561
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "MEHMETKÖY (AKSAKLAR)",
+    "ad": "MEHMETKÖY (AKSAKLAR)",
+    "lat": 41.01888,
+    "lon": 31.4668
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "MELEN KIYISI (BEKİRLER)",
+    "ad": "MELEN KIYISI (BEKİRLER)",
+    "lat": 40.96404,
+    "lon": 31.51235
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "MERKEZ (AKÇAÖREN)",
+    "ad": "MERKEZ (AKÇAÖREN)",
+    "lat": 40.93655,
+    "lon": 31.29397
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "MERKEZ (BEKİRLER)",
+    "ad": "MERKEZ (BEKİRLER)",
+    "lat": 40.96695,
+    "lon": 31.5303
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "MERKEZ (ÇUKURÖREN)",
+    "ad": "MERKEZ (ÇUKURÖREN)",
+    "lat": 40.96686,
+    "lon": 31.54026
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "MERKEZ (DİBEKTAŞ)",
+    "ad": "MERKEZ (DİBEKTAŞ)",
+    "lat": 40.99582,
+    "lon": 31.34406
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "MERKEZ (DOĞANLAR)",
+    "ad": "MERKEZ (DOĞANLAR)",
+    "lat": 40.96506,
+    "lon": 31.47531
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "MERKEZ (DUTLAR)",
+    "ad": "MERKEZ (DUTLAR)",
+    "lat": 40.95135,
+    "lon": 31.32902
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "MERKEZ (GERİŞ)",
+    "ad": "MERKEZ (GERİŞ)",
+    "lat": 40.93229,
+    "lon": 31.3455
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "MERKEZ (GÖKÇEAĞAÇ)",
+    "ad": "MERKEZ (GÖKÇEAĞAÇ)",
+    "lat": 40.93242,
+    "lon": 31.44441
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "MERKEZ (HACIYERİ)",
+    "ad": "MERKEZ (HACIYERİ)",
+    "lat": 40.94567,
+    "lon": 31.48703
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "MERKEZ (HOCATMAN)",
+    "ad": "MERKEZ (HOCATMAN)",
+    "lat": 40.94824,
+    "lon": 31.466
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "MERKEZ (HOŞAFOĞLU)",
+    "ad": "MERKEZ (HOŞAFOĞLU)",
+    "lat": 40.9628,
+    "lon": 31.37498
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "MERKEZ (KARAKAŞ)",
+    "ad": "MERKEZ (KARAKAŞ)",
+    "lat": 40.99444,
+    "lon": 31.60046
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "MERKEZ (KIRIK)",
+    "ad": "MERKEZ (KIRIK)",
+    "lat": 40.91883,
+    "lon": 31.37114
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "MERKEZ (KOCAOĞLU)",
+    "ad": "MERKEZ (KOCAOĞLU)",
+    "lat": 40.96784,
+    "lon": 31.27982
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "MERKEZ (NAŞLAR)",
+    "ad": "MERKEZ (NAŞLAR)",
+    "lat": 40.98099,
+    "lon": 31.41538
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "MERKEZ (REDİFLER)",
+    "ad": "MERKEZ (REDİFLER)",
+    "lat": 40.9676,
+    "lon": 31.46283
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "MERKEZ (TIRAŞLAR)",
+    "ad": "MERKEZ (TIRAŞLAR)",
+    "lat": 40.97082,
+    "lon": 31.43421
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "MERKEZ (YENİYER)",
+    "ad": "MERKEZ (YENİYER)",
+    "lat": 41.00165,
+    "lon": 31.35833
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "ORHANGAZİ",
+    "ad": "ORHANGAZİ",
+    "lat": 40.96092,
+    "lon": 31.44267
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "ORTA (AKSAKLAR)",
+    "ad": "ORTA (AKSAKLAR)",
+    "lat": 41.01929,
+    "lon": 31.49875
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "ORTA (HOCAKÖY)",
+    "ad": "ORTA (HOCAKÖY)",
+    "lat": 41.00354,
+    "lon": 31.59412
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "OSMANCIK (YILGIN)",
+    "ad": "OSMANCIK (YILGIN)",
+    "lat": 40.98105,
+    "lon": 31.40665
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "PINARCIK (KOCAOĞLU)",
+    "ad": "PINARCIK (KOCAOĞLU)",
+    "lat": 40.972,
+    "lon": 31.27088
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "RESULLER (ÇUKURÖREN)",
+    "ad": "RESULLER (ÇUKURÖREN)",
+    "lat": 40.97339,
+    "lon": 31.5617
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "SALAVAT (KIRIK)",
+    "ad": "SALAVAT (KIRIK)",
+    "lat": 40.94619,
+    "lon": 31.35604
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "SETLİK (GERİŞ)",
+    "ad": "SETLİK (GERİŞ)",
+    "lat": 40.93481,
+    "lon": 31.35701
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "ŞABAN (GÖKÇEAĞAÇ)",
+    "ad": "ŞABAN (GÖKÇEAĞAÇ)",
+    "lat": 40.94821,
+    "lon": 31.4281
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "ŞABANLAR (GÖKÇEAĞAÇ)",
+    "ad": "ŞABANLAR (GÖKÇEAĞAÇ)",
+    "lat": 40.95347,
+    "lon": 31.43732
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "ŞERENALTI (NAŞLAR)",
+    "ad": "ŞERENALTI (NAŞLAR)",
+    "lat": 40.96542,
+    "lon": 31.38995
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "TAVUKPINARI (ÇAMLI)",
+    "ad": "TAVUKPINARI (ÇAMLI)",
+    "lat": 40.97869,
+    "lon": 31.2877
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "TURNACILAR (AKÇAÖREN)",
+    "ad": "TURNACILAR (AKÇAÖREN)",
+    "lat": 40.9296,
+    "lon": 31.26954
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "VAYISLAR (DOĞANLAR)",
+    "ad": "VAYISLAR (DOĞANLAR)",
+    "lat": 40.97049,
+    "lon": 31.48958
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "YAPLAR (KARAKAŞ)",
+    "ad": "YAPLAR (KARAKAŞ)",
+    "lat": 40.99007,
+    "lon": 31.5832
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "YÖRÜKLER (GÖKÇEAĞAÇ)",
+    "ad": "YÖRÜKLER (GÖKÇEAĞAÇ)",
+    "lat": 40.95591,
+    "lon": 31.43408
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "YUKARI AKÇAÖREN (KOCAOĞLU)",
+    "ad": "YUKARI AKÇAÖREN (KOCAOĞLU)",
+    "lat": 40.9691,
+    "lon": 31.31575
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "YUKARI (ÇAMLI)",
+    "ad": "YUKARI (ÇAMLI)",
+    "lat": 40.98531,
+    "lon": 31.31615
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "YUKARI (HACILAR)",
+    "ad": "YUKARI (HACILAR)",
+    "lat": 41.0301,
+    "lon": 31.52954
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "YUKARI (HOCAKÖY)",
+    "ad": "YUKARI (HOCAKÖY)",
+    "lat": 41.03298,
+    "lon": 31.6712
+  },
+  {
+    "il": "Düzce",
+    "ilce": "YIĞILCA",
+    "mahalle": "YUKARI (YILGIN)",
+    "ad": "YUKARI (YILGIN)",
+    "lat": 41.00486,
+    "lon": 31.39439
+  }
+]

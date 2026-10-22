@@ -1,1 +1,3514 @@
-[{"il":"Hakkari","ilce":"ÇUKURCA","mahalle":"AŞAĞI AKKAYA KÖYÜ (AKKAYA)","ad":"AŞAĞI AKKAYA KÖYÜ (AKKAYA)","lat":37.36382,"lon":43.48309},{"il":"Hakkari","ilce":"ÇUKURCA","mahalle":"CUMHURİYET","ad":"CUMHURİYET","lat":37.25856,"lon":43.61665},{"il":"Hakkari","ilce":"ÇUKURCA","mahalle":"ÇELTİK (KAYALIK)","ad":"ÇELTİK (KAYALIK)","lat":37.31193,"lon":43.6931},{"il":"Hakkari","ilce":"ÇUKURCA","mahalle":"ÇİMENLİ (GÜNDEŞ)","ad":"ÇİMENLİ (GÜNDEŞ)","lat":37.33593,"lon":43.50436},{"il":"Hakkari","ilce":"ÇUKURCA","mahalle":"EMİRŞABAN","ad":"EMİRŞABAN","lat":37.25604,"lon":43.59124},{"il":"Hakkari","ilce":"ÇUKURCA","mahalle":"GUZELDERE (GÜNDEŞ)","ad":"GUZELDERE (GÜNDEŞ)","lat":37.28088,"lon":43.49928},{"il":"Hakkari","ilce":"ÇUKURCA","mahalle":"KAYNAK (KAYALIK)","ad":"KAYNAK (KAYALIK)","lat":37.34204,"lon":43.65176},{"il":"Hakkari","ilce":"ÇUKURCA","mahalle":"KÖPRÜLÜ (GÜNDEŞ)","ad":"KÖPRÜLÜ (GÜNDEŞ)","lat":37.3249,"lon":43.5534},{"il":"Hakkari","ilce":"ÇUKURCA","mahalle":"KÖYÜN KENDISI (CEVİZLİ)","ad":"KÖYÜN KENDISI (CEVİZLİ)","lat":37.37795,"lon":43.71842},{"il":"Hakkari","ilce":"ÇUKURCA","mahalle":"KÖYÜN KENDİSİ (GÜNDEŞ)","ad":"KÖYÜN KENDİSİ (GÜNDEŞ)","lat":37.33146,"lon":43.50395},{"il":"Hakkari","ilce":"ÇUKURCA","mahalle":"KÖYÜN KENDİSİ (KAYALIK)","ad":"KÖYÜN KENDİSİ (KAYALIK)","lat":37.36892,"lon":43.65572},{"il":"Hakkari","ilce":"ÇUKURCA","mahalle":"KÖYÜN KENDİSİ (KAZAN)","ad":"KÖYÜN KENDİSİ (KAZAN)","lat":37.31575,"lon":43.6419},{"il":"Hakkari","ilce":"ÇUKURCA","mahalle":"KÖYÜN KENDİSİ (NARLI)","ad":"KÖYÜN KENDİSİ (NARLI)","lat":37.34279,"lon":43.6024},{"il":"Hakkari","ilce":"ÇUKURCA","mahalle":"KÖYÜN KENDİSİ (ÜZÜMLÜ)","ad":"KÖYÜN KENDİSİ (ÜZÜMLÜ)","lat":37.25475,"lon":43.55859},{"il":"Hakkari","ilce":"ÇUKURCA","mahalle":"MEŞELİ (KAYALIK)","ad":"MEŞELİ (KAYALIK)","lat":37.36599,"lon":43.65549},{"il":"Hakkari","ilce":"ÇUKURCA","mahalle":"ORMANLI (GÜNDEŞ)","ad":"ORMANLI (GÜNDEŞ)","lat":37.32004,"lon":43.41745},{"il":"Hakkari","ilce":"ÇUKURCA","mahalle":"SARİYER (AKKAYA)","ad":"SARİYER (AKKAYA)","lat":37.35998,"lon":43.50644},{"il":"Hakkari","ilce":"ÇUKURCA","mahalle":"YEŞİL ÇEŞME","ad":"YEŞİL ÇEŞME","lat":37.26493,"lon":43.62749},{"il":"Hakkari","ilce":"ÇUKURCA","mahalle":"YUKARIAKKAYA (AKKAYA)","ad":"YUKARIAKKAYA (AKKAYA)","lat":37.40765,"lon":43.41136},{"il":"Hakkari","ilce":"DERECİK","mahalle":"AKÖREN (USLU)","ad":"AKÖREN (USLU)","lat":37.10057,"lon":44.40787},{"il":"Hakkari","ilce":"DERECİK","mahalle":"ARALIK (GELİŞEN)","ad":"ARALIK (GELİŞEN)","lat":37.10022,"lon":44.4487},{"il":"Hakkari","ilce":"DERECİK","mahalle":"BALKAYA","ad":"BALKAYA","lat":37.06749,"lon":44.25535},{"il":"Hakkari","ilce":"DERECİK","mahalle":"BEŞİKAĞAÇ (ANADAĞ)","ad":"BEŞİKAĞAÇ (ANADAĞ)","lat":37.00755,"lon":44.30334},{"il":"Hakkari","ilce":"DERECİK","mahalle":"BÖLEK (ANADAĞ)","ad":"BÖLEK (ANADAĞ)","lat":37.03408,"lon":44.31902},{"il":"Hakkari","ilce":"DERECİK","mahalle":"GÖKÇETAŞ (ANADAĞ)","ad":"GÖKÇETAŞ (ANADAĞ)","lat":37.03657,"lon":44.33228},{"il":"Hakkari","ilce":"DERECİK","mahalle":"GÜNEY","ad":"GÜNEY","lat":37.04448,"lon":44.3382},{"il":"Hakkari","ilce":"DERECİK","mahalle":"GÜRMEŞE","ad":"GÜRMEŞE","lat":37.08146,"lon":44.30162},{"il":"Hakkari","ilce":"DERECİK","mahalle":"HACIBEY","ad":"HACIBEY","lat":37.03611,"lon":44.35376},{"il":"Hakkari","ilce":"DERECİK","mahalle":"KARAKOÇ (GELİŞEN)","ad":"KARAKOÇ (GELİŞEN)","lat":37.09749,"lon":44.50556},{"il":"Hakkari","ilce":"DERECİK","mahalle":"KORYÜREK (GELİŞEN)","ad":"KORYÜREK (GELİŞEN)","lat":37.04869,"lon":44.41125},{"il":"Hakkari","ilce":"DERECİK","mahalle":"KÖYÜN KENDİSİ (GELİŞEN)","ad":"KÖYÜN KENDİSİ (GELİŞEN)","lat":37.12784,"lon":44.42762},{"il":"Hakkari","ilce":"DERECİK","mahalle":"KÖYÜN KENDİSİ (ORTAKLAR)","ad":"KÖYÜN KENDİSİ (ORTAKLAR)","lat":37.15654,"lon":44.42033},{"il":"Hakkari","ilce":"DERECİK","mahalle":"KÖYÜN KENDİSİ (USLU)","ad":"KÖYÜN KENDİSİ (USLU)","lat":37.14387,"lon":44.4054},{"il":"Hakkari","ilce":"DERECİK","mahalle":"KÜTÜKLÜ (GELİŞEN)","ad":"KÜTÜKLÜ (GELİŞEN)","lat":37.12693,"lon":44.44843},{"il":"Hakkari","ilce":"DERECİK","mahalle":"MERKEZ","ad":"MERKEZ","lat":37.09538,"lon":44.29181},{"il":"Hakkari","ilce":"DERECİK","mahalle":"MORDAĞ (GELİŞEN)","ad":"MORDAĞ (GELİŞEN)","lat":37.07721,"lon":44.48201},{"il":"Hakkari","ilce":"DERECİK","mahalle":"ORTA","ad":"ORTA","lat":37.06323,"lon":44.31328},{"il":"Hakkari","ilce":"DERECİK","mahalle":"ÖRENCİK (ORTAKLAR)","ad":"ÖRENCİK (ORTAKLAR)","lat":37.16089,"lon":44.43358},{"il":"Hakkari","ilce":"DERECİK","mahalle":"RİZE","ad":"RİZE","lat":37.03803,"lon":44.24421},{"il":"Hakkari","ilce":"DERECİK","mahalle":"SERHATKALE (GELİŞEN)","ad":"SERHATKALE (GELİŞEN)","lat":37.08634,"lon":44.44555},{"il":"Hakkari","ilce":"DERECİK","mahalle":"SU ÇIKTI (GELİŞEN)","ad":"SU ÇIKTI (GELİŞEN)","lat":37.06718,"lon":44.45229},{"il":"Hakkari","ilce":"DERECİK","mahalle":"TAŞLIÇAY (USLU)","ad":"TAŞLIÇAY (USLU)","lat":37.09002,"lon":44.37386},{"il":"Hakkari","ilce":"DERECİK","mahalle":"ULAŞAN (USLU)","ad":"ULAŞAN (USLU)","lat":37.1672,"lon":44.45458},{"il":"Hakkari","ilce":"DERECİK","mahalle":"ÜÇYAN","ad":"ÜÇYAN","lat":37.09753,"lon":44.18438},{"il":"Hakkari","ilce":"DERECİK","mahalle":"VAPURTEPE","ad":"VAPURTEPE","lat":37.14913,"lon":44.37008},{"il":"Hakkari","ilce":"DERECİK","mahalle":"YEŞİLOVA (ANADAĞ)","ad":"YEŞİLOVA (ANADAĞ)","lat":37.02537,"lon":44.36446},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"1.HARPUT (AŞAĞI DERECİK)","ad":"1.HARPUT (AŞAĞI DERECİK)","lat":37.61386,"lon":43.86178},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"2.HARPUT (AŞAĞI DERECİK)","ad":"2.HARPUT (AŞAĞI DERECİK)","lat":37.62794,"lon":43.86869},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"AĞAÇSIZ (OĞUL)","ad":"AĞAÇSIZ (OĞUL)","lat":37.49208,"lon":43.75342},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"ARMUTLU MEZRASI (KAVAKLI)","ad":"ARMUTLU MEZRASI (KAVAKLI)","lat":37.50077,"lon":43.48585},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"AŞAĞI KAYACIK (BAĞIŞLI)","ad":"AŞAĞI KAYACIK (BAĞIŞLI)","lat":37.73258,"lon":44.03529},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"AŞAĞIKIRBAŞI (KIRIKDAĞ)","ad":"AŞAĞIKIRBAŞI (KIRIKDAĞ)","lat":37.58418,"lon":43.88006},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"AŞAĞI OTLUCA (OTLUCA)","ad":"AŞAĞI OTLUCA (OTLUCA)","lat":37.59033,"lon":43.70638},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"AYRANLI (PINARCA)","ad":"AYRANLI (PINARCA)","lat":37.64934,"lon":43.54341},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"BAĞLAR","ad":"BAĞLAR","lat":37.56308,"lon":43.73884},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"BAĞLARBAŞI","ad":"BAĞLARBAŞI","lat":37.55439,"lon":43.53392},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"BAĞLAR (DOĞANYURT)","ad":"BAĞLAR (DOĞANYURT)","lat":37.71177,"lon":43.95891},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"BAHÇELİ (GEÇİMLİ)","ad":"BAHÇELİ (GEÇİMLİ)","lat":37.4299,"lon":43.5191},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"BAHİ (AĞAÇDİBİ)","ad":"BAHİ (AĞAÇDİBİ)","lat":37.57523,"lon":43.77446},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"BERÇELAN","ad":"BERÇELAN","lat":37.58052,"lon":43.74578},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"BİÇENEK","ad":"BİÇENEK","lat":37.53584,"lon":43.61078},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"BİÇER","ad":"BİÇER","lat":37.56689,"lon":43.73795},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"BOĞAZLI (DOĞANYURT)","ad":"BOĞAZLI (DOĞANYURT)","lat":37.71988,"lon":43.92989},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"BOYBEYİ","ad":"BOYBEYİ","lat":37.77219,"lon":44.01894},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"BUDAKLI (BAĞIŞLI)","ad":"BUDAKLI (BAĞIŞLI)","lat":37.7617,"lon":44.01228},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"BULAK","ad":"BULAK","lat":37.58504,"lon":43.7362},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"CUMHURİYET","ad":"CUMHURİYET","lat":37.54815,"lon":43.63797},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"ÇAVUŞLU (IŞIKLAR)","ad":"ÇAVUŞLU (IŞIKLAR)","lat":37.78206,"lon":43.87553},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"ÇAYLICA","ad":"ÇAYLICA","lat":37.60178,"lon":43.64259},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"ÇETİNTAŞ (AKKUŞ)","ad":"ÇETİNTAŞ (AKKUŞ)","lat":37.64171,"lon":43.51692},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"DAĞGÖL","ad":"DAĞGÖL","lat":37.57388,"lon":43.73622},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"DAĞ KOMANDO TUGAYI (OTLUCA)","ad":"DAĞ KOMANDO TUGAYI (OTLUCA)","lat":37.60018,"lon":43.70013},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"DEMİRLİMEZ (AKBULUT)","ad":"DEMİRLİMEZ (AKBULUT)","lat":37.62701,"lon":43.86312},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"DEREBOYU (OTLUCA)","ad":"DEREBOYU (OTLUCA)","lat":37.59439,"lon":43.7147},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"DEREN (ÜZÜMCÜ)","ad":"DEREN (ÜZÜMCÜ)","lat":37.47473,"lon":43.5654},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"DEREŞABAN (KIRIKDAĞ)","ad":"DEREŞABAN (KIRIKDAĞ)","lat":37.58177,"lon":43.87659},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"DEREÜSTÜ (ÜZÜMCÜ)","ad":"DEREÜSTÜ (ÜZÜMCÜ)","lat":37.51567,"lon":43.59936},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"DEZ (AŞAĞI DERECİK)","ad":"DEZ (AŞAĞI DERECİK)","lat":37.6074,"lon":43.86674},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"DİKİLİTAŞ (BOYBEYİ)","ad":"DİKİLİTAŞ (BOYBEYİ)","lat":37.78378,"lon":44.08798},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"DİKMEN (AŞAĞI DERECİK)","ad":"DİKMEN (AŞAĞI DERECİK)","lat":37.60765,"lon":43.86831},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"DİLEK (OĞUL)","ad":"DİLEK (OĞUL)","lat":37.40951,"lon":43.68974},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"DOĞANLI (CEYLANLI)","ad":"DOĞANLI (CEYLANLI)","lat":37.46273,"lon":43.51614},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"EĞERCİK (AKÇALI)","ad":"EĞERCİK (AKÇALI)","lat":37.71852,"lon":43.98203},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"ELMACIK","ad":"ELMACIK","lat":37.57773,"lon":43.4609},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"ESKİ ÖRDEKLİ (ÖRDEKLİ)","ad":"ESKİ ÖRDEKLİ (ÖRDEKLİ)","lat":37.77773,"lon":43.76264},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"GAZİ","ad":"GAZİ","lat":37.5812,"lon":43.7358},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"GELİNLİ (CEYLANLI)","ad":"GELİNLİ (CEYLANLI)","lat":37.45321,"lon":43.64285},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"GİPE (CEYLANLI)","ad":"GİPE (CEYLANLI)","lat":37.45651,"lon":43.61176},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"GÖZE (OĞUL)","ad":"GÖZE (OĞUL)","lat":37.41959,"lon":43.81079},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"GÜZEL (OTLUCA)","ad":"GÜZEL (OTLUCA)","lat":37.58919,"lon":43.70718},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"HALİFE DERVİŞ","ad":"HALİFE DERVİŞ","lat":37.57101,"lon":43.7443},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"HENDEK (PINARCA)","ad":"HENDEK (PINARCA)","lat":37.70948,"lon":43.53431},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"ILICA (OĞUL)","ad":"ILICA (OĞUL)","lat":37.48741,"lon":43.76214},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"İNCİR (GEÇİMLİ)","ad":"İNCİR (GEÇİMLİ)","lat":37.37609,"lon":43.527},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KANATLI (AKÇALI)","ad":"KANATLI (AKÇALI)","lat":37.70599,"lon":43.98595},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KARŞIYAKA","ad":"KARŞIYAKA","lat":37.58411,"lon":43.73152},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KEKLİKPINAR","ad":"KEKLİKPINAR","lat":37.56182,"lon":43.75231},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KIRAN","ad":"KIRAN","lat":37.5805,"lon":43.75354},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KOÇLU (KAYMAKLI)","ad":"KOÇLU (KAYMAKLI)","lat":37.73113,"lon":43.8073},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KÖPRÜCÜK (OTLUCA)","ad":"KÖPRÜCÜK (OTLUCA)","lat":37.60592,"lon":43.73254},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KÖYCEYİZ (KAMIŞLI)","ad":"KÖYCEYİZ (KAMIŞLI)","lat":37.56918,"lon":43.54395},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KÖYİÇİ","ad":"KÖYİÇİ","lat":37.60808,"lon":43.63473},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KÖYÜN KENDISI (CEVİZDİBİ)","ad":"KÖYÜN KENDISI (CEVİZDİBİ)","lat":37.52431,"lon":43.45855},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KÖYÜN KENDISI (ÇİMENLİ)","ad":"KÖYÜN KENDISI (ÇİMENLİ)","lat":37.48413,"lon":43.67877},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KÖYÜN KENDISI (PINARCA)","ad":"KÖYÜN KENDISI (PINARCA)","lat":37.70467,"lon":43.57868},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KÖYÜN KENDISI (TAŞBAŞI)","ad":"KÖYÜN KENDISI (TAŞBAŞI)","lat":37.40674,"lon":43.50078},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (AĞAÇDİBİ)","ad":"KÖYÜN KENDİSİ (AĞAÇDİBİ)","lat":37.51798,"lon":43.7889},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (AKBULUT)","ad":"KÖYÜN KENDİSİ (AKBULUT)","lat":37.7275,"lon":43.85174},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (AKÇALI)","ad":"KÖYÜN KENDİSİ (AKÇALI)","lat":37.71536,"lon":43.98581},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (AKKUŞ)","ad":"KÖYÜN KENDİSİ (AKKUŞ)","lat":37.642,"lon":43.5144},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (AKSU)","ad":"KÖYÜN KENDİSİ (AKSU)","lat":37.70024,"lon":43.65683},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (AŞAĞI DERECİK)","ad":"KÖYÜN KENDİSİ (AŞAĞI DERECİK)","lat":37.63786,"lon":43.93314},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (BAĞIŞLI)","ad":"KÖYÜN KENDİSİ (BAĞIŞLI)","lat":37.7219,"lon":44.06426},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (BAYKÖY)","ad":"KÖYÜN KENDİSİ (BAYKÖY)","lat":37.55829,"lon":43.70158},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (BOYBEYİ)","ad":"KÖYÜN KENDİSİ (BOYBEYİ)","lat":37.79536,"lon":44.04422},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (ÇALTIKORU)","ad":"KÖYÜN KENDİSİ (ÇALTIKORU)","lat":37.78873,"lon":43.84259},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (ÇANAKLI)","ad":"KÖYÜN KENDİSİ (ÇANAKLI)","lat":37.34986,"lon":43.90293},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (DEMİRTAŞ)","ad":"KÖYÜN KENDİSİ (DEMİRTAŞ)","lat":37.73342,"lon":43.98592},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (DOĞANYURT)","ad":"KÖYÜN KENDİSİ (DOĞANYURT)","lat":37.71954,"lon":43.93124},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (GEÇİTLİ)","ad":"KÖYÜN KENDİSİ (GEÇİTLİ)","lat":37.5616,"lon":43.55136},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (IŞIK)","ad":"KÖYÜN KENDİSİ (IŞIK)","lat":37.63788,"lon":43.53428},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (IŞIKLAR)","ad":"KÖYÜN KENDİSİ (IŞIKLAR)","lat":37.77253,"lon":43.90064},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (KAVAKLI)","ad":"KÖYÜN KENDİSİ (KAVAKLI)","lat":37.53688,"lon":43.41757},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (KAYMAKLI)","ad":"KÖYÜN KENDİSİ (KAYMAKLI)","lat":37.75075,"lon":43.81733},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (KIRIKDAĞ)","ad":"KÖYÜN KENDİSİ (KIRIKDAĞ)","lat":37.61106,"lon":43.8556},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (OLGUNLAR)","ad":"KÖYÜN KENDİSİ (OLGUNLAR)","lat":37.476,"lon":43.53128},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (ÜZÜMCÜ)","ad":"KÖYÜN KENDİSİ (ÜZÜMCÜ)","lat":37.51712,"lon":43.5482},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (YONCALI)","ad":"KÖYÜN KENDİSİ (YONCALI)","lat":37.42124,"lon":43.33645},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KÜÇÜKKÖŞK (IŞIKLAR)","ad":"KÜÇÜKKÖŞK (IŞIKLAR)","lat":37.74764,"lon":43.93831},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"KÜRÜM (SARITAŞ)","ad":"KÜRÜM (SARITAŞ)","lat":37.75688,"lon":44.05018},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"MEDRESE","ad":"MEDRESE","lat":37.57055,"lon":43.74479},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"MERKEZ (KAMIŞLI)","ad":"MERKEZ (KAMIŞLI)","lat":37.55452,"lon":43.53419},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"MERZAN","ad":"MERZAN","lat":37.57053,"lon":43.71768},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"MUSAHAN (BAĞIŞLI)","ad":"MUSAHAN (BAĞIŞLI)","lat":37.76431,"lon":44.07808},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"MUSAHAN (SARITAŞ)","ad":"MUSAHAN (SARITAŞ)","lat":37.76369,"lon":44.08064},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"OĞULCUL (BAĞIŞLI)","ad":"OĞULCUL (BAĞIŞLI)","lat":37.75163,"lon":44.07947},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"OĞURLU (PINARCA)","ad":"OĞURLU (PINARCA)","lat":37.64516,"lon":43.54592},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"OLUKLU (DEMİRTAŞ)","ad":"OLUKLU (DEMİRTAŞ)","lat":37.75252,"lon":43.936},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"OTLUBEL (OTLUCA)","ad":"OTLUBEL (OTLUCA)","lat":37.69304,"lon":43.66445},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"OTLUCA DAĞ KOMANDO TOGAYI (OTLUCA)","ad":"OTLUCA DAĞ KOMANDO TOGAYI (OTLUCA)","lat":37.59898,"lon":43.70693},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"OTLUCA DAĞ KOMKANDO TUGAYI (OTLUCA)","ad":"OTLUCA DAĞ KOMKANDO TUGAYI (OTLUCA)","lat":37.60067,"lon":43.70325},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"OTLUCAOSB","ad":"OTLUCAOSB","lat":37.60985,"lon":43.67275},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"ÖĞRENCİK (DEMİRTAŞ)","ad":"ÖĞRENCİK (DEMİRTAŞ)","lat":37.74033,"lon":43.97586},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"PEHLİVAN","ad":"PEHLİVAN","lat":37.5809,"lon":43.72709},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"PINARBAŞI","ad":"PINARBAŞI","lat":37.65349,"lon":43.62863},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"REZ (KIRIKDAĞ)","ad":"REZ (KIRIKDAĞ)","lat":37.6145,"lon":43.8527},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"SARIGÜL (PINARCA)","ad":"SARIGÜL (PINARCA)","lat":37.65589,"lon":43.55879},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"SARIKAYA (OTLUCA)","ad":"SARIKAYA (OTLUCA)","lat":37.60152,"lon":43.68286},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"SARITAŞ BAĞLISI (SARITAŞ)","ad":"SARITAŞ BAĞLISI (SARITAŞ)","lat":37.78108,"lon":44.08736},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"SERANÜS (AŞAĞI DERECİK)","ad":"SERANÜS (AŞAĞI DERECİK)","lat":37.61104,"lon":43.88704},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"STOKA (OLGUNLAR)","ad":"STOKA (OLGUNLAR)","lat":37.48738,"lon":43.54955},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"SULAK (AŞAĞI DERECİK)","ad":"SULAK (AŞAĞI DERECİK)","lat":37.58863,"lon":43.89644},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"SU OCAĞI (DOĞANYURT)","ad":"SU OCAĞI (DOĞANYURT)","lat":37.74684,"lon":43.94009},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"SÜMBÜL","ad":"SÜMBÜL","lat":37.57812,"lon":43.76282},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"SÜTÇÜLER (CEYLANLI)","ad":"SÜTÇÜLER (CEYLANLI)","lat":37.43623,"lon":43.60513},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"SÜTLÜCE (KAYMAKLI)","ad":"SÜTLÜCE (KAYMAKLI)","lat":37.78219,"lon":43.78436},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"TAŞLICA IŞIK (PINARCA)","ad":"TAŞLICA IŞIK (PINARCA)","lat":37.65504,"lon":43.6193},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"TEPECİK (IŞIK)","ad":"TEPECİK (IŞIK)","lat":37.63673,"lon":43.55498},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"TRAFİK (AŞAĞI DERECİK)","ad":"TRAFİK (AŞAĞI DERECİK)","lat":37.59859,"lon":43.88916},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"TÜMSEK (OTLUCA)","ad":"TÜMSEK (OTLUCA)","lat":37.60566,"lon":43.71734},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"UYANIK (OTLUCA)","ad":"UYANIK (OTLUCA)","lat":37.62891,"lon":43.74818},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"YAĞMURLU (DEMİRTAŞ)","ad":"YAĞMURLU (DEMİRTAŞ)","lat":37.78476,"lon":43.97632},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"YAPRAKLI (IŞIK)","ad":"YAPRAKLI (IŞIK)","lat":37.62017,"lon":43.55717},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"YENİ","ad":"YENİ","lat":37.57665,"lon":43.66509},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"YENİ (KIRIKDAĞ)","ad":"YENİ (KIRIKDAĞ)","lat":37.61676,"lon":43.85982},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"YENİ OĞUL (OĞUL)","ad":"YENİ OĞUL (OĞUL)","lat":37.44876,"lon":43.81227},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"YENİ (OLGUNLAR)","ad":"YENİ (OLGUNLAR)","lat":37.4744,"lon":43.54268},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"YENİ (ÖRDEKLİ)","ad":"YENİ (ÖRDEKLİ)","lat":37.72658,"lon":43.76734},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"YENİYOL (AKÇALI)","ad":"YENİYOL (AKÇALI)","lat":37.73057,"lon":43.9886},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"YENİYOL (PINARCA)","ad":"YENİYOL (PINARCA)","lat":37.64188,"lon":43.53981},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"YEŞİLBULAK (BOYBEYİ)","ad":"YEŞİLBULAK (BOYBEYİ)","lat":37.7945,"lon":44.07011},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"YIĞINLI (CEYLANLI)","ad":"YIĞINLI (CEYLANLI)","lat":37.3638,"lon":43.60976},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"YUKARI ÇALTIKORU (ÇALTIKORU)","ad":"YUKARI ÇALTIKORU (ÇALTIKORU)","lat":37.78359,"lon":43.82647},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"YUKARI DERECİK (AŞAĞI DERECİK)","ad":"YUKARI DERECİK (AŞAĞI DERECİK)","lat":37.63703,"lon":43.88138},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"YUKARI DERELİ (OLGUNLAR)","ad":"YUKARI DERELİ (OLGUNLAR)","lat":37.49343,"lon":43.5016},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"YUKARI KAYACIK (BAĞIŞLI)","ad":"YUKARI KAYACIK (BAĞIŞLI)","lat":37.75634,"lon":44.03748},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"YUKARI OTLUCA (OTLUCA)","ad":"YUKARI OTLUCA (OTLUCA)","lat":37.6111,"lon":43.67982},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"YUMRUKAYA (AKBULUT)","ad":"YUMRUKAYA (AKBULUT)","lat":37.71926,"lon":43.89789},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"YÜCE (AŞAĞI DERECİK)","ad":"YÜCE (AŞAĞI DERECİK)","lat":37.54906,"lon":43.98747},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"ZAVİTE (KONAK)","ad":"ZAVİTE (KONAK)","lat":37.66709,"lon":43.83303},{"il":"Hakkari","ilce":"MERKEZ","mahalle":"ZAVİTE MEZRASI (KONAK)","ad":"ZAVİTE MEZRASI (KONAK)","lat":37.63146,"lon":43.85146},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"AKBAL (KORGAN)","ad":"AKBAL (KORGAN)","lat":37.37575,"lon":44.53376},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"AKKAVAK (KORGAN)","ad":"AKKAVAK (KORGAN)","lat":37.38338,"lon":44.50237},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"AKTÜTÜN (KONUR)","ad":"AKTÜTÜN (KONUR)","lat":37.19889,"lon":44.32999},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"ALKAVA (KORGAN)","ad":"ALKAVA (KORGAN)","lat":37.39726,"lon":44.52065},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"AŞAĞI KAYACIK (BOĞAZKÖY)","ad":"AŞAĞI KAYACIK (BOĞAZKÖY)","lat":37.2825,"lon":44.45582},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"AŞAĞI KORGAN (KORGAN)","ad":"AŞAĞI KORGAN (KORGAN)","lat":37.40067,"lon":44.51384},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"AŞAĞI TUĞLU (YUFKALI)","ad":"AŞAĞI TUĞLU (YUFKALI)","lat":37.419,"lon":44.51976},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"BALIKLI (TEKELİ)","ad":"BALIKLI (TEKELİ)","lat":37.23395,"lon":44.6336},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"BALOVA (KORGAN)","ad":"BALOVA (KORGAN)","lat":37.43348,"lon":44.48854},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"BEŞEVLER","ad":"BEŞEVLER","lat":37.31813,"lon":44.56587},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"BEYTERA (BAĞLAR)","ad":"BEYTERA (BAĞLAR)","lat":37.27874,"lon":44.54197},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"BİNAHERE (YUFKALI)","ad":"BİNAHERE (YUFKALI)","lat":37.40405,"lon":44.50981},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"ÇALIŞKANLAR","ad":"ÇALIŞKANLAR","lat":37.25496,"lon":44.64266},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"ÇAMLICA (BAĞLAR)","ad":"ÇAMLICA (BAĞLAR)","lat":37.32183,"lon":44.51215},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"ÇEM (BAĞLAR)","ad":"ÇEM (BAĞLAR)","lat":37.27487,"lon":44.53403},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"ÇEM (BOĞAZKÖY)","ad":"ÇEM (BOĞAZKÖY)","lat":37.30166,"lon":44.45403},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"ÇEVRE (KORGAN)","ad":"ÇEVRE (KORGAN)","lat":37.41447,"lon":44.46616},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"DERAVİ (BOZYAMAÇ)","ad":"DERAVİ (BOZYAMAÇ)","lat":37.37393,"lon":44.45579},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"DEREBOYU (ALTINSU)","ad":"DEREBOYU (ALTINSU)","lat":37.36127,"lon":44.53436},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"DEREYANI (KONUR)","ad":"DEREYANI (KONUR)","lat":37.27999,"lon":44.31142},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"DİNARTE (ÇUBUKLU)","ad":"DİNARTE (ÇUBUKLU)","lat":37.32098,"lon":44.44872},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"DURAK (KORGAN)","ad":"DURAK (KORGAN)","lat":37.39418,"lon":44.54373},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"ELDE (ALTINSU)","ad":"ELDE (ALTINSU)","lat":37.32558,"lon":44.57423},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"ELMALI (YUFKALI)","ad":"ELMALI (YUFKALI)","lat":37.47642,"lon":44.52243},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"ERDEMLİ (ÇATALCA)","ad":"ERDEMLİ (ÇATALCA)","lat":37.3635,"lon":44.62558},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"ERİKLİ (KAYALAR)","ad":"ERİKLİ (KAYALAR)","lat":37.31447,"lon":44.67049},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"GÜLEÇ (TÜTÜNLÜ)","ad":"GÜLEÇ (TÜTÜNLÜ)","lat":37.22605,"lon":44.57207},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"GÜVENLİ (ÇATALCA)","ad":"GÜVENLİ (ÇATALCA)","lat":37.39092,"lon":44.60659},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"GÜZELKAYA (BAĞLAR)","ad":"GÜZELKAYA (BAĞLAR)","lat":37.2768,"lon":44.53079},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"GÜZELKONAK (KORGAN)","ad":"GÜZELKONAK (KORGAN)","lat":37.39859,"lon":44.48077},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"HARMANLI (ÖVEÇ)","ad":"HARMANLI (ÖVEÇ)","lat":37.32757,"lon":44.50465},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"HAZNE (ÇALIŞKANLAR)","ad":"HAZNE (ÇALIŞKANLAR)","lat":37.25931,"lon":44.62866},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"HUSROVA (KAYALAR)","ad":"HUSROVA (KAYALAR)","lat":37.28777,"lon":44.67189},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"İNCESU (ALTINSU)","ad":"İNCESU (ALTINSU)","lat":37.33194,"lon":44.62333},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"KARAAĞAÇ (ÖVEÇ)","ad":"KARAAĞAÇ (ÖVEÇ)","lat":37.36173,"lon":44.53725},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"KARŞIYAKA","ad":"KARŞIYAKA","lat":37.30833,"lon":44.57101},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"KEPENEK (ÇALIŞKANLAR)","ad":"KEPENEK (ÇALIŞKANLAR)","lat":37.22662,"lon":44.608},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"KOÇBAŞI (ÇALIŞKANLAR)","ad":"KOÇBAŞI (ÇALIŞKANLAR)","lat":37.24299,"lon":44.60808},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"KOLİTA (ÇUBUKLU)","ad":"KOLİTA (ÇUBUKLU)","lat":37.35086,"lon":44.45855},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"KÖYÜN KENDİSİ (ALAN)","ad":"KÖYÜN KENDİSİ (ALAN)","lat":37.32782,"lon":44.76158},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"KÖYÜN KENDİSİ (BAĞLAR)","ad":"KÖYÜN KENDİSİ (BAĞLAR)","lat":37.29336,"lon":44.53926},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"KÖYÜN KENDİSİ (BEYYURDU)","ad":"KÖYÜN KENDİSİ (BEYYURDU)","lat":37.34026,"lon":44.43613},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"KÖYÜN KENDİSİ (BOZYAMAÇ)","ad":"KÖYÜN KENDİSİ (BOZYAMAÇ)","lat":37.37315,"lon":44.45578},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"KÖYÜN KENDİSİ (ÇATALCA)","ad":"KÖYÜN KENDİSİ (ÇATALCA)","lat":37.37805,"lon":44.57077},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"KÖYÜN KENDİSİ (ÇUBUKLU)","ad":"KÖYÜN KENDİSİ (ÇUBUKLU)","lat":37.29385,"lon":44.49085},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"KÖYÜN KENDİSİ (GÜNYAZI)","ad":"KÖYÜN KENDİSİ (GÜNYAZI)","lat":37.29328,"lon":44.63152},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"KÖYÜN KENDİSİ (KAYALAR)","ad":"KÖYÜN KENDİSİ (KAYALAR)","lat":37.31874,"lon":44.69539},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"KÖYÜN KENDİSİ (KONUR)","ad":"KÖYÜN KENDİSİ (KONUR)","lat":37.26857,"lon":44.3515},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"KÖYÜN KENDİSİ (KORGAN)","ad":"KÖYÜN KENDİSİ (KORGAN)","lat":37.3817,"lon":44.48994},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"KÖYÜN KENDİSİ (ÖVEÇ)","ad":"KÖYÜN KENDİSİ (ÖVEÇ)","lat":37.33725,"lon":44.48642},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"KÖYÜN KENDİSİ (TEKELİ)","ad":"KÖYÜN KENDİSİ (TEKELİ)","lat":37.22739,"lon":44.66397},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"KÖYÜN KENDİSİ (TÜTÜNLÜ)","ad":"KÖYÜN KENDİSİ (TÜTÜNLÜ)","lat":37.20182,"lon":44.48258},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"KÖYÜN KENDİSİ (UĞURAÇAN)","ad":"KÖYÜN KENDİSİ (UĞURAÇAN)","lat":37.24453,"lon":44.40834},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"KÖYÜN KENDİSİ (YAYLAPINAR)","ad":"KÖYÜN KENDİSİ (YAYLAPINAR)","lat":37.26882,"lon":44.46926},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"KÖYÜN KENDİSİ (YUFKALI)","ad":"KÖYÜN KENDİSİ (YUFKALI)","lat":37.40543,"lon":44.51797},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"KULA (YUFKALI)","ad":"KULA (YUFKALI)","lat":37.43448,"lon":44.54507},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"KULE (KAYALAR)","ad":"KULE (KAYALAR)","lat":37.3181,"lon":44.71579},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"MAĞARAÖNÜ (KAYALAR)","ad":"MAĞARAÖNÜ (KAYALAR)","lat":37.35664,"lon":44.72716},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"MERKEZ (ALTINSU)","ad":"MERKEZ (ALTINSU)","lat":37.3257,"lon":44.55043},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"MEŞELİ (BAĞLAR)","ad":"MEŞELİ (BAĞLAR)","lat":37.30208,"lon":44.57007},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"MEYDAN (ALTINSU)","ad":"MEYDAN (ALTINSU)","lat":37.32516,"lon":44.57469},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"MODA","ad":"MODA","lat":37.30409,"lon":44.57642},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"MUŞİ (BAĞLAR)","ad":"MUŞİ (BAĞLAR)","lat":37.27545,"lon":44.51074},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"OĞLAKLI (TEKELİ)","ad":"OĞLAKLI (TEKELİ)","lat":37.23118,"lon":44.75181},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"OLGUNLAR (GÜNYAZI)","ad":"OLGUNLAR (GÜNYAZI)","lat":37.2746,"lon":44.608},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"RÜZGARLI (BAĞLAR)","ad":"RÜZGARLI (BAĞLAR)","lat":37.26485,"lon":44.52972},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"SAMANLI (ÇALIŞKANLAR)","ad":"SAMANLI (ÇALIŞKANLAR)","lat":37.27584,"lon":44.62373},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"SARICA (KAYALAR)","ad":"SARICA (KAYALAR)","lat":37.30183,"lon":44.66603},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"SEÇKİN (KAYALAR)","ad":"SEÇKİN (KAYALAR)","lat":37.38114,"lon":44.66237},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"SOĞUKSU (ÇATALCA)","ad":"SOĞUKSU (ÇATALCA)","lat":37.41162,"lon":44.6401},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"TANYOLU (TEKELİ)","ad":"TANYOLU (TEKELİ)","lat":37.20885,"lon":44.76437},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"TATLICA (KORGAN)","ad":"TATLICA (KORGAN)","lat":37.3841,"lon":44.50425},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"TUĞLU (YUFKALI)","ad":"TUĞLU (YUFKALI)","lat":37.43614,"lon":44.57512},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"TUVA (BAĞLAR)","ad":"TUVA (BAĞLAR)","lat":37.27872,"lon":44.51554},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"TÜRE (BAĞLAR)","ad":"TÜRE (BAĞLAR)","lat":37.29638,"lon":44.50468},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"ÜÇGÖZE (ÇALIŞKANLAR)","ad":"ÜÇGÖZE (ÇALIŞKANLAR)","lat":37.27114,"lon":44.61443},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"ÜSTÜNAĞAÇ (TEKELİ)","ad":"ÜSTÜNAĞAÇ (TEKELİ)","lat":37.25078,"lon":44.67479},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"ÜZÜMKIRAN KAMPI (KORGAN)","ad":"ÜZÜMKIRAN KAMPI (KORGAN)","lat":37.37568,"lon":44.53339},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"VELİKÖY (ÇALIŞKANLAR)","ad":"VELİKÖY (ÇALIŞKANLAR)","lat":37.28813,"lon":44.63522},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"YAYLA","ad":"YAYLA","lat":37.33086,"lon":44.58734},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"YENİ","ad":"YENİ","lat":37.31093,"lon":44.58528},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"YENİCELİ (GÜNYAZI)","ad":"YENİCELİ (GÜNYAZI)","lat":37.29632,"lon":44.58878},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"YEŞİLBAYIR (UĞURAÇAN)","ad":"YEŞİLBAYIR (UĞURAÇAN)","lat":37.30876,"lon":44.37319},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"YEŞİLÖZ (ÇALIŞKANLAR)","ad":"YEŞİLÖZ (ÇALIŞKANLAR)","lat":37.29365,"lon":44.63478},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"YİĞİTLER (GÜNYAZI)","ad":"YİĞİTLER (GÜNYAZI)","lat":37.27998,"lon":44.58884},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"YUKARI KAYACIK (BOĞAZKÖY)","ad":"YUKARI KAYACIK (BOĞAZKÖY)","lat":37.28479,"lon":44.43086},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"YUKARI KAYALAR (KAYALAR)","ad":"YUKARI KAYALAR (KAYALAR)","lat":37.34038,"lon":44.67414},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"YUKARI KORGAN (KORGAN)","ad":"YUKARI KORGAN (KORGAN)","lat":37.38532,"lon":44.48883},{"il":"Hakkari","ilce":"ŞEMDİNLİ","mahalle":"ZORGEÇİT (BAĞLAR)","ad":"ZORGEÇİT (BAĞLAR)","lat":37.27452,"lon":44.50726},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"A.GÜVEÇ (KISIKLI)","ad":"A.GÜVEÇ (KISIKLI)","lat":37.65578,"lon":44.39504},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"AĞAÇLIK (ONBAŞILAR)","ad":"AĞAÇLIK (ONBAŞILAR)","lat":37.57898,"lon":44.59891},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"AĞILCIK (ONBAŞILAR)","ad":"AĞILCIK (ONBAŞILAR)","lat":37.54368,"lon":44.61824},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"AKAR (DAĞLICA)","ad":"AKAR (DAĞLICA)","lat":37.37494,"lon":44.09414},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"AKTOPRAK (ARMUTDÜZÜ)","ad":"AKTOPRAK (ARMUTDÜZÜ)","lat":37.67537,"lon":43.97604},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"ALACIK (YENİIŞIK)","ad":"ALACIK (YENİIŞIK)","lat":37.62372,"lon":44.04568},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"ALTINBAŞAK (AKPINAR)","ad":"ALTINBAŞAK (AKPINAR)","lat":37.7046,"lon":44.52121},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"A.OLUKBAŞI (AKOCAK)","ad":"A.OLUKBAŞI (AKOCAK)","lat":37.6263,"lon":44.07141},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"A.ÖLÇEK (DEĞERLİ)","ad":"A.ÖLÇEK (DEĞERLİ)","lat":37.55129,"lon":44.42078},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"ARMUTLU (ONBAŞILAR)","ad":"ARMUTLU (ONBAŞILAR)","lat":37.56874,"lon":44.5742},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"ARPALI (ARMUTDÜZÜ)","ad":"ARPALI (ARMUTDÜZÜ)","lat":37.69631,"lon":43.94982},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"BASAMAK (YENİIŞIK)","ad":"BASAMAK (YENİIŞIK)","lat":37.63783,"lon":44.02214},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"BEŞEVLER (AKPINAR)","ad":"BEŞEVLER (AKPINAR)","lat":37.75257,"lon":44.52182},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"BEŞPINAR (KARLI)","ad":"BEŞPINAR (KARLI)","lat":37.45571,"lon":44.30266},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"BULGURLU (GÜLLÜCE)","ad":"BULGURLU (GÜLLÜCE)","lat":37.6054,"lon":44.30414},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"CEVİZLİK (GÜRKAVAK)","ad":"CEVİZLİK (GÜRKAVAK)","lat":37.42923,"lon":44.19656},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"CUMHURİYET","ad":"CUMHURİYET","lat":37.56198,"lon":44.31002},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"ÇAKIRKAYA (BEŞATLI)","ad":"ÇAKIRKAYA (BEŞATLI)","lat":37.6004,"lon":44.17181},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"ÇAKIRKAY (BEŞATLI)","ad":"ÇAKIRKAY (BEŞATLI)","lat":37.64335,"lon":44.19725},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"ÇAKMAK (BEŞATLI)","ad":"ÇAKMAK (BEŞATLI)","lat":37.64355,"lon":44.19416},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"ÇALIMLI (DİLEKTAŞI)","ad":"ÇALIMLI (DİLEKTAŞI)","lat":37.73127,"lon":44.17292},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"ÇAMDALI (ONBAŞILAR)","ad":"ÇAMDALI (ONBAŞILAR)","lat":37.59873,"lon":44.48344},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"ÇATALKAYA (BÖLÜK)","ad":"ÇATALKAYA (BÖLÜK)","lat":37.59711,"lon":44.3116},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"ÇAYIR (TUĞLU)","ad":"ÇAYIR (TUĞLU)","lat":37.40199,"lon":44.1231},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"ÇEVRELİ (YONCALIK)","ad":"ÇEVRELİ (YONCALIK)","lat":37.53181,"lon":44.32994},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"ÇİÇEKÖZÜ (KARLI)","ad":"ÇİÇEKÖZÜ (KARLI)","lat":37.48342,"lon":44.23024},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"ÇİMENLİ (KARLI)","ad":"ÇİMENLİ (KARLI)","lat":37.49281,"lon":44.26344},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"ÇOBANPINAR (ONBAŞILAR)","ad":"ÇOBANPINAR (ONBAŞILAR)","lat":37.51634,"lon":44.60499},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"DAGLICA (DAĞLICA)","ad":"DAGLICA (DAĞLICA)","lat":37.37656,"lon":44.08934},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"DAĞDİBİ (KÖŞKÖNÜ)","ad":"DAĞDİBİ (KÖŞKÖNÜ)","lat":37.47746,"lon":44.18338},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"DALİCE (DİBEKLİ)","ad":"DALİCE (DİBEKLİ)","lat":37.68439,"lon":44.10868},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"DAMLACIK (ARMUTDÜZÜ)","ad":"DAMLACIK (ARMUTDÜZÜ)","lat":37.69604,"lon":43.94419},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"DARAİÇİ (ONBAŞILAR)","ad":"DARAİÇİ (ONBAŞILAR)","lat":37.51608,"lon":44.5451},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"DEREİÇİ (BİRDİK) (AKPINAR)","ad":"DEREİÇİ (BİRDİK) (AKPINAR)","lat":37.72161,"lon":44.39433},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"DEREİÇİ (DİLEKTAŞI)","ad":"DEREİÇİ (DİLEKTAŞI)","lat":37.64718,"lon":44.15354},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"DEREİÇİ (ONBAŞILAR)","ad":"DEREİÇİ (ONBAŞILAR)","lat":37.55406,"lon":44.51201},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"DİLEKLİ KAMPI (DİLEKLİ)","ad":"DİLEKLİ KAMPI (DİLEKLİ)","lat":37.39137,"lon":44.01385},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"DİLİMLİ (BÖLÜK)","ad":"DİLİMLİ (BÖLÜK)","lat":37.58532,"lon":44.35761},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"DİŞLİ (DEĞERLİ)","ad":"DİŞLİ (DEĞERLİ)","lat":37.55361,"lon":44.43997},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"DİZE","ad":"DİZE","lat":37.58592,"lon":44.30163},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"DURAKLI (DEMİRKONAK)","ad":"DURAKLI (DEMİRKONAK)","lat":37.54041,"lon":44.388},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"DURAKLI (GÜÇLÜ)","ad":"DURAKLI (GÜÇLÜ)","lat":37.58508,"lon":44.39668},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"DURANLAR (AKPINAR)","ad":"DURANLAR (AKPINAR)","lat":37.74005,"lon":44.53593},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"ERBAŞ (KÖŞKÖNÜ)","ad":"ERBAŞ (KÖŞKÖNÜ)","lat":37.47756,"lon":44.18374},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"ERİCİK (BAĞDAŞ)","ad":"ERİCİK (BAĞDAŞ)","lat":37.66515,"lon":44.22271},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"ESENTEPE","ad":"ESENTEPE","lat":37.57639,"lon":44.27421},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"ESEN YURT","ad":"ESEN YURT","lat":37.57741,"lon":44.26161},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"ESKİ KIŞLA","ad":"ESKİ KIŞLA","lat":37.58596,"lon":44.30175},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"GEDİKLİ (BAĞDAŞ)","ad":"GEDİKLİ (BAĞDAŞ)","lat":37.6698,"lon":44.24584},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"GOVE (GÜRKAVAK)","ad":"GOVE (GÜRKAVAK)","lat":37.39452,"lon":44.18987},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"GÜMÜŞLÜ (ORTAÇ)","ad":"GÜMÜŞLÜ (ORTAÇ)","lat":37.6829,"lon":44.06008},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"GÜNGÖR","ad":"GÜNGÖR","lat":37.56921,"lon":44.28533},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"GÜRKAYNAK (SALKIMLI)","ad":"GÜRKAYNAK (SALKIMLI)","lat":37.69129,"lon":44.05281},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"GÜVENLİ","ad":"GÜVENLİ","lat":37.71685,"lon":44.57025},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"İKİZLER (GÜRKAVAK)","ad":"İKİZLER (GÜRKAVAK)","lat":37.41393,"lon":44.21599},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"İNCEYOL (PINARGÖZÜ)","ad":"İNCEYOL (PINARGÖZÜ)","lat":37.44441,"lon":44.12592},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"İNCİRLİK (DAĞLICA)","ad":"İNCİRLİK (DAĞLICA)","lat":37.40375,"lon":44.11285},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"İPEK","ad":"İPEK","lat":37.58833,"lon":44.3026},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KALAKONAK (BAĞDAŞ)","ad":"KALAKONAK (BAĞDAŞ)","lat":37.7321,"lon":44.22104},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KALEMLİ (KADIKÖY)","ad":"KALEMLİ (KADIKÖY)","lat":37.54155,"lon":44.15698},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KAPILI (ORTAÇ)","ad":"KAPILI (ORTAÇ)","lat":37.67606,"lon":44.03347},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KARABAĞ (KARLI)","ad":"KARABAĞ (KARLI)","lat":37.41039,"lon":44.33944},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KARATAŞ (TUĞLU)","ad":"KARATAŞ (TUĞLU)","lat":37.41631,"lon":44.1335},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KARGILI (ORTAÇ)","ad":"KARGILI (ORTAÇ)","lat":37.66738,"lon":44.04432},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KAŞYAZI (SÜREKLİ)","ad":"KAŞYAZI (SÜREKLİ)","lat":37.4383,"lon":44.15471},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KAYAKONAK (BAĞDAŞ)","ad":"KAYAKONAK (BAĞDAŞ)","lat":37.64263,"lon":44.25224},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KEREM ZEYDAN","ad":"KEREM ZEYDAN","lat":37.59409,"lon":44.16137},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KIŞLACIK (PINARGÖZÜ)","ad":"KIŞLACIK (PINARGÖZÜ)","lat":37.48619,"lon":44.12205},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KİLİMLİ (KARLI)","ad":"KİLİMLİ (KARLI)","lat":37.46901,"lon":44.33834},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KONAK (ORTAÇ)","ad":"KONAK (ORTAÇ)","lat":37.68224,"lon":44.07269},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KORNAK (ARMUTDÜZÜ)","ad":"KORNAK (ARMUTDÜZÜ)","lat":37.67619,"lon":43.97678},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖPRÜBAŞI (SALKIMLI)","ad":"KÖPRÜBAŞI (SALKIMLI)","lat":37.68634,"lon":44.0383},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖŞK (AKOCAK)","ad":"KÖŞK (AKOCAK)","lat":37.61151,"lon":44.08989},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYCÜK (DEĞERLİ)","ad":"KÖYCÜK (DEĞERLİ)","lat":37.59665,"lon":44.44561},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (ADAKLI)","ad":"KÖYÜN KENDİSİ (ADAKLI)","lat":37.54401,"lon":44.19443},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (AKALIN)","ad":"KÖYÜN KENDİSİ (AKALIN)","lat":37.56814,"lon":44.25248},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (AKÇALI)","ad":"KÖYÜN KENDİSİ (AKÇALI)","lat":37.60116,"lon":44.21221},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (AKOCAK)","ad":"KÖYÜN KENDİSİ (AKOCAK)","lat":37.63868,"lon":44.11413},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (AKPINAR)","ad":"KÖYÜN KENDİSİ (AKPINAR)","lat":37.68069,"lon":44.42331},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (AKSU)","ad":"KÖYÜN KENDİSİ (AKSU)","lat":37.53661,"lon":44.2378},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (ALTINOLUK)","ad":"KÖYÜN KENDİSİ (ALTINOLUK)","lat":37.56534,"lon":44.35397},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (ARMUTDÜZÜ)","ad":"KÖYÜN KENDİSİ (ARMUTDÜZÜ)","lat":37.6625,"lon":43.96108},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (AŞAĞIULUYOL)","ad":"KÖYÜN KENDİSİ (AŞAĞIULUYOL)","lat":37.50168,"lon":44.42177},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (BAĞDAŞ)","ad":"KÖYÜN KENDİSİ (BAĞDAŞ)","lat":37.69466,"lon":44.2188},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (BATAKLIK)","ad":"KÖYÜN KENDİSİ (BATAKLIK)","lat":37.53632,"lon":44.20552},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (BEŞATLI)","ad":"KÖYÜN KENDİSİ (BEŞATLI)","lat":37.59915,"lon":44.19932},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (BEŞBULAK)","ad":"KÖYÜN KENDİSİ (BEŞBULAK)","lat":37.53591,"lon":44.36544},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (BOSTANCIK)","ad":"KÖYÜN KENDİSİ (BOSTANCIK)","lat":37.43325,"lon":44.21727},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (BÖLÜK)","ad":"KÖYÜN KENDİSİ (BÖLÜK)","lat":37.64723,"lon":44.29559},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (BULAKLI)","ad":"KÖYÜN KENDİSİ (BULAKLI)","lat":37.54175,"lon":44.1989},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (ÇATMA)","ad":"KÖYÜN KENDİSİ (ÇATMA)","lat":37.47906,"lon":44.28453},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (ÇUKURCA)","ad":"KÖYÜN KENDİSİ (ÇUKURCA)","lat":37.4842,"lon":44.39937},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (DEDELER)","ad":"KÖYÜN KENDİSİ (DEDELER)","lat":37.46388,"lon":44.3519},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (DEĞERLİ)","ad":"KÖYÜN KENDİSİ (DEĞERLİ)","lat":37.58151,"lon":44.40747},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (DEMİRKONAK)","ad":"KÖYÜN KENDİSİ (DEMİRKONAK)","lat":37.52016,"lon":44.383},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (DİBEKLİ)","ad":"KÖYÜN KENDİSİ (DİBEKLİ)","lat":37.6786,"lon":44.12046},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (DİLEKLİ)","ad":"KÖYÜN KENDİSİ (DİLEKLİ)","lat":37.38771,"lon":43.97493},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (DİLEKTAŞI)","ad":"KÖYÜN KENDİSİ (DİLEKTAŞI)","lat":37.70715,"lon":44.17792},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (DOĞANLI)","ad":"KÖYÜN KENDİSİ (DOĞANLI)","lat":37.47072,"lon":44.30438},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (GÖKYURT)","ad":"KÖYÜN KENDİSİ (GÖKYURT)","lat":37.72309,"lon":44.13873},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (GÜÇLÜ)","ad":"KÖYÜN KENDİSİ (GÜÇLÜ)","lat":37.56452,"lon":44.33342},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (GÜLDALI)","ad":"KÖYÜN KENDİSİ (GÜLDALI)","lat":37.79718,"lon":44.43038},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (GÜLLÜCE)","ad":"KÖYÜN KENDİSİ (GÜLLÜCE)","lat":37.60272,"lon":44.29225},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (GÜRDERE)","ad":"KÖYÜN KENDİSİ (GÜRDERE)","lat":37.5214,"lon":44.23459},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (İNANLI)","ad":"KÖYÜN KENDİSİ (İNANLI)","lat":37.59552,"lon":44.26172},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (KADIKÖY)","ad":"KÖYÜN KENDİSİ (KADIKÖY)","lat":37.58408,"lon":44.01769},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (KAMIŞLI)","ad":"KÖYÜN KENDİSİ (KAMIŞLI)","lat":37.47211,"lon":44.33015},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (KARABEY)","ad":"KÖYÜN KENDİSİ (KARABEY)","lat":37.43394,"lon":44.45558},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (KARLI)","ad":"KÖYÜN KENDİSİ (KARLI)","lat":37.50344,"lon":44.23317},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (KAZAN)","ad":"KÖYÜN KENDİSİ (KAZAN)","lat":37.74333,"lon":44.29501},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (KEÇİLİ)","ad":"KÖYÜN KENDİSİ (KEÇİLİ)","lat":37.67137,"lon":44.28248},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (KISIKLI)","ad":"KÖYÜN KENDİSİ (KISIKLI)","lat":37.68499,"lon":44.35483},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (KOLBAŞI)","ad":"KÖYÜN KENDİSİ (KOLBAŞI)","lat":37.66092,"lon":43.95167},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (KÖPRÜCEK)","ad":"KÖYÜN KENDİSİ (KÖPRÜCEK)","lat":37.57357,"lon":44.18416},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (KÖŞKÖNÜ)","ad":"KÖYÜN KENDİSİ (KÖŞKÖNÜ)","lat":37.42443,"lon":44.16324},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (ONBAŞILAR)","ad":"KÖYÜN KENDİSİ (ONBAŞILAR)","lat":37.57156,"lon":44.53775},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (ORTAÇ)","ad":"KÖYÜN KENDİSİ (ORTAÇ)","lat":37.68264,"lon":44.0459},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (ÖRNEKKÖY)","ad":"KÖYÜN KENDİSİ (ÖRNEKKÖY)","lat":37.44176,"lon":44.3568},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (PINARGÖZÜ)","ad":"KÖYÜN KENDİSİ (PINARGÖZÜ)","lat":37.43939,"lon":44.13174},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (SALKIMLI)","ad":"KÖYÜN KENDİSİ (SALKIMLI)","lat":37.675,"lon":44.01951},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (SARITAŞ)","ad":"KÖYÜN KENDİSİ (SARITAŞ)","lat":37.62186,"lon":44.366},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (SERİNDERE)","ad":"KÖYÜN KENDİSİ (SERİNDERE)","lat":37.68497,"lon":44.40812},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (SUÜSTÜ)","ad":"KÖYÜN KENDİSİ (SUÜSTÜ)","lat":37.61829,"lon":44.16403},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (SÜREKLİ)","ad":"KÖYÜN KENDİSİ (SÜREKLİ)","lat":37.42903,"lon":44.15327},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (TATLI)","ad":"KÖYÜN KENDİSİ (TATLI)","lat":37.70251,"lon":44.05032},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (TUĞLU)","ad":"KÖYÜN KENDİSİ (TUĞLU)","lat":37.42098,"lon":44.14866},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (VEZİRLİ)","ad":"KÖYÜN KENDİSİ (VEZİRLİ)","lat":37.53965,"lon":44.2668},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (YENİIŞIK)","ad":"KÖYÜN KENDİSİ (YENİIŞIK)","lat":37.6317,"lon":44.03983},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (YEŞİLTAŞ)","ad":"KÖYÜN KENDİSİ (YEŞİLTAŞ)","lat":37.48673,"lon":44.06928},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (YONCALIK)","ad":"KÖYÜN KENDİSİ (YONCALIK)","lat":37.53202,"lon":44.32411},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KÖYÜN KENDİSİ (YÜREKLİ)","ad":"KÖYÜN KENDİSİ (YÜREKLİ)","lat":37.38845,"lon":44.32857},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"KURUCAK (KÖŞKÖNÜ)","ad":"KURUCAK (KÖŞKÖNÜ)","lat":37.42476,"lon":44.16529},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"MAMAK (KADIKÖY)","ad":"MAMAK (KADIKÖY)","lat":37.55297,"lon":44.16419},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"MERKEZ","ad":"MERKEZ","lat":37.59744,"lon":44.1248},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"MEZARLIK","ad":"MEZARLIK","lat":37.56793,"lon":44.29676},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"MEZRA (YENİIŞIK)","ad":"MEZRA (YENİIŞIK)","lat":37.62151,"lon":44.05389},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"MİRANAVA (SERİNDERE)","ad":"MİRANAVA (SERİNDERE)","lat":37.64729,"lon":44.41609},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"ODABAŞI (DİBEKLİ)","ad":"ODABAŞI (DİBEKLİ)","lat":37.65379,"lon":44.13139},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"ORMANARASI (KOLBAŞI)","ad":"ORMANARASI (KOLBAŞI)","lat":37.68528,"lon":43.93948},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"OVAİÇİ (AKPINAR)","ad":"OVAİÇİ (AKPINAR)","lat":37.70749,"lon":44.49894},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"PİRBILAN (KISIKLI)","ad":"PİRBILAN (KISIKLI)","lat":37.68315,"lon":44.35731},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"PİRİNCEYİN (ORTAÇ)","ad":"PİRİNCEYİN (ORTAÇ)","lat":37.68198,"lon":44.0842},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"REŞADİYE (SALKIMLI)","ad":"REŞADİYE (SALKIMLI)","lat":37.67808,"lon":44.03026},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"SARIKAYA (ONBAŞILAR)","ad":"SARIKAYA (ONBAŞILAR)","lat":37.53926,"lon":44.53242},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"SARIYILDIZ","ad":"SARIYILDIZ","lat":37.71543,"lon":44.62286},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"SUALTI (KISIKLI)","ad":"SUALTI (KISIKLI)","lat":37.69728,"lon":44.29409},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"SÜLÜK (AKOCAK)","ad":"SÜLÜK (AKOCAK)","lat":37.64694,"lon":44.15432},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"ŞAHİNCE (ARMUTDÜZÜ)","ad":"ŞAHİNCE (ARMUTDÜZÜ)","lat":37.67417,"lon":43.97037},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"ŞİMTE (SALKIMLI)","ad":"ŞİMTE (SALKIMLI)","lat":37.68496,"lon":44.03173},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"TARLACIK (SÜREKLİ)","ad":"TARLACIK (SÜREKLİ)","lat":37.42681,"lon":44.13926},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"TAŞYAZI (SÜREKLİ)","ad":"TAŞYAZI (SÜREKLİ)","lat":37.42379,"lon":44.14511},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"TATLICAK (BAĞDAŞ)","ad":"TATLICAK (BAĞDAŞ)","lat":37.64004,"lon":44.256},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"TEPEBAŞI (ARMUTDÜZÜ)","ad":"TEPEBAŞI (ARMUTDÜZÜ)","lat":37.6943,"lon":43.96194},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"TOKAĞAÇ (GÜRKAVAK)","ad":"TOKAĞAÇ (GÜRKAVAK)","lat":37.41707,"lon":44.24317},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"YAZILI","ad":"YAZILI","lat":37.45852,"lon":44.03929},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"YEMİŞLİ (SARITAŞ)","ad":"YEMİŞLİ (SARITAŞ)","lat":37.65636,"lon":44.37947},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"YENİ","ad":"YENİ","lat":37.56932,"lon":44.27786},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"YENİKÖY (AŞAĞIULUYOL)","ad":"YENİKÖY (AŞAĞIULUYOL)","lat":37.51112,"lon":44.42},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"YEŞİLCE (PINARGÖZÜ)","ad":"YEŞİLCE (PINARGÖZÜ)","lat":37.43685,"lon":44.13516},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"YEŞİLDERE","ad":"YEŞİLDERE","lat":37.58615,"lon":44.29572},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"YEŞİLDERE (GÖKYURT)","ad":"YEŞİLDERE (GÖKYURT)","lat":37.71273,"lon":44.0824},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"YEŞİLDERE (GÜRKAVAK)","ad":"YEŞİLDERE (GÜRKAVAK)","lat":37.36382,"lon":44.27608},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"YEŞİLOVA","ad":"YEŞİLOVA","lat":37.6113,"lon":44.07289},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"Y.GÜVEÇ (SERİNDERE)","ad":"Y.GÜVEÇ (SERİNDERE)","lat":37.65258,"lon":44.45277},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"YILMAZ","ad":"YILMAZ","lat":37.69476,"lon":44.55318},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"YUKARI ULUKBAŞI (YENİIŞIK)","ad":"YUKARI ULUKBAŞI (YENİIŞIK)","lat":37.62562,"lon":44.05857},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"Y.ULUYOL (AŞAĞIULUYOL)","ad":"Y.ULUYOL (AŞAĞIULUYOL)","lat":37.50311,"lon":44.42506},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"YUMRUTAŞ (DEMİRKONAK)","ad":"YUMRUTAŞ (DEMİRKONAK)","lat":37.54865,"lon":44.46371},{"il":"Hakkari","ilce":"YÜKSEKOVA","mahalle":"YUVALI (ARMUTDÜZÜ)","ad":"YUVALI (ARMUTDÜZÜ)","lat":37.66188,"lon":43.95951}]
+[
+  {
+    "il": "Hakkari",
+    "ilce": "ÇUKURCA",
+    "mahalle": "AŞAĞI AKKAYA KÖYÜ (AKKAYA)",
+    "ad": "AŞAĞI AKKAYA KÖYÜ (AKKAYA)",
+    "lat": 37.36382,
+    "lon": 43.48309
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ÇUKURCA",
+    "mahalle": "CUMHURİYET",
+    "ad": "CUMHURİYET",
+    "lat": 37.25856,
+    "lon": 43.61665
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ÇUKURCA",
+    "mahalle": "ÇELTİK (KAYALIK)",
+    "ad": "ÇELTİK (KAYALIK)",
+    "lat": 37.31193,
+    "lon": 43.6931
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ÇUKURCA",
+    "mahalle": "ÇİMENLİ (GÜNDEŞ)",
+    "ad": "ÇİMENLİ (GÜNDEŞ)",
+    "lat": 37.33593,
+    "lon": 43.50436
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ÇUKURCA",
+    "mahalle": "EMİRŞABAN",
+    "ad": "EMİRŞABAN",
+    "lat": 37.25604,
+    "lon": 43.59124
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ÇUKURCA",
+    "mahalle": "GUZELDERE (GÜNDEŞ)",
+    "ad": "GUZELDERE (GÜNDEŞ)",
+    "lat": 37.28088,
+    "lon": 43.49928
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ÇUKURCA",
+    "mahalle": "KAYNAK (KAYALIK)",
+    "ad": "KAYNAK (KAYALIK)",
+    "lat": 37.34204,
+    "lon": 43.65176
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ÇUKURCA",
+    "mahalle": "KÖPRÜLÜ (GÜNDEŞ)",
+    "ad": "KÖPRÜLÜ (GÜNDEŞ)",
+    "lat": 37.3249,
+    "lon": 43.5534
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ÇUKURCA",
+    "mahalle": "KÖYÜN KENDISI (CEVİZLİ)",
+    "ad": "KÖYÜN KENDISI (CEVİZLİ)",
+    "lat": 37.37795,
+    "lon": 43.71842
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ÇUKURCA",
+    "mahalle": "KÖYÜN KENDİSİ (GÜNDEŞ)",
+    "ad": "KÖYÜN KENDİSİ (GÜNDEŞ)",
+    "lat": 37.33146,
+    "lon": 43.50395
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ÇUKURCA",
+    "mahalle": "KÖYÜN KENDİSİ (KAYALIK)",
+    "ad": "KÖYÜN KENDİSİ (KAYALIK)",
+    "lat": 37.36892,
+    "lon": 43.65572
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ÇUKURCA",
+    "mahalle": "KÖYÜN KENDİSİ (KAZAN)",
+    "ad": "KÖYÜN KENDİSİ (KAZAN)",
+    "lat": 37.31575,
+    "lon": 43.6419
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ÇUKURCA",
+    "mahalle": "KÖYÜN KENDİSİ (NARLI)",
+    "ad": "KÖYÜN KENDİSİ (NARLI)",
+    "lat": 37.34279,
+    "lon": 43.6024
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ÇUKURCA",
+    "mahalle": "KÖYÜN KENDİSİ (ÜZÜMLÜ)",
+    "ad": "KÖYÜN KENDİSİ (ÜZÜMLÜ)",
+    "lat": 37.25475,
+    "lon": 43.55859
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ÇUKURCA",
+    "mahalle": "MEŞELİ (KAYALIK)",
+    "ad": "MEŞELİ (KAYALIK)",
+    "lat": 37.36599,
+    "lon": 43.65549
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ÇUKURCA",
+    "mahalle": "ORMANLI (GÜNDEŞ)",
+    "ad": "ORMANLI (GÜNDEŞ)",
+    "lat": 37.32004,
+    "lon": 43.41745
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ÇUKURCA",
+    "mahalle": "SARİYER (AKKAYA)",
+    "ad": "SARİYER (AKKAYA)",
+    "lat": 37.35998,
+    "lon": 43.50644
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ÇUKURCA",
+    "mahalle": "YEŞİL ÇEŞME",
+    "ad": "YEŞİL ÇEŞME",
+    "lat": 37.26493,
+    "lon": 43.62749
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ÇUKURCA",
+    "mahalle": "YUKARIAKKAYA (AKKAYA)",
+    "ad": "YUKARIAKKAYA (AKKAYA)",
+    "lat": 37.40765,
+    "lon": 43.41136
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "DERECİK",
+    "mahalle": "AKÖREN (USLU)",
+    "ad": "AKÖREN (USLU)",
+    "lat": 37.10057,
+    "lon": 44.40787
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "DERECİK",
+    "mahalle": "ARALIK (GELİŞEN)",
+    "ad": "ARALIK (GELİŞEN)",
+    "lat": 37.10022,
+    "lon": 44.4487
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "DERECİK",
+    "mahalle": "BALKAYA",
+    "ad": "BALKAYA",
+    "lat": 37.06749,
+    "lon": 44.25535
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "DERECİK",
+    "mahalle": "BEŞİKAĞAÇ (ANADAĞ)",
+    "ad": "BEŞİKAĞAÇ (ANADAĞ)",
+    "lat": 37.00755,
+    "lon": 44.30334
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "DERECİK",
+    "mahalle": "BÖLEK (ANADAĞ)",
+    "ad": "BÖLEK (ANADAĞ)",
+    "lat": 37.03408,
+    "lon": 44.31902
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "DERECİK",
+    "mahalle": "GÖKÇETAŞ (ANADAĞ)",
+    "ad": "GÖKÇETAŞ (ANADAĞ)",
+    "lat": 37.03657,
+    "lon": 44.33228
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "DERECİK",
+    "mahalle": "GÜNEY",
+    "ad": "GÜNEY",
+    "lat": 37.04448,
+    "lon": 44.3382
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "DERECİK",
+    "mahalle": "GÜRMEŞE",
+    "ad": "GÜRMEŞE",
+    "lat": 37.08146,
+    "lon": 44.30162
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "DERECİK",
+    "mahalle": "HACIBEY",
+    "ad": "HACIBEY",
+    "lat": 37.03611,
+    "lon": 44.35376
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "DERECİK",
+    "mahalle": "KARAKOÇ (GELİŞEN)",
+    "ad": "KARAKOÇ (GELİŞEN)",
+    "lat": 37.09749,
+    "lon": 44.50556
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "DERECİK",
+    "mahalle": "KORYÜREK (GELİŞEN)",
+    "ad": "KORYÜREK (GELİŞEN)",
+    "lat": 37.04869,
+    "lon": 44.41125
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "DERECİK",
+    "mahalle": "KÖYÜN KENDİSİ (GELİŞEN)",
+    "ad": "KÖYÜN KENDİSİ (GELİŞEN)",
+    "lat": 37.12784,
+    "lon": 44.42762
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "DERECİK",
+    "mahalle": "KÖYÜN KENDİSİ (ORTAKLAR)",
+    "ad": "KÖYÜN KENDİSİ (ORTAKLAR)",
+    "lat": 37.15654,
+    "lon": 44.42033
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "DERECİK",
+    "mahalle": "KÖYÜN KENDİSİ (USLU)",
+    "ad": "KÖYÜN KENDİSİ (USLU)",
+    "lat": 37.14387,
+    "lon": 44.4054
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "DERECİK",
+    "mahalle": "KÜTÜKLÜ (GELİŞEN)",
+    "ad": "KÜTÜKLÜ (GELİŞEN)",
+    "lat": 37.12693,
+    "lon": 44.44843
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "DERECİK",
+    "mahalle": "MERKEZ",
+    "ad": "MERKEZ",
+    "lat": 37.09538,
+    "lon": 44.29181
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "DERECİK",
+    "mahalle": "MORDAĞ (GELİŞEN)",
+    "ad": "MORDAĞ (GELİŞEN)",
+    "lat": 37.07721,
+    "lon": 44.48201
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "DERECİK",
+    "mahalle": "ORTA",
+    "ad": "ORTA",
+    "lat": 37.06323,
+    "lon": 44.31328
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "DERECİK",
+    "mahalle": "ÖRENCİK (ORTAKLAR)",
+    "ad": "ÖRENCİK (ORTAKLAR)",
+    "lat": 37.16089,
+    "lon": 44.43358
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "DERECİK",
+    "mahalle": "RİZE",
+    "ad": "RİZE",
+    "lat": 37.03803,
+    "lon": 44.24421
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "DERECİK",
+    "mahalle": "SERHATKALE (GELİŞEN)",
+    "ad": "SERHATKALE (GELİŞEN)",
+    "lat": 37.08634,
+    "lon": 44.44555
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "DERECİK",
+    "mahalle": "SU ÇIKTI (GELİŞEN)",
+    "ad": "SU ÇIKTI (GELİŞEN)",
+    "lat": 37.06718,
+    "lon": 44.45229
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "DERECİK",
+    "mahalle": "TAŞLIÇAY (USLU)",
+    "ad": "TAŞLIÇAY (USLU)",
+    "lat": 37.09002,
+    "lon": 44.37386
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "DERECİK",
+    "mahalle": "ULAŞAN (USLU)",
+    "ad": "ULAŞAN (USLU)",
+    "lat": 37.1672,
+    "lon": 44.45458
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "DERECİK",
+    "mahalle": "ÜÇYAN",
+    "ad": "ÜÇYAN",
+    "lat": 37.09753,
+    "lon": 44.18438
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "DERECİK",
+    "mahalle": "VAPURTEPE",
+    "ad": "VAPURTEPE",
+    "lat": 37.14913,
+    "lon": 44.37008
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "DERECİK",
+    "mahalle": "YEŞİLOVA (ANADAĞ)",
+    "ad": "YEŞİLOVA (ANADAĞ)",
+    "lat": 37.02537,
+    "lon": 44.36446
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "1.HARPUT (AŞAĞI DERECİK)",
+    "ad": "1.HARPUT (AŞAĞI DERECİK)",
+    "lat": 37.61386,
+    "lon": 43.86178
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "2.HARPUT (AŞAĞI DERECİK)",
+    "ad": "2.HARPUT (AŞAĞI DERECİK)",
+    "lat": 37.62794,
+    "lon": 43.86869
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "AĞAÇSIZ (OĞUL)",
+    "ad": "AĞAÇSIZ (OĞUL)",
+    "lat": 37.49208,
+    "lon": 43.75342
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "ARMUTLU MEZRASI (KAVAKLI)",
+    "ad": "ARMUTLU MEZRASI (KAVAKLI)",
+    "lat": 37.50077,
+    "lon": 43.48585
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "AŞAĞI KAYACIK (BAĞIŞLI)",
+    "ad": "AŞAĞI KAYACIK (BAĞIŞLI)",
+    "lat": 37.73258,
+    "lon": 44.03529
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "AŞAĞIKIRBAŞI (KIRIKDAĞ)",
+    "ad": "AŞAĞIKIRBAŞI (KIRIKDAĞ)",
+    "lat": 37.58418,
+    "lon": 43.88006
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "AŞAĞI OTLUCA (OTLUCA)",
+    "ad": "AŞAĞI OTLUCA (OTLUCA)",
+    "lat": 37.59033,
+    "lon": 43.70638
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "AYRANLI (PINARCA)",
+    "ad": "AYRANLI (PINARCA)",
+    "lat": 37.64934,
+    "lon": 43.54341
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "BAĞLAR",
+    "ad": "BAĞLAR",
+    "lat": 37.56308,
+    "lon": 43.73884
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "BAĞLARBAŞI",
+    "ad": "BAĞLARBAŞI",
+    "lat": 37.55439,
+    "lon": 43.53392
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "BAĞLAR (DOĞANYURT)",
+    "ad": "BAĞLAR (DOĞANYURT)",
+    "lat": 37.71177,
+    "lon": 43.95891
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "BAHÇELİ (GEÇİMLİ)",
+    "ad": "BAHÇELİ (GEÇİMLİ)",
+    "lat": 37.4299,
+    "lon": 43.5191
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "BAHİ (AĞAÇDİBİ)",
+    "ad": "BAHİ (AĞAÇDİBİ)",
+    "lat": 37.57523,
+    "lon": 43.77446
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "BERÇELAN",
+    "ad": "BERÇELAN",
+    "lat": 37.58052,
+    "lon": 43.74578
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "BİÇENEK",
+    "ad": "BİÇENEK",
+    "lat": 37.53584,
+    "lon": 43.61078
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "BİÇER",
+    "ad": "BİÇER",
+    "lat": 37.56689,
+    "lon": 43.73795
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "BOĞAZLI (DOĞANYURT)",
+    "ad": "BOĞAZLI (DOĞANYURT)",
+    "lat": 37.71988,
+    "lon": 43.92989
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "BOYBEYİ",
+    "ad": "BOYBEYİ",
+    "lat": 37.77219,
+    "lon": 44.01894
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "BUDAKLI (BAĞIŞLI)",
+    "ad": "BUDAKLI (BAĞIŞLI)",
+    "lat": 37.7617,
+    "lon": 44.01228
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "BULAK",
+    "ad": "BULAK",
+    "lat": 37.58504,
+    "lon": 43.7362
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "CUMHURİYET",
+    "ad": "CUMHURİYET",
+    "lat": 37.54815,
+    "lon": 43.63797
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "ÇAVUŞLU (IŞIKLAR)",
+    "ad": "ÇAVUŞLU (IŞIKLAR)",
+    "lat": 37.78206,
+    "lon": 43.87553
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "ÇAYLICA",
+    "ad": "ÇAYLICA",
+    "lat": 37.60178,
+    "lon": 43.64259
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "ÇETİNTAŞ (AKKUŞ)",
+    "ad": "ÇETİNTAŞ (AKKUŞ)",
+    "lat": 37.64171,
+    "lon": 43.51692
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "DAĞGÖL",
+    "ad": "DAĞGÖL",
+    "lat": 37.57388,
+    "lon": 43.73622
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "DAĞ KOMANDO TUGAYI (OTLUCA)",
+    "ad": "DAĞ KOMANDO TUGAYI (OTLUCA)",
+    "lat": 37.60018,
+    "lon": 43.70013
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "DEMİRLİMEZ (AKBULUT)",
+    "ad": "DEMİRLİMEZ (AKBULUT)",
+    "lat": 37.62701,
+    "lon": 43.86312
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "DEREBOYU (OTLUCA)",
+    "ad": "DEREBOYU (OTLUCA)",
+    "lat": 37.59439,
+    "lon": 43.7147
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "DEREN (ÜZÜMCÜ)",
+    "ad": "DEREN (ÜZÜMCÜ)",
+    "lat": 37.47473,
+    "lon": 43.5654
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "DEREŞABAN (KIRIKDAĞ)",
+    "ad": "DEREŞABAN (KIRIKDAĞ)",
+    "lat": 37.58177,
+    "lon": 43.87659
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "DEREÜSTÜ (ÜZÜMCÜ)",
+    "ad": "DEREÜSTÜ (ÜZÜMCÜ)",
+    "lat": 37.51567,
+    "lon": 43.59936
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "DEZ (AŞAĞI DERECİK)",
+    "ad": "DEZ (AŞAĞI DERECİK)",
+    "lat": 37.6074,
+    "lon": 43.86674
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "DİKİLİTAŞ (BOYBEYİ)",
+    "ad": "DİKİLİTAŞ (BOYBEYİ)",
+    "lat": 37.78378,
+    "lon": 44.08798
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "DİKMEN (AŞAĞI DERECİK)",
+    "ad": "DİKMEN (AŞAĞI DERECİK)",
+    "lat": 37.60765,
+    "lon": 43.86831
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "DİLEK (OĞUL)",
+    "ad": "DİLEK (OĞUL)",
+    "lat": 37.40951,
+    "lon": 43.68974
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "DOĞANLI (CEYLANLI)",
+    "ad": "DOĞANLI (CEYLANLI)",
+    "lat": 37.46273,
+    "lon": 43.51614
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "EĞERCİK (AKÇALI)",
+    "ad": "EĞERCİK (AKÇALI)",
+    "lat": 37.71852,
+    "lon": 43.98203
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "ELMACIK",
+    "ad": "ELMACIK",
+    "lat": 37.57773,
+    "lon": 43.4609
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "ESKİ ÖRDEKLİ (ÖRDEKLİ)",
+    "ad": "ESKİ ÖRDEKLİ (ÖRDEKLİ)",
+    "lat": 37.77773,
+    "lon": 43.76264
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "GAZİ",
+    "ad": "GAZİ",
+    "lat": 37.5812,
+    "lon": 43.7358
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "GELİNLİ (CEYLANLI)",
+    "ad": "GELİNLİ (CEYLANLI)",
+    "lat": 37.45321,
+    "lon": 43.64285
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "GİPE (CEYLANLI)",
+    "ad": "GİPE (CEYLANLI)",
+    "lat": 37.45651,
+    "lon": 43.61176
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "GÖZE (OĞUL)",
+    "ad": "GÖZE (OĞUL)",
+    "lat": 37.41959,
+    "lon": 43.81079
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "GÜZEL (OTLUCA)",
+    "ad": "GÜZEL (OTLUCA)",
+    "lat": 37.58919,
+    "lon": 43.70718
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "HALİFE DERVİŞ",
+    "ad": "HALİFE DERVİŞ",
+    "lat": 37.57101,
+    "lon": 43.7443
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "HENDEK (PINARCA)",
+    "ad": "HENDEK (PINARCA)",
+    "lat": 37.70948,
+    "lon": 43.53431
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "ILICA (OĞUL)",
+    "ad": "ILICA (OĞUL)",
+    "lat": 37.48741,
+    "lon": 43.76214
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "İNCİR (GEÇİMLİ)",
+    "ad": "İNCİR (GEÇİMLİ)",
+    "lat": 37.37609,
+    "lon": 43.527
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KANATLI (AKÇALI)",
+    "ad": "KANATLI (AKÇALI)",
+    "lat": 37.70599,
+    "lon": 43.98595
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KARŞIYAKA",
+    "ad": "KARŞIYAKA",
+    "lat": 37.58411,
+    "lon": 43.73152
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KEKLİKPINAR",
+    "ad": "KEKLİKPINAR",
+    "lat": 37.56182,
+    "lon": 43.75231
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KIRAN",
+    "ad": "KIRAN",
+    "lat": 37.5805,
+    "lon": 43.75354
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KOÇLU (KAYMAKLI)",
+    "ad": "KOÇLU (KAYMAKLI)",
+    "lat": 37.73113,
+    "lon": 43.8073
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖPRÜCÜK (OTLUCA)",
+    "ad": "KÖPRÜCÜK (OTLUCA)",
+    "lat": 37.60592,
+    "lon": 43.73254
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYCEYİZ (KAMIŞLI)",
+    "ad": "KÖYCEYİZ (KAMIŞLI)",
+    "lat": 37.56918,
+    "lon": 43.54395
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYİÇİ",
+    "ad": "KÖYİÇİ",
+    "lat": 37.60808,
+    "lon": 43.63473
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDISI (CEVİZDİBİ)",
+    "ad": "KÖYÜN KENDISI (CEVİZDİBİ)",
+    "lat": 37.52431,
+    "lon": 43.45855
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDISI (ÇİMENLİ)",
+    "ad": "KÖYÜN KENDISI (ÇİMENLİ)",
+    "lat": 37.48413,
+    "lon": 43.67877
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDISI (PINARCA)",
+    "ad": "KÖYÜN KENDISI (PINARCA)",
+    "lat": 37.70467,
+    "lon": 43.57868
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDISI (TAŞBAŞI)",
+    "ad": "KÖYÜN KENDISI (TAŞBAŞI)",
+    "lat": 37.40674,
+    "lon": 43.50078
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (AĞAÇDİBİ)",
+    "ad": "KÖYÜN KENDİSİ (AĞAÇDİBİ)",
+    "lat": 37.51798,
+    "lon": 43.7889
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (AKBULUT)",
+    "ad": "KÖYÜN KENDİSİ (AKBULUT)",
+    "lat": 37.7275,
+    "lon": 43.85174
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (AKÇALI)",
+    "ad": "KÖYÜN KENDİSİ (AKÇALI)",
+    "lat": 37.71536,
+    "lon": 43.98581
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (AKKUŞ)",
+    "ad": "KÖYÜN KENDİSİ (AKKUŞ)",
+    "lat": 37.642,
+    "lon": 43.5144
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (AKSU)",
+    "ad": "KÖYÜN KENDİSİ (AKSU)",
+    "lat": 37.70024,
+    "lon": 43.65683
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (AŞAĞI DERECİK)",
+    "ad": "KÖYÜN KENDİSİ (AŞAĞI DERECİK)",
+    "lat": 37.63786,
+    "lon": 43.93314
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (BAĞIŞLI)",
+    "ad": "KÖYÜN KENDİSİ (BAĞIŞLI)",
+    "lat": 37.7219,
+    "lon": 44.06426
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (BAYKÖY)",
+    "ad": "KÖYÜN KENDİSİ (BAYKÖY)",
+    "lat": 37.55829,
+    "lon": 43.70158
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (BOYBEYİ)",
+    "ad": "KÖYÜN KENDİSİ (BOYBEYİ)",
+    "lat": 37.79536,
+    "lon": 44.04422
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (ÇALTIKORU)",
+    "ad": "KÖYÜN KENDİSİ (ÇALTIKORU)",
+    "lat": 37.78873,
+    "lon": 43.84259
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (ÇANAKLI)",
+    "ad": "KÖYÜN KENDİSİ (ÇANAKLI)",
+    "lat": 37.34986,
+    "lon": 43.90293
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (DEMİRTAŞ)",
+    "ad": "KÖYÜN KENDİSİ (DEMİRTAŞ)",
+    "lat": 37.73342,
+    "lon": 43.98592
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (DOĞANYURT)",
+    "ad": "KÖYÜN KENDİSİ (DOĞANYURT)",
+    "lat": 37.71954,
+    "lon": 43.93124
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (GEÇİTLİ)",
+    "ad": "KÖYÜN KENDİSİ (GEÇİTLİ)",
+    "lat": 37.5616,
+    "lon": 43.55136
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (IŞIK)",
+    "ad": "KÖYÜN KENDİSİ (IŞIK)",
+    "lat": 37.63788,
+    "lon": 43.53428
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (IŞIKLAR)",
+    "ad": "KÖYÜN KENDİSİ (IŞIKLAR)",
+    "lat": 37.77253,
+    "lon": 43.90064
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (KAVAKLI)",
+    "ad": "KÖYÜN KENDİSİ (KAVAKLI)",
+    "lat": 37.53688,
+    "lon": 43.41757
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (KAYMAKLI)",
+    "ad": "KÖYÜN KENDİSİ (KAYMAKLI)",
+    "lat": 37.75075,
+    "lon": 43.81733
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (KIRIKDAĞ)",
+    "ad": "KÖYÜN KENDİSİ (KIRIKDAĞ)",
+    "lat": 37.61106,
+    "lon": 43.8556
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (OLGUNLAR)",
+    "ad": "KÖYÜN KENDİSİ (OLGUNLAR)",
+    "lat": 37.476,
+    "lon": 43.53128
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (ÜZÜMCÜ)",
+    "ad": "KÖYÜN KENDİSİ (ÜZÜMCÜ)",
+    "lat": 37.51712,
+    "lon": 43.5482
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (YONCALI)",
+    "ad": "KÖYÜN KENDİSİ (YONCALI)",
+    "lat": 37.42124,
+    "lon": 43.33645
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KÜÇÜKKÖŞK (IŞIKLAR)",
+    "ad": "KÜÇÜKKÖŞK (IŞIKLAR)",
+    "lat": 37.74764,
+    "lon": 43.93831
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "KÜRÜM (SARITAŞ)",
+    "ad": "KÜRÜM (SARITAŞ)",
+    "lat": 37.75688,
+    "lon": 44.05018
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "MEDRESE",
+    "ad": "MEDRESE",
+    "lat": 37.57055,
+    "lon": 43.74479
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "MERKEZ (KAMIŞLI)",
+    "ad": "MERKEZ (KAMIŞLI)",
+    "lat": 37.55452,
+    "lon": 43.53419
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "MERZAN",
+    "ad": "MERZAN",
+    "lat": 37.57053,
+    "lon": 43.71768
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "MUSAHAN (BAĞIŞLI)",
+    "ad": "MUSAHAN (BAĞIŞLI)",
+    "lat": 37.76431,
+    "lon": 44.07808
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "MUSAHAN (SARITAŞ)",
+    "ad": "MUSAHAN (SARITAŞ)",
+    "lat": 37.76369,
+    "lon": 44.08064
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "OĞULCUL (BAĞIŞLI)",
+    "ad": "OĞULCUL (BAĞIŞLI)",
+    "lat": 37.75163,
+    "lon": 44.07947
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "OĞURLU (PINARCA)",
+    "ad": "OĞURLU (PINARCA)",
+    "lat": 37.64516,
+    "lon": 43.54592
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "OLUKLU (DEMİRTAŞ)",
+    "ad": "OLUKLU (DEMİRTAŞ)",
+    "lat": 37.75252,
+    "lon": 43.936
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "OTLUBEL (OTLUCA)",
+    "ad": "OTLUBEL (OTLUCA)",
+    "lat": 37.69304,
+    "lon": 43.66445
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "OTLUCA DAĞ KOMANDO TOGAYI (OTLUCA)",
+    "ad": "OTLUCA DAĞ KOMANDO TOGAYI (OTLUCA)",
+    "lat": 37.59898,
+    "lon": 43.70693
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "OTLUCA DAĞ KOMKANDO TUGAYI (OTLUCA)",
+    "ad": "OTLUCA DAĞ KOMKANDO TUGAYI (OTLUCA)",
+    "lat": 37.60067,
+    "lon": 43.70325
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "OTLUCAOSB",
+    "ad": "OTLUCAOSB",
+    "lat": 37.60985,
+    "lon": 43.67275
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "ÖĞRENCİK (DEMİRTAŞ)",
+    "ad": "ÖĞRENCİK (DEMİRTAŞ)",
+    "lat": 37.74033,
+    "lon": 43.97586
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "PEHLİVAN",
+    "ad": "PEHLİVAN",
+    "lat": 37.5809,
+    "lon": 43.72709
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "PINARBAŞI",
+    "ad": "PINARBAŞI",
+    "lat": 37.65349,
+    "lon": 43.62863
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "REZ (KIRIKDAĞ)",
+    "ad": "REZ (KIRIKDAĞ)",
+    "lat": 37.6145,
+    "lon": 43.8527
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "SARIGÜL (PINARCA)",
+    "ad": "SARIGÜL (PINARCA)",
+    "lat": 37.65589,
+    "lon": 43.55879
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "SARIKAYA (OTLUCA)",
+    "ad": "SARIKAYA (OTLUCA)",
+    "lat": 37.60152,
+    "lon": 43.68286
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "SARITAŞ BAĞLISI (SARITAŞ)",
+    "ad": "SARITAŞ BAĞLISI (SARITAŞ)",
+    "lat": 37.78108,
+    "lon": 44.08736
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "SERANÜS (AŞAĞI DERECİK)",
+    "ad": "SERANÜS (AŞAĞI DERECİK)",
+    "lat": 37.61104,
+    "lon": 43.88704
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "STOKA (OLGUNLAR)",
+    "ad": "STOKA (OLGUNLAR)",
+    "lat": 37.48738,
+    "lon": 43.54955
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "SULAK (AŞAĞI DERECİK)",
+    "ad": "SULAK (AŞAĞI DERECİK)",
+    "lat": 37.58863,
+    "lon": 43.89644
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "SU OCAĞI (DOĞANYURT)",
+    "ad": "SU OCAĞI (DOĞANYURT)",
+    "lat": 37.74684,
+    "lon": 43.94009
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "SÜMBÜL",
+    "ad": "SÜMBÜL",
+    "lat": 37.57812,
+    "lon": 43.76282
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "SÜTÇÜLER (CEYLANLI)",
+    "ad": "SÜTÇÜLER (CEYLANLI)",
+    "lat": 37.43623,
+    "lon": 43.60513
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "SÜTLÜCE (KAYMAKLI)",
+    "ad": "SÜTLÜCE (KAYMAKLI)",
+    "lat": 37.78219,
+    "lon": 43.78436
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "TAŞLICA IŞIK (PINARCA)",
+    "ad": "TAŞLICA IŞIK (PINARCA)",
+    "lat": 37.65504,
+    "lon": 43.6193
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "TEPECİK (IŞIK)",
+    "ad": "TEPECİK (IŞIK)",
+    "lat": 37.63673,
+    "lon": 43.55498
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "TRAFİK (AŞAĞI DERECİK)",
+    "ad": "TRAFİK (AŞAĞI DERECİK)",
+    "lat": 37.59859,
+    "lon": 43.88916
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "TÜMSEK (OTLUCA)",
+    "ad": "TÜMSEK (OTLUCA)",
+    "lat": 37.60566,
+    "lon": 43.71734
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "UYANIK (OTLUCA)",
+    "ad": "UYANIK (OTLUCA)",
+    "lat": 37.62891,
+    "lon": 43.74818
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "YAĞMURLU (DEMİRTAŞ)",
+    "ad": "YAĞMURLU (DEMİRTAŞ)",
+    "lat": 37.78476,
+    "lon": 43.97632
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "YAPRAKLI (IŞIK)",
+    "ad": "YAPRAKLI (IŞIK)",
+    "lat": 37.62017,
+    "lon": 43.55717
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "YENİ",
+    "ad": "YENİ",
+    "lat": 37.57665,
+    "lon": 43.66509
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "YENİ (KIRIKDAĞ)",
+    "ad": "YENİ (KIRIKDAĞ)",
+    "lat": 37.61676,
+    "lon": 43.85982
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "YENİ OĞUL (OĞUL)",
+    "ad": "YENİ OĞUL (OĞUL)",
+    "lat": 37.44876,
+    "lon": 43.81227
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "YENİ (OLGUNLAR)",
+    "ad": "YENİ (OLGUNLAR)",
+    "lat": 37.4744,
+    "lon": 43.54268
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "YENİ (ÖRDEKLİ)",
+    "ad": "YENİ (ÖRDEKLİ)",
+    "lat": 37.72658,
+    "lon": 43.76734
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "YENİYOL (AKÇALI)",
+    "ad": "YENİYOL (AKÇALI)",
+    "lat": 37.73057,
+    "lon": 43.9886
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "YENİYOL (PINARCA)",
+    "ad": "YENİYOL (PINARCA)",
+    "lat": 37.64188,
+    "lon": 43.53981
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "YEŞİLBULAK (BOYBEYİ)",
+    "ad": "YEŞİLBULAK (BOYBEYİ)",
+    "lat": 37.7945,
+    "lon": 44.07011
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "YIĞINLI (CEYLANLI)",
+    "ad": "YIĞINLI (CEYLANLI)",
+    "lat": 37.3638,
+    "lon": 43.60976
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "YUKARI ÇALTIKORU (ÇALTIKORU)",
+    "ad": "YUKARI ÇALTIKORU (ÇALTIKORU)",
+    "lat": 37.78359,
+    "lon": 43.82647
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "YUKARI DERECİK (AŞAĞI DERECİK)",
+    "ad": "YUKARI DERECİK (AŞAĞI DERECİK)",
+    "lat": 37.63703,
+    "lon": 43.88138
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "YUKARI DERELİ (OLGUNLAR)",
+    "ad": "YUKARI DERELİ (OLGUNLAR)",
+    "lat": 37.49343,
+    "lon": 43.5016
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "YUKARI KAYACIK (BAĞIŞLI)",
+    "ad": "YUKARI KAYACIK (BAĞIŞLI)",
+    "lat": 37.75634,
+    "lon": 44.03748
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "YUKARI OTLUCA (OTLUCA)",
+    "ad": "YUKARI OTLUCA (OTLUCA)",
+    "lat": 37.6111,
+    "lon": 43.67982
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "YUMRUKAYA (AKBULUT)",
+    "ad": "YUMRUKAYA (AKBULUT)",
+    "lat": 37.71926,
+    "lon": 43.89789
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "YÜCE (AŞAĞI DERECİK)",
+    "ad": "YÜCE (AŞAĞI DERECİK)",
+    "lat": 37.54906,
+    "lon": 43.98747
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "ZAVİTE (KONAK)",
+    "ad": "ZAVİTE (KONAK)",
+    "lat": 37.66709,
+    "lon": 43.83303
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "MERKEZ",
+    "mahalle": "ZAVİTE MEZRASI (KONAK)",
+    "ad": "ZAVİTE MEZRASI (KONAK)",
+    "lat": 37.63146,
+    "lon": 43.85146
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "AKBAL (KORGAN)",
+    "ad": "AKBAL (KORGAN)",
+    "lat": 37.37575,
+    "lon": 44.53376
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "AKKAVAK (KORGAN)",
+    "ad": "AKKAVAK (KORGAN)",
+    "lat": 37.38338,
+    "lon": 44.50237
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "AKTÜTÜN (KONUR)",
+    "ad": "AKTÜTÜN (KONUR)",
+    "lat": 37.19889,
+    "lon": 44.32999
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "ALKAVA (KORGAN)",
+    "ad": "ALKAVA (KORGAN)",
+    "lat": 37.39726,
+    "lon": 44.52065
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "AŞAĞI KAYACIK (BOĞAZKÖY)",
+    "ad": "AŞAĞI KAYACIK (BOĞAZKÖY)",
+    "lat": 37.2825,
+    "lon": 44.45582
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "AŞAĞI KORGAN (KORGAN)",
+    "ad": "AŞAĞI KORGAN (KORGAN)",
+    "lat": 37.40067,
+    "lon": 44.51384
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "AŞAĞI TUĞLU (YUFKALI)",
+    "ad": "AŞAĞI TUĞLU (YUFKALI)",
+    "lat": 37.419,
+    "lon": 44.51976
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "BALIKLI (TEKELİ)",
+    "ad": "BALIKLI (TEKELİ)",
+    "lat": 37.23395,
+    "lon": 44.6336
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "BALOVA (KORGAN)",
+    "ad": "BALOVA (KORGAN)",
+    "lat": 37.43348,
+    "lon": 44.48854
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "BEŞEVLER",
+    "ad": "BEŞEVLER",
+    "lat": 37.31813,
+    "lon": 44.56587
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "BEYTERA (BAĞLAR)",
+    "ad": "BEYTERA (BAĞLAR)",
+    "lat": 37.27874,
+    "lon": 44.54197
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "BİNAHERE (YUFKALI)",
+    "ad": "BİNAHERE (YUFKALI)",
+    "lat": 37.40405,
+    "lon": 44.50981
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "ÇALIŞKANLAR",
+    "ad": "ÇALIŞKANLAR",
+    "lat": 37.25496,
+    "lon": 44.64266
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "ÇAMLICA (BAĞLAR)",
+    "ad": "ÇAMLICA (BAĞLAR)",
+    "lat": 37.32183,
+    "lon": 44.51215
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "ÇEM (BAĞLAR)",
+    "ad": "ÇEM (BAĞLAR)",
+    "lat": 37.27487,
+    "lon": 44.53403
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "ÇEM (BOĞAZKÖY)",
+    "ad": "ÇEM (BOĞAZKÖY)",
+    "lat": 37.30166,
+    "lon": 44.45403
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "ÇEVRE (KORGAN)",
+    "ad": "ÇEVRE (KORGAN)",
+    "lat": 37.41447,
+    "lon": 44.46616
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "DERAVİ (BOZYAMAÇ)",
+    "ad": "DERAVİ (BOZYAMAÇ)",
+    "lat": 37.37393,
+    "lon": 44.45579
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "DEREBOYU (ALTINSU)",
+    "ad": "DEREBOYU (ALTINSU)",
+    "lat": 37.36127,
+    "lon": 44.53436
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "DEREYANI (KONUR)",
+    "ad": "DEREYANI (KONUR)",
+    "lat": 37.27999,
+    "lon": 44.31142
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "DİNARTE (ÇUBUKLU)",
+    "ad": "DİNARTE (ÇUBUKLU)",
+    "lat": 37.32098,
+    "lon": 44.44872
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "DURAK (KORGAN)",
+    "ad": "DURAK (KORGAN)",
+    "lat": 37.39418,
+    "lon": 44.54373
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "ELDE (ALTINSU)",
+    "ad": "ELDE (ALTINSU)",
+    "lat": 37.32558,
+    "lon": 44.57423
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "ELMALI (YUFKALI)",
+    "ad": "ELMALI (YUFKALI)",
+    "lat": 37.47642,
+    "lon": 44.52243
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "ERDEMLİ (ÇATALCA)",
+    "ad": "ERDEMLİ (ÇATALCA)",
+    "lat": 37.3635,
+    "lon": 44.62558
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "ERİKLİ (KAYALAR)",
+    "ad": "ERİKLİ (KAYALAR)",
+    "lat": 37.31447,
+    "lon": 44.67049
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "GÜLEÇ (TÜTÜNLÜ)",
+    "ad": "GÜLEÇ (TÜTÜNLÜ)",
+    "lat": 37.22605,
+    "lon": 44.57207
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "GÜVENLİ (ÇATALCA)",
+    "ad": "GÜVENLİ (ÇATALCA)",
+    "lat": 37.39092,
+    "lon": 44.60659
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "GÜZELKAYA (BAĞLAR)",
+    "ad": "GÜZELKAYA (BAĞLAR)",
+    "lat": 37.2768,
+    "lon": 44.53079
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "GÜZELKONAK (KORGAN)",
+    "ad": "GÜZELKONAK (KORGAN)",
+    "lat": 37.39859,
+    "lon": 44.48077
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "HARMANLI (ÖVEÇ)",
+    "ad": "HARMANLI (ÖVEÇ)",
+    "lat": 37.32757,
+    "lon": 44.50465
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "HAZNE (ÇALIŞKANLAR)",
+    "ad": "HAZNE (ÇALIŞKANLAR)",
+    "lat": 37.25931,
+    "lon": 44.62866
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "HUSROVA (KAYALAR)",
+    "ad": "HUSROVA (KAYALAR)",
+    "lat": 37.28777,
+    "lon": 44.67189
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "İNCESU (ALTINSU)",
+    "ad": "İNCESU (ALTINSU)",
+    "lat": 37.33194,
+    "lon": 44.62333
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "KARAAĞAÇ (ÖVEÇ)",
+    "ad": "KARAAĞAÇ (ÖVEÇ)",
+    "lat": 37.36173,
+    "lon": 44.53725
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "KARŞIYAKA",
+    "ad": "KARŞIYAKA",
+    "lat": 37.30833,
+    "lon": 44.57101
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "KEPENEK (ÇALIŞKANLAR)",
+    "ad": "KEPENEK (ÇALIŞKANLAR)",
+    "lat": 37.22662,
+    "lon": 44.608
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "KOÇBAŞI (ÇALIŞKANLAR)",
+    "ad": "KOÇBAŞI (ÇALIŞKANLAR)",
+    "lat": 37.24299,
+    "lon": 44.60808
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "KOLİTA (ÇUBUKLU)",
+    "ad": "KOLİTA (ÇUBUKLU)",
+    "lat": 37.35086,
+    "lon": 44.45855
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "KÖYÜN KENDİSİ (ALAN)",
+    "ad": "KÖYÜN KENDİSİ (ALAN)",
+    "lat": 37.32782,
+    "lon": 44.76158
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "KÖYÜN KENDİSİ (BAĞLAR)",
+    "ad": "KÖYÜN KENDİSİ (BAĞLAR)",
+    "lat": 37.29336,
+    "lon": 44.53926
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "KÖYÜN KENDİSİ (BEYYURDU)",
+    "ad": "KÖYÜN KENDİSİ (BEYYURDU)",
+    "lat": 37.34026,
+    "lon": 44.43613
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "KÖYÜN KENDİSİ (BOZYAMAÇ)",
+    "ad": "KÖYÜN KENDİSİ (BOZYAMAÇ)",
+    "lat": 37.37315,
+    "lon": 44.45578
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "KÖYÜN KENDİSİ (ÇATALCA)",
+    "ad": "KÖYÜN KENDİSİ (ÇATALCA)",
+    "lat": 37.37805,
+    "lon": 44.57077
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "KÖYÜN KENDİSİ (ÇUBUKLU)",
+    "ad": "KÖYÜN KENDİSİ (ÇUBUKLU)",
+    "lat": 37.29385,
+    "lon": 44.49085
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "KÖYÜN KENDİSİ (GÜNYAZI)",
+    "ad": "KÖYÜN KENDİSİ (GÜNYAZI)",
+    "lat": 37.29328,
+    "lon": 44.63152
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "KÖYÜN KENDİSİ (KAYALAR)",
+    "ad": "KÖYÜN KENDİSİ (KAYALAR)",
+    "lat": 37.31874,
+    "lon": 44.69539
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "KÖYÜN KENDİSİ (KONUR)",
+    "ad": "KÖYÜN KENDİSİ (KONUR)",
+    "lat": 37.26857,
+    "lon": 44.3515
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "KÖYÜN KENDİSİ (KORGAN)",
+    "ad": "KÖYÜN KENDİSİ (KORGAN)",
+    "lat": 37.3817,
+    "lon": 44.48994
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "KÖYÜN KENDİSİ (ÖVEÇ)",
+    "ad": "KÖYÜN KENDİSİ (ÖVEÇ)",
+    "lat": 37.33725,
+    "lon": 44.48642
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "KÖYÜN KENDİSİ (TEKELİ)",
+    "ad": "KÖYÜN KENDİSİ (TEKELİ)",
+    "lat": 37.22739,
+    "lon": 44.66397
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "KÖYÜN KENDİSİ (TÜTÜNLÜ)",
+    "ad": "KÖYÜN KENDİSİ (TÜTÜNLÜ)",
+    "lat": 37.20182,
+    "lon": 44.48258
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "KÖYÜN KENDİSİ (UĞURAÇAN)",
+    "ad": "KÖYÜN KENDİSİ (UĞURAÇAN)",
+    "lat": 37.24453,
+    "lon": 44.40834
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "KÖYÜN KENDİSİ (YAYLAPINAR)",
+    "ad": "KÖYÜN KENDİSİ (YAYLAPINAR)",
+    "lat": 37.26882,
+    "lon": 44.46926
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "KÖYÜN KENDİSİ (YUFKALI)",
+    "ad": "KÖYÜN KENDİSİ (YUFKALI)",
+    "lat": 37.40543,
+    "lon": 44.51797
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "KULA (YUFKALI)",
+    "ad": "KULA (YUFKALI)",
+    "lat": 37.43448,
+    "lon": 44.54507
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "KULE (KAYALAR)",
+    "ad": "KULE (KAYALAR)",
+    "lat": 37.3181,
+    "lon": 44.71579
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "MAĞARAÖNÜ (KAYALAR)",
+    "ad": "MAĞARAÖNÜ (KAYALAR)",
+    "lat": 37.35664,
+    "lon": 44.72716
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "MERKEZ (ALTINSU)",
+    "ad": "MERKEZ (ALTINSU)",
+    "lat": 37.3257,
+    "lon": 44.55043
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "MEŞELİ (BAĞLAR)",
+    "ad": "MEŞELİ (BAĞLAR)",
+    "lat": 37.30208,
+    "lon": 44.57007
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "MEYDAN (ALTINSU)",
+    "ad": "MEYDAN (ALTINSU)",
+    "lat": 37.32516,
+    "lon": 44.57469
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "MODA",
+    "ad": "MODA",
+    "lat": 37.30409,
+    "lon": 44.57642
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "MUŞİ (BAĞLAR)",
+    "ad": "MUŞİ (BAĞLAR)",
+    "lat": 37.27545,
+    "lon": 44.51074
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "OĞLAKLI (TEKELİ)",
+    "ad": "OĞLAKLI (TEKELİ)",
+    "lat": 37.23118,
+    "lon": 44.75181
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "OLGUNLAR (GÜNYAZI)",
+    "ad": "OLGUNLAR (GÜNYAZI)",
+    "lat": 37.2746,
+    "lon": 44.608
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "RÜZGARLI (BAĞLAR)",
+    "ad": "RÜZGARLI (BAĞLAR)",
+    "lat": 37.26485,
+    "lon": 44.52972
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "SAMANLI (ÇALIŞKANLAR)",
+    "ad": "SAMANLI (ÇALIŞKANLAR)",
+    "lat": 37.27584,
+    "lon": 44.62373
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "SARICA (KAYALAR)",
+    "ad": "SARICA (KAYALAR)",
+    "lat": 37.30183,
+    "lon": 44.66603
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "SEÇKİN (KAYALAR)",
+    "ad": "SEÇKİN (KAYALAR)",
+    "lat": 37.38114,
+    "lon": 44.66237
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "SOĞUKSU (ÇATALCA)",
+    "ad": "SOĞUKSU (ÇATALCA)",
+    "lat": 37.41162,
+    "lon": 44.6401
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "TANYOLU (TEKELİ)",
+    "ad": "TANYOLU (TEKELİ)",
+    "lat": 37.20885,
+    "lon": 44.76437
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "TATLICA (KORGAN)",
+    "ad": "TATLICA (KORGAN)",
+    "lat": 37.3841,
+    "lon": 44.50425
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "TUĞLU (YUFKALI)",
+    "ad": "TUĞLU (YUFKALI)",
+    "lat": 37.43614,
+    "lon": 44.57512
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "TUVA (BAĞLAR)",
+    "ad": "TUVA (BAĞLAR)",
+    "lat": 37.27872,
+    "lon": 44.51554
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "TÜRE (BAĞLAR)",
+    "ad": "TÜRE (BAĞLAR)",
+    "lat": 37.29638,
+    "lon": 44.50468
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "ÜÇGÖZE (ÇALIŞKANLAR)",
+    "ad": "ÜÇGÖZE (ÇALIŞKANLAR)",
+    "lat": 37.27114,
+    "lon": 44.61443
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "ÜSTÜNAĞAÇ (TEKELİ)",
+    "ad": "ÜSTÜNAĞAÇ (TEKELİ)",
+    "lat": 37.25078,
+    "lon": 44.67479
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "ÜZÜMKIRAN KAMPI (KORGAN)",
+    "ad": "ÜZÜMKIRAN KAMPI (KORGAN)",
+    "lat": 37.37568,
+    "lon": 44.53339
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "VELİKÖY (ÇALIŞKANLAR)",
+    "ad": "VELİKÖY (ÇALIŞKANLAR)",
+    "lat": 37.28813,
+    "lon": 44.63522
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "YAYLA",
+    "ad": "YAYLA",
+    "lat": 37.33086,
+    "lon": 44.58734
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "YENİ",
+    "ad": "YENİ",
+    "lat": 37.31093,
+    "lon": 44.58528
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "YENİCELİ (GÜNYAZI)",
+    "ad": "YENİCELİ (GÜNYAZI)",
+    "lat": 37.29632,
+    "lon": 44.58878
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "YEŞİLBAYIR (UĞURAÇAN)",
+    "ad": "YEŞİLBAYIR (UĞURAÇAN)",
+    "lat": 37.30876,
+    "lon": 44.37319
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "YEŞİLÖZ (ÇALIŞKANLAR)",
+    "ad": "YEŞİLÖZ (ÇALIŞKANLAR)",
+    "lat": 37.29365,
+    "lon": 44.63478
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "YİĞİTLER (GÜNYAZI)",
+    "ad": "YİĞİTLER (GÜNYAZI)",
+    "lat": 37.27998,
+    "lon": 44.58884
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "YUKARI KAYACIK (BOĞAZKÖY)",
+    "ad": "YUKARI KAYACIK (BOĞAZKÖY)",
+    "lat": 37.28479,
+    "lon": 44.43086
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "YUKARI KAYALAR (KAYALAR)",
+    "ad": "YUKARI KAYALAR (KAYALAR)",
+    "lat": 37.34038,
+    "lon": 44.67414
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "YUKARI KORGAN (KORGAN)",
+    "ad": "YUKARI KORGAN (KORGAN)",
+    "lat": 37.38532,
+    "lon": 44.48883
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "ŞEMDİNLİ",
+    "mahalle": "ZORGEÇİT (BAĞLAR)",
+    "ad": "ZORGEÇİT (BAĞLAR)",
+    "lat": 37.27452,
+    "lon": 44.50726
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "A.GÜVEÇ (KISIKLI)",
+    "ad": "A.GÜVEÇ (KISIKLI)",
+    "lat": 37.65578,
+    "lon": 44.39504
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "AĞAÇLIK (ONBAŞILAR)",
+    "ad": "AĞAÇLIK (ONBAŞILAR)",
+    "lat": 37.57898,
+    "lon": 44.59891
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "AĞILCIK (ONBAŞILAR)",
+    "ad": "AĞILCIK (ONBAŞILAR)",
+    "lat": 37.54368,
+    "lon": 44.61824
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "AKAR (DAĞLICA)",
+    "ad": "AKAR (DAĞLICA)",
+    "lat": 37.37494,
+    "lon": 44.09414
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "AKTOPRAK (ARMUTDÜZÜ)",
+    "ad": "AKTOPRAK (ARMUTDÜZÜ)",
+    "lat": 37.67537,
+    "lon": 43.97604
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "ALACIK (YENİIŞIK)",
+    "ad": "ALACIK (YENİIŞIK)",
+    "lat": 37.62372,
+    "lon": 44.04568
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "ALTINBAŞAK (AKPINAR)",
+    "ad": "ALTINBAŞAK (AKPINAR)",
+    "lat": 37.7046,
+    "lon": 44.52121
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "A.OLUKBAŞI (AKOCAK)",
+    "ad": "A.OLUKBAŞI (AKOCAK)",
+    "lat": 37.6263,
+    "lon": 44.07141
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "A.ÖLÇEK (DEĞERLİ)",
+    "ad": "A.ÖLÇEK (DEĞERLİ)",
+    "lat": 37.55129,
+    "lon": 44.42078
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "ARMUTLU (ONBAŞILAR)",
+    "ad": "ARMUTLU (ONBAŞILAR)",
+    "lat": 37.56874,
+    "lon": 44.5742
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "ARPALI (ARMUTDÜZÜ)",
+    "ad": "ARPALI (ARMUTDÜZÜ)",
+    "lat": 37.69631,
+    "lon": 43.94982
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "BASAMAK (YENİIŞIK)",
+    "ad": "BASAMAK (YENİIŞIK)",
+    "lat": 37.63783,
+    "lon": 44.02214
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "BEŞEVLER (AKPINAR)",
+    "ad": "BEŞEVLER (AKPINAR)",
+    "lat": 37.75257,
+    "lon": 44.52182
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "BEŞPINAR (KARLI)",
+    "ad": "BEŞPINAR (KARLI)",
+    "lat": 37.45571,
+    "lon": 44.30266
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "BULGURLU (GÜLLÜCE)",
+    "ad": "BULGURLU (GÜLLÜCE)",
+    "lat": 37.6054,
+    "lon": 44.30414
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "CEVİZLİK (GÜRKAVAK)",
+    "ad": "CEVİZLİK (GÜRKAVAK)",
+    "lat": 37.42923,
+    "lon": 44.19656
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "CUMHURİYET",
+    "ad": "CUMHURİYET",
+    "lat": 37.56198,
+    "lon": 44.31002
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "ÇAKIRKAYA (BEŞATLI)",
+    "ad": "ÇAKIRKAYA (BEŞATLI)",
+    "lat": 37.6004,
+    "lon": 44.17181
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "ÇAKIRKAY (BEŞATLI)",
+    "ad": "ÇAKIRKAY (BEŞATLI)",
+    "lat": 37.64335,
+    "lon": 44.19725
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "ÇAKMAK (BEŞATLI)",
+    "ad": "ÇAKMAK (BEŞATLI)",
+    "lat": 37.64355,
+    "lon": 44.19416
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "ÇALIMLI (DİLEKTAŞI)",
+    "ad": "ÇALIMLI (DİLEKTAŞI)",
+    "lat": 37.73127,
+    "lon": 44.17292
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "ÇAMDALI (ONBAŞILAR)",
+    "ad": "ÇAMDALI (ONBAŞILAR)",
+    "lat": 37.59873,
+    "lon": 44.48344
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "ÇATALKAYA (BÖLÜK)",
+    "ad": "ÇATALKAYA (BÖLÜK)",
+    "lat": 37.59711,
+    "lon": 44.3116
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "ÇAYIR (TUĞLU)",
+    "ad": "ÇAYIR (TUĞLU)",
+    "lat": 37.40199,
+    "lon": 44.1231
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "ÇEVRELİ (YONCALIK)",
+    "ad": "ÇEVRELİ (YONCALIK)",
+    "lat": 37.53181,
+    "lon": 44.32994
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "ÇİÇEKÖZÜ (KARLI)",
+    "ad": "ÇİÇEKÖZÜ (KARLI)",
+    "lat": 37.48342,
+    "lon": 44.23024
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "ÇİMENLİ (KARLI)",
+    "ad": "ÇİMENLİ (KARLI)",
+    "lat": 37.49281,
+    "lon": 44.26344
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "ÇOBANPINAR (ONBAŞILAR)",
+    "ad": "ÇOBANPINAR (ONBAŞILAR)",
+    "lat": 37.51634,
+    "lon": 44.60499
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "DAGLICA (DAĞLICA)",
+    "ad": "DAGLICA (DAĞLICA)",
+    "lat": 37.37656,
+    "lon": 44.08934
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "DAĞDİBİ (KÖŞKÖNÜ)",
+    "ad": "DAĞDİBİ (KÖŞKÖNÜ)",
+    "lat": 37.47746,
+    "lon": 44.18338
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "DALİCE (DİBEKLİ)",
+    "ad": "DALİCE (DİBEKLİ)",
+    "lat": 37.68439,
+    "lon": 44.10868
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "DAMLACIK (ARMUTDÜZÜ)",
+    "ad": "DAMLACIK (ARMUTDÜZÜ)",
+    "lat": 37.69604,
+    "lon": 43.94419
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "DARAİÇİ (ONBAŞILAR)",
+    "ad": "DARAİÇİ (ONBAŞILAR)",
+    "lat": 37.51608,
+    "lon": 44.5451
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "DEREİÇİ (BİRDİK) (AKPINAR)",
+    "ad": "DEREİÇİ (BİRDİK) (AKPINAR)",
+    "lat": 37.72161,
+    "lon": 44.39433
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "DEREİÇİ (DİLEKTAŞI)",
+    "ad": "DEREİÇİ (DİLEKTAŞI)",
+    "lat": 37.64718,
+    "lon": 44.15354
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "DEREİÇİ (ONBAŞILAR)",
+    "ad": "DEREİÇİ (ONBAŞILAR)",
+    "lat": 37.55406,
+    "lon": 44.51201
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "DİLEKLİ KAMPI (DİLEKLİ)",
+    "ad": "DİLEKLİ KAMPI (DİLEKLİ)",
+    "lat": 37.39137,
+    "lon": 44.01385
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "DİLİMLİ (BÖLÜK)",
+    "ad": "DİLİMLİ (BÖLÜK)",
+    "lat": 37.58532,
+    "lon": 44.35761
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "DİŞLİ (DEĞERLİ)",
+    "ad": "DİŞLİ (DEĞERLİ)",
+    "lat": 37.55361,
+    "lon": 44.43997
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "DİZE",
+    "ad": "DİZE",
+    "lat": 37.58592,
+    "lon": 44.30163
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "DURAKLI (DEMİRKONAK)",
+    "ad": "DURAKLI (DEMİRKONAK)",
+    "lat": 37.54041,
+    "lon": 44.388
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "DURAKLI (GÜÇLÜ)",
+    "ad": "DURAKLI (GÜÇLÜ)",
+    "lat": 37.58508,
+    "lon": 44.39668
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "DURANLAR (AKPINAR)",
+    "ad": "DURANLAR (AKPINAR)",
+    "lat": 37.74005,
+    "lon": 44.53593
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "ERBAŞ (KÖŞKÖNÜ)",
+    "ad": "ERBAŞ (KÖŞKÖNÜ)",
+    "lat": 37.47756,
+    "lon": 44.18374
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "ERİCİK (BAĞDAŞ)",
+    "ad": "ERİCİK (BAĞDAŞ)",
+    "lat": 37.66515,
+    "lon": 44.22271
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "ESENTEPE",
+    "ad": "ESENTEPE",
+    "lat": 37.57639,
+    "lon": 44.27421
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "ESEN YURT",
+    "ad": "ESEN YURT",
+    "lat": 37.57741,
+    "lon": 44.26161
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "ESKİ KIŞLA",
+    "ad": "ESKİ KIŞLA",
+    "lat": 37.58596,
+    "lon": 44.30175
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "GEDİKLİ (BAĞDAŞ)",
+    "ad": "GEDİKLİ (BAĞDAŞ)",
+    "lat": 37.6698,
+    "lon": 44.24584
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "GOVE (GÜRKAVAK)",
+    "ad": "GOVE (GÜRKAVAK)",
+    "lat": 37.39452,
+    "lon": 44.18987
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "GÜMÜŞLÜ (ORTAÇ)",
+    "ad": "GÜMÜŞLÜ (ORTAÇ)",
+    "lat": 37.6829,
+    "lon": 44.06008
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "GÜNGÖR",
+    "ad": "GÜNGÖR",
+    "lat": 37.56921,
+    "lon": 44.28533
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "GÜRKAYNAK (SALKIMLI)",
+    "ad": "GÜRKAYNAK (SALKIMLI)",
+    "lat": 37.69129,
+    "lon": 44.05281
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "GÜVENLİ",
+    "ad": "GÜVENLİ",
+    "lat": 37.71685,
+    "lon": 44.57025
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "İKİZLER (GÜRKAVAK)",
+    "ad": "İKİZLER (GÜRKAVAK)",
+    "lat": 37.41393,
+    "lon": 44.21599
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "İNCEYOL (PINARGÖZÜ)",
+    "ad": "İNCEYOL (PINARGÖZÜ)",
+    "lat": 37.44441,
+    "lon": 44.12592
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "İNCİRLİK (DAĞLICA)",
+    "ad": "İNCİRLİK (DAĞLICA)",
+    "lat": 37.40375,
+    "lon": 44.11285
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "İPEK",
+    "ad": "İPEK",
+    "lat": 37.58833,
+    "lon": 44.3026
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KALAKONAK (BAĞDAŞ)",
+    "ad": "KALAKONAK (BAĞDAŞ)",
+    "lat": 37.7321,
+    "lon": 44.22104
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KALEMLİ (KADIKÖY)",
+    "ad": "KALEMLİ (KADIKÖY)",
+    "lat": 37.54155,
+    "lon": 44.15698
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KAPILI (ORTAÇ)",
+    "ad": "KAPILI (ORTAÇ)",
+    "lat": 37.67606,
+    "lon": 44.03347
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KARABAĞ (KARLI)",
+    "ad": "KARABAĞ (KARLI)",
+    "lat": 37.41039,
+    "lon": 44.33944
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KARATAŞ (TUĞLU)",
+    "ad": "KARATAŞ (TUĞLU)",
+    "lat": 37.41631,
+    "lon": 44.1335
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KARGILI (ORTAÇ)",
+    "ad": "KARGILI (ORTAÇ)",
+    "lat": 37.66738,
+    "lon": 44.04432
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KAŞYAZI (SÜREKLİ)",
+    "ad": "KAŞYAZI (SÜREKLİ)",
+    "lat": 37.4383,
+    "lon": 44.15471
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KAYAKONAK (BAĞDAŞ)",
+    "ad": "KAYAKONAK (BAĞDAŞ)",
+    "lat": 37.64263,
+    "lon": 44.25224
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KEREM ZEYDAN",
+    "ad": "KEREM ZEYDAN",
+    "lat": 37.59409,
+    "lon": 44.16137
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KIŞLACIK (PINARGÖZÜ)",
+    "ad": "KIŞLACIK (PINARGÖZÜ)",
+    "lat": 37.48619,
+    "lon": 44.12205
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KİLİMLİ (KARLI)",
+    "ad": "KİLİMLİ (KARLI)",
+    "lat": 37.46901,
+    "lon": 44.33834
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KONAK (ORTAÇ)",
+    "ad": "KONAK (ORTAÇ)",
+    "lat": 37.68224,
+    "lon": 44.07269
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KORNAK (ARMUTDÜZÜ)",
+    "ad": "KORNAK (ARMUTDÜZÜ)",
+    "lat": 37.67619,
+    "lon": 43.97678
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖPRÜBAŞI (SALKIMLI)",
+    "ad": "KÖPRÜBAŞI (SALKIMLI)",
+    "lat": 37.68634,
+    "lon": 44.0383
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖŞK (AKOCAK)",
+    "ad": "KÖŞK (AKOCAK)",
+    "lat": 37.61151,
+    "lon": 44.08989
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYCÜK (DEĞERLİ)",
+    "ad": "KÖYCÜK (DEĞERLİ)",
+    "lat": 37.59665,
+    "lon": 44.44561
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (ADAKLI)",
+    "ad": "KÖYÜN KENDİSİ (ADAKLI)",
+    "lat": 37.54401,
+    "lon": 44.19443
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (AKALIN)",
+    "ad": "KÖYÜN KENDİSİ (AKALIN)",
+    "lat": 37.56814,
+    "lon": 44.25248
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (AKÇALI)",
+    "ad": "KÖYÜN KENDİSİ (AKÇALI)",
+    "lat": 37.60116,
+    "lon": 44.21221
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (AKOCAK)",
+    "ad": "KÖYÜN KENDİSİ (AKOCAK)",
+    "lat": 37.63868,
+    "lon": 44.11413
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (AKPINAR)",
+    "ad": "KÖYÜN KENDİSİ (AKPINAR)",
+    "lat": 37.68069,
+    "lon": 44.42331
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (AKSU)",
+    "ad": "KÖYÜN KENDİSİ (AKSU)",
+    "lat": 37.53661,
+    "lon": 44.2378
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (ALTINOLUK)",
+    "ad": "KÖYÜN KENDİSİ (ALTINOLUK)",
+    "lat": 37.56534,
+    "lon": 44.35397
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (ARMUTDÜZÜ)",
+    "ad": "KÖYÜN KENDİSİ (ARMUTDÜZÜ)",
+    "lat": 37.6625,
+    "lon": 43.96108
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (AŞAĞIULUYOL)",
+    "ad": "KÖYÜN KENDİSİ (AŞAĞIULUYOL)",
+    "lat": 37.50168,
+    "lon": 44.42177
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (BAĞDAŞ)",
+    "ad": "KÖYÜN KENDİSİ (BAĞDAŞ)",
+    "lat": 37.69466,
+    "lon": 44.2188
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (BATAKLIK)",
+    "ad": "KÖYÜN KENDİSİ (BATAKLIK)",
+    "lat": 37.53632,
+    "lon": 44.20552
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (BEŞATLI)",
+    "ad": "KÖYÜN KENDİSİ (BEŞATLI)",
+    "lat": 37.59915,
+    "lon": 44.19932
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (BEŞBULAK)",
+    "ad": "KÖYÜN KENDİSİ (BEŞBULAK)",
+    "lat": 37.53591,
+    "lon": 44.36544
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (BOSTANCIK)",
+    "ad": "KÖYÜN KENDİSİ (BOSTANCIK)",
+    "lat": 37.43325,
+    "lon": 44.21727
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (BÖLÜK)",
+    "ad": "KÖYÜN KENDİSİ (BÖLÜK)",
+    "lat": 37.64723,
+    "lon": 44.29559
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (BULAKLI)",
+    "ad": "KÖYÜN KENDİSİ (BULAKLI)",
+    "lat": 37.54175,
+    "lon": 44.1989
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (ÇATMA)",
+    "ad": "KÖYÜN KENDİSİ (ÇATMA)",
+    "lat": 37.47906,
+    "lon": 44.28453
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (ÇUKURCA)",
+    "ad": "KÖYÜN KENDİSİ (ÇUKURCA)",
+    "lat": 37.4842,
+    "lon": 44.39937
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (DEDELER)",
+    "ad": "KÖYÜN KENDİSİ (DEDELER)",
+    "lat": 37.46388,
+    "lon": 44.3519
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (DEĞERLİ)",
+    "ad": "KÖYÜN KENDİSİ (DEĞERLİ)",
+    "lat": 37.58151,
+    "lon": 44.40747
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (DEMİRKONAK)",
+    "ad": "KÖYÜN KENDİSİ (DEMİRKONAK)",
+    "lat": 37.52016,
+    "lon": 44.383
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (DİBEKLİ)",
+    "ad": "KÖYÜN KENDİSİ (DİBEKLİ)",
+    "lat": 37.6786,
+    "lon": 44.12046
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (DİLEKLİ)",
+    "ad": "KÖYÜN KENDİSİ (DİLEKLİ)",
+    "lat": 37.38771,
+    "lon": 43.97493
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (DİLEKTAŞI)",
+    "ad": "KÖYÜN KENDİSİ (DİLEKTAŞI)",
+    "lat": 37.70715,
+    "lon": 44.17792
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (DOĞANLI)",
+    "ad": "KÖYÜN KENDİSİ (DOĞANLI)",
+    "lat": 37.47072,
+    "lon": 44.30438
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (GÖKYURT)",
+    "ad": "KÖYÜN KENDİSİ (GÖKYURT)",
+    "lat": 37.72309,
+    "lon": 44.13873
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (GÜÇLÜ)",
+    "ad": "KÖYÜN KENDİSİ (GÜÇLÜ)",
+    "lat": 37.56452,
+    "lon": 44.33342
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (GÜLDALI)",
+    "ad": "KÖYÜN KENDİSİ (GÜLDALI)",
+    "lat": 37.79718,
+    "lon": 44.43038
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (GÜLLÜCE)",
+    "ad": "KÖYÜN KENDİSİ (GÜLLÜCE)",
+    "lat": 37.60272,
+    "lon": 44.29225
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (GÜRDERE)",
+    "ad": "KÖYÜN KENDİSİ (GÜRDERE)",
+    "lat": 37.5214,
+    "lon": 44.23459
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (İNANLI)",
+    "ad": "KÖYÜN KENDİSİ (İNANLI)",
+    "lat": 37.59552,
+    "lon": 44.26172
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (KADIKÖY)",
+    "ad": "KÖYÜN KENDİSİ (KADIKÖY)",
+    "lat": 37.58408,
+    "lon": 44.01769
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (KAMIŞLI)",
+    "ad": "KÖYÜN KENDİSİ (KAMIŞLI)",
+    "lat": 37.47211,
+    "lon": 44.33015
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (KARABEY)",
+    "ad": "KÖYÜN KENDİSİ (KARABEY)",
+    "lat": 37.43394,
+    "lon": 44.45558
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (KARLI)",
+    "ad": "KÖYÜN KENDİSİ (KARLI)",
+    "lat": 37.50344,
+    "lon": 44.23317
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (KAZAN)",
+    "ad": "KÖYÜN KENDİSİ (KAZAN)",
+    "lat": 37.74333,
+    "lon": 44.29501
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (KEÇİLİ)",
+    "ad": "KÖYÜN KENDİSİ (KEÇİLİ)",
+    "lat": 37.67137,
+    "lon": 44.28248
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (KISIKLI)",
+    "ad": "KÖYÜN KENDİSİ (KISIKLI)",
+    "lat": 37.68499,
+    "lon": 44.35483
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (KOLBAŞI)",
+    "ad": "KÖYÜN KENDİSİ (KOLBAŞI)",
+    "lat": 37.66092,
+    "lon": 43.95167
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (KÖPRÜCEK)",
+    "ad": "KÖYÜN KENDİSİ (KÖPRÜCEK)",
+    "lat": 37.57357,
+    "lon": 44.18416
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (KÖŞKÖNÜ)",
+    "ad": "KÖYÜN KENDİSİ (KÖŞKÖNÜ)",
+    "lat": 37.42443,
+    "lon": 44.16324
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (ONBAŞILAR)",
+    "ad": "KÖYÜN KENDİSİ (ONBAŞILAR)",
+    "lat": 37.57156,
+    "lon": 44.53775
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (ORTAÇ)",
+    "ad": "KÖYÜN KENDİSİ (ORTAÇ)",
+    "lat": 37.68264,
+    "lon": 44.0459
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (ÖRNEKKÖY)",
+    "ad": "KÖYÜN KENDİSİ (ÖRNEKKÖY)",
+    "lat": 37.44176,
+    "lon": 44.3568
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (PINARGÖZÜ)",
+    "ad": "KÖYÜN KENDİSİ (PINARGÖZÜ)",
+    "lat": 37.43939,
+    "lon": 44.13174
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (SALKIMLI)",
+    "ad": "KÖYÜN KENDİSİ (SALKIMLI)",
+    "lat": 37.675,
+    "lon": 44.01951
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (SARITAŞ)",
+    "ad": "KÖYÜN KENDİSİ (SARITAŞ)",
+    "lat": 37.62186,
+    "lon": 44.366
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (SERİNDERE)",
+    "ad": "KÖYÜN KENDİSİ (SERİNDERE)",
+    "lat": 37.68497,
+    "lon": 44.40812
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (SUÜSTÜ)",
+    "ad": "KÖYÜN KENDİSİ (SUÜSTÜ)",
+    "lat": 37.61829,
+    "lon": 44.16403
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (SÜREKLİ)",
+    "ad": "KÖYÜN KENDİSİ (SÜREKLİ)",
+    "lat": 37.42903,
+    "lon": 44.15327
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (TATLI)",
+    "ad": "KÖYÜN KENDİSİ (TATLI)",
+    "lat": 37.70251,
+    "lon": 44.05032
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (TUĞLU)",
+    "ad": "KÖYÜN KENDİSİ (TUĞLU)",
+    "lat": 37.42098,
+    "lon": 44.14866
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (VEZİRLİ)",
+    "ad": "KÖYÜN KENDİSİ (VEZİRLİ)",
+    "lat": 37.53965,
+    "lon": 44.2668
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (YENİIŞIK)",
+    "ad": "KÖYÜN KENDİSİ (YENİIŞIK)",
+    "lat": 37.6317,
+    "lon": 44.03983
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (YEŞİLTAŞ)",
+    "ad": "KÖYÜN KENDİSİ (YEŞİLTAŞ)",
+    "lat": 37.48673,
+    "lon": 44.06928
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (YONCALIK)",
+    "ad": "KÖYÜN KENDİSİ (YONCALIK)",
+    "lat": 37.53202,
+    "lon": 44.32411
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KÖYÜN KENDİSİ (YÜREKLİ)",
+    "ad": "KÖYÜN KENDİSİ (YÜREKLİ)",
+    "lat": 37.38845,
+    "lon": 44.32857
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "KURUCAK (KÖŞKÖNÜ)",
+    "ad": "KURUCAK (KÖŞKÖNÜ)",
+    "lat": 37.42476,
+    "lon": 44.16529
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "MAMAK (KADIKÖY)",
+    "ad": "MAMAK (KADIKÖY)",
+    "lat": 37.55297,
+    "lon": 44.16419
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "MERKEZ",
+    "ad": "MERKEZ",
+    "lat": 37.59744,
+    "lon": 44.1248
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "MEZARLIK",
+    "ad": "MEZARLIK",
+    "lat": 37.56793,
+    "lon": 44.29676
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "MEZRA (YENİIŞIK)",
+    "ad": "MEZRA (YENİIŞIK)",
+    "lat": 37.62151,
+    "lon": 44.05389
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "MİRANAVA (SERİNDERE)",
+    "ad": "MİRANAVA (SERİNDERE)",
+    "lat": 37.64729,
+    "lon": 44.41609
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "ODABAŞI (DİBEKLİ)",
+    "ad": "ODABAŞI (DİBEKLİ)",
+    "lat": 37.65379,
+    "lon": 44.13139
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "ORMANARASI (KOLBAŞI)",
+    "ad": "ORMANARASI (KOLBAŞI)",
+    "lat": 37.68528,
+    "lon": 43.93948
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "OVAİÇİ (AKPINAR)",
+    "ad": "OVAİÇİ (AKPINAR)",
+    "lat": 37.70749,
+    "lon": 44.49894
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "PİRBILAN (KISIKLI)",
+    "ad": "PİRBILAN (KISIKLI)",
+    "lat": 37.68315,
+    "lon": 44.35731
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "PİRİNCEYİN (ORTAÇ)",
+    "ad": "PİRİNCEYİN (ORTAÇ)",
+    "lat": 37.68198,
+    "lon": 44.0842
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "REŞADİYE (SALKIMLI)",
+    "ad": "REŞADİYE (SALKIMLI)",
+    "lat": 37.67808,
+    "lon": 44.03026
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "SARIKAYA (ONBAŞILAR)",
+    "ad": "SARIKAYA (ONBAŞILAR)",
+    "lat": 37.53926,
+    "lon": 44.53242
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "SARIYILDIZ",
+    "ad": "SARIYILDIZ",
+    "lat": 37.71543,
+    "lon": 44.62286
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "SUALTI (KISIKLI)",
+    "ad": "SUALTI (KISIKLI)",
+    "lat": 37.69728,
+    "lon": 44.29409
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "SÜLÜK (AKOCAK)",
+    "ad": "SÜLÜK (AKOCAK)",
+    "lat": 37.64694,
+    "lon": 44.15432
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "ŞAHİNCE (ARMUTDÜZÜ)",
+    "ad": "ŞAHİNCE (ARMUTDÜZÜ)",
+    "lat": 37.67417,
+    "lon": 43.97037
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "ŞİMTE (SALKIMLI)",
+    "ad": "ŞİMTE (SALKIMLI)",
+    "lat": 37.68496,
+    "lon": 44.03173
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "TARLACIK (SÜREKLİ)",
+    "ad": "TARLACIK (SÜREKLİ)",
+    "lat": 37.42681,
+    "lon": 44.13926
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "TAŞYAZI (SÜREKLİ)",
+    "ad": "TAŞYAZI (SÜREKLİ)",
+    "lat": 37.42379,
+    "lon": 44.14511
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "TATLICAK (BAĞDAŞ)",
+    "ad": "TATLICAK (BAĞDAŞ)",
+    "lat": 37.64004,
+    "lon": 44.256
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "TEPEBAŞI (ARMUTDÜZÜ)",
+    "ad": "TEPEBAŞI (ARMUTDÜZÜ)",
+    "lat": 37.6943,
+    "lon": 43.96194
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "TOKAĞAÇ (GÜRKAVAK)",
+    "ad": "TOKAĞAÇ (GÜRKAVAK)",
+    "lat": 37.41707,
+    "lon": 44.24317
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "YAZILI",
+    "ad": "YAZILI",
+    "lat": 37.45852,
+    "lon": 44.03929
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "YEMİŞLİ (SARITAŞ)",
+    "ad": "YEMİŞLİ (SARITAŞ)",
+    "lat": 37.65636,
+    "lon": 44.37947
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "YENİ",
+    "ad": "YENİ",
+    "lat": 37.56932,
+    "lon": 44.27786
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "YENİKÖY (AŞAĞIULUYOL)",
+    "ad": "YENİKÖY (AŞAĞIULUYOL)",
+    "lat": 37.51112,
+    "lon": 44.42
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "YEŞİLCE (PINARGÖZÜ)",
+    "ad": "YEŞİLCE (PINARGÖZÜ)",
+    "lat": 37.43685,
+    "lon": 44.13516
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "YEŞİLDERE",
+    "ad": "YEŞİLDERE",
+    "lat": 37.58615,
+    "lon": 44.29572
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "YEŞİLDERE (GÖKYURT)",
+    "ad": "YEŞİLDERE (GÖKYURT)",
+    "lat": 37.71273,
+    "lon": 44.0824
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "YEŞİLDERE (GÜRKAVAK)",
+    "ad": "YEŞİLDERE (GÜRKAVAK)",
+    "lat": 37.36382,
+    "lon": 44.27608
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "YEŞİLOVA",
+    "ad": "YEŞİLOVA",
+    "lat": 37.6113,
+    "lon": 44.07289
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "Y.GÜVEÇ (SERİNDERE)",
+    "ad": "Y.GÜVEÇ (SERİNDERE)",
+    "lat": 37.65258,
+    "lon": 44.45277
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "YILMAZ",
+    "ad": "YILMAZ",
+    "lat": 37.69476,
+    "lon": 44.55318
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "YUKARI ULUKBAŞI (YENİIŞIK)",
+    "ad": "YUKARI ULUKBAŞI (YENİIŞIK)",
+    "lat": 37.62562,
+    "lon": 44.05857
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "Y.ULUYOL (AŞAĞIULUYOL)",
+    "ad": "Y.ULUYOL (AŞAĞIULUYOL)",
+    "lat": 37.50311,
+    "lon": 44.42506
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "YUMRUTAŞ (DEMİRKONAK)",
+    "ad": "YUMRUTAŞ (DEMİRKONAK)",
+    "lat": 37.54865,
+    "lon": 44.46371
+  },
+  {
+    "il": "Hakkari",
+    "ilce": "YÜKSEKOVA",
+    "mahalle": "YUVALI (ARMUTDÜZÜ)",
+    "ad": "YUVALI (ARMUTDÜZÜ)",
+    "lat": 37.66188,
+    "lon": 43.95951
+  }
+]

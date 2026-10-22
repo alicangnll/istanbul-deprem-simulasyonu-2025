@@ -1,1 +1,4234 @@
-[{"il":"Eskişehir","ilce":"ALPU","mahalle":"AĞAÇHİSAR","ad":"AĞAÇHİSAR","lat":39.95858,"lon":31.14183},{"il":"Eskişehir","ilce":"ALPU","mahalle":"AKTEPE","ad":"AKTEPE","lat":39.67209,"lon":31.00005},{"il":"Eskişehir","ilce":"ALPU","mahalle":"ALAPINAR","ad":"ALAPINAR","lat":40.04983,"lon":30.89253},{"il":"Eskişehir","ilce":"ALPU","mahalle":"ARIKAYA","ad":"ARIKAYA","lat":39.95299,"lon":31.09496},{"il":"Eskişehir","ilce":"ALPU","mahalle":"BAHÇECİK","ad":"BAHÇECİK","lat":39.80911,"lon":30.87672},{"il":"Eskişehir","ilce":"ALPU","mahalle":"BAŞÖREN","ad":"BAŞÖREN","lat":39.97063,"lon":31.00325},{"il":"Eskişehir","ilce":"ALPU","mahalle":"BELKESE","ad":"BELKESE","lat":39.99228,"lon":30.94901},{"il":"Eskişehir","ilce":"ALPU","mahalle":"BOZAN","ad":"BOZAN","lat":39.74984,"lon":31.09213},{"il":"Eskişehir","ilce":"ALPU","mahalle":"BÜĞDÜZ","ad":"BÜĞDÜZ","lat":39.83191,"lon":31.14128},{"il":"Eskişehir","ilce":"ALPU","mahalle":"ÇARDAKBAŞI","ad":"ÇARDAKBAŞI","lat":39.73425,"lon":31.07038},{"il":"Eskişehir","ilce":"ALPU","mahalle":"ÇERKEZ ÇUKURHİSAR","ad":"ÇERKEZ ÇUKURHİSAR","lat":39.8353,"lon":30.99373},{"il":"Eskişehir","ilce":"ALPU","mahalle":"DEREKÖY","ad":"DEREKÖY","lat":39.92562,"lon":31.01779},{"il":"Eskişehir","ilce":"ALPU","mahalle":"ESENCE","ad":"ESENCE","lat":39.73836,"lon":31.00586},{"il":"Eskişehir","ilce":"ALPU","mahalle":"FATİH","ad":"FATİH","lat":39.77975,"lon":31.06775},{"il":"Eskişehir","ilce":"ALPU","mahalle":"FEVZİ PAŞA","ad":"FEVZİ PAŞA","lat":39.78956,"lon":30.90372},{"il":"Eskişehir","ilce":"ALPU","mahalle":"FEVZİYE","ad":"FEVZİYE","lat":39.74801,"lon":30.94214},{"il":"Eskişehir","ilce":"ALPU","mahalle":"GÖKÇEKAYA","ad":"GÖKÇEKAYA","lat":40.05123,"lon":31.0406},{"il":"Eskişehir","ilce":"ALPU","mahalle":"GÖKÇEOĞLU","ad":"GÖKÇEOĞLU","lat":39.75652,"lon":30.87616},{"il":"Eskişehir","ilce":"ALPU","mahalle":"GÜROLUK","ad":"GÜROLUK","lat":39.70266,"lon":31.09242},{"il":"Eskişehir","ilce":"ALPU","mahalle":"IŞIKÖREN","ad":"IŞIKÖREN","lat":39.64173,"lon":30.94365},{"il":"Eskişehir","ilce":"ALPU","mahalle":"KARACAÖREN","ad":"KARACAÖREN","lat":39.99233,"lon":31.05063},{"il":"Eskişehir","ilce":"ALPU","mahalle":"KARAKAMIŞ","ad":"KARAKAMIŞ","lat":39.82243,"lon":30.8994},{"il":"Eskişehir","ilce":"ALPU","mahalle":"KEMALPAŞA","ad":"KEMALPAŞA","lat":39.83493,"lon":30.9805},{"il":"Eskişehir","ilce":"ALPU","mahalle":"KOŞMAT","ad":"KOŞMAT","lat":39.62914,"lon":31.11967},{"il":"Eskişehir","ilce":"ALPU","mahalle":"MAMURE","ad":"MAMURE","lat":39.69899,"lon":30.91364},{"il":"Eskişehir","ilce":"ALPU","mahalle":"OSMANİYE","ad":"OSMANİYE","lat":39.89794,"lon":30.93746},{"il":"Eskişehir","ilce":"ALPU","mahalle":"ÖZDENK","ad":"ÖZDENK","lat":39.87879,"lon":30.99767},{"il":"Eskişehir","ilce":"ALPU","mahalle":"SAKARIKARACAÖREN","ad":"SAKARIKARACAÖREN","lat":40.03825,"lon":30.91291},{"il":"Eskişehir","ilce":"ALPU","mahalle":"SARIKAVAK","ad":"SARIKAVAK","lat":39.65182,"lon":30.87001},{"il":"Eskişehir","ilce":"ALPU","mahalle":"SÖĞÜTÇÜK","ad":"SÖĞÜTÇÜK","lat":39.88009,"lon":30.93404},{"il":"Eskişehir","ilce":"ALPU","mahalle":"UYUZHAMAMKÖYÜ","ad":"UYUZHAMAMKÖYÜ","lat":39.70422,"lon":31.07354},{"il":"Eskişehir","ilce":"ALPU","mahalle":"YEŞİLDON","ad":"YEŞİLDON","lat":39.73667,"lon":31.07099},{"il":"Eskişehir","ilce":"ALPU","mahalle":"YUNUSEMRE","ad":"YUNUSEMRE","lat":39.76835,"lon":30.96136},{"il":"Eskişehir","ilce":"BEYLİKOVA","mahalle":"AKKÖPRÜ","ad":"AKKÖPRÜ","lat":39.71015,"lon":31.2348},{"il":"Eskişehir","ilce":"BEYLİKOVA","mahalle":"AŞAĞIDUDAŞ","ad":"AŞAĞIDUDAŞ","lat":39.89037,"lon":31.21873},{"il":"Eskişehir","ilce":"BEYLİKOVA","mahalle":"AŞAĞIİĞDEAĞACI","ad":"AŞAĞIİĞDEAĞACI","lat":39.7341,"lon":31.23672},{"il":"Eskişehir","ilce":"BEYLİKOVA","mahalle":"ATA","ad":"ATA","lat":39.72231,"lon":31.23198},{"il":"Eskişehir","ilce":"BEYLİKOVA","mahalle":"DOĞANOĞLU","ad":"DOĞANOĞLU","lat":39.80161,"lon":31.19271},{"il":"Eskişehir","ilce":"BEYLİKOVA","mahalle":"DOĞRAY","ad":"DOĞRAY","lat":39.67764,"lon":31.33211},{"il":"Eskişehir","ilce":"BEYLİKOVA","mahalle":"EMİRCİK","ad":"EMİRCİK","lat":39.70488,"lon":31.2952},{"il":"Eskişehir","ilce":"BEYLİKOVA","mahalle":"GÖKÇEAYVA","ad":"GÖKÇEAYVA","lat":39.83085,"lon":31.38582},{"il":"Eskişehir","ilce":"BEYLİKOVA","mahalle":"HALİLBAĞI","ad":"HALİLBAĞI","lat":39.62394,"lon":31.29991},{"il":"Eskişehir","ilce":"BEYLİKOVA","mahalle":"İKİPINAR","ad":"İKİPINAR","lat":39.65393,"lon":31.19405},{"il":"Eskişehir","ilce":"BEYLİKOVA","mahalle":"İMİKLER","ad":"İMİKLER","lat":39.65042,"lon":31.33087},{"il":"Eskişehir","ilce":"BEYLİKOVA","mahalle":"KIZILCAÖREN","ad":"KIZILCAÖREN","lat":39.59735,"lon":31.3676},{"il":"Eskişehir","ilce":"BEYLİKOVA","mahalle":"KÖPRÜBAŞI","ad":"KÖPRÜBAŞI","lat":39.68813,"lon":31.2135},{"il":"Eskişehir","ilce":"BEYLİKOVA","mahalle":"KÖPRÜBAŞI OSB","ad":"KÖPRÜBAŞI OSB","lat":39.6759,"lon":31.21708},{"il":"Eskişehir","ilce":"BEYLİKOVA","mahalle":"OKÇU","ad":"OKÇU","lat":39.59228,"lon":31.34953},{"il":"Eskişehir","ilce":"BEYLİKOVA","mahalle":"PARSIBEY","ad":"PARSIBEY","lat":39.69354,"lon":31.16895},{"il":"Eskişehir","ilce":"BEYLİKOVA","mahalle":"RAHMİYE","ad":"RAHMİYE","lat":39.72044,"lon":31.17745},{"il":"Eskişehir","ilce":"BEYLİKOVA","mahalle":"SULTANİYE","ad":"SULTANİYE","lat":39.78086,"lon":31.25471},{"il":"Eskişehir","ilce":"BEYLİKOVA","mahalle":"SÜLEYMANİYE","ad":"SÜLEYMANİYE","lat":39.67663,"lon":31.36247},{"il":"Eskişehir","ilce":"BEYLİKOVA","mahalle":"UZUNBURUN","ad":"UZUNBURUN","lat":39.72898,"lon":31.13688},{"il":"Eskişehir","ilce":"BEYLİKOVA","mahalle":"YALINLI","ad":"YALINLI","lat":39.67395,"lon":31.36369},{"il":"Eskişehir","ilce":"BEYLİKOVA","mahalle":"YENİ","ad":"YENİ","lat":39.69772,"lon":31.22045},{"il":"Eskişehir","ilce":"BEYLİKOVA","mahalle":"YENİYURT","ad":"YENİYURT","lat":39.70491,"lon":31.29525},{"il":"Eskişehir","ilce":"BEYLİKOVA","mahalle":"YUKARIDUDAŞ","ad":"YUKARIDUDAŞ","lat":39.88956,"lon":31.27722},{"il":"Eskişehir","ilce":"BEYLİKOVA","mahalle":"YUKARIİĞDEAĞACI","ad":"YUKARIİĞDEAĞACI","lat":39.82,"lon":31.33075},{"il":"Eskişehir","ilce":"BEYLİKOVA","mahalle":"YUNUS EMRE","ad":"YUNUS EMRE","lat":39.70012,"lon":31.199},{"il":"Eskişehir","ilce":"ÇİFTELER","mahalle":"ABBASHALİMPAŞA","ad":"ABBASHALİMPAŞA","lat":39.42992,"lon":31.07273},{"il":"Eskişehir","ilce":"ÇİFTELER","mahalle":"ADALAR","ad":"ADALAR","lat":39.38277,"lon":31.05563},{"il":"Eskişehir","ilce":"ÇİFTELER","mahalle":"ALİKAN","ad":"ALİKAN","lat":39.25276,"lon":31.24532},{"il":"Eskişehir","ilce":"ÇİFTELER","mahalle":"ARSLANLI","ad":"ARSLANLI","lat":39.20069,"lon":31.04645},{"il":"Eskişehir","ilce":"ÇİFTELER","mahalle":"BAŞKURT","ad":"BAŞKURT","lat":39.32364,"lon":31.13425},{"il":"Eskişehir","ilce":"ÇİFTELER","mahalle":"BELPINAR","ad":"BELPINAR","lat":39.34515,"lon":31.08809},{"il":"Eskişehir","ilce":"ÇİFTELER","mahalle":"ÇATMAPINAR","ad":"ÇATMAPINAR","lat":39.25672,"lon":30.98001},{"il":"Eskişehir","ilce":"ÇİFTELER","mahalle":"ÇİFTÇİ","ad":"ÇİFTÇİ","lat":39.41978,"lon":30.98063},{"il":"Eskişehir","ilce":"ÇİFTELER","mahalle":"DİKİLİKAYA","ad":"DİKİLİKAYA","lat":39.2285,"lon":31.10461},{"il":"Eskişehir","ilce":"ÇİFTELER","mahalle":"DİKMEN","ad":"DİKMEN","lat":39.37572,"lon":31.27464},{"il":"Eskişehir","ilce":"ÇİFTELER","mahalle":"DOĞANAY","ad":"DOĞANAY","lat":39.26563,"lon":31.21687},{"il":"Eskişehir","ilce":"ÇİFTELER","mahalle":"EMİNEKİN","ad":"EMİNEKİN","lat":39.39101,"lon":31.13556},{"il":"Eskişehir","ilce":"ÇİFTELER","mahalle":"ERBAP","ad":"ERBAP","lat":39.37766,"lon":31.08107},{"il":"Eskişehir","ilce":"ÇİFTELER","mahalle":"HAYRİYE","ad":"HAYRİYE","lat":39.39351,"lon":30.96123},{"il":"Eskişehir","ilce":"ÇİFTELER","mahalle":"ILICABAŞI","ad":"ILICABAŞI","lat":39.33538,"lon":31.02091},{"il":"Eskişehir","ilce":"ÇİFTELER","mahalle":"KADIKUYUSU","ad":"KADIKUYUSU","lat":39.1936,"lon":30.98941},{"il":"Eskişehir","ilce":"ÇİFTELER","mahalle":"KÖRHASAN","ad":"KÖRHASAN","lat":39.3961,"lon":31.21405},{"il":"Eskişehir","ilce":"ÇİFTELER","mahalle":"ORHANİYE","ad":"ORHANİYE","lat":39.36742,"lon":30.89907},{"il":"Eskişehir","ilce":"ÇİFTELER","mahalle":"ORTAKÖY","ad":"ORTAKÖY","lat":39.29572,"lon":31.29506},{"il":"Eskişehir","ilce":"ÇİFTELER","mahalle":"OSMANİYE","ad":"OSMANİYE","lat":39.36665,"lon":30.90353},{"il":"Eskişehir","ilce":"ÇİFTELER","mahalle":"SADIROĞLU","ad":"SADIROĞLU","lat":39.29873,"lon":31.19288},{"il":"Eskişehir","ilce":"ÇİFTELER","mahalle":"SAİTHALİMPAŞA","ad":"SAİTHALİMPAŞA","lat":39.46276,"lon":31.04408},{"il":"Eskişehir","ilce":"ÇİFTELER","mahalle":"SAKARYA","ad":"SAKARYA","lat":39.4147,"lon":30.94297},{"il":"Eskişehir","ilce":"ÇİFTELER","mahalle":"SARIKAVAK","ad":"SARIKAVAK","lat":39.20178,"lon":31.01855},{"il":"Eskişehir","ilce":"ÇİFTELER","mahalle":"YENİ","ad":"YENİ","lat":39.3858,"lon":31.07131},{"il":"Eskişehir","ilce":"ÇİFTELER","mahalle":"YENİDOĞAN","ad":"YENİDOĞAN","lat":39.42039,"lon":31.02204},{"il":"Eskişehir","ilce":"ÇİFTELER","mahalle":"YILDIZÖREN","ad":"YILDIZÖREN","lat":39.47574,"lon":31.10829},{"il":"Eskişehir","ilce":"ÇİFTELER","mahalle":"ZAFERHAMİT","ad":"ZAFERHAMİT","lat":39.4833,"lon":31.1546},{"il":"Eskişehir","ilce":"GÜNYÜZÜ","mahalle":"ATLAS","ad":"ATLAS","lat":39.37209,"lon":31.78058},{"il":"Eskişehir","ilce":"GÜNYÜZÜ","mahalle":"AYVALI","ad":"AYVALI","lat":39.37248,"lon":31.97776},{"il":"Eskişehir","ilce":"GÜNYÜZÜ","mahalle":"BEDİL","ad":"BEDİL","lat":39.37207,"lon":31.84739},{"il":"Eskişehir","ilce":"GÜNYÜZÜ","mahalle":"ÇAKMAK","ad":"ÇAKMAK","lat":39.2384,"lon":31.84562},{"il":"Eskişehir","ilce":"GÜNYÜZÜ","mahalle":"ÇARDAKÖZÜ","ad":"ÇARDAKÖZÜ","lat":39.49423,"lon":31.86314},{"il":"Eskişehir","ilce":"GÜNYÜZÜ","mahalle":"DOĞRAY","ad":"DOĞRAY","lat":39.55244,"lon":31.93422},{"il":"Eskişehir","ilce":"GÜNYÜZÜ","mahalle":"FATİH","ad":"FATİH","lat":39.45582,"lon":31.89469},{"il":"Eskişehir","ilce":"GÜNYÜZÜ","mahalle":"GECEK","ad":"GECEK","lat":39.42146,"lon":31.79229},{"il":"Eskişehir","ilce":"GÜNYÜZÜ","mahalle":"GÜMÜŞKONAK","ad":"GÜMÜŞKONAK","lat":39.35463,"lon":31.82287},{"il":"Eskişehir","ilce":"GÜNYÜZÜ","mahalle":"KAVACIK","ad":"KAVACIK","lat":39.36227,"lon":31.81742},{"il":"Eskişehir","ilce":"GÜNYÜZÜ","mahalle":"KAVUNCU","ad":"KAVUNCU","lat":39.45395,"lon":31.93957},{"il":"Eskişehir","ilce":"GÜNYÜZÜ","mahalle":"KAYAKENT","ad":"KAYAKENT","lat":39.3282,"lon":31.77217},{"il":"Eskişehir","ilce":"GÜNYÜZÜ","mahalle":"KUZÖREN","ad":"KUZÖREN","lat":39.28754,"lon":31.73388},{"il":"Eskişehir","ilce":"GÜNYÜZÜ","mahalle":"MERCAN","ad":"MERCAN","lat":39.37652,"lon":31.9117},{"il":"Eskişehir","ilce":"GÜNYÜZÜ","mahalle":"ÖZLER","ad":"ÖZLER","lat":39.38172,"lon":31.81632},{"il":"Eskişehir","ilce":"GÜNYÜZÜ","mahalle":"TUTLU","ad":"TUTLU","lat":39.43171,"lon":31.75371},{"il":"Eskişehir","ilce":"GÜNYÜZÜ","mahalle":"YAĞRI","ad":"YAĞRI","lat":39.39354,"lon":31.91103},{"il":"Eskişehir","ilce":"GÜNYÜZÜ","mahalle":"YAZIR","ad":"YAZIR","lat":39.43869,"lon":31.80475},{"il":"Eskişehir","ilce":"GÜNYÜZÜ","mahalle":"YENİKENT","ad":"YENİKENT","lat":39.39754,"lon":31.80824},{"il":"Eskişehir","ilce":"GÜNYÜZÜ","mahalle":"YEŞİLYAKA","ad":"YEŞİLYAKA","lat":39.36983,"lon":31.99036},{"il":"Eskişehir","ilce":"HAN","mahalle":"AĞLARCA","ad":"AĞLARCA","lat":39.18786,"lon":30.812},{"il":"Eskişehir","ilce":"HAN","mahalle":"AKDERE","ad":"AKDERE","lat":39.23165,"lon":30.76841},{"il":"Eskişehir","ilce":"HAN","mahalle":"AKHİSAR","ad":"AKHİSAR","lat":39.09842,"lon":30.73261},{"il":"Eskişehir","ilce":"HAN","mahalle":"BAŞARA","ad":"BAŞARA","lat":39.15578,"lon":30.92247},{"il":"Eskişehir","ilce":"HAN","mahalle":"ERTEN","ad":"ERTEN","lat":39.2145,"lon":30.81992},{"il":"Eskişehir","ilce":"HAN","mahalle":"GÖKÇEKUYU","ad":"GÖKÇEKUYU","lat":39.284,"lon":30.87449},{"il":"Eskişehir","ilce":"HAN","mahalle":"GÖKÇEYAYLA","ad":"GÖKÇEYAYLA","lat":39.05324,"lon":30.79832},{"il":"Eskişehir","ilce":"HAN","mahalle":"HACILAR","ad":"HACILAR","lat":39.16824,"lon":30.87433},{"il":"Eskişehir","ilce":"HAN","mahalle":"HANKARAAĞAÇ","ad":"HANKARAAĞAÇ","lat":39.23262,"lon":30.78845},{"il":"Eskişehir","ilce":"HAN","mahalle":"HÜSREVPAŞA","ad":"HÜSREVPAŞA","lat":39.16409,"lon":30.90058},{"il":"Eskişehir","ilce":"HAN","mahalle":"İSKANKUYU","ad":"İSKANKUYU","lat":39.28483,"lon":30.89376},{"il":"Eskişehir","ilce":"HAN","mahalle":"KAYI","ad":"KAYI","lat":39.23324,"lon":30.78409},{"il":"Eskişehir","ilce":"HAN","mahalle":"PEÇENE","ad":"PEÇENE","lat":39.12513,"lon":30.80301},{"il":"Eskişehir","ilce":"HAN","mahalle":"TEPEKÖY","ad":"TEPEKÖY","lat":39.23115,"lon":30.78928},{"il":"Eskişehir","ilce":"HAN","mahalle":"YAZILI","ad":"YAZILI","lat":39.15286,"lon":30.73481},{"il":"Eskişehir","ilce":"İNÖNÜ","mahalle":"AŞAĞIKUZFINDIK","ad":"AŞAĞIKUZFINDIK","lat":39.68157,"lon":30.03577},{"il":"Eskişehir","ilce":"İNÖNÜ","mahalle":"ÇARŞI","ad":"ÇARŞI","lat":39.8132,"lon":30.14194},{"il":"Eskişehir","ilce":"İNÖNÜ","mahalle":"DEREYALAK","ad":"DEREYALAK","lat":39.73319,"lon":29.99944},{"il":"Eskişehir","ilce":"İNÖNÜ","mahalle":"DUTLUCA","ad":"DUTLUCA","lat":39.77173,"lon":30.1378},{"il":"Eskişehir","ilce":"İNÖNÜ","mahalle":"ERENKÖY","ad":"ERENKÖY","lat":39.76878,"lon":30.00667},{"il":"Eskişehir","ilce":"İNÖNÜ","mahalle":"ESNEMEZ","ad":"ESNEMEZ","lat":39.7845,"lon":30.09468},{"il":"Eskişehir","ilce":"İNÖNÜ","mahalle":"İSMETPAŞA","ad":"İSMETPAŞA","lat":39.86529,"lon":30.14381},{"il":"Eskişehir","ilce":"İNÖNÜ","mahalle":"KÜMBET","ad":"KÜMBET","lat":39.6819,"lon":30.15338},{"il":"Eskişehir","ilce":"İNÖNÜ","mahalle":"KÜMBETAKPINAR","ad":"KÜMBETAKPINAR","lat":39.73279,"lon":30.14246},{"il":"Eskişehir","ilce":"İNÖNÜ","mahalle":"KÜMBETYENİKÖY","ad":"KÜMBETYENİKÖY","lat":39.69084,"lon":30.15103},{"il":"Eskişehir","ilce":"İNÖNÜ","mahalle":"OKLUBALI","ad":"OKLUBALI","lat":39.75551,"lon":30.17205},{"il":"Eskişehir","ilce":"İNÖNÜ","mahalle":"ORTA","ad":"ORTA","lat":39.81388,"lon":30.13927},{"il":"Eskişehir","ilce":"İNÖNÜ","mahalle":"SEYİTALİKÖYÜ","ad":"SEYİTALİKÖYÜ","lat":39.79783,"lon":30.01922},{"il":"Eskişehir","ilce":"İNÖNÜ","mahalle":"YENİCE","ad":"YENİCE","lat":39.81761,"lon":30.13336},{"il":"Eskişehir","ilce":"İNÖNÜ","mahalle":"YUKARIKUZFINDIK","ad":"YUKARIKUZFINDIK","lat":39.67356,"lon":30.1064},{"il":"Eskişehir","ilce":"İNÖNÜ","mahalle":"YÜRÜKYAYLA","ad":"YÜRÜKYAYLA","lat":39.8133,"lon":30.06753},{"il":"Eskişehir","ilce":"MAHMUDİYE","mahalle":"AKYURT","ad":"AKYURT","lat":39.60909,"lon":30.92359},{"il":"Eskişehir","ilce":"MAHMUDİYE","mahalle":"BALÇIKHİSAR","ad":"BALÇIKHİSAR","lat":39.63082,"lon":31.16326},{"il":"Eskişehir","ilce":"MAHMUDİYE","mahalle":"ÇAL","ad":"ÇAL","lat":39.51814,"lon":31.02668},{"il":"Eskişehir","ilce":"MAHMUDİYE","mahalle":"DOĞANCA","ad":"DOĞANCA","lat":39.55009,"lon":31.0906},{"il":"Eskişehir","ilce":"MAHMUDİYE","mahalle":"FAHRİYE","ad":"FAHRİYE","lat":39.64107,"lon":31.0037},{"il":"Eskişehir","ilce":"MAHMUDİYE","mahalle":"GÜLLÜCE","ad":"GÜLLÜCE","lat":39.6156,"lon":30.80413},{"il":"Eskişehir","ilce":"MAHMUDİYE","mahalle":"HAMİDİYE","ad":"HAMİDİYE","lat":39.60589,"lon":30.92847},{"il":"Eskişehir","ilce":"MAHMUDİYE","mahalle":"IŞIKLAR","ad":"IŞIKLAR","lat":39.49657,"lon":30.98829},{"il":"Eskişehir","ilce":"MAHMUDİYE","mahalle":"İSMETPAŞA","ad":"İSMETPAŞA","lat":39.49755,"lon":30.88972},{"il":"Eskişehir","ilce":"MAHMUDİYE","mahalle":"KAYMAZYAYLA","ad":"KAYMAZYAYLA","lat":39.54564,"lon":31.09429},{"il":"Eskişehir","ilce":"MAHMUDİYE","mahalle":"MESUDİYE","ad":"MESUDİYE","lat":39.55451,"lon":30.98937},{"il":"Eskişehir","ilce":"MAHMUDİYE","mahalle":"ORTA","ad":"ORTA","lat":39.5263,"lon":31.01456},{"il":"Eskişehir","ilce":"MAHMUDİYE","mahalle":"ŞEREFİYE","ad":"ŞEREFİYE","lat":39.61968,"lon":31.06794},{"il":"Eskişehir","ilce":"MAHMUDİYE","mahalle":"TOKATHAN","ad":"TOKATHAN","lat":39.6181,"lon":30.84098},{"il":"Eskişehir","ilce":"MAHMUDİYE","mahalle":"TOPKAYA","ad":"TOPKAYA","lat":39.65419,"lon":31.01844},{"il":"Eskişehir","ilce":"MAHMUDİYE","mahalle":"TÜRKMENMECİDİYE","ad":"TÜRKMENMECİDİYE","lat":39.4569,"lon":30.85973},{"il":"Eskişehir","ilce":"MAHMUDİYE","mahalle":"YENİ","ad":"YENİ","lat":39.52905,"lon":30.98077},{"il":"Eskişehir","ilce":"MAHMUDİYE","mahalle":"YENİKÖY","ad":"YENİKÖY","lat":39.51619,"lon":31.07838},{"il":"Eskişehir","ilce":"MAHMUDİYE","mahalle":"YEŞİLYURT","ad":"YEŞİLYURT","lat":39.58999,"lon":30.87972},{"il":"Eskişehir","ilce":"MİHALGAZİ","mahalle":"ALPAGUT","ad":"ALPAGUT","lat":40.0353,"lon":30.48318},{"il":"Eskişehir","ilce":"MİHALGAZİ","mahalle":"BOZANİÇ","ad":"BOZANİÇ","lat":40.03364,"lon":30.6165},{"il":"Eskişehir","ilce":"MİHALGAZİ","mahalle":"CUMHURİYET","ad":"CUMHURİYET","lat":40.02527,"lon":30.57438},{"il":"Eskişehir","ilce":"MİHALGAZİ","mahalle":"DEMİRCİLER","ad":"DEMİRCİLER","lat":40.02679,"lon":30.56141},{"il":"Eskişehir","ilce":"MİHALGAZİ","mahalle":"DOKUZ MAYIS","ad":"DOKUZ MAYIS","lat":40.02524,"lon":30.57435},{"il":"Eskişehir","ilce":"MİHALGAZİ","mahalle":"HÜRRİYET","ad":"HÜRRİYET","lat":40.03863,"lon":30.60206},{"il":"Eskişehir","ilce":"MİHALGAZİ","mahalle":"İSTİKLAL","ad":"İSTİKLAL","lat":40.0282,"lon":30.57589},{"il":"Eskişehir","ilce":"MİHALGAZİ","mahalle":"KARAOĞLAN","ad":"KARAOĞLAN","lat":40.05089,"lon":30.50281},{"il":"Eskişehir","ilce":"MİHALGAZİ","mahalle":"SAKARIILICA","ad":"SAKARIILICA","lat":40.02547,"lon":30.56704},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"ADAHİSAR","ad":"ADAHİSAR","lat":39.72516,"lon":31.448},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"AHUR","ad":"AHUR","lat":39.78654,"lon":31.54869},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"AHURÖZÜ","ad":"AHURÖZÜ","lat":39.83401,"lon":31.70322},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"AKÇAÖREN","ad":"AKÇAÖREN","lat":40.05951,"lon":31.30749},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"AYDINLAR","ad":"AYDINLAR","lat":39.89537,"lon":31.39501},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"BAHTİYAR","ad":"BAHTİYAR","lat":39.94665,"lon":31.64724},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"BEY","ad":"BEY","lat":39.96962,"lon":31.60204},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"CAMİKEBİR","ad":"CAMİKEBİR","lat":39.86681,"lon":31.4894},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"ÇALÇI","ad":"ÇALÇI","lat":39.99259,"lon":31.46116},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"ÇALKAYA","ad":"ÇALKAYA","lat":40.06166,"lon":31.27512},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"ÇARDAK","ad":"ÇARDAK","lat":39.90182,"lon":31.46303},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"ÇUKURÖREN","ad":"ÇUKURÖREN","lat":39.96555,"lon":31.59191},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"DAĞCI","ad":"DAĞCI","lat":39.90228,"lon":31.44588},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"DİKÖZÜ","ad":"DİKÖZÜ","lat":39.84107,"lon":31.5134},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"DİNEK","ad":"DİNEK","lat":40.02342,"lon":31.44376},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"DÜMREK","ad":"DÜMREK","lat":39.88296,"lon":31.85847},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"GÖZELER","ad":"GÖZELER","lat":39.98081,"lon":31.52882},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"GÜCE","ad":"GÜCE","lat":39.87267,"lon":31.34446},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"GÜREŞ","ad":"GÜREŞ","lat":39.9197,"lon":31.60738},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"GÜRLEYİK","ad":"GÜRLEYİK","lat":40.03373,"lon":31.34287},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"HAMİDİYE","ad":"HAMİDİYE","lat":39.86751,"lon":31.67977},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"ILICALAR","ad":"ILICALAR","lat":39.86052,"lon":31.58178},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"İĞDECİK","ad":"İĞDECİK","lat":40.06247,"lon":31.39422},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"İKİZAFER","ad":"İKİZAFER","lat":39.91334,"lon":31.51734},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"KARAÇAM","ad":"KARAÇAM","lat":39.66444,"lon":31.50466},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"KARAGEYİKLİ","ad":"KARAGEYİKLİ","lat":39.9202,"lon":31.29082},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"KAVAK","ad":"KAVAK","lat":39.95248,"lon":31.63592},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"KAYI","ad":"KAYI","lat":39.86951,"lon":31.41156},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"KIZILBÖRÜKLÜ","ad":"KIZILBÖRÜKLÜ","lat":39.85635,"lon":31.32558},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"KORUCU","ad":"KORUCU","lat":39.84305,"lon":31.37687},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"KOYUNAĞILI","ad":"KOYUNAĞILI","lat":40.01949,"lon":31.66452},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"KOZLU","ad":"KOZLU","lat":39.95085,"lon":31.49679},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"LÜTFİYE","ad":"LÜTFİYE","lat":39.90178,"lon":31.46051},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"MAHMUTHİSAR","ad":"MAHMUTHİSAR","lat":39.98663,"lon":31.49301},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"MEDRESE","ad":"MEDRESE","lat":39.86895,"lon":31.48212},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"NARLI","ad":"NARLI","lat":39.87156,"lon":31.69583},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"OBRUK","ad":"OBRUK","lat":39.98918,"lon":31.53591},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"OTLUK","ad":"OTLUK","lat":40.04913,"lon":31.12695},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"ÖMER","ad":"ÖMER","lat":39.88461,"lon":31.53169},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"SARAY","ad":"SARAY","lat":39.86894,"lon":31.81336},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"SAZAK","ad":"SAZAK","lat":39.85515,"lon":31.58776},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"SEKİ","ad":"SEKİ","lat":39.94292,"lon":31.59352},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"SEKİÖREN","ad":"SEKİÖREN","lat":39.96682,"lon":31.71732},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"SORKUN","ad":"SORKUN","lat":39.94986,"lon":31.38857},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"SÜLELER","ad":"SÜLELER","lat":40.02372,"lon":31.17733},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"TATARCIK","ad":"TATARCIK","lat":39.87835,"lon":31.39821},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"UŞAKBÜKÜ","ad":"UŞAKBÜKÜ","lat":39.99601,"lon":31.69756},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"ÜÇBAŞLI","ad":"ÜÇBAŞLI","lat":39.8646,"lon":31.63112},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"YALIMKAYA","ad":"YALIMKAYA","lat":40.0021,"lon":31.23538},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"YAYLA","ad":"YAYLA","lat":39.73995,"lon":31.60306},{"il":"Eskişehir","ilce":"MİHALIÇÇIK","mahalle":"YEŞİLYURT","ad":"YEŞİLYURT","lat":40.02282,"lon":31.17979},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"71 EVLER","ad":"71 EVLER","lat":39.76464,"lon":30.59853},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"75.YIL (SULTANDERE)","ad":"75.YIL (SULTANDERE)","lat":39.74741,"lon":30.61349},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"AĞAPINAR","ad":"AĞAPINAR","lat":39.82272,"lon":30.77017},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"AKARBAŞI","ad":"AKARBAŞI","lat":39.76561,"lon":30.52082},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"AKCAMİ","ad":"AKCAMİ","lat":39.76455,"lon":30.52793},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"AKÇAĞLAN","ad":"AKÇAĞLAN","lat":39.76683,"lon":30.52807},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"AKÇAKAYA","ad":"AKÇAKAYA","lat":39.61488,"lon":30.47325},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"AKKAYA","ad":"AKKAYA","lat":39.61323,"lon":30.33597},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"AKPINAR","ad":"AKPINAR","lat":39.68114,"lon":30.54372},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"ALANÖNÜ","ad":"ALANÖNÜ","lat":39.76548,"lon":30.53992},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"ARİFİYE","ad":"ARİFİYE","lat":39.76548,"lon":30.52326},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"AŞAĞI ÇAĞLAN","ad":"AŞAĞI ÇAĞLAN","lat":39.67773,"lon":30.48913},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"AŞAĞIILICA","ad":"AŞAĞIILICA","lat":39.58909,"lon":30.45497},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"AVDAN","ad":"AVDAN","lat":39.54459,"lon":30.48522},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"BÜYÜKDERE","ad":"BÜYÜKDERE","lat":39.75966,"lon":30.50302},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"CUNUDİYE","ad":"CUNUDİYE","lat":39.76373,"lon":30.52},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"ÇAMLICA","ad":"ÇAMLICA","lat":39.54806,"lon":30.3672},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"ÇANKAYA","ad":"ÇANKAYA","lat":39.74693,"lon":30.5516},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"ÇAVLUM","ad":"ÇAVLUM","lat":39.81638,"lon":30.73875},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"DEDE","ad":"DEDE","lat":39.76232,"lon":30.52664},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"DELİKLİTAŞ","ad":"DELİKLİTAŞ","lat":39.77372,"lon":30.52074},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"DEMİRLİ","ad":"DEMİRLİ","lat":39.59606,"lon":30.30924},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"DOĞANKAYA","ad":"DOĞANKAYA","lat":39.69496,"lon":30.6064},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"EMEK","ad":"EMEK","lat":39.76325,"lon":30.5594},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"ERENKÖY","ad":"ERENKÖY","lat":39.75729,"lon":30.55369},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"EŞENKARA","ad":"EŞENKARA","lat":39.71763,"lon":30.45142},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"GÖKMEYDAN","ad":"GÖKMEYDAN","lat":39.77321,"lon":30.54028},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"GÖZTEPE","ad":"GÖZTEPE","lat":39.76188,"lon":30.50898},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"GÜLPINAR","ad":"GÜLPINAR","lat":39.72898,"lon":30.59103},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"GÜLTEPE","ad":"GÜLTEPE","lat":39.71426,"lon":30.5332},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"GÜMELE","ad":"GÜMELE","lat":39.65095,"lon":30.43893},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"GÜNDOĞDU","ad":"GÜNDOĞDU","lat":39.77291,"lon":30.56432},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"HARMANDALI","ad":"HARMANDALI","lat":39.65173,"lon":30.87008},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"HUZUR","ad":"HUZUR","lat":39.75966,"lon":30.54862},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"IHLAMURKENT","ad":"IHLAMURKENT","lat":39.73304,"lon":30.5529},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"İMİŞEHİR","ad":"İMİŞEHİR","lat":39.69855,"lon":30.76655},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"İSTİKLAL","ad":"İSTİKLAL","lat":39.77676,"lon":30.51761},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"KALKANLI","ad":"KALKANLI","lat":39.66406,"lon":30.7646},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"KANLIPINAR","ad":"KANLIPINAR","lat":39.69859,"lon":30.70661},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"KARAALAN","ad":"KARAALAN","lat":39.65294,"lon":30.43066},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"KARACAHÖYÜK","ad":"KARACAHÖYÜK","lat":39.78434,"lon":30.62922},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"KARACAŞEHİR","ad":"KARACAŞEHİR","lat":39.74677,"lon":30.48067},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"KARAÇAY","ad":"KARAÇAY","lat":39.78567,"lon":30.83919},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"KARAHÜYÜK","ad":"KARAHÜYÜK","lat":39.81029,"lon":30.81832},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"KARAMUSTAFA","ad":"KARAMUSTAFA","lat":39.54663,"lon":30.54137},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"KARAPAZAR","ad":"KARAPAZAR","lat":39.63397,"lon":30.58392},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"KARAPINAR","ad":"KARAPINAR","lat":39.76381,"lon":30.53514},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"KARATEPE","ad":"KARATEPE","lat":39.70896,"lon":30.86527},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"KARGIN","ad":"KARGIN","lat":39.62832,"lon":30.2844},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"KAYACIK","ad":"KAYACIK","lat":39.51941,"lon":30.50328},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"KAYAPINAR","ad":"KAYAPINAR","lat":39.68333,"lon":30.47448},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"KIRAVDAN","ad":"KIRAVDAN","lat":39.696,"lon":30.62996},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"KIRMIZITOPRAK","ad":"KIRMIZITOPRAK","lat":39.77668,"lon":30.50986},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"KİREÇ","ad":"KİREÇ","lat":39.77173,"lon":30.83717},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"KURTULUŞ","ad":"KURTULUŞ","lat":39.77441,"lon":30.52728},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"KUYUCAK","ad":"KUYUCAK","lat":39.53334,"lon":30.59726},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"LÜTFİYE","ad":"LÜTFİYE","lat":39.58463,"lon":30.42005},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"MUSALAR","ad":"MUSALAR","lat":39.53783,"lon":30.50518},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"ORHANGAZİ","ad":"ORHANGAZİ","lat":39.7598,"lon":30.46067},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"ORTA","ad":"ORTA","lat":39.76392,"lon":30.52831},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"OSMANGAZİ","ad":"OSMANGAZİ","lat":39.77603,"lon":30.50064},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"PAŞA","ad":"PAŞA","lat":39.76445,"lon":30.52516},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"SARISUNGUR","ad":"SARISUNGUR","lat":39.69271,"lon":30.57349},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"SEKLİCE","ad":"SEKLİCE","lat":39.5478,"lon":30.36707},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"SEVİNÇ","ad":"SEVİNÇ","lat":39.81363,"lon":30.70169},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"SULTANDERE","ad":"SULTANDERE","lat":39.71904,"lon":30.61198},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"SÜMER","ad":"SÜMER","lat":39.76827,"lon":30.48835},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"SÜPÜREN","ad":"SÜPÜREN","lat":39.63237,"lon":30.55442},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"ŞARKİYE","ad":"ŞARKİYE","lat":39.76557,"lon":30.52341},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"TÜRKMENTOKAT","ad":"TÜRKMENTOKAT","lat":39.705,"lon":30.7653},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"ULUÇAYIR","ad":"ULUÇAYIR","lat":39.67061,"lon":30.41116},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"VİŞNELİK","ad":"VİŞNELİK","lat":39.76909,"lon":30.51636},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"YAHNİKAPAN","ad":"YAHNİKAPAN","lat":39.65711,"lon":30.81849},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"YASSIHÖYÜK","ad":"YASSIHÖYÜK","lat":39.80017,"lon":30.65713},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"YENİDOĞAN","ad":"YENİDOĞAN","lat":39.75673,"lon":30.55447},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"YENİKENT","ad":"YENİKENT","lat":39.75638,"lon":30.5239},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"YILDIZTEPE","ad":"YILDIZTEPE","lat":39.76251,"lon":30.51738},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"YUKARIÇAĞLAN","ad":"YUKARIÇAĞLAN","lat":39.713,"lon":30.521},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"YUKARIILICA","ad":"YUKARIILICA","lat":39.54847,"lon":30.4459},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"YUKARIKALABAK","ad":"YUKARIKALABAK","lat":39.55614,"lon":30.40641},{"il":"Eskişehir","ilce":"ODUNPAZARI","mahalle":"YÜRÜKKARACAÖREN","ad":"YÜRÜKKARACAÖREN","lat":39.75615,"lon":30.75069},{"il":"Eskişehir","ilce":"SARICAKAYA","mahalle":"BEYKÖY","ad":"BEYKÖY","lat":40.13197,"lon":30.78624},{"il":"Eskişehir","ilce":"SARICAKAYA","mahalle":"BEYYAYLA","ad":"BEYYAYLA","lat":40.15169,"lon":30.7132},{"il":"Eskişehir","ilce":"SARICAKAYA","mahalle":"BİLAL HABEŞİ","ad":"BİLAL HABEŞİ","lat":40.06089,"lon":30.61514},{"il":"Eskişehir","ilce":"SARICAKAYA","mahalle":"CAMİKEBİR","ad":"CAMİKEBİR","lat":40.05844,"lon":30.6161},{"il":"Eskişehir","ilce":"SARICAKAYA","mahalle":"DAĞKÜPLÜ","ad":"DAĞKÜPLÜ","lat":40.01452,"lon":30.6983},{"il":"Eskişehir","ilce":"SARICAKAYA","mahalle":"DÜZKÖY","ad":"DÜZKÖY","lat":40.13752,"lon":30.7969},{"il":"Eskişehir","ilce":"SARICAKAYA","mahalle":"FATİH","ad":"FATİH","lat":40.03032,"lon":30.64206},{"il":"Eskişehir","ilce":"SARICAKAYA","mahalle":"GÜNEY","ad":"GÜNEY","lat":40.15636,"lon":30.71665},{"il":"Eskişehir","ilce":"SARICAKAYA","mahalle":"İĞDİR","ad":"İĞDİR","lat":40.04103,"lon":30.66001},{"il":"Eskişehir","ilce":"SARICAKAYA","mahalle":"KAPIKAYA","ad":"KAPIKAYA","lat":40.05152,"lon":30.71256},{"il":"Eskişehir","ilce":"SARICAKAYA","mahalle":"LAÇİN","ad":"LAÇİN","lat":40.07462,"lon":30.80046},{"il":"Eskişehir","ilce":"SARICAKAYA","mahalle":"MAYISLAR","ad":"MAYISLAR","lat":40.06001,"lon":30.73473},{"il":"Eskişehir","ilce":"SARICAKAYA","mahalle":"SARIKAYA","ad":"SARIKAYA","lat":40.04101,"lon":30.65956},{"il":"Eskişehir","ilce":"SARICAKAYA","mahalle":"YENİ","ad":"YENİ","lat":40.03658,"lon":30.62364},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"AKİN","ad":"AKİN","lat":39.37576,"lon":30.49226},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"AKSAKLI","ad":"AKSAKLI","lat":39.627,"lon":30.7546},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"ASLANBEYLİ","ad":"ASLANBEYLİ","lat":39.46936,"lon":30.58306},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"AŞAĞISÖĞÜT","ad":"AŞAĞISÖĞÜT","lat":39.42448,"lon":30.61929},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"AYVALI","ad":"AYVALI","lat":39.54211,"lon":30.70369},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"BARDAKÇI","ad":"BARDAKÇI","lat":39.38589,"lon":30.8355},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"BEŞSARAY","ad":"BEŞSARAY","lat":39.43778,"lon":30.5524},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"BEYKIŞLA","ad":"BEYKIŞLA","lat":39.43176,"lon":30.82743},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"BÜYÜKDERE","ad":"BÜYÜKDERE","lat":39.59529,"lon":30.76739},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"BÜYÜKYAYLA","ad":"BÜYÜKYAYLA","lat":39.20264,"lon":30.56315},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"CEVİZLİ","ad":"CEVİZLİ","lat":39.39513,"lon":30.76299},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"ÇATÖREN","ad":"ÇATÖREN","lat":39.35342,"lon":30.58596},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"ÇUKURAĞIL","ad":"ÇUKURAĞIL","lat":39.53238,"lon":30.76508},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"ÇUKURCA","ad":"ÇUKURCA","lat":39.26025,"lon":30.72706},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"ÇÜRÜTTÜM","ad":"ÇÜRÜTTÜM","lat":39.34667,"lon":30.4566},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"DEĞİŞÖREN","ad":"DEĞİŞÖREN","lat":39.59913,"lon":30.69219},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"DEREBENEK","ad":"DEREBENEK","lat":39.47815,"lon":30.72685},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"DOĞANÇAYIR","ad":"DOĞANÇAYIR","lat":39.58692,"lon":30.86173},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"FETHİYE","ad":"FETHİYE","lat":39.23872,"lon":30.55112},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"GEMİÇ","ad":"GEMİÇ","lat":39.39547,"lon":30.47614},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"GÖCENOLUK","ad":"GÖCENOLUK","lat":39.315,"lon":30.38998},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"GÖKBAHÇE","ad":"GÖKBAHÇE","lat":39.17026,"lon":30.60692},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"GÖKÇEGÜNEY","ad":"GÖKÇEGÜNEY","lat":39.1712,"lon":30.71547},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"GÖKNEBİ","ad":"GÖKNEBİ","lat":39.4136,"lon":30.56999},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"GÜMÜŞBEL","ad":"GÜMÜŞBEL","lat":39.47507,"lon":30.795},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"İDRİSYAYLA","ad":"İDRİSYAYLA","lat":39.37732,"lon":30.45237},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"İKİÇEŞME","ad":"İKİÇEŞME","lat":39.50958,"lon":30.67949},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"İKİZOLUK","ad":"İKİZOLUK","lat":39.34927,"lon":30.46148},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"KARACALIK","ad":"KARACALIK","lat":39.51109,"lon":30.49241},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"KARAÖREN","ad":"KARAÖREN","lat":39.27812,"lon":30.55304},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"KESENLER","ad":"KESENLER","lat":39.4189,"lon":30.65062},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"KIRKA","ad":"KIRKA","lat":39.30977,"lon":30.53412},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"KÜMBET","ad":"KÜMBET","lat":39.22183,"lon":30.68077},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"NUMANOLUK","ad":"NUMANOLUK","lat":39.35376,"lon":30.58456},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"OYNAŞ","ad":"OYNAŞ","lat":39.18523,"lon":30.63281},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"ÖRENCİK","ad":"ÖRENCİK","lat":39.4259,"lon":30.66907},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"SALİHLER","ad":"SALİHLER","lat":39.31921,"lon":30.47581},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"SANDIKÖZÜ","ad":"SANDIKÖZÜ","lat":39.44465,"lon":30.40605},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"SARAYÖREN","ad":"SARAYÖREN","lat":39.59607,"lon":30.64214},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"SARICAİLYAS","ad":"SARICAİLYAS","lat":39.37038,"lon":30.6834},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"ŞÜKRANLI","ad":"ŞÜKRANLI","lat":39.31548,"lon":30.70628},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"TAŞLIKKÖY","ad":"TAŞLIKKÖY","lat":39.5532,"lon":30.65764},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"ÜÇSARAY","ad":"ÜÇSARAY","lat":39.48901,"lon":30.49456},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"YAPILDAK","ad":"YAPILDAK","lat":39.2112,"lon":30.66359},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"YARBASAN","ad":"YARBASAN","lat":39.29727,"lon":30.56533},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"YAZIDERE","ad":"YAZIDERE","lat":39.53626,"lon":30.74129},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"YENİKENT","ad":"YENİKENT","lat":39.58532,"lon":30.7397},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"YEŞİLTEPE","ad":"YEŞİLTEPE","lat":39.38926,"lon":30.61914},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"YUKARISÖĞÜT","ad":"YUKARISÖĞÜT","lat":39.47145,"lon":30.58074},{"il":"Eskişehir","ilce":"SEYİTGAZİ","mahalle":"YUNUS","ad":"YUNUS","lat":39.47764,"lon":30.71932},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"AHİLER","ad":"AHİLER","lat":39.19096,"lon":31.64365},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"AKTAŞ","ad":"AKTAŞ","lat":39.37961,"lon":31.32849},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"AŞAĞIKEPEN","ad":"AŞAĞIKEPEN","lat":39.40408,"lon":31.49667},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"AYDINLI","ad":"AYDINLI","lat":39.13604,"lon":31.77527},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"BABADAT","ad":"BABADAT","lat":39.50395,"lon":31.59902},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"BAHÇECİK","ad":"BAHÇECİK","lat":39.4711,"lon":31.35869},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"BALLIHİSAR","ad":"BALLIHİSAR","lat":39.35834,"lon":31.58472},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"BENLİKUYU","ad":"BENLİKUYU","lat":39.22048,"lon":31.39547},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"BENLİYAVER","ad":"BENLİYAVER","lat":39.2216,"lon":31.35371},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"BEYYAZI","ad":"BEYYAZI","lat":39.43241,"lon":31.39995},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"BİÇER","ad":"BİÇER","lat":39.7131,"lon":31.68814},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"BÖĞÜRTLEN","ad":"BÖĞÜRTLEN","lat":39.46879,"lon":31.549},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"BUHARA","ad":"BUHARA","lat":39.20192,"lon":31.47891},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"BUZLUCA","ad":"BUZLUCA","lat":39.22732,"lon":31.42763},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"CAMİKEBİR","ad":"CAMİKEBİR","lat":39.45143,"lon":31.53983},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"CUMHURİYET","ad":"CUMHURİYET","lat":39.45051,"lon":31.53767},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"ÇANDIR","ad":"ÇANDIR","lat":39.27735,"lon":31.336},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"ÇAYKOZ","ad":"ÇAYKOZ","lat":39.3566,"lon":31.70658},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"DEMİRCİ","ad":"DEMİRCİ","lat":39.44807,"lon":31.54127},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"DEMİRCİKÖY","ad":"DEMİRCİKÖY","lat":39.56646,"lon":31.81011},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"DİNEK","ad":"DİNEK","lat":39.37289,"lon":31.68369},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"DUMLUCA","ad":"DUMLUCA","lat":39.68859,"lon":31.44006},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"DÜMREK","ad":"DÜMREK","lat":39.5544,"lon":31.55787},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"ELCİK","ad":"ELCİK","lat":39.53743,"lon":31.55945},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"ELMALI","ad":"ELMALI","lat":39.46068,"lon":31.57437},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"ERTUĞRULKÖY","ad":"ERTUĞRULKÖY","lat":39.21059,"lon":31.66755},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"GEDİK","ad":"GEDİK","lat":39.45343,"lon":31.53462},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"GERENLİ","ad":"GERENLİ","lat":39.43249,"lon":31.27299},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"GÖKTEPE","ad":"GÖKTEPE","lat":39.16364,"lon":31.64912},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"GÜLÇAYIR","ad":"GÜLÇAYIR","lat":39.3083,"lon":31.39076},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"GÜVEMLİ","ad":"GÜVEMLİ","lat":39.67352,"lon":31.59197},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"HAMAMKARAHİSAR","ad":"HAMAMKARAHİSAR","lat":39.50949,"lon":31.81693},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"HIZIRBEY","ad":"HIZIRBEY","lat":39.44866,"lon":31.5324},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"HÜDAVENDİGAR","ad":"HÜDAVENDİGAR","lat":39.61059,"lon":31.63683},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"İBİKSEYDİ","ad":"İBİKSEYDİ","lat":39.57035,"lon":31.43615},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"İĞDECİK","ad":"İĞDECİK","lat":39.67432,"lon":31.57517},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"İLÖREN","ad":"İLÖREN","lat":39.64663,"lon":31.85201},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"İLYASPAŞA","ad":"İLYASPAŞA","lat":39.20472,"lon":31.74521},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"İSTİKLALBAĞI","ad":"İSTİKLALBAĞI","lat":39.40338,"lon":31.63697},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"KADINCIK","ad":"KADINCIK","lat":39.44349,"lon":31.71948},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"KALDIRIMKÖY","ad":"KALDIRIMKÖY","lat":39.11818,"lon":31.58737},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"KARABAŞLI","ad":"KARABAŞLI","lat":39.45112,"lon":31.53449},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"KARABURHAN","ad":"KARABURHAN","lat":39.59328,"lon":31.37728},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"KARACAKAYA","ad":"KARACAKAYA","lat":39.623,"lon":31.58057},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"KARACALAR","ad":"KARACALAR","lat":39.45103,"lon":31.53676},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"KARACAÖREN","ad":"KARACAÖREN","lat":39.31198,"lon":31.72475},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"KARACAÖRENYAYLASI","ad":"KARACAÖRENYAYLASI","lat":39.53952,"lon":31.34463},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"KARADAT","ad":"KARADAT","lat":39.69471,"lon":31.61444},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"KARAKAYA","ad":"KARAKAYA","lat":39.51402,"lon":31.24973},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"KARKIN","ad":"KARKIN","lat":39.62584,"lon":31.40297},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"KAYMAZ","ad":"KAYMAZ","lat":39.57353,"lon":31.19156},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"KERTEK","ad":"KERTEK","lat":39.46382,"lon":31.36878},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"KILIÇ","ad":"KILIÇ","lat":39.49671,"lon":31.52524},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"KINIK","ad":"KINIK","lat":39.42582,"lon":31.44497},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"KOÇAŞ","ad":"KOÇAŞ","lat":39.47662,"lon":31.69925},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"KOLTAN","ad":"KOLTAN","lat":39.57478,"lon":31.66087},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"KUBBELİ","ad":"KUBBELİ","lat":39.45136,"lon":31.53891},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"KURŞUNLU","ad":"KURŞUNLU","lat":39.46252,"lon":31.65281},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"KURTŞEYH","ad":"KURTŞEYH","lat":39.25425,"lon":31.52879},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"MEMİK","ad":"MEMİK","lat":39.55993,"lon":31.50962},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"MÜLKKÖY","ad":"MÜLKKÖY","lat":39.57836,"lon":31.886},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"NASRETTİN HOCA","ad":"NASRETTİN HOCA","lat":39.57644,"lon":31.68336},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"OĞLAKÇI","ad":"OĞLAKÇI","lat":39.60942,"lon":31.74771},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"ORTAKLAR","ad":"ORTAKLAR","lat":39.63712,"lon":31.75398},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"PAŞAKADIN","ad":"PAŞAKADIN","lat":39.51349,"lon":31.28269},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"SADIKBAĞI","ad":"SADIKBAĞI","lat":39.39795,"lon":31.64638},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"SARIKAVAK","ad":"SARIKAVAK","lat":39.51017,"lon":31.40685},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"SELİMİYE","ad":"SELİMİYE","lat":39.40879,"lon":31.30108},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"SIĞIRCIK","ad":"SIĞIRCIK","lat":39.19737,"lon":31.4691},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"TEKÖREN","ad":"TEKÖREN","lat":39.41423,"lon":31.5875},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"YAVERÖREN","ad":"YAVERÖREN","lat":39.48225,"lon":31.20988},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"YENİCE","ad":"YENİCE","lat":39.49738,"lon":31.49828},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"YENİDOĞAN","ad":"YENİDOĞAN","lat":39.18894,"lon":31.64245},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"YENİKÖY","ad":"YENİKÖY","lat":39.50124,"lon":31.4928},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"YEŞİLKÖY","ad":"YEŞİLKÖY","lat":39.31861,"lon":31.50322},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"YUKARIKEPEN","ad":"YUKARIKEPEN","lat":39.41303,"lon":31.49568},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"YUNUSEMRE","ad":"YUNUSEMRE","lat":39.44398,"lon":31.53742},{"il":"Eskişehir","ilce":"SİVRİHİSAR","mahalle":"ZEYKÖYÜ","ad":"ZEYKÖYÜ","lat":39.62215,"lon":31.51662},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"AHILAR","ad":"AHILAR","lat":39.8313,"lon":30.69742},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"ALINCA","ad":"ALINCA","lat":39.84901,"lon":30.46806},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"AŞAĞIKARTAL","ad":"AŞAĞIKARTAL","lat":39.71747,"lon":30.28066},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"AŞAĞI SÖĞÜTÖNÜ","ad":"AŞAĞI SÖĞÜTÖNÜ","lat":39.81002,"lon":30.44772},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"ATALAN","ad":"ATALAN","lat":39.96422,"lon":30.50924},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"ATALANTEKKE","ad":"ATALANTEKKE","lat":39.97764,"lon":30.5543},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"AVLAMIŞ","ad":"AVLAMIŞ","lat":39.96237,"lon":30.43349},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"BAHÇELİEVLER","ad":"BAHÇELİEVLER","lat":39.78596,"lon":30.51441},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"BATIKENT","ad":"BATIKENT","lat":39.80068,"lon":30.43461},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"BEHÇETİYE","ad":"BEHÇETİYE","lat":39.9676,"lon":30.40605},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"BEKTAŞPINARI","ad":"BEKTAŞPINARI","lat":39.90089,"lon":30.52709},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"BEYAZALTIN","ad":"BEYAZALTIN","lat":39.91426,"lon":30.8099},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"BOYACIOĞLU","ad":"BOYACIOĞLU","lat":39.7936,"lon":30.39878},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"BOZDAĞ","ad":"BOZDAĞ","lat":39.90025,"lon":30.57123},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"BULDUKPINAR","ad":"BULDUKPINAR","lat":39.92302,"lon":30.46536},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"CUMHURİYE","ad":"CUMHURİYE","lat":39.77635,"lon":30.51996},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"CUMHURİYET","ad":"CUMHURİYET","lat":39.84781,"lon":30.60475},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"ÇALKARA","ad":"ÇALKARA","lat":39.96759,"lon":30.40615},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"ÇAMLICA","ad":"ÇAMLICA","lat":39.78197,"lon":30.43256},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"ÇANAKKIRAN","ad":"ÇANAKKIRAN","lat":39.67528,"lon":30.25911},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"ÇUKURHİSAR YENİ","ad":"ÇUKURHİSAR YENİ","lat":39.82602,"lon":30.34323},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"DANİŞMENT","ad":"DANİŞMENT","lat":39.90825,"lon":30.72183},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"EĞRİÖZ","ad":"EĞRİÖZ","lat":39.91929,"lon":30.43889},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"EMİRCEOĞLU","ad":"EMİRCEOĞLU","lat":39.85713,"lon":30.47472},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"ERTUĞRULGAZİ","ad":"ERTUĞRULGAZİ","lat":39.7823,"lon":30.49382},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"ESENTEPE","ad":"ESENTEPE","lat":39.80466,"lon":30.51469},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"ESKİBAĞLAR","ad":"ESKİBAĞLAR","lat":39.78593,"lon":30.51488},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"FATİH","ad":"FATİH","lat":39.79181,"lon":30.52334},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"FEVZİÇAKMAK","ad":"FEVZİÇAKMAK","lat":39.80681,"lon":30.63296},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"GAZİPAŞA","ad":"GAZİPAŞA","lat":39.81625,"lon":30.53856},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"GÖKÇEKISIK","ad":"GÖKÇEKISIK","lat":39.68572,"lon":30.38604},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"GÖKDERE","ad":"GÖKDERE","lat":39.83343,"lon":30.6957},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"GÜLLÜK","ad":"GÜLLÜK","lat":39.78537,"lon":30.51894},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"GÜNDÜZLER","ad":"GÜNDÜZLER","lat":39.91225,"lon":30.81132},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"HACI ALİ BEY","ad":"HACI ALİ BEY","lat":39.78003,"lon":30.52157},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"HACI SEYİT","ad":"HACI SEYİT","lat":39.78146,"lon":30.52507},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"HASANBEY","ad":"HASANBEY","lat":39.78846,"lon":30.65135},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"HAYRİYE","ad":"HAYRİYE","lat":39.78039,"lon":30.52169},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"HEKİMDAĞ","ad":"HEKİMDAĞ","lat":39.8885,"lon":30.54662},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"HİSAR","ad":"HİSAR","lat":39.86719,"lon":30.32071},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"HOŞNUDİYE","ad":"HOŞNUDİYE","lat":39.78066,"lon":30.51135},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"IŞIKLAR","ad":"IŞIKLAR","lat":39.78047,"lon":30.52646},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"İHSANİYE","ad":"İHSANİYE","lat":39.77963,"lon":30.52357},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"KARAÇOBANPINARI","ad":"KARAÇOBANPINARI","lat":39.91946,"lon":30.41816},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"KARADERE","ad":"KARADERE","lat":39.91028,"lon":30.61342},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"KARAGÖZLER","ad":"KARAGÖZLER","lat":39.78087,"lon":30.43271},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"KAVACIK","ad":"KAVACIK","lat":39.90357,"lon":30.44283},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"KESKİN","ad":"KESKİN","lat":39.86739,"lon":30.40367},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"KIZILCAÖREN","ad":"KIZILCAÖREN","lat":39.92291,"lon":30.7355},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"KIZILİNLER","ad":"KIZILİNLER","lat":39.74218,"lon":30.414},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"KOZKAYI","ad":"KOZKAYI","lat":39.86474,"lon":30.49749},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"KOZLUBEL","ad":"KOZLUBEL","lat":39.92734,"lon":30.95283},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"KUMLUBEL","ad":"KUMLUBEL","lat":39.79295,"lon":30.52506},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"MAMURE","ad":"MAMURE","lat":39.78042,"lon":30.52645},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"MERKEZ YENİ","ad":"MERKEZ YENİ","lat":39.77591,"lon":30.52535},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"MOLLAOĞLU","ad":"MOLLAOĞLU","lat":39.72404,"lon":30.27249},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"MUSAÖZÜ","ad":"MUSAÖZÜ","lat":39.71988,"lon":30.35698},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"MUTTALİP EMİRLER","ad":"MUTTALİP EMİRLER","lat":39.88099,"lon":30.57899},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"MUTTALİP KOYUNLAR","ad":"MUTTALİP KOYUNLAR","lat":39.88003,"lon":30.54442},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"MUTTALİP ORTA","ad":"MUTTALİP ORTA","lat":39.8798,"lon":30.57703},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"NEMLİ","ad":"NEMLİ","lat":39.74784,"lon":30.19746},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"ÖMERAĞA","ad":"ÖMERAĞA","lat":39.78305,"lon":30.52614},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"SAKİNTEPE","ad":"SAKİNTEPE","lat":39.85802,"lon":30.46802},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"SATILMIŞOĞLU","ad":"SATILMIŞOĞLU","lat":39.83282,"lon":30.35834},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"SAZOVA","ad":"SAZOVA","lat":39.75916,"lon":30.43272},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"SULUKARAAĞAÇ","ad":"SULUKARAAĞAÇ","lat":39.9398,"lon":30.51462},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"SÜTLÜCE","ad":"SÜTLÜCE","lat":39.80801,"lon":30.49851},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"ŞEKER","ad":"ŞEKER","lat":39.78496,"lon":30.60668},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"ŞİRİNTEPE","ad":"ŞİRİNTEPE","lat":39.80546,"lon":30.48163},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"TAKMAK","ad":"TAKMAK","lat":39.72715,"lon":30.35808},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"TANDIR","ad":"TANDIR","lat":39.90528,"lon":30.65729},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"TAYCILAR","ad":"TAYCILAR","lat":39.99284,"lon":30.89743},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"TEKECİLER","ad":"TEKECİLER","lat":39.94252,"lon":30.51482},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"TUNALI","ad":"TUNALI","lat":39.78902,"lon":30.51807},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"TURGUTLAR","ad":"TURGUTLAR","lat":39.79302,"lon":30.37462},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"ULUDERE","ad":"ULUDERE","lat":39.93204,"lon":30.37884},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"ULUÖNDER","ad":"ULUÖNDER","lat":39.78918,"lon":30.49209},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"YAKAKAYI","ad":"YAKAKAYI","lat":39.88577,"lon":30.7809},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"YAŞAMKENT","ad":"YAŞAMKENT","lat":39.83141,"lon":30.4552},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"YENİAKÇAYIR","ad":"YENİAKÇAYIR","lat":39.7291,"lon":30.3726},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"YENİBAĞLAR","ad":"YENİBAĞLAR","lat":39.78187,"lon":30.5089},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"YENİİNCESU","ad":"YENİİNCESU","lat":39.67547,"lon":30.3153},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"YEŞİLTEPE","ad":"YEŞİLTEPE","lat":39.80972,"lon":30.49447},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"YUKARIKARTAL","ad":"YUKARIKARTAL","lat":39.75525,"lon":30.3014},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"YUKARI SÖĞÜTÖNÜ","ad":"YUKARI SÖĞÜTÖNÜ","lat":39.84133,"lon":30.42364},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"YUSUFLAR","ad":"YUSUFLAR","lat":39.7924,"lon":30.37691},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"YÜRÜKAKÇAYIR","ad":"YÜRÜKAKÇAYIR","lat":39.7654,"lon":30.34441},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"ZAFER","ad":"ZAFER","lat":39.79705,"lon":30.52654},{"il":"Eskişehir","ilce":"TEPEBAŞI","mahalle":"ZİNCİRLİKUYU","ad":"ZİNCİRLİKUYU","lat":39.80008,"lon":30.44536}]
+[
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "AĞAÇHİSAR",
+    "ad": "AĞAÇHİSAR",
+    "lat": 39.95858,
+    "lon": 31.14183
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "AKTEPE",
+    "ad": "AKTEPE",
+    "lat": 39.67209,
+    "lon": 31.00005
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "ALAPINAR",
+    "ad": "ALAPINAR",
+    "lat": 40.04983,
+    "lon": 30.89253
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "ARIKAYA",
+    "ad": "ARIKAYA",
+    "lat": 39.95299,
+    "lon": 31.09496
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "BAHÇECİK",
+    "ad": "BAHÇECİK",
+    "lat": 39.80911,
+    "lon": 30.87672
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "BAŞÖREN",
+    "ad": "BAŞÖREN",
+    "lat": 39.97063,
+    "lon": 31.00325
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "BELKESE",
+    "ad": "BELKESE",
+    "lat": 39.99228,
+    "lon": 30.94901
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "BOZAN",
+    "ad": "BOZAN",
+    "lat": 39.74984,
+    "lon": 31.09213
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "BÜĞDÜZ",
+    "ad": "BÜĞDÜZ",
+    "lat": 39.83191,
+    "lon": 31.14128
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "ÇARDAKBAŞI",
+    "ad": "ÇARDAKBAŞI",
+    "lat": 39.73425,
+    "lon": 31.07038
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "ÇERKEZ ÇUKURHİSAR",
+    "ad": "ÇERKEZ ÇUKURHİSAR",
+    "lat": 39.8353,
+    "lon": 30.99373
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "DEREKÖY",
+    "ad": "DEREKÖY",
+    "lat": 39.92562,
+    "lon": 31.01779
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "ESENCE",
+    "ad": "ESENCE",
+    "lat": 39.73836,
+    "lon": 31.00586
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "FATİH",
+    "ad": "FATİH",
+    "lat": 39.77975,
+    "lon": 31.06775
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "FEVZİ PAŞA",
+    "ad": "FEVZİ PAŞA",
+    "lat": 39.78956,
+    "lon": 30.90372
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "FEVZİYE",
+    "ad": "FEVZİYE",
+    "lat": 39.74801,
+    "lon": 30.94214
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "GÖKÇEKAYA",
+    "ad": "GÖKÇEKAYA",
+    "lat": 40.05123,
+    "lon": 31.0406
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "GÖKÇEOĞLU",
+    "ad": "GÖKÇEOĞLU",
+    "lat": 39.75652,
+    "lon": 30.87616
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "GÜROLUK",
+    "ad": "GÜROLUK",
+    "lat": 39.70266,
+    "lon": 31.09242
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "IŞIKÖREN",
+    "ad": "IŞIKÖREN",
+    "lat": 39.64173,
+    "lon": 30.94365
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "KARACAÖREN",
+    "ad": "KARACAÖREN",
+    "lat": 39.99233,
+    "lon": 31.05063
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "KARAKAMIŞ",
+    "ad": "KARAKAMIŞ",
+    "lat": 39.82243,
+    "lon": 30.8994
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "KEMALPAŞA",
+    "ad": "KEMALPAŞA",
+    "lat": 39.83493,
+    "lon": 30.9805
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "KOŞMAT",
+    "ad": "KOŞMAT",
+    "lat": 39.62914,
+    "lon": 31.11967
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "MAMURE",
+    "ad": "MAMURE",
+    "lat": 39.69899,
+    "lon": 30.91364
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "OSMANİYE",
+    "ad": "OSMANİYE",
+    "lat": 39.89794,
+    "lon": 30.93746
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "ÖZDENK",
+    "ad": "ÖZDENK",
+    "lat": 39.87879,
+    "lon": 30.99767
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "SAKARIKARACAÖREN",
+    "ad": "SAKARIKARACAÖREN",
+    "lat": 40.03825,
+    "lon": 30.91291
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "SARIKAVAK",
+    "ad": "SARIKAVAK",
+    "lat": 39.65182,
+    "lon": 30.87001
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "SÖĞÜTÇÜK",
+    "ad": "SÖĞÜTÇÜK",
+    "lat": 39.88009,
+    "lon": 30.93404
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "UYUZHAMAMKÖYÜ",
+    "ad": "UYUZHAMAMKÖYÜ",
+    "lat": 39.70422,
+    "lon": 31.07354
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "YEŞİLDON",
+    "ad": "YEŞİLDON",
+    "lat": 39.73667,
+    "lon": 31.07099
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ALPU",
+    "mahalle": "YUNUSEMRE",
+    "ad": "YUNUSEMRE",
+    "lat": 39.76835,
+    "lon": 30.96136
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "BEYLİKOVA",
+    "mahalle": "AKKÖPRÜ",
+    "ad": "AKKÖPRÜ",
+    "lat": 39.71015,
+    "lon": 31.2348
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "BEYLİKOVA",
+    "mahalle": "AŞAĞIDUDAŞ",
+    "ad": "AŞAĞIDUDAŞ",
+    "lat": 39.89037,
+    "lon": 31.21873
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "BEYLİKOVA",
+    "mahalle": "AŞAĞIİĞDEAĞACI",
+    "ad": "AŞAĞIİĞDEAĞACI",
+    "lat": 39.7341,
+    "lon": 31.23672
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "BEYLİKOVA",
+    "mahalle": "ATA",
+    "ad": "ATA",
+    "lat": 39.72231,
+    "lon": 31.23198
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "BEYLİKOVA",
+    "mahalle": "DOĞANOĞLU",
+    "ad": "DOĞANOĞLU",
+    "lat": 39.80161,
+    "lon": 31.19271
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "BEYLİKOVA",
+    "mahalle": "DOĞRAY",
+    "ad": "DOĞRAY",
+    "lat": 39.67764,
+    "lon": 31.33211
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "BEYLİKOVA",
+    "mahalle": "EMİRCİK",
+    "ad": "EMİRCİK",
+    "lat": 39.70488,
+    "lon": 31.2952
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "BEYLİKOVA",
+    "mahalle": "GÖKÇEAYVA",
+    "ad": "GÖKÇEAYVA",
+    "lat": 39.83085,
+    "lon": 31.38582
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "BEYLİKOVA",
+    "mahalle": "HALİLBAĞI",
+    "ad": "HALİLBAĞI",
+    "lat": 39.62394,
+    "lon": 31.29991
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "BEYLİKOVA",
+    "mahalle": "İKİPINAR",
+    "ad": "İKİPINAR",
+    "lat": 39.65393,
+    "lon": 31.19405
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "BEYLİKOVA",
+    "mahalle": "İMİKLER",
+    "ad": "İMİKLER",
+    "lat": 39.65042,
+    "lon": 31.33087
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "BEYLİKOVA",
+    "mahalle": "KIZILCAÖREN",
+    "ad": "KIZILCAÖREN",
+    "lat": 39.59735,
+    "lon": 31.3676
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "BEYLİKOVA",
+    "mahalle": "KÖPRÜBAŞI",
+    "ad": "KÖPRÜBAŞI",
+    "lat": 39.68813,
+    "lon": 31.2135
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "BEYLİKOVA",
+    "mahalle": "KÖPRÜBAŞI OSB",
+    "ad": "KÖPRÜBAŞI OSB",
+    "lat": 39.6759,
+    "lon": 31.21708
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "BEYLİKOVA",
+    "mahalle": "OKÇU",
+    "ad": "OKÇU",
+    "lat": 39.59228,
+    "lon": 31.34953
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "BEYLİKOVA",
+    "mahalle": "PARSIBEY",
+    "ad": "PARSIBEY",
+    "lat": 39.69354,
+    "lon": 31.16895
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "BEYLİKOVA",
+    "mahalle": "RAHMİYE",
+    "ad": "RAHMİYE",
+    "lat": 39.72044,
+    "lon": 31.17745
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "BEYLİKOVA",
+    "mahalle": "SULTANİYE",
+    "ad": "SULTANİYE",
+    "lat": 39.78086,
+    "lon": 31.25471
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "BEYLİKOVA",
+    "mahalle": "SÜLEYMANİYE",
+    "ad": "SÜLEYMANİYE",
+    "lat": 39.67663,
+    "lon": 31.36247
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "BEYLİKOVA",
+    "mahalle": "UZUNBURUN",
+    "ad": "UZUNBURUN",
+    "lat": 39.72898,
+    "lon": 31.13688
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "BEYLİKOVA",
+    "mahalle": "YALINLI",
+    "ad": "YALINLI",
+    "lat": 39.67395,
+    "lon": 31.36369
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "BEYLİKOVA",
+    "mahalle": "YENİ",
+    "ad": "YENİ",
+    "lat": 39.69772,
+    "lon": 31.22045
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "BEYLİKOVA",
+    "mahalle": "YENİYURT",
+    "ad": "YENİYURT",
+    "lat": 39.70491,
+    "lon": 31.29525
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "BEYLİKOVA",
+    "mahalle": "YUKARIDUDAŞ",
+    "ad": "YUKARIDUDAŞ",
+    "lat": 39.88956,
+    "lon": 31.27722
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "BEYLİKOVA",
+    "mahalle": "YUKARIİĞDEAĞACI",
+    "ad": "YUKARIİĞDEAĞACI",
+    "lat": 39.82,
+    "lon": 31.33075
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "BEYLİKOVA",
+    "mahalle": "YUNUS EMRE",
+    "ad": "YUNUS EMRE",
+    "lat": 39.70012,
+    "lon": 31.199
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ÇİFTELER",
+    "mahalle": "ABBASHALİMPAŞA",
+    "ad": "ABBASHALİMPAŞA",
+    "lat": 39.42992,
+    "lon": 31.07273
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ÇİFTELER",
+    "mahalle": "ADALAR",
+    "ad": "ADALAR",
+    "lat": 39.38277,
+    "lon": 31.05563
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ÇİFTELER",
+    "mahalle": "ALİKAN",
+    "ad": "ALİKAN",
+    "lat": 39.25276,
+    "lon": 31.24532
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ÇİFTELER",
+    "mahalle": "ARSLANLI",
+    "ad": "ARSLANLI",
+    "lat": 39.20069,
+    "lon": 31.04645
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ÇİFTELER",
+    "mahalle": "BAŞKURT",
+    "ad": "BAŞKURT",
+    "lat": 39.32364,
+    "lon": 31.13425
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ÇİFTELER",
+    "mahalle": "BELPINAR",
+    "ad": "BELPINAR",
+    "lat": 39.34515,
+    "lon": 31.08809
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ÇİFTELER",
+    "mahalle": "ÇATMAPINAR",
+    "ad": "ÇATMAPINAR",
+    "lat": 39.25672,
+    "lon": 30.98001
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ÇİFTELER",
+    "mahalle": "ÇİFTÇİ",
+    "ad": "ÇİFTÇİ",
+    "lat": 39.41978,
+    "lon": 30.98063
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ÇİFTELER",
+    "mahalle": "DİKİLİKAYA",
+    "ad": "DİKİLİKAYA",
+    "lat": 39.2285,
+    "lon": 31.10461
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ÇİFTELER",
+    "mahalle": "DİKMEN",
+    "ad": "DİKMEN",
+    "lat": 39.37572,
+    "lon": 31.27464
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ÇİFTELER",
+    "mahalle": "DOĞANAY",
+    "ad": "DOĞANAY",
+    "lat": 39.26563,
+    "lon": 31.21687
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ÇİFTELER",
+    "mahalle": "EMİNEKİN",
+    "ad": "EMİNEKİN",
+    "lat": 39.39101,
+    "lon": 31.13556
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ÇİFTELER",
+    "mahalle": "ERBAP",
+    "ad": "ERBAP",
+    "lat": 39.37766,
+    "lon": 31.08107
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ÇİFTELER",
+    "mahalle": "HAYRİYE",
+    "ad": "HAYRİYE",
+    "lat": 39.39351,
+    "lon": 30.96123
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ÇİFTELER",
+    "mahalle": "ILICABAŞI",
+    "ad": "ILICABAŞI",
+    "lat": 39.33538,
+    "lon": 31.02091
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ÇİFTELER",
+    "mahalle": "KADIKUYUSU",
+    "ad": "KADIKUYUSU",
+    "lat": 39.1936,
+    "lon": 30.98941
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ÇİFTELER",
+    "mahalle": "KÖRHASAN",
+    "ad": "KÖRHASAN",
+    "lat": 39.3961,
+    "lon": 31.21405
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ÇİFTELER",
+    "mahalle": "ORHANİYE",
+    "ad": "ORHANİYE",
+    "lat": 39.36742,
+    "lon": 30.89907
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ÇİFTELER",
+    "mahalle": "ORTAKÖY",
+    "ad": "ORTAKÖY",
+    "lat": 39.29572,
+    "lon": 31.29506
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ÇİFTELER",
+    "mahalle": "OSMANİYE",
+    "ad": "OSMANİYE",
+    "lat": 39.36665,
+    "lon": 30.90353
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ÇİFTELER",
+    "mahalle": "SADIROĞLU",
+    "ad": "SADIROĞLU",
+    "lat": 39.29873,
+    "lon": 31.19288
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ÇİFTELER",
+    "mahalle": "SAİTHALİMPAŞA",
+    "ad": "SAİTHALİMPAŞA",
+    "lat": 39.46276,
+    "lon": 31.04408
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ÇİFTELER",
+    "mahalle": "SAKARYA",
+    "ad": "SAKARYA",
+    "lat": 39.4147,
+    "lon": 30.94297
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ÇİFTELER",
+    "mahalle": "SARIKAVAK",
+    "ad": "SARIKAVAK",
+    "lat": 39.20178,
+    "lon": 31.01855
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ÇİFTELER",
+    "mahalle": "YENİ",
+    "ad": "YENİ",
+    "lat": 39.3858,
+    "lon": 31.07131
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ÇİFTELER",
+    "mahalle": "YENİDOĞAN",
+    "ad": "YENİDOĞAN",
+    "lat": 39.42039,
+    "lon": 31.02204
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ÇİFTELER",
+    "mahalle": "YILDIZÖREN",
+    "ad": "YILDIZÖREN",
+    "lat": 39.47574,
+    "lon": 31.10829
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ÇİFTELER",
+    "mahalle": "ZAFERHAMİT",
+    "ad": "ZAFERHAMİT",
+    "lat": 39.4833,
+    "lon": 31.1546
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "GÜNYÜZÜ",
+    "mahalle": "ATLAS",
+    "ad": "ATLAS",
+    "lat": 39.37209,
+    "lon": 31.78058
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "GÜNYÜZÜ",
+    "mahalle": "AYVALI",
+    "ad": "AYVALI",
+    "lat": 39.37248,
+    "lon": 31.97776
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "GÜNYÜZÜ",
+    "mahalle": "BEDİL",
+    "ad": "BEDİL",
+    "lat": 39.37207,
+    "lon": 31.84739
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "GÜNYÜZÜ",
+    "mahalle": "ÇAKMAK",
+    "ad": "ÇAKMAK",
+    "lat": 39.2384,
+    "lon": 31.84562
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "GÜNYÜZÜ",
+    "mahalle": "ÇARDAKÖZÜ",
+    "ad": "ÇARDAKÖZÜ",
+    "lat": 39.49423,
+    "lon": 31.86314
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "GÜNYÜZÜ",
+    "mahalle": "DOĞRAY",
+    "ad": "DOĞRAY",
+    "lat": 39.55244,
+    "lon": 31.93422
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "GÜNYÜZÜ",
+    "mahalle": "FATİH",
+    "ad": "FATİH",
+    "lat": 39.45582,
+    "lon": 31.89469
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "GÜNYÜZÜ",
+    "mahalle": "GECEK",
+    "ad": "GECEK",
+    "lat": 39.42146,
+    "lon": 31.79229
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "GÜNYÜZÜ",
+    "mahalle": "GÜMÜŞKONAK",
+    "ad": "GÜMÜŞKONAK",
+    "lat": 39.35463,
+    "lon": 31.82287
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "GÜNYÜZÜ",
+    "mahalle": "KAVACIK",
+    "ad": "KAVACIK",
+    "lat": 39.36227,
+    "lon": 31.81742
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "GÜNYÜZÜ",
+    "mahalle": "KAVUNCU",
+    "ad": "KAVUNCU",
+    "lat": 39.45395,
+    "lon": 31.93957
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "GÜNYÜZÜ",
+    "mahalle": "KAYAKENT",
+    "ad": "KAYAKENT",
+    "lat": 39.3282,
+    "lon": 31.77217
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "GÜNYÜZÜ",
+    "mahalle": "KUZÖREN",
+    "ad": "KUZÖREN",
+    "lat": 39.28754,
+    "lon": 31.73388
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "GÜNYÜZÜ",
+    "mahalle": "MERCAN",
+    "ad": "MERCAN",
+    "lat": 39.37652,
+    "lon": 31.9117
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "GÜNYÜZÜ",
+    "mahalle": "ÖZLER",
+    "ad": "ÖZLER",
+    "lat": 39.38172,
+    "lon": 31.81632
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "GÜNYÜZÜ",
+    "mahalle": "TUTLU",
+    "ad": "TUTLU",
+    "lat": 39.43171,
+    "lon": 31.75371
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "GÜNYÜZÜ",
+    "mahalle": "YAĞRI",
+    "ad": "YAĞRI",
+    "lat": 39.39354,
+    "lon": 31.91103
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "GÜNYÜZÜ",
+    "mahalle": "YAZIR",
+    "ad": "YAZIR",
+    "lat": 39.43869,
+    "lon": 31.80475
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "GÜNYÜZÜ",
+    "mahalle": "YENİKENT",
+    "ad": "YENİKENT",
+    "lat": 39.39754,
+    "lon": 31.80824
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "GÜNYÜZÜ",
+    "mahalle": "YEŞİLYAKA",
+    "ad": "YEŞİLYAKA",
+    "lat": 39.36983,
+    "lon": 31.99036
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "HAN",
+    "mahalle": "AĞLARCA",
+    "ad": "AĞLARCA",
+    "lat": 39.18786,
+    "lon": 30.812
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "HAN",
+    "mahalle": "AKDERE",
+    "ad": "AKDERE",
+    "lat": 39.23165,
+    "lon": 30.76841
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "HAN",
+    "mahalle": "AKHİSAR",
+    "ad": "AKHİSAR",
+    "lat": 39.09842,
+    "lon": 30.73261
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "HAN",
+    "mahalle": "BAŞARA",
+    "ad": "BAŞARA",
+    "lat": 39.15578,
+    "lon": 30.92247
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "HAN",
+    "mahalle": "ERTEN",
+    "ad": "ERTEN",
+    "lat": 39.2145,
+    "lon": 30.81992
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "HAN",
+    "mahalle": "GÖKÇEKUYU",
+    "ad": "GÖKÇEKUYU",
+    "lat": 39.284,
+    "lon": 30.87449
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "HAN",
+    "mahalle": "GÖKÇEYAYLA",
+    "ad": "GÖKÇEYAYLA",
+    "lat": 39.05324,
+    "lon": 30.79832
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "HAN",
+    "mahalle": "HACILAR",
+    "ad": "HACILAR",
+    "lat": 39.16824,
+    "lon": 30.87433
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "HAN",
+    "mahalle": "HANKARAAĞAÇ",
+    "ad": "HANKARAAĞAÇ",
+    "lat": 39.23262,
+    "lon": 30.78845
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "HAN",
+    "mahalle": "HÜSREVPAŞA",
+    "ad": "HÜSREVPAŞA",
+    "lat": 39.16409,
+    "lon": 30.90058
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "HAN",
+    "mahalle": "İSKANKUYU",
+    "ad": "İSKANKUYU",
+    "lat": 39.28483,
+    "lon": 30.89376
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "HAN",
+    "mahalle": "KAYI",
+    "ad": "KAYI",
+    "lat": 39.23324,
+    "lon": 30.78409
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "HAN",
+    "mahalle": "PEÇENE",
+    "ad": "PEÇENE",
+    "lat": 39.12513,
+    "lon": 30.80301
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "HAN",
+    "mahalle": "TEPEKÖY",
+    "ad": "TEPEKÖY",
+    "lat": 39.23115,
+    "lon": 30.78928
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "HAN",
+    "mahalle": "YAZILI",
+    "ad": "YAZILI",
+    "lat": 39.15286,
+    "lon": 30.73481
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "İNÖNÜ",
+    "mahalle": "AŞAĞIKUZFINDIK",
+    "ad": "AŞAĞIKUZFINDIK",
+    "lat": 39.68157,
+    "lon": 30.03577
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "İNÖNÜ",
+    "mahalle": "ÇARŞI",
+    "ad": "ÇARŞI",
+    "lat": 39.8132,
+    "lon": 30.14194
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "İNÖNÜ",
+    "mahalle": "DEREYALAK",
+    "ad": "DEREYALAK",
+    "lat": 39.73319,
+    "lon": 29.99944
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "İNÖNÜ",
+    "mahalle": "DUTLUCA",
+    "ad": "DUTLUCA",
+    "lat": 39.77173,
+    "lon": 30.1378
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "İNÖNÜ",
+    "mahalle": "ERENKÖY",
+    "ad": "ERENKÖY",
+    "lat": 39.76878,
+    "lon": 30.00667
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "İNÖNÜ",
+    "mahalle": "ESNEMEZ",
+    "ad": "ESNEMEZ",
+    "lat": 39.7845,
+    "lon": 30.09468
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "İNÖNÜ",
+    "mahalle": "İSMETPAŞA",
+    "ad": "İSMETPAŞA",
+    "lat": 39.86529,
+    "lon": 30.14381
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "İNÖNÜ",
+    "mahalle": "KÜMBET",
+    "ad": "KÜMBET",
+    "lat": 39.6819,
+    "lon": 30.15338
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "İNÖNÜ",
+    "mahalle": "KÜMBETAKPINAR",
+    "ad": "KÜMBETAKPINAR",
+    "lat": 39.73279,
+    "lon": 30.14246
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "İNÖNÜ",
+    "mahalle": "KÜMBETYENİKÖY",
+    "ad": "KÜMBETYENİKÖY",
+    "lat": 39.69084,
+    "lon": 30.15103
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "İNÖNÜ",
+    "mahalle": "OKLUBALI",
+    "ad": "OKLUBALI",
+    "lat": 39.75551,
+    "lon": 30.17205
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "İNÖNÜ",
+    "mahalle": "ORTA",
+    "ad": "ORTA",
+    "lat": 39.81388,
+    "lon": 30.13927
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "İNÖNÜ",
+    "mahalle": "SEYİTALİKÖYÜ",
+    "ad": "SEYİTALİKÖYÜ",
+    "lat": 39.79783,
+    "lon": 30.01922
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "İNÖNÜ",
+    "mahalle": "YENİCE",
+    "ad": "YENİCE",
+    "lat": 39.81761,
+    "lon": 30.13336
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "İNÖNÜ",
+    "mahalle": "YUKARIKUZFINDIK",
+    "ad": "YUKARIKUZFINDIK",
+    "lat": 39.67356,
+    "lon": 30.1064
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "İNÖNÜ",
+    "mahalle": "YÜRÜKYAYLA",
+    "ad": "YÜRÜKYAYLA",
+    "lat": 39.8133,
+    "lon": 30.06753
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MAHMUDİYE",
+    "mahalle": "AKYURT",
+    "ad": "AKYURT",
+    "lat": 39.60909,
+    "lon": 30.92359
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MAHMUDİYE",
+    "mahalle": "BALÇIKHİSAR",
+    "ad": "BALÇIKHİSAR",
+    "lat": 39.63082,
+    "lon": 31.16326
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MAHMUDİYE",
+    "mahalle": "ÇAL",
+    "ad": "ÇAL",
+    "lat": 39.51814,
+    "lon": 31.02668
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MAHMUDİYE",
+    "mahalle": "DOĞANCA",
+    "ad": "DOĞANCA",
+    "lat": 39.55009,
+    "lon": 31.0906
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MAHMUDİYE",
+    "mahalle": "FAHRİYE",
+    "ad": "FAHRİYE",
+    "lat": 39.64107,
+    "lon": 31.0037
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MAHMUDİYE",
+    "mahalle": "GÜLLÜCE",
+    "ad": "GÜLLÜCE",
+    "lat": 39.6156,
+    "lon": 30.80413
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MAHMUDİYE",
+    "mahalle": "HAMİDİYE",
+    "ad": "HAMİDİYE",
+    "lat": 39.60589,
+    "lon": 30.92847
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MAHMUDİYE",
+    "mahalle": "IŞIKLAR",
+    "ad": "IŞIKLAR",
+    "lat": 39.49657,
+    "lon": 30.98829
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MAHMUDİYE",
+    "mahalle": "İSMETPAŞA",
+    "ad": "İSMETPAŞA",
+    "lat": 39.49755,
+    "lon": 30.88972
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MAHMUDİYE",
+    "mahalle": "KAYMAZYAYLA",
+    "ad": "KAYMAZYAYLA",
+    "lat": 39.54564,
+    "lon": 31.09429
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MAHMUDİYE",
+    "mahalle": "MESUDİYE",
+    "ad": "MESUDİYE",
+    "lat": 39.55451,
+    "lon": 30.98937
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MAHMUDİYE",
+    "mahalle": "ORTA",
+    "ad": "ORTA",
+    "lat": 39.5263,
+    "lon": 31.01456
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MAHMUDİYE",
+    "mahalle": "ŞEREFİYE",
+    "ad": "ŞEREFİYE",
+    "lat": 39.61968,
+    "lon": 31.06794
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MAHMUDİYE",
+    "mahalle": "TOKATHAN",
+    "ad": "TOKATHAN",
+    "lat": 39.6181,
+    "lon": 30.84098
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MAHMUDİYE",
+    "mahalle": "TOPKAYA",
+    "ad": "TOPKAYA",
+    "lat": 39.65419,
+    "lon": 31.01844
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MAHMUDİYE",
+    "mahalle": "TÜRKMENMECİDİYE",
+    "ad": "TÜRKMENMECİDİYE",
+    "lat": 39.4569,
+    "lon": 30.85973
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MAHMUDİYE",
+    "mahalle": "YENİ",
+    "ad": "YENİ",
+    "lat": 39.52905,
+    "lon": 30.98077
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MAHMUDİYE",
+    "mahalle": "YENİKÖY",
+    "ad": "YENİKÖY",
+    "lat": 39.51619,
+    "lon": 31.07838
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MAHMUDİYE",
+    "mahalle": "YEŞİLYURT",
+    "ad": "YEŞİLYURT",
+    "lat": 39.58999,
+    "lon": 30.87972
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALGAZİ",
+    "mahalle": "ALPAGUT",
+    "ad": "ALPAGUT",
+    "lat": 40.0353,
+    "lon": 30.48318
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALGAZİ",
+    "mahalle": "BOZANİÇ",
+    "ad": "BOZANİÇ",
+    "lat": 40.03364,
+    "lon": 30.6165
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALGAZİ",
+    "mahalle": "CUMHURİYET",
+    "ad": "CUMHURİYET",
+    "lat": 40.02527,
+    "lon": 30.57438
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALGAZİ",
+    "mahalle": "DEMİRCİLER",
+    "ad": "DEMİRCİLER",
+    "lat": 40.02679,
+    "lon": 30.56141
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALGAZİ",
+    "mahalle": "DOKUZ MAYIS",
+    "ad": "DOKUZ MAYIS",
+    "lat": 40.02524,
+    "lon": 30.57435
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALGAZİ",
+    "mahalle": "HÜRRİYET",
+    "ad": "HÜRRİYET",
+    "lat": 40.03863,
+    "lon": 30.60206
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALGAZİ",
+    "mahalle": "İSTİKLAL",
+    "ad": "İSTİKLAL",
+    "lat": 40.0282,
+    "lon": 30.57589
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALGAZİ",
+    "mahalle": "KARAOĞLAN",
+    "ad": "KARAOĞLAN",
+    "lat": 40.05089,
+    "lon": 30.50281
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALGAZİ",
+    "mahalle": "SAKARIILICA",
+    "ad": "SAKARIILICA",
+    "lat": 40.02547,
+    "lon": 30.56704
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "ADAHİSAR",
+    "ad": "ADAHİSAR",
+    "lat": 39.72516,
+    "lon": 31.448
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "AHUR",
+    "ad": "AHUR",
+    "lat": 39.78654,
+    "lon": 31.54869
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "AHURÖZÜ",
+    "ad": "AHURÖZÜ",
+    "lat": 39.83401,
+    "lon": 31.70322
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "AKÇAÖREN",
+    "ad": "AKÇAÖREN",
+    "lat": 40.05951,
+    "lon": 31.30749
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "AYDINLAR",
+    "ad": "AYDINLAR",
+    "lat": 39.89537,
+    "lon": 31.39501
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "BAHTİYAR",
+    "ad": "BAHTİYAR",
+    "lat": 39.94665,
+    "lon": 31.64724
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "BEY",
+    "ad": "BEY",
+    "lat": 39.96962,
+    "lon": 31.60204
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "CAMİKEBİR",
+    "ad": "CAMİKEBİR",
+    "lat": 39.86681,
+    "lon": 31.4894
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "ÇALÇI",
+    "ad": "ÇALÇI",
+    "lat": 39.99259,
+    "lon": 31.46116
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "ÇALKAYA",
+    "ad": "ÇALKAYA",
+    "lat": 40.06166,
+    "lon": 31.27512
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "ÇARDAK",
+    "ad": "ÇARDAK",
+    "lat": 39.90182,
+    "lon": 31.46303
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "ÇUKURÖREN",
+    "ad": "ÇUKURÖREN",
+    "lat": 39.96555,
+    "lon": 31.59191
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "DAĞCI",
+    "ad": "DAĞCI",
+    "lat": 39.90228,
+    "lon": 31.44588
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "DİKÖZÜ",
+    "ad": "DİKÖZÜ",
+    "lat": 39.84107,
+    "lon": 31.5134
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "DİNEK",
+    "ad": "DİNEK",
+    "lat": 40.02342,
+    "lon": 31.44376
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "DÜMREK",
+    "ad": "DÜMREK",
+    "lat": 39.88296,
+    "lon": 31.85847
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "GÖZELER",
+    "ad": "GÖZELER",
+    "lat": 39.98081,
+    "lon": 31.52882
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "GÜCE",
+    "ad": "GÜCE",
+    "lat": 39.87267,
+    "lon": 31.34446
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "GÜREŞ",
+    "ad": "GÜREŞ",
+    "lat": 39.9197,
+    "lon": 31.60738
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "GÜRLEYİK",
+    "ad": "GÜRLEYİK",
+    "lat": 40.03373,
+    "lon": 31.34287
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "HAMİDİYE",
+    "ad": "HAMİDİYE",
+    "lat": 39.86751,
+    "lon": 31.67977
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "ILICALAR",
+    "ad": "ILICALAR",
+    "lat": 39.86052,
+    "lon": 31.58178
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "İĞDECİK",
+    "ad": "İĞDECİK",
+    "lat": 40.06247,
+    "lon": 31.39422
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "İKİZAFER",
+    "ad": "İKİZAFER",
+    "lat": 39.91334,
+    "lon": 31.51734
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "KARAÇAM",
+    "ad": "KARAÇAM",
+    "lat": 39.66444,
+    "lon": 31.50466
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "KARAGEYİKLİ",
+    "ad": "KARAGEYİKLİ",
+    "lat": 39.9202,
+    "lon": 31.29082
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "KAVAK",
+    "ad": "KAVAK",
+    "lat": 39.95248,
+    "lon": 31.63592
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "KAYI",
+    "ad": "KAYI",
+    "lat": 39.86951,
+    "lon": 31.41156
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "KIZILBÖRÜKLÜ",
+    "ad": "KIZILBÖRÜKLÜ",
+    "lat": 39.85635,
+    "lon": 31.32558
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "KORUCU",
+    "ad": "KORUCU",
+    "lat": 39.84305,
+    "lon": 31.37687
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "KOYUNAĞILI",
+    "ad": "KOYUNAĞILI",
+    "lat": 40.01949,
+    "lon": 31.66452
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "KOZLU",
+    "ad": "KOZLU",
+    "lat": 39.95085,
+    "lon": 31.49679
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "LÜTFİYE",
+    "ad": "LÜTFİYE",
+    "lat": 39.90178,
+    "lon": 31.46051
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "MAHMUTHİSAR",
+    "ad": "MAHMUTHİSAR",
+    "lat": 39.98663,
+    "lon": 31.49301
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "MEDRESE",
+    "ad": "MEDRESE",
+    "lat": 39.86895,
+    "lon": 31.48212
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "NARLI",
+    "ad": "NARLI",
+    "lat": 39.87156,
+    "lon": 31.69583
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "OBRUK",
+    "ad": "OBRUK",
+    "lat": 39.98918,
+    "lon": 31.53591
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "OTLUK",
+    "ad": "OTLUK",
+    "lat": 40.04913,
+    "lon": 31.12695
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "ÖMER",
+    "ad": "ÖMER",
+    "lat": 39.88461,
+    "lon": 31.53169
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "SARAY",
+    "ad": "SARAY",
+    "lat": 39.86894,
+    "lon": 31.81336
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "SAZAK",
+    "ad": "SAZAK",
+    "lat": 39.85515,
+    "lon": 31.58776
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "SEKİ",
+    "ad": "SEKİ",
+    "lat": 39.94292,
+    "lon": 31.59352
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "SEKİÖREN",
+    "ad": "SEKİÖREN",
+    "lat": 39.96682,
+    "lon": 31.71732
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "SORKUN",
+    "ad": "SORKUN",
+    "lat": 39.94986,
+    "lon": 31.38857
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "SÜLELER",
+    "ad": "SÜLELER",
+    "lat": 40.02372,
+    "lon": 31.17733
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "TATARCIK",
+    "ad": "TATARCIK",
+    "lat": 39.87835,
+    "lon": 31.39821
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "UŞAKBÜKÜ",
+    "ad": "UŞAKBÜKÜ",
+    "lat": 39.99601,
+    "lon": 31.69756
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "ÜÇBAŞLI",
+    "ad": "ÜÇBAŞLI",
+    "lat": 39.8646,
+    "lon": 31.63112
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "YALIMKAYA",
+    "ad": "YALIMKAYA",
+    "lat": 40.0021,
+    "lon": 31.23538
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "YAYLA",
+    "ad": "YAYLA",
+    "lat": 39.73995,
+    "lon": 31.60306
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "MİHALIÇÇIK",
+    "mahalle": "YEŞİLYURT",
+    "ad": "YEŞİLYURT",
+    "lat": 40.02282,
+    "lon": 31.17979
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "71 EVLER",
+    "ad": "71 EVLER",
+    "lat": 39.76464,
+    "lon": 30.59853
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "75.YIL (SULTANDERE)",
+    "ad": "75.YIL (SULTANDERE)",
+    "lat": 39.74741,
+    "lon": 30.61349
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "AĞAPINAR",
+    "ad": "AĞAPINAR",
+    "lat": 39.82272,
+    "lon": 30.77017
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "AKARBAŞI",
+    "ad": "AKARBAŞI",
+    "lat": 39.76561,
+    "lon": 30.52082
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "AKCAMİ",
+    "ad": "AKCAMİ",
+    "lat": 39.76455,
+    "lon": 30.52793
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "AKÇAĞLAN",
+    "ad": "AKÇAĞLAN",
+    "lat": 39.76683,
+    "lon": 30.52807
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "AKÇAKAYA",
+    "ad": "AKÇAKAYA",
+    "lat": 39.61488,
+    "lon": 30.47325
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "AKKAYA",
+    "ad": "AKKAYA",
+    "lat": 39.61323,
+    "lon": 30.33597
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "AKPINAR",
+    "ad": "AKPINAR",
+    "lat": 39.68114,
+    "lon": 30.54372
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "ALANÖNÜ",
+    "ad": "ALANÖNÜ",
+    "lat": 39.76548,
+    "lon": 30.53992
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "ARİFİYE",
+    "ad": "ARİFİYE",
+    "lat": 39.76548,
+    "lon": 30.52326
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "AŞAĞI ÇAĞLAN",
+    "ad": "AŞAĞI ÇAĞLAN",
+    "lat": 39.67773,
+    "lon": 30.48913
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "AŞAĞIILICA",
+    "ad": "AŞAĞIILICA",
+    "lat": 39.58909,
+    "lon": 30.45497
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "AVDAN",
+    "ad": "AVDAN",
+    "lat": 39.54459,
+    "lon": 30.48522
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "BÜYÜKDERE",
+    "ad": "BÜYÜKDERE",
+    "lat": 39.75966,
+    "lon": 30.50302
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "CUNUDİYE",
+    "ad": "CUNUDİYE",
+    "lat": 39.76373,
+    "lon": 30.52
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "ÇAMLICA",
+    "ad": "ÇAMLICA",
+    "lat": 39.54806,
+    "lon": 30.3672
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "ÇANKAYA",
+    "ad": "ÇANKAYA",
+    "lat": 39.74693,
+    "lon": 30.5516
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "ÇAVLUM",
+    "ad": "ÇAVLUM",
+    "lat": 39.81638,
+    "lon": 30.73875
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "DEDE",
+    "ad": "DEDE",
+    "lat": 39.76232,
+    "lon": 30.52664
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "DELİKLİTAŞ",
+    "ad": "DELİKLİTAŞ",
+    "lat": 39.77372,
+    "lon": 30.52074
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "DEMİRLİ",
+    "ad": "DEMİRLİ",
+    "lat": 39.59606,
+    "lon": 30.30924
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "DOĞANKAYA",
+    "ad": "DOĞANKAYA",
+    "lat": 39.69496,
+    "lon": 30.6064
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "EMEK",
+    "ad": "EMEK",
+    "lat": 39.76325,
+    "lon": 30.5594
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "ERENKÖY",
+    "ad": "ERENKÖY",
+    "lat": 39.75729,
+    "lon": 30.55369
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "EŞENKARA",
+    "ad": "EŞENKARA",
+    "lat": 39.71763,
+    "lon": 30.45142
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "GÖKMEYDAN",
+    "ad": "GÖKMEYDAN",
+    "lat": 39.77321,
+    "lon": 30.54028
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "GÖZTEPE",
+    "ad": "GÖZTEPE",
+    "lat": 39.76188,
+    "lon": 30.50898
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "GÜLPINAR",
+    "ad": "GÜLPINAR",
+    "lat": 39.72898,
+    "lon": 30.59103
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "GÜLTEPE",
+    "ad": "GÜLTEPE",
+    "lat": 39.71426,
+    "lon": 30.5332
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "GÜMELE",
+    "ad": "GÜMELE",
+    "lat": 39.65095,
+    "lon": 30.43893
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "GÜNDOĞDU",
+    "ad": "GÜNDOĞDU",
+    "lat": 39.77291,
+    "lon": 30.56432
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "HARMANDALI",
+    "ad": "HARMANDALI",
+    "lat": 39.65173,
+    "lon": 30.87008
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "HUZUR",
+    "ad": "HUZUR",
+    "lat": 39.75966,
+    "lon": 30.54862
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "IHLAMURKENT",
+    "ad": "IHLAMURKENT",
+    "lat": 39.73304,
+    "lon": 30.5529
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "İMİŞEHİR",
+    "ad": "İMİŞEHİR",
+    "lat": 39.69855,
+    "lon": 30.76655
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "İSTİKLAL",
+    "ad": "İSTİKLAL",
+    "lat": 39.77676,
+    "lon": 30.51761
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "KALKANLI",
+    "ad": "KALKANLI",
+    "lat": 39.66406,
+    "lon": 30.7646
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "KANLIPINAR",
+    "ad": "KANLIPINAR",
+    "lat": 39.69859,
+    "lon": 30.70661
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "KARAALAN",
+    "ad": "KARAALAN",
+    "lat": 39.65294,
+    "lon": 30.43066
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "KARACAHÖYÜK",
+    "ad": "KARACAHÖYÜK",
+    "lat": 39.78434,
+    "lon": 30.62922
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "KARACAŞEHİR",
+    "ad": "KARACAŞEHİR",
+    "lat": 39.74677,
+    "lon": 30.48067
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "KARAÇAY",
+    "ad": "KARAÇAY",
+    "lat": 39.78567,
+    "lon": 30.83919
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "KARAHÜYÜK",
+    "ad": "KARAHÜYÜK",
+    "lat": 39.81029,
+    "lon": 30.81832
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "KARAMUSTAFA",
+    "ad": "KARAMUSTAFA",
+    "lat": 39.54663,
+    "lon": 30.54137
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "KARAPAZAR",
+    "ad": "KARAPAZAR",
+    "lat": 39.63397,
+    "lon": 30.58392
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "KARAPINAR",
+    "ad": "KARAPINAR",
+    "lat": 39.76381,
+    "lon": 30.53514
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "KARATEPE",
+    "ad": "KARATEPE",
+    "lat": 39.70896,
+    "lon": 30.86527
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "KARGIN",
+    "ad": "KARGIN",
+    "lat": 39.62832,
+    "lon": 30.2844
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "KAYACIK",
+    "ad": "KAYACIK",
+    "lat": 39.51941,
+    "lon": 30.50328
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "KAYAPINAR",
+    "ad": "KAYAPINAR",
+    "lat": 39.68333,
+    "lon": 30.47448
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "KIRAVDAN",
+    "ad": "KIRAVDAN",
+    "lat": 39.696,
+    "lon": 30.62996
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "KIRMIZITOPRAK",
+    "ad": "KIRMIZITOPRAK",
+    "lat": 39.77668,
+    "lon": 30.50986
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "KİREÇ",
+    "ad": "KİREÇ",
+    "lat": 39.77173,
+    "lon": 30.83717
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "KURTULUŞ",
+    "ad": "KURTULUŞ",
+    "lat": 39.77441,
+    "lon": 30.52728
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "KUYUCAK",
+    "ad": "KUYUCAK",
+    "lat": 39.53334,
+    "lon": 30.59726
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "LÜTFİYE",
+    "ad": "LÜTFİYE",
+    "lat": 39.58463,
+    "lon": 30.42005
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "MUSALAR",
+    "ad": "MUSALAR",
+    "lat": 39.53783,
+    "lon": 30.50518
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "ORHANGAZİ",
+    "ad": "ORHANGAZİ",
+    "lat": 39.7598,
+    "lon": 30.46067
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "ORTA",
+    "ad": "ORTA",
+    "lat": 39.76392,
+    "lon": 30.52831
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "OSMANGAZİ",
+    "ad": "OSMANGAZİ",
+    "lat": 39.77603,
+    "lon": 30.50064
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "PAŞA",
+    "ad": "PAŞA",
+    "lat": 39.76445,
+    "lon": 30.52516
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "SARISUNGUR",
+    "ad": "SARISUNGUR",
+    "lat": 39.69271,
+    "lon": 30.57349
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "SEKLİCE",
+    "ad": "SEKLİCE",
+    "lat": 39.5478,
+    "lon": 30.36707
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "SEVİNÇ",
+    "ad": "SEVİNÇ",
+    "lat": 39.81363,
+    "lon": 30.70169
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "SULTANDERE",
+    "ad": "SULTANDERE",
+    "lat": 39.71904,
+    "lon": 30.61198
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "SÜMER",
+    "ad": "SÜMER",
+    "lat": 39.76827,
+    "lon": 30.48835
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "SÜPÜREN",
+    "ad": "SÜPÜREN",
+    "lat": 39.63237,
+    "lon": 30.55442
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "ŞARKİYE",
+    "ad": "ŞARKİYE",
+    "lat": 39.76557,
+    "lon": 30.52341
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "TÜRKMENTOKAT",
+    "ad": "TÜRKMENTOKAT",
+    "lat": 39.705,
+    "lon": 30.7653
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "ULUÇAYIR",
+    "ad": "ULUÇAYIR",
+    "lat": 39.67061,
+    "lon": 30.41116
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "VİŞNELİK",
+    "ad": "VİŞNELİK",
+    "lat": 39.76909,
+    "lon": 30.51636
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "YAHNİKAPAN",
+    "ad": "YAHNİKAPAN",
+    "lat": 39.65711,
+    "lon": 30.81849
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "YASSIHÖYÜK",
+    "ad": "YASSIHÖYÜK",
+    "lat": 39.80017,
+    "lon": 30.65713
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "YENİDOĞAN",
+    "ad": "YENİDOĞAN",
+    "lat": 39.75673,
+    "lon": 30.55447
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "YENİKENT",
+    "ad": "YENİKENT",
+    "lat": 39.75638,
+    "lon": 30.5239
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "YILDIZTEPE",
+    "ad": "YILDIZTEPE",
+    "lat": 39.76251,
+    "lon": 30.51738
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "YUKARIÇAĞLAN",
+    "ad": "YUKARIÇAĞLAN",
+    "lat": 39.713,
+    "lon": 30.521
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "YUKARIILICA",
+    "ad": "YUKARIILICA",
+    "lat": 39.54847,
+    "lon": 30.4459
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "YUKARIKALABAK",
+    "ad": "YUKARIKALABAK",
+    "lat": 39.55614,
+    "lon": 30.40641
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "ODUNPAZARI",
+    "mahalle": "YÜRÜKKARACAÖREN",
+    "ad": "YÜRÜKKARACAÖREN",
+    "lat": 39.75615,
+    "lon": 30.75069
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SARICAKAYA",
+    "mahalle": "BEYKÖY",
+    "ad": "BEYKÖY",
+    "lat": 40.13197,
+    "lon": 30.78624
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SARICAKAYA",
+    "mahalle": "BEYYAYLA",
+    "ad": "BEYYAYLA",
+    "lat": 40.15169,
+    "lon": 30.7132
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SARICAKAYA",
+    "mahalle": "BİLAL HABEŞİ",
+    "ad": "BİLAL HABEŞİ",
+    "lat": 40.06089,
+    "lon": 30.61514
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SARICAKAYA",
+    "mahalle": "CAMİKEBİR",
+    "ad": "CAMİKEBİR",
+    "lat": 40.05844,
+    "lon": 30.6161
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SARICAKAYA",
+    "mahalle": "DAĞKÜPLÜ",
+    "ad": "DAĞKÜPLÜ",
+    "lat": 40.01452,
+    "lon": 30.6983
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SARICAKAYA",
+    "mahalle": "DÜZKÖY",
+    "ad": "DÜZKÖY",
+    "lat": 40.13752,
+    "lon": 30.7969
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SARICAKAYA",
+    "mahalle": "FATİH",
+    "ad": "FATİH",
+    "lat": 40.03032,
+    "lon": 30.64206
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SARICAKAYA",
+    "mahalle": "GÜNEY",
+    "ad": "GÜNEY",
+    "lat": 40.15636,
+    "lon": 30.71665
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SARICAKAYA",
+    "mahalle": "İĞDİR",
+    "ad": "İĞDİR",
+    "lat": 40.04103,
+    "lon": 30.66001
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SARICAKAYA",
+    "mahalle": "KAPIKAYA",
+    "ad": "KAPIKAYA",
+    "lat": 40.05152,
+    "lon": 30.71256
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SARICAKAYA",
+    "mahalle": "LAÇİN",
+    "ad": "LAÇİN",
+    "lat": 40.07462,
+    "lon": 30.80046
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SARICAKAYA",
+    "mahalle": "MAYISLAR",
+    "ad": "MAYISLAR",
+    "lat": 40.06001,
+    "lon": 30.73473
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SARICAKAYA",
+    "mahalle": "SARIKAYA",
+    "ad": "SARIKAYA",
+    "lat": 40.04101,
+    "lon": 30.65956
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SARICAKAYA",
+    "mahalle": "YENİ",
+    "ad": "YENİ",
+    "lat": 40.03658,
+    "lon": 30.62364
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "AKİN",
+    "ad": "AKİN",
+    "lat": 39.37576,
+    "lon": 30.49226
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "AKSAKLI",
+    "ad": "AKSAKLI",
+    "lat": 39.627,
+    "lon": 30.7546
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "ASLANBEYLİ",
+    "ad": "ASLANBEYLİ",
+    "lat": 39.46936,
+    "lon": 30.58306
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "AŞAĞISÖĞÜT",
+    "ad": "AŞAĞISÖĞÜT",
+    "lat": 39.42448,
+    "lon": 30.61929
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "AYVALI",
+    "ad": "AYVALI",
+    "lat": 39.54211,
+    "lon": 30.70369
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "BARDAKÇI",
+    "ad": "BARDAKÇI",
+    "lat": 39.38589,
+    "lon": 30.8355
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "BEŞSARAY",
+    "ad": "BEŞSARAY",
+    "lat": 39.43778,
+    "lon": 30.5524
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "BEYKIŞLA",
+    "ad": "BEYKIŞLA",
+    "lat": 39.43176,
+    "lon": 30.82743
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "BÜYÜKDERE",
+    "ad": "BÜYÜKDERE",
+    "lat": 39.59529,
+    "lon": 30.76739
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "BÜYÜKYAYLA",
+    "ad": "BÜYÜKYAYLA",
+    "lat": 39.20264,
+    "lon": 30.56315
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "CEVİZLİ",
+    "ad": "CEVİZLİ",
+    "lat": 39.39513,
+    "lon": 30.76299
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "ÇATÖREN",
+    "ad": "ÇATÖREN",
+    "lat": 39.35342,
+    "lon": 30.58596
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "ÇUKURAĞIL",
+    "ad": "ÇUKURAĞIL",
+    "lat": 39.53238,
+    "lon": 30.76508
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "ÇUKURCA",
+    "ad": "ÇUKURCA",
+    "lat": 39.26025,
+    "lon": 30.72706
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "ÇÜRÜTTÜM",
+    "ad": "ÇÜRÜTTÜM",
+    "lat": 39.34667,
+    "lon": 30.4566
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "DEĞİŞÖREN",
+    "ad": "DEĞİŞÖREN",
+    "lat": 39.59913,
+    "lon": 30.69219
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "DEREBENEK",
+    "ad": "DEREBENEK",
+    "lat": 39.47815,
+    "lon": 30.72685
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "DOĞANÇAYIR",
+    "ad": "DOĞANÇAYIR",
+    "lat": 39.58692,
+    "lon": 30.86173
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "FETHİYE",
+    "ad": "FETHİYE",
+    "lat": 39.23872,
+    "lon": 30.55112
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "GEMİÇ",
+    "ad": "GEMİÇ",
+    "lat": 39.39547,
+    "lon": 30.47614
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "GÖCENOLUK",
+    "ad": "GÖCENOLUK",
+    "lat": 39.315,
+    "lon": 30.38998
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "GÖKBAHÇE",
+    "ad": "GÖKBAHÇE",
+    "lat": 39.17026,
+    "lon": 30.60692
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "GÖKÇEGÜNEY",
+    "ad": "GÖKÇEGÜNEY",
+    "lat": 39.1712,
+    "lon": 30.71547
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "GÖKNEBİ",
+    "ad": "GÖKNEBİ",
+    "lat": 39.4136,
+    "lon": 30.56999
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "GÜMÜŞBEL",
+    "ad": "GÜMÜŞBEL",
+    "lat": 39.47507,
+    "lon": 30.795
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "İDRİSYAYLA",
+    "ad": "İDRİSYAYLA",
+    "lat": 39.37732,
+    "lon": 30.45237
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "İKİÇEŞME",
+    "ad": "İKİÇEŞME",
+    "lat": 39.50958,
+    "lon": 30.67949
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "İKİZOLUK",
+    "ad": "İKİZOLUK",
+    "lat": 39.34927,
+    "lon": 30.46148
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "KARACALIK",
+    "ad": "KARACALIK",
+    "lat": 39.51109,
+    "lon": 30.49241
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "KARAÖREN",
+    "ad": "KARAÖREN",
+    "lat": 39.27812,
+    "lon": 30.55304
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "KESENLER",
+    "ad": "KESENLER",
+    "lat": 39.4189,
+    "lon": 30.65062
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "KIRKA",
+    "ad": "KIRKA",
+    "lat": 39.30977,
+    "lon": 30.53412
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "KÜMBET",
+    "ad": "KÜMBET",
+    "lat": 39.22183,
+    "lon": 30.68077
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "NUMANOLUK",
+    "ad": "NUMANOLUK",
+    "lat": 39.35376,
+    "lon": 30.58456
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "OYNAŞ",
+    "ad": "OYNAŞ",
+    "lat": 39.18523,
+    "lon": 30.63281
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "ÖRENCİK",
+    "ad": "ÖRENCİK",
+    "lat": 39.4259,
+    "lon": 30.66907
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "SALİHLER",
+    "ad": "SALİHLER",
+    "lat": 39.31921,
+    "lon": 30.47581
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "SANDIKÖZÜ",
+    "ad": "SANDIKÖZÜ",
+    "lat": 39.44465,
+    "lon": 30.40605
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "SARAYÖREN",
+    "ad": "SARAYÖREN",
+    "lat": 39.59607,
+    "lon": 30.64214
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "SARICAİLYAS",
+    "ad": "SARICAİLYAS",
+    "lat": 39.37038,
+    "lon": 30.6834
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "ŞÜKRANLI",
+    "ad": "ŞÜKRANLI",
+    "lat": 39.31548,
+    "lon": 30.70628
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "TAŞLIKKÖY",
+    "ad": "TAŞLIKKÖY",
+    "lat": 39.5532,
+    "lon": 30.65764
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "ÜÇSARAY",
+    "ad": "ÜÇSARAY",
+    "lat": 39.48901,
+    "lon": 30.49456
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "YAPILDAK",
+    "ad": "YAPILDAK",
+    "lat": 39.2112,
+    "lon": 30.66359
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "YARBASAN",
+    "ad": "YARBASAN",
+    "lat": 39.29727,
+    "lon": 30.56533
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "YAZIDERE",
+    "ad": "YAZIDERE",
+    "lat": 39.53626,
+    "lon": 30.74129
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "YENİKENT",
+    "ad": "YENİKENT",
+    "lat": 39.58532,
+    "lon": 30.7397
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "YEŞİLTEPE",
+    "ad": "YEŞİLTEPE",
+    "lat": 39.38926,
+    "lon": 30.61914
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "YUKARISÖĞÜT",
+    "ad": "YUKARISÖĞÜT",
+    "lat": 39.47145,
+    "lon": 30.58074
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SEYİTGAZİ",
+    "mahalle": "YUNUS",
+    "ad": "YUNUS",
+    "lat": 39.47764,
+    "lon": 30.71932
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "AHİLER",
+    "ad": "AHİLER",
+    "lat": 39.19096,
+    "lon": 31.64365
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "AKTAŞ",
+    "ad": "AKTAŞ",
+    "lat": 39.37961,
+    "lon": 31.32849
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "AŞAĞIKEPEN",
+    "ad": "AŞAĞIKEPEN",
+    "lat": 39.40408,
+    "lon": 31.49667
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "AYDINLI",
+    "ad": "AYDINLI",
+    "lat": 39.13604,
+    "lon": 31.77527
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "BABADAT",
+    "ad": "BABADAT",
+    "lat": 39.50395,
+    "lon": 31.59902
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "BAHÇECİK",
+    "ad": "BAHÇECİK",
+    "lat": 39.4711,
+    "lon": 31.35869
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "BALLIHİSAR",
+    "ad": "BALLIHİSAR",
+    "lat": 39.35834,
+    "lon": 31.58472
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "BENLİKUYU",
+    "ad": "BENLİKUYU",
+    "lat": 39.22048,
+    "lon": 31.39547
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "BENLİYAVER",
+    "ad": "BENLİYAVER",
+    "lat": 39.2216,
+    "lon": 31.35371
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "BEYYAZI",
+    "ad": "BEYYAZI",
+    "lat": 39.43241,
+    "lon": 31.39995
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "BİÇER",
+    "ad": "BİÇER",
+    "lat": 39.7131,
+    "lon": 31.68814
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "BÖĞÜRTLEN",
+    "ad": "BÖĞÜRTLEN",
+    "lat": 39.46879,
+    "lon": 31.549
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "BUHARA",
+    "ad": "BUHARA",
+    "lat": 39.20192,
+    "lon": 31.47891
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "BUZLUCA",
+    "ad": "BUZLUCA",
+    "lat": 39.22732,
+    "lon": 31.42763
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "CAMİKEBİR",
+    "ad": "CAMİKEBİR",
+    "lat": 39.45143,
+    "lon": 31.53983
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "CUMHURİYET",
+    "ad": "CUMHURİYET",
+    "lat": 39.45051,
+    "lon": 31.53767
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "ÇANDIR",
+    "ad": "ÇANDIR",
+    "lat": 39.27735,
+    "lon": 31.336
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "ÇAYKOZ",
+    "ad": "ÇAYKOZ",
+    "lat": 39.3566,
+    "lon": 31.70658
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "DEMİRCİ",
+    "ad": "DEMİRCİ",
+    "lat": 39.44807,
+    "lon": 31.54127
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "DEMİRCİKÖY",
+    "ad": "DEMİRCİKÖY",
+    "lat": 39.56646,
+    "lon": 31.81011
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "DİNEK",
+    "ad": "DİNEK",
+    "lat": 39.37289,
+    "lon": 31.68369
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "DUMLUCA",
+    "ad": "DUMLUCA",
+    "lat": 39.68859,
+    "lon": 31.44006
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "DÜMREK",
+    "ad": "DÜMREK",
+    "lat": 39.5544,
+    "lon": 31.55787
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "ELCİK",
+    "ad": "ELCİK",
+    "lat": 39.53743,
+    "lon": 31.55945
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "ELMALI",
+    "ad": "ELMALI",
+    "lat": 39.46068,
+    "lon": 31.57437
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "ERTUĞRULKÖY",
+    "ad": "ERTUĞRULKÖY",
+    "lat": 39.21059,
+    "lon": 31.66755
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "GEDİK",
+    "ad": "GEDİK",
+    "lat": 39.45343,
+    "lon": 31.53462
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "GERENLİ",
+    "ad": "GERENLİ",
+    "lat": 39.43249,
+    "lon": 31.27299
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "GÖKTEPE",
+    "ad": "GÖKTEPE",
+    "lat": 39.16364,
+    "lon": 31.64912
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "GÜLÇAYIR",
+    "ad": "GÜLÇAYIR",
+    "lat": 39.3083,
+    "lon": 31.39076
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "GÜVEMLİ",
+    "ad": "GÜVEMLİ",
+    "lat": 39.67352,
+    "lon": 31.59197
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "HAMAMKARAHİSAR",
+    "ad": "HAMAMKARAHİSAR",
+    "lat": 39.50949,
+    "lon": 31.81693
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "HIZIRBEY",
+    "ad": "HIZIRBEY",
+    "lat": 39.44866,
+    "lon": 31.5324
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "HÜDAVENDİGAR",
+    "ad": "HÜDAVENDİGAR",
+    "lat": 39.61059,
+    "lon": 31.63683
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "İBİKSEYDİ",
+    "ad": "İBİKSEYDİ",
+    "lat": 39.57035,
+    "lon": 31.43615
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "İĞDECİK",
+    "ad": "İĞDECİK",
+    "lat": 39.67432,
+    "lon": 31.57517
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "İLÖREN",
+    "ad": "İLÖREN",
+    "lat": 39.64663,
+    "lon": 31.85201
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "İLYASPAŞA",
+    "ad": "İLYASPAŞA",
+    "lat": 39.20472,
+    "lon": 31.74521
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "İSTİKLALBAĞI",
+    "ad": "İSTİKLALBAĞI",
+    "lat": 39.40338,
+    "lon": 31.63697
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "KADINCIK",
+    "ad": "KADINCIK",
+    "lat": 39.44349,
+    "lon": 31.71948
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "KALDIRIMKÖY",
+    "ad": "KALDIRIMKÖY",
+    "lat": 39.11818,
+    "lon": 31.58737
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "KARABAŞLI",
+    "ad": "KARABAŞLI",
+    "lat": 39.45112,
+    "lon": 31.53449
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "KARABURHAN",
+    "ad": "KARABURHAN",
+    "lat": 39.59328,
+    "lon": 31.37728
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "KARACAKAYA",
+    "ad": "KARACAKAYA",
+    "lat": 39.623,
+    "lon": 31.58057
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "KARACALAR",
+    "ad": "KARACALAR",
+    "lat": 39.45103,
+    "lon": 31.53676
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "KARACAÖREN",
+    "ad": "KARACAÖREN",
+    "lat": 39.31198,
+    "lon": 31.72475
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "KARACAÖRENYAYLASI",
+    "ad": "KARACAÖRENYAYLASI",
+    "lat": 39.53952,
+    "lon": 31.34463
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "KARADAT",
+    "ad": "KARADAT",
+    "lat": 39.69471,
+    "lon": 31.61444
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "KARAKAYA",
+    "ad": "KARAKAYA",
+    "lat": 39.51402,
+    "lon": 31.24973
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "KARKIN",
+    "ad": "KARKIN",
+    "lat": 39.62584,
+    "lon": 31.40297
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "KAYMAZ",
+    "ad": "KAYMAZ",
+    "lat": 39.57353,
+    "lon": 31.19156
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "KERTEK",
+    "ad": "KERTEK",
+    "lat": 39.46382,
+    "lon": 31.36878
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "KILIÇ",
+    "ad": "KILIÇ",
+    "lat": 39.49671,
+    "lon": 31.52524
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "KINIK",
+    "ad": "KINIK",
+    "lat": 39.42582,
+    "lon": 31.44497
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "KOÇAŞ",
+    "ad": "KOÇAŞ",
+    "lat": 39.47662,
+    "lon": 31.69925
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "KOLTAN",
+    "ad": "KOLTAN",
+    "lat": 39.57478,
+    "lon": 31.66087
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "KUBBELİ",
+    "ad": "KUBBELİ",
+    "lat": 39.45136,
+    "lon": 31.53891
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "KURŞUNLU",
+    "ad": "KURŞUNLU",
+    "lat": 39.46252,
+    "lon": 31.65281
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "KURTŞEYH",
+    "ad": "KURTŞEYH",
+    "lat": 39.25425,
+    "lon": 31.52879
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "MEMİK",
+    "ad": "MEMİK",
+    "lat": 39.55993,
+    "lon": 31.50962
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "MÜLKKÖY",
+    "ad": "MÜLKKÖY",
+    "lat": 39.57836,
+    "lon": 31.886
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "NASRETTİN HOCA",
+    "ad": "NASRETTİN HOCA",
+    "lat": 39.57644,
+    "lon": 31.68336
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "OĞLAKÇI",
+    "ad": "OĞLAKÇI",
+    "lat": 39.60942,
+    "lon": 31.74771
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "ORTAKLAR",
+    "ad": "ORTAKLAR",
+    "lat": 39.63712,
+    "lon": 31.75398
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "PAŞAKADIN",
+    "ad": "PAŞAKADIN",
+    "lat": 39.51349,
+    "lon": 31.28269
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "SADIKBAĞI",
+    "ad": "SADIKBAĞI",
+    "lat": 39.39795,
+    "lon": 31.64638
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "SARIKAVAK",
+    "ad": "SARIKAVAK",
+    "lat": 39.51017,
+    "lon": 31.40685
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "SELİMİYE",
+    "ad": "SELİMİYE",
+    "lat": 39.40879,
+    "lon": 31.30108
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "SIĞIRCIK",
+    "ad": "SIĞIRCIK",
+    "lat": 39.19737,
+    "lon": 31.4691
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "TEKÖREN",
+    "ad": "TEKÖREN",
+    "lat": 39.41423,
+    "lon": 31.5875
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "YAVERÖREN",
+    "ad": "YAVERÖREN",
+    "lat": 39.48225,
+    "lon": 31.20988
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "YENİCE",
+    "ad": "YENİCE",
+    "lat": 39.49738,
+    "lon": 31.49828
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "YENİDOĞAN",
+    "ad": "YENİDOĞAN",
+    "lat": 39.18894,
+    "lon": 31.64245
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "YENİKÖY",
+    "ad": "YENİKÖY",
+    "lat": 39.50124,
+    "lon": 31.4928
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "YEŞİLKÖY",
+    "ad": "YEŞİLKÖY",
+    "lat": 39.31861,
+    "lon": 31.50322
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "YUKARIKEPEN",
+    "ad": "YUKARIKEPEN",
+    "lat": 39.41303,
+    "lon": 31.49568
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "YUNUSEMRE",
+    "ad": "YUNUSEMRE",
+    "lat": 39.44398,
+    "lon": 31.53742
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "SİVRİHİSAR",
+    "mahalle": "ZEYKÖYÜ",
+    "ad": "ZEYKÖYÜ",
+    "lat": 39.62215,
+    "lon": 31.51662
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "AHILAR",
+    "ad": "AHILAR",
+    "lat": 39.8313,
+    "lon": 30.69742
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "ALINCA",
+    "ad": "ALINCA",
+    "lat": 39.84901,
+    "lon": 30.46806
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "AŞAĞIKARTAL",
+    "ad": "AŞAĞIKARTAL",
+    "lat": 39.71747,
+    "lon": 30.28066
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "AŞAĞI SÖĞÜTÖNÜ",
+    "ad": "AŞAĞI SÖĞÜTÖNÜ",
+    "lat": 39.81002,
+    "lon": 30.44772
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "ATALAN",
+    "ad": "ATALAN",
+    "lat": 39.96422,
+    "lon": 30.50924
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "ATALANTEKKE",
+    "ad": "ATALANTEKKE",
+    "lat": 39.97764,
+    "lon": 30.5543
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "AVLAMIŞ",
+    "ad": "AVLAMIŞ",
+    "lat": 39.96237,
+    "lon": 30.43349
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "BAHÇELİEVLER",
+    "ad": "BAHÇELİEVLER",
+    "lat": 39.78596,
+    "lon": 30.51441
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "BATIKENT",
+    "ad": "BATIKENT",
+    "lat": 39.80068,
+    "lon": 30.43461
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "BEHÇETİYE",
+    "ad": "BEHÇETİYE",
+    "lat": 39.9676,
+    "lon": 30.40605
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "BEKTAŞPINARI",
+    "ad": "BEKTAŞPINARI",
+    "lat": 39.90089,
+    "lon": 30.52709
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "BEYAZALTIN",
+    "ad": "BEYAZALTIN",
+    "lat": 39.91426,
+    "lon": 30.8099
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "BOYACIOĞLU",
+    "ad": "BOYACIOĞLU",
+    "lat": 39.7936,
+    "lon": 30.39878
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "BOZDAĞ",
+    "ad": "BOZDAĞ",
+    "lat": 39.90025,
+    "lon": 30.57123
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "BULDUKPINAR",
+    "ad": "BULDUKPINAR",
+    "lat": 39.92302,
+    "lon": 30.46536
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "CUMHURİYE",
+    "ad": "CUMHURİYE",
+    "lat": 39.77635,
+    "lon": 30.51996
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "CUMHURİYET",
+    "ad": "CUMHURİYET",
+    "lat": 39.84781,
+    "lon": 30.60475
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "ÇALKARA",
+    "ad": "ÇALKARA",
+    "lat": 39.96759,
+    "lon": 30.40615
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "ÇAMLICA",
+    "ad": "ÇAMLICA",
+    "lat": 39.78197,
+    "lon": 30.43256
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "ÇANAKKIRAN",
+    "ad": "ÇANAKKIRAN",
+    "lat": 39.67528,
+    "lon": 30.25911
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "ÇUKURHİSAR YENİ",
+    "ad": "ÇUKURHİSAR YENİ",
+    "lat": 39.82602,
+    "lon": 30.34323
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "DANİŞMENT",
+    "ad": "DANİŞMENT",
+    "lat": 39.90825,
+    "lon": 30.72183
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "EĞRİÖZ",
+    "ad": "EĞRİÖZ",
+    "lat": 39.91929,
+    "lon": 30.43889
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "EMİRCEOĞLU",
+    "ad": "EMİRCEOĞLU",
+    "lat": 39.85713,
+    "lon": 30.47472
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "ERTUĞRULGAZİ",
+    "ad": "ERTUĞRULGAZİ",
+    "lat": 39.7823,
+    "lon": 30.49382
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "ESENTEPE",
+    "ad": "ESENTEPE",
+    "lat": 39.80466,
+    "lon": 30.51469
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "ESKİBAĞLAR",
+    "ad": "ESKİBAĞLAR",
+    "lat": 39.78593,
+    "lon": 30.51488
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "FATİH",
+    "ad": "FATİH",
+    "lat": 39.79181,
+    "lon": 30.52334
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "FEVZİÇAKMAK",
+    "ad": "FEVZİÇAKMAK",
+    "lat": 39.80681,
+    "lon": 30.63296
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "GAZİPAŞA",
+    "ad": "GAZİPAŞA",
+    "lat": 39.81625,
+    "lon": 30.53856
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "GÖKÇEKISIK",
+    "ad": "GÖKÇEKISIK",
+    "lat": 39.68572,
+    "lon": 30.38604
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "GÖKDERE",
+    "ad": "GÖKDERE",
+    "lat": 39.83343,
+    "lon": 30.6957
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "GÜLLÜK",
+    "ad": "GÜLLÜK",
+    "lat": 39.78537,
+    "lon": 30.51894
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "GÜNDÜZLER",
+    "ad": "GÜNDÜZLER",
+    "lat": 39.91225,
+    "lon": 30.81132
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "HACI ALİ BEY",
+    "ad": "HACI ALİ BEY",
+    "lat": 39.78003,
+    "lon": 30.52157
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "HACI SEYİT",
+    "ad": "HACI SEYİT",
+    "lat": 39.78146,
+    "lon": 30.52507
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "HASANBEY",
+    "ad": "HASANBEY",
+    "lat": 39.78846,
+    "lon": 30.65135
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "HAYRİYE",
+    "ad": "HAYRİYE",
+    "lat": 39.78039,
+    "lon": 30.52169
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "HEKİMDAĞ",
+    "ad": "HEKİMDAĞ",
+    "lat": 39.8885,
+    "lon": 30.54662
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "HİSAR",
+    "ad": "HİSAR",
+    "lat": 39.86719,
+    "lon": 30.32071
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "HOŞNUDİYE",
+    "ad": "HOŞNUDİYE",
+    "lat": 39.78066,
+    "lon": 30.51135
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "IŞIKLAR",
+    "ad": "IŞIKLAR",
+    "lat": 39.78047,
+    "lon": 30.52646
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "İHSANİYE",
+    "ad": "İHSANİYE",
+    "lat": 39.77963,
+    "lon": 30.52357
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "KARAÇOBANPINARI",
+    "ad": "KARAÇOBANPINARI",
+    "lat": 39.91946,
+    "lon": 30.41816
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "KARADERE",
+    "ad": "KARADERE",
+    "lat": 39.91028,
+    "lon": 30.61342
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "KARAGÖZLER",
+    "ad": "KARAGÖZLER",
+    "lat": 39.78087,
+    "lon": 30.43271
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "KAVACIK",
+    "ad": "KAVACIK",
+    "lat": 39.90357,
+    "lon": 30.44283
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "KESKİN",
+    "ad": "KESKİN",
+    "lat": 39.86739,
+    "lon": 30.40367
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "KIZILCAÖREN",
+    "ad": "KIZILCAÖREN",
+    "lat": 39.92291,
+    "lon": 30.7355
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "KIZILİNLER",
+    "ad": "KIZILİNLER",
+    "lat": 39.74218,
+    "lon": 30.414
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "KOZKAYI",
+    "ad": "KOZKAYI",
+    "lat": 39.86474,
+    "lon": 30.49749
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "KOZLUBEL",
+    "ad": "KOZLUBEL",
+    "lat": 39.92734,
+    "lon": 30.95283
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "KUMLUBEL",
+    "ad": "KUMLUBEL",
+    "lat": 39.79295,
+    "lon": 30.52506
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "MAMURE",
+    "ad": "MAMURE",
+    "lat": 39.78042,
+    "lon": 30.52645
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "MERKEZ YENİ",
+    "ad": "MERKEZ YENİ",
+    "lat": 39.77591,
+    "lon": 30.52535
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "MOLLAOĞLU",
+    "ad": "MOLLAOĞLU",
+    "lat": 39.72404,
+    "lon": 30.27249
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "MUSAÖZÜ",
+    "ad": "MUSAÖZÜ",
+    "lat": 39.71988,
+    "lon": 30.35698
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "MUTTALİP EMİRLER",
+    "ad": "MUTTALİP EMİRLER",
+    "lat": 39.88099,
+    "lon": 30.57899
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "MUTTALİP KOYUNLAR",
+    "ad": "MUTTALİP KOYUNLAR",
+    "lat": 39.88003,
+    "lon": 30.54442
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "MUTTALİP ORTA",
+    "ad": "MUTTALİP ORTA",
+    "lat": 39.8798,
+    "lon": 30.57703
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "NEMLİ",
+    "ad": "NEMLİ",
+    "lat": 39.74784,
+    "lon": 30.19746
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "ÖMERAĞA",
+    "ad": "ÖMERAĞA",
+    "lat": 39.78305,
+    "lon": 30.52614
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "SAKİNTEPE",
+    "ad": "SAKİNTEPE",
+    "lat": 39.85802,
+    "lon": 30.46802
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "SATILMIŞOĞLU",
+    "ad": "SATILMIŞOĞLU",
+    "lat": 39.83282,
+    "lon": 30.35834
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "SAZOVA",
+    "ad": "SAZOVA",
+    "lat": 39.75916,
+    "lon": 30.43272
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "SULUKARAAĞAÇ",
+    "ad": "SULUKARAAĞAÇ",
+    "lat": 39.9398,
+    "lon": 30.51462
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "SÜTLÜCE",
+    "ad": "SÜTLÜCE",
+    "lat": 39.80801,
+    "lon": 30.49851
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "ŞEKER",
+    "ad": "ŞEKER",
+    "lat": 39.78496,
+    "lon": 30.60668
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "ŞİRİNTEPE",
+    "ad": "ŞİRİNTEPE",
+    "lat": 39.80546,
+    "lon": 30.48163
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "TAKMAK",
+    "ad": "TAKMAK",
+    "lat": 39.72715,
+    "lon": 30.35808
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "TANDIR",
+    "ad": "TANDIR",
+    "lat": 39.90528,
+    "lon": 30.65729
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "TAYCILAR",
+    "ad": "TAYCILAR",
+    "lat": 39.99284,
+    "lon": 30.89743
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "TEKECİLER",
+    "ad": "TEKECİLER",
+    "lat": 39.94252,
+    "lon": 30.51482
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "TUNALI",
+    "ad": "TUNALI",
+    "lat": 39.78902,
+    "lon": 30.51807
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "TURGUTLAR",
+    "ad": "TURGUTLAR",
+    "lat": 39.79302,
+    "lon": 30.37462
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "ULUDERE",
+    "ad": "ULUDERE",
+    "lat": 39.93204,
+    "lon": 30.37884
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "ULUÖNDER",
+    "ad": "ULUÖNDER",
+    "lat": 39.78918,
+    "lon": 30.49209
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "YAKAKAYI",
+    "ad": "YAKAKAYI",
+    "lat": 39.88577,
+    "lon": 30.7809
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "YAŞAMKENT",
+    "ad": "YAŞAMKENT",
+    "lat": 39.83141,
+    "lon": 30.4552
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "YENİAKÇAYIR",
+    "ad": "YENİAKÇAYIR",
+    "lat": 39.7291,
+    "lon": 30.3726
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "YENİBAĞLAR",
+    "ad": "YENİBAĞLAR",
+    "lat": 39.78187,
+    "lon": 30.5089
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "YENİİNCESU",
+    "ad": "YENİİNCESU",
+    "lat": 39.67547,
+    "lon": 30.3153
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "YEŞİLTEPE",
+    "ad": "YEŞİLTEPE",
+    "lat": 39.80972,
+    "lon": 30.49447
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "YUKARIKARTAL",
+    "ad": "YUKARIKARTAL",
+    "lat": 39.75525,
+    "lon": 30.3014
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "YUKARI SÖĞÜTÖNÜ",
+    "ad": "YUKARI SÖĞÜTÖNÜ",
+    "lat": 39.84133,
+    "lon": 30.42364
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "YUSUFLAR",
+    "ad": "YUSUFLAR",
+    "lat": 39.7924,
+    "lon": 30.37691
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "YÜRÜKAKÇAYIR",
+    "ad": "YÜRÜKAKÇAYIR",
+    "lat": 39.7654,
+    "lon": 30.34441
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "ZAFER",
+    "ad": "ZAFER",
+    "lat": 39.79705,
+    "lon": 30.52654
+  },
+  {
+    "il": "Eskişehir",
+    "ilce": "TEPEBAŞI",
+    "mahalle": "ZİNCİRLİKUYU",
+    "ad": "ZİNCİRLİKUYU",
+    "lat": 39.80008,
+    "lon": 30.44536
+  }
+]

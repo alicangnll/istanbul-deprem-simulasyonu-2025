@@ -1,1 +1,1002 @@
-[{"il":"Sivas","ilce":"DİVRİĞİ","mahalle":"AHMETPAŞA","ad":"Çocuk Parkı","lat":39.36314,"lon":38.11183},{"il":"Sivas","ilce":"DİVRİĞİ","mahalle":"AHMETPAŞA","ad":"Köy Hizmetleri Şantiyesi Alanı","lat":39.3619,"lon":38.11498},{"il":"Sivas","ilce":"DİVRİĞİ","mahalle":"TURABALİ","ad":"Çocuk Parkı","lat":39.36027,"lon":38.11513},{"il":"Sivas","ilce":"ALTINYAYLA","mahalle":"AYDIN","ad":"Altınyayla Çok Programlı Anadolu Lisesi Bahçesi","lat":39.27033,"lon":36.75478},{"il":"Sivas","ilce":"ALTINYAYLA","mahalle":"AYDIN","ad":"Çocuk Parkı","lat":39.27217,"lon":36.75153},{"il":"Sivas","ilce":"ALTINYAYLA","mahalle":"RIFAT ÖÇTEN","ad":"Atatürk İlkokulu Bahçesi","lat":39.27246,"lon":36.74719},{"il":"Sivas","ilce":"ALTINYAYLA","mahalle":"ŞAFAK","ad":"Çocuk Parkı","lat":39.26997,"lon":36.75718},{"il":"Sivas","ilce":"ALTINYAYLA","mahalle":"RIFAT ÖÇTEN","ad":"Şehit Er Emin Alacahan Çocuk Parkı","lat":39.27432,"lon":36.74729},{"il":"Sivas","ilce":"ALTINYAYLA","mahalle":"ŞAFAK","ad":"Şehit Hasan Subaşı Çocuk Parkı","lat":39.27333,"lon":36.75708},{"il":"Sivas","ilce":"GÜRÜN","mahalle":"BURÇEVİ","ad":"Kemal Özalper İlkokulu Bahçesi","lat":38.72835,"lon":37.24661},{"il":"Sivas","ilce":"GÜRÜN","mahalle":"KİRAZLIK","ad":"Erol Gürün Parkı","lat":38.7225,"lon":37.26542},{"il":"Sivas","ilce":"GÜRÜN","mahalle":"PINARÖNÜ","ad":"Gürün Cumhuriyet İlkokulu Bahçesi","lat":38.72204,"lon":37.27022},{"il":"Sivas","ilce":"GÜRÜN","mahalle":"KARATEPE","ad":"Hükümet Konağı Önü","lat":38.72056,"lon":37.2706},{"il":"Sivas","ilce":"GÜRÜN","mahalle":"YEŞİLYURT","ad":"Gürün Aşağı Suçatı İlkokulu Bahçesi","lat":38.72081,"lon":37.35966},{"il":"Sivas","ilce":"GÜRÜN","mahalle":"PINARÖNÜ","ad":"Gürün İlçe Stadyumu","lat":38.72063,"lon":37.27828},{"il":"Sivas","ilce":"GÜRÜN","mahalle":"KURULTAY","ad":"Gürün Yatılı Bölge Ortaokulu Bahçesi","lat":38.71962,"lon":37.27395},{"il":"Sivas","ilce":"GÜRÜN","mahalle":"ÇAYBOYU","ad":"Gürün Atatürk İlkokulu Bahçesi","lat":38.72269,"lon":37.29593},{"il":"Sivas","ilce":"GÜRÜN","mahalle":"ÇAYBOYU","ad":"Türk Telekom Çok Prog. Anadolu Lisesi Bahçesi","lat":38.72447,"lon":37.29045},{"il":"Sivas","ilce":"YILDIZELİ","mahalle":"KARŞIYAKA","ad":"İlçe Stadyumu","lat":39.87309,"lon":36.60078},{"il":"Sivas","ilce":"MERKEZ","mahalle":"FATİH","ad":"Aşık Veysel İlkokulu Bahçesi","lat":39.75913,"lon":36.97912},{"il":"Sivas","ilce":"MERKEZ","mahalle":"FATİH","ad":"İMKB Anadolu Lisesi Bahçesi","lat":39.76298,"lon":36.98598},{"il":"Sivas","ilce":"MERKEZ","mahalle":"FATİH","ad":"Bahattin-Makbule Özberk Anaokulu Bahçesi","lat":39.76166,"lon":36.98733},{"il":"Sivas","ilce":"YILDIZELİ","mahalle":"FEVZİ ÇAKMAK","ad":"Yıldızeli Çok Programlı Lisesi Bahçesi","lat":39.87135,"lon":36.60075},{"il":"Sivas","ilce":"YILDIZELİ","mahalle":"CAMİİ","ad":"Yıldızeli Kent Meydanı ve Hükümet Konağı Bahçesi","lat":39.86642,"lon":36.60211},{"il":"Sivas","ilce":"MERKEZ","mahalle":"ALİBABA","ad":"Alibaba Mahallesi Parkı","lat":39.77353,"lon":37.02867},{"il":"Sivas","ilce":"MERKEZ","mahalle":"ÇAYBOYU","ad":"Çocuk Parkı","lat":39.79452,"lon":37.05512},{"il":"Sivas","ilce":"MERKEZ","mahalle":"ALİBABA","ad":"Çocuk Parkı","lat":39.77453,"lon":37.02814},{"il":"Sivas","ilce":"MERKEZ","mahalle":"ALİBABA","ad":"Ozanlar Parkı Toplanma Alanı","lat":39.77356,"lon":37.02317},{"il":"Sivas","ilce":"MERKEZ","mahalle":"AHMET TURANGAZİ","ad":"Spor Kondüsyon Parkı","lat":39.77934,"lon":37.06642},{"il":"Sivas","ilce":"MERKEZ","mahalle":"DANİŞMENTGAZİ","ad":"Belediye Hayvan Pazarı Alanı","lat":39.7309,"lon":36.92847},{"il":"Sivas","ilce":"MERKEZ","mahalle":"KARŞIYAKA","ad":"Çocuk Parkı","lat":39.7065,"lon":36.96315},{"il":"Sivas","ilce":"MERKEZ","mahalle":"KARŞIYAKA","ad":"Karşıyaka Mesire Alanı","lat":39.71176,"lon":36.96203},{"il":"Sivas","ilce":"MERKEZ","mahalle":"ESENYURT","ad":"Sivas Batı Koleji Bahçesi","lat":39.70003,"lon":36.99984},{"il":"Sivas","ilce":"MERKEZ","mahalle":"YENİŞEHİR","ad":"Cumhuriyet Meydanı Parkı","lat":39.70458,"lon":37.02898},{"il":"Sivas","ilce":"ULAŞ","mahalle":"ESENTEPE","ad":"Ulaş Demokrasi Meydanı","lat":39.44427,"lon":37.0412},{"il":"Sivas","ilce":"MERKEZ","mahalle":"ESENYURT","ad":"Esenyurt Bölge Parkı","lat":39.70119,"lon":36.98446},{"il":"Sivas","ilce":"MERKEZ","mahalle":"ŞEYH ŞAMİL OSB","ad":"Osman Seçilmiş Mesire Alanı","lat":39.78036,"lon":37.07969},{"il":"Sivas","ilce":"HAFİK","mahalle":"TEPE","ad":"Hasan Coşkun Çocuk Parkı","lat":39.856,"lon":37.38908},{"il":"Sivas","ilce":"HAFİK","mahalle":"YENİ","ad":"Hafik İmam Hatip Lisesi Bahçesi","lat":39.854,"lon":37.38329},{"il":"Sivas","ilce":"ULAŞ","mahalle":"YENİKARAHİSAR","ad":"Yenikarahisar Mahalle Meydanı","lat":39.33463,"lon":37.09828},{"il":"Sivas","ilce":"MERKEZ","mahalle":"KARŞIYAKA","ad":"Karşıyaka Kız Teknik ve Meslek Lisesi Bahçesi","lat":39.70904,"lon":36.96405},{"il":"Sivas","ilce":"KANGAL","mahalle":"REŞADİYE","ad":"Ayhan Erkan İlkokulu Bahçesi","lat":39.23365,"lon":37.37941},{"il":"Sivas","ilce":"KANGAL","mahalle":"KARŞIYAKA","ad":"Karşıyaka Çocuk Parkı","lat":39.2271,"lon":37.38798},{"il":"Sivas","ilce":"KANGAL","mahalle":"KARŞIYAKA","ad":"Karşıyaka Mahallesi Okulu Bahçesi","lat":39.22722,"lon":37.38939},{"il":"Sivas","ilce":"KANGAL","mahalle":"REŞADİYE","ad":"Kongre İlkokulu Bahçesi","lat":39.23149,"lon":37.38683},{"il":"Sivas","ilce":"KANGAL","mahalle":"YENİ","ad":"Mehmet Salih Şirin İlkokulu Bahçesi","lat":39.24207,"lon":37.38524},{"il":"Sivas","ilce":"KANGAL","mahalle":"KARŞIYAKA","ad":"Yatılı Bölge Ortaokulu Bahçesi","lat":39.21721,"lon":37.40553},{"il":"Sivas","ilce":"GÜRÜN","mahalle":"YENİ","ad":"Seyfi Saltoğlu Parkı","lat":38.72293,"lon":37.27877},{"il":"Sivas","ilce":"KANGAL","mahalle":"GÜRSEL","ad":"Kangal Lisesi Bahçesi","lat":39.23627,"lon":37.39607},{"il":"Sivas","ilce":"KANGAL","mahalle":"GÜRSEL","ad":"30 Evler Sitesi Çocuk Parkı","lat":39.2322,"lon":37.39677},{"il":"Sivas","ilce":"KANGAL","mahalle":"ZAFER","ad":"Atatürk İlkokulu Bahçesi","lat":39.23834,"lon":37.3939},{"il":"Sivas","ilce":"KANGAL","mahalle":"ZAFER","ad":"Zafer Mahallesi Çocuk Parkı","lat":39.23822,"lon":37.39446},{"il":"Sivas","ilce":"DİVRİĞİ","mahalle":"DEMİRDAĞ","ad":"Atatürk Stadyumu","lat":39.39421,"lon":38.10726},{"il":"Sivas","ilce":"DİVRİĞİ","mahalle":"GÖKÇECAMİİ","ad":"İstiklal İlkokulu Bahçesi","lat":39.37162,"lon":38.10965},{"il":"Sivas","ilce":"DİVRİĞİ","mahalle":"KOCAPAŞA","ad":"Şehit Yüzbaşı İlker Aydın Parkı","lat":39.36436,"lon":38.11103},{"il":"Sivas","ilce":"DİVRİĞİ","mahalle":"KÜLTÜRLÜ","ad":"Hüseyin Aydın İmam Hatip Lisesi Bahçesi","lat":39.37111,"lon":38.10738},{"il":"Sivas","ilce":"HAFİK","mahalle":"ÇAY","ad":"Yüksek Öğrenim Kredi Kız Öğrenci Yurdu Bahçesi","lat":39.85481,"lon":37.38997},{"il":"Sivas","ilce":"HAFİK","mahalle":"FATİH","ad":"Osmanlı Parkı","lat":39.85414,"lon":37.39243},{"il":"Sivas","ilce":"HAFİK","mahalle":"FATİH","ad":"Çocuk Parkı","lat":39.8546,"lon":37.39461},{"il":"Sivas","ilce":"ZARA","mahalle":"AHMETBAŞYURT","ad":"Zara İlçe Stadyumu","lat":39.88738,"lon":37.7449},{"il":"Sivas","ilce":"ZARA","mahalle":"AHMETBAŞYURT","ad":"Anadolu Lisesi Ve Anadolu Öğretmen Lisesi","lat":39.89073,"lon":37.74394},{"il":"Sivas","ilce":"ZARA","mahalle":"ŞEHİTLER","ad":"Şehit Teğmen Hacı Bayram Elmas Yatılı Bölge Ortaokulu Bahçesi","lat":39.89056,"lon":37.74615},{"il":"Sivas","ilce":"ZARA","mahalle":"KARŞIYAKA","ad":"Park","lat":39.89414,"lon":37.76752},{"il":"Sivas","ilce":"ZARA","mahalle":"AHMETBAŞYURT","ad":"Zara Anadolu İmam Hatip Lisesi Bahçesi","lat":39.8898,"lon":37.74698},{"il":"Sivas","ilce":"MERKEZ","mahalle":"UZUNTEPE","ad":"Uzuntepe İlkokulu Bahçesi","lat":39.75587,"lon":37.08542},{"il":"Sivas","ilce":"MERKEZ","mahalle":"EĞRİKÖPRÜ","ad":"Fen Lisesi Bahçesi","lat":39.72555,"lon":37.05747},{"il":"Sivas","ilce":"ZARA","mahalle":"KIZILIRMAK","ad":"Park","lat":39.89598,"lon":37.75823},{"il":"Sivas","ilce":"ZARA","mahalle":"YENİCAMİİ","ad":"Reşit Akif Paşa Ortaokulu Bahçesi","lat":39.89779,"lon":37.76026},{"il":"Sivas","ilce":"DİVRİĞİ","mahalle":"CEDİTPAŞA","ad":"Şehit Hamza Özçelik İlkokulu Bahçesi","lat":39.37833,"lon":38.1132},{"il":"Sivas","ilce":"MERKEZ","mahalle":"YENİŞEHİR","ad":"Anadolu Uygarlıkları Parkı","lat":39.70735,"lon":37.03162},{"il":"Sivas","ilce":"MERKEZ","mahalle":"AHMET TURANGAZİ","ad":"Kahramanlar Parkı","lat":39.77893,"lon":37.07122},{"il":"Sivas","ilce":"MERKEZ","mahalle":"ŞEYH ŞAMİL","ad":"Şeyh Şamil Mah. Park Alanı","lat":39.77107,"lon":37.06441},{"il":"Sivas","ilce":"MERKEZ","mahalle":"ŞEYH ŞAMİL","ad":"Asya Parkı Toplanma Alanı","lat":39.76583,"lon":37.05978},{"il":"Sivas","ilce":"MERKEZ","mahalle":"ŞEYH ŞAMİL","ad":"Şehit Talha Emre Zileligil İlkokulu Bahçesi","lat":39.76405,"lon":37.0613},{"il":"Sivas","ilce":"MERKEZ","mahalle":"KILAVUZ","ad":"Çocuk Parkı","lat":39.76159,"lon":37.04351},{"il":"Sivas","ilce":"MERKEZ","mahalle":"HUZUR","ad":"Park Alanı","lat":39.75699,"lon":37.04655},{"il":"Sivas","ilce":"MERKEZ","mahalle":"KILAVUZ","ad":"Lütfi Albay İlkokulu ve Hasan Vardar Ortaokulu Bahçesi","lat":39.76073,"lon":37.04412},{"il":"Sivas","ilce":"MERKEZ","mahalle":"AHMET TURANGAZİ","ad":"Park Alanı","lat":39.77336,"lon":37.06073},{"il":"Sivas","ilce":"MERKEZ","mahalle":"ŞEYH ŞAMİL","ad":"Şeyh Şamil Mahalle Parkı","lat":39.76005,"lon":37.05583},{"il":"Sivas","ilce":"MERKEZ","mahalle":"ŞEYH ŞAMİL","ad":"Asrı Saadet Parkı","lat":39.76145,"lon":37.05736},{"il":"Sivas","ilce":"MERKEZ","mahalle":"ŞEYH ŞAMİL","ad":"Özel İdare İlkokulu Bahçesi","lat":39.75972,"lon":37.05503},{"il":"Sivas","ilce":"MERKEZ","mahalle":"KARDEŞLER","ad":"Çocuk Parkı","lat":39.73864,"lon":37.03285},{"il":"Sivas","ilce":"MERKEZ","mahalle":"MEHMET AKİF ERSOY","ad":"Bölge Parkı","lat":39.74567,"lon":37.03885},{"il":"Sivas","ilce":"MERKEZ","mahalle":"YEŞİLYURT","ad":"Gazi Mustafa Kemal İlkokulu Bahçesi","lat":39.74473,"lon":37.04331},{"il":"Sivas","ilce":"MERKEZ","mahalle":"YEŞİLYURT","ad":"Park Alanı","lat":39.74616,"lon":37.04641},{"il":"Sivas","ilce":"MERKEZ","mahalle":"KARDEŞLER","ad":"60.Yıl Ortaokulu Bahçesi","lat":39.73437,"lon":37.03306},{"il":"Sivas","ilce":"MERKEZ","mahalle":"YENİŞEHİR","ad":"Yavuz Selim İlkokulu Bahçesi","lat":39.73553,"lon":37.02068},{"il":"Sivas","ilce":"MERKEZ","mahalle":"KARDEŞLER","ad":"Kardeşler Mah. Park Alanı","lat":39.73605,"lon":37.03785},{"il":"Sivas","ilce":"KOYULHİSAR","mahalle":"CAMİİKEBİR","ad":"Hükümet Konağı Bahçesi","lat":40.30112,"lon":37.83274},{"il":"Sivas","ilce":"KOYULHİSAR","mahalle":"TUĞLADAĞI","ad":"Yatılı Bölge Ortaokulu Bahçesi","lat":40.28765,"lon":37.8248},{"il":"Sivas","ilce":"KOYULHİSAR","mahalle":"TUĞLADAĞI","ad":"Tuğladağı Çocuk Parkı","lat":40.2929,"lon":37.82597},{"il":"Sivas","ilce":"KOYULHİSAR","mahalle":"ORTA","ad":"Çamlıkaya İlkokulu Bahçesi","lat":40.29615,"lon":37.82226},{"il":"Sivas","ilce":"SUŞEHRİ","mahalle":"YALNIZBAĞLAR","ad":"Suşehri İlçe Stadyumu","lat":40.17118,"lon":38.07733},{"il":"Sivas","ilce":"SUŞEHRİ","mahalle":"TAŞKÖPRÜ","ad":"Fen Lisesi Bahçesi","lat":40.17565,"lon":38.06458},{"il":"Sivas","ilce":"SUŞEHRİ","mahalle":"YALNIZBAĞLAR","ad":"Farabi Mesleki ve Teknik Anadolu Lisesi Bahçesi","lat":40.16747,"lon":38.07891},{"il":"Sivas","ilce":"ZARA","mahalle":"ŞEHİTLER","ad":"Cumhuriyet İlkokulu Bahçesi","lat":39.89466,"lon":37.75194},{"il":"Sivas","ilce":"DOĞANŞAR","mahalle":"ÖMERAĞA","ad":"Ahmet Ayık Parkı","lat":40.21375,"lon":37.53677},{"il":"Sivas","ilce":"DOĞANŞAR","mahalle":"CİNCİ","ad":"Özel Doğanşar Ortaöğretim Erkek Öğrenci Yurdu Bahçesi","lat":40.21566,"lon":37.53967},{"il":"Sivas","ilce":"DOĞANŞAR","mahalle":"DEVRİŞAĞA","ad":"Hüseyin Yumuşak YİBO Pansiyon Bahçesi","lat":40.21738,"lon":37.53733},{"il":"Sivas","ilce":"İMRANLI","mahalle":"DURCAN","ad":"Durucan Cami Bahçesi","lat":39.85968,"lon":38.13385},{"il":"Sivas","ilce":"İMRANLI","mahalle":"VALİTUNCEL","ad":"Yatılı Bölge Okulu Yemekhanesi Bahçesi","lat":39.87188,"lon":38.1153},{"il":"Sivas","ilce":"İMRANLI","mahalle":"KARŞIYAKA","ad":"İmranlı Kaymakamlık Binası Bahçesi","lat":39.87341,"lon":38.1113},{"il":"Sivas","ilce":"DİVRİĞİ","mahalle":"GÜLLÜBAĞ","ad":"Çocuk Parkı","lat":39.37962,"lon":38.11515},{"il":"Sivas","ilce":"DİVRİĞİ","mahalle":"AŞAĞIHAMAM","ad":"Divriği Belediyesi Çay Bahçesi","lat":39.37959,"lon":38.11998},{"il":"Sivas","ilce":"DİVRİĞİ","mahalle":"AŞAĞIHAMAM","ad":"Futbol Sahası","lat":39.37629,"lon":38.1176},{"il":"Sivas","ilce":"DİVRİĞİ","mahalle":"KEMENKEŞ","ad":"Danacı Sadık Özgür İlköğretim Okulu Bahçesi","lat":39.37015,"lon":38.12183},{"il":"Sivas","ilce":"DİVRİĞİ","mahalle":"MERCANTEPE","ad":"Park ve Pazar Yeri","lat":39.37126,"lon":38.11784},{"il":"Sivas","ilce":"DİVRİĞİ","mahalle":"KOCAPAŞA","ad":"Otogar Bahçesi","lat":39.36863,"lon":38.11346},{"il":"Sivas","ilce":"DİVRİĞİ","mahalle":"MERCANTEPE","ad":"Çocuk Parkı","lat":39.36881,"lon":38.11446},{"il":"Sivas","ilce":"DOĞANŞAR","mahalle":"CAMİKEBİR","ad":"Doğanşar İlkokulu Bahçesi","lat":40.2152,"lon":37.53392},{"il":"Sivas","ilce":"KOYULHİSAR","mahalle":"ORTA","ad":"Şehitler Parkı Bahçesi","lat":40.30077,"lon":37.82329},{"il":"Sivas","ilce":"KOYULHİSAR","mahalle":"CAMİİKEBİR","ad":"Futbol Sahası","lat":40.29928,"lon":37.82742},{"il":"Sivas","ilce":"AKINCILAR","mahalle":"CUMHURİYET","ad":"Pazar Alanı","lat":40.07861,"lon":38.34685},{"il":"Sivas","ilce":"AKINCILAR","mahalle":"GÖNEN","ad":"Akıncılar Türk Telekom Çok Programlı Lisesi","lat":40.08022,"lon":38.35138},{"il":"Sivas","ilce":"AKINCILAR","mahalle":"YENİ","ad":"Akıncılar İlkokulu Bahçesi","lat":40.08297,"lon":38.34596},{"il":"Sivas","ilce":"AKINCILAR","mahalle":"YENİ","ad":"Fuar Alanı","lat":40.10811,"lon":38.35257},{"il":"Sivas","ilce":"AKINCILAR","mahalle":"YUKARI","ad":"Çocuk Parkı","lat":40.07827,"lon":38.34854},{"il":"Sivas","ilce":"SUŞEHRİ","mahalle":"GÖLLÜKÖY","ad":"Mehmet Akif Ersoy İlkokulu Bahçesi","lat":40.19348,"lon":38.11047},{"il":"Sivas","ilce":"SUŞEHRİ","mahalle":"KEMALPAŞA","ad":"Kemal Paşa İlkokulu Bahçesi","lat":40.16668,"lon":38.09166},{"il":"Sivas","ilce":"SUŞEHRİ","mahalle":"CUMHURİYET","ad":"Cumhuriyet İlkokulu Bahçesi","lat":40.16426,"lon":38.09179},{"il":"Sivas","ilce":"İMRANLI","mahalle":"KIZILIRMAK","ad":"Özel İmranlı Ortaöğrenim Erkek Öğrenci Yurdu Bahçesi","lat":39.87437,"lon":38.11617},{"il":"Sivas","ilce":"SUŞEHRİ","mahalle":"CUMHURİYET","ad":"Hükümet Konağı Bahçesi","lat":40.16301,"lon":38.08897},{"il":"Sivas","ilce":"SUŞEHRİ","mahalle":"TAŞKÖPRÜ","ad":"Yeni Hükümet Konağı Bahçesi","lat":40.16231,"lon":38.08332},{"il":"Sivas","ilce":"İMRANLI","mahalle":"ÇARŞIBAŞI","ad":"Şehit Melayip Erdoğan Parkı","lat":39.87588,"lon":38.11286},{"il":"Sivas","ilce":"SUŞEHRİ","mahalle":"YALNIZBAĞLAR","ad":"Suşehri Yeni Halk Pazarı","lat":40.16494,"lon":38.08199}]
+[
+  {
+    "il": "Sivas",
+    "ilce": "DİVRİĞİ",
+    "mahalle": "AHMETPAŞA",
+    "ad": "Çocuk Parkı",
+    "lat": 39.36314,
+    "lon": 38.11183
+  },
+  {
+    "il": "Sivas",
+    "ilce": "DİVRİĞİ",
+    "mahalle": "AHMETPAŞA",
+    "ad": "Köy Hizmetleri Şantiyesi Alanı",
+    "lat": 39.3619,
+    "lon": 38.11498
+  },
+  {
+    "il": "Sivas",
+    "ilce": "DİVRİĞİ",
+    "mahalle": "TURABALİ",
+    "ad": "Çocuk Parkı",
+    "lat": 39.36027,
+    "lon": 38.11513
+  },
+  {
+    "il": "Sivas",
+    "ilce": "ALTINYAYLA",
+    "mahalle": "AYDIN",
+    "ad": "Altınyayla Çok Programlı Anadolu Lisesi Bahçesi",
+    "lat": 39.27033,
+    "lon": 36.75478
+  },
+  {
+    "il": "Sivas",
+    "ilce": "ALTINYAYLA",
+    "mahalle": "AYDIN",
+    "ad": "Çocuk Parkı",
+    "lat": 39.27217,
+    "lon": 36.75153
+  },
+  {
+    "il": "Sivas",
+    "ilce": "ALTINYAYLA",
+    "mahalle": "RIFAT ÖÇTEN",
+    "ad": "Atatürk İlkokulu Bahçesi",
+    "lat": 39.27246,
+    "lon": 36.74719
+  },
+  {
+    "il": "Sivas",
+    "ilce": "ALTINYAYLA",
+    "mahalle": "ŞAFAK",
+    "ad": "Çocuk Parkı",
+    "lat": 39.26997,
+    "lon": 36.75718
+  },
+  {
+    "il": "Sivas",
+    "ilce": "ALTINYAYLA",
+    "mahalle": "RIFAT ÖÇTEN",
+    "ad": "Şehit Er Emin Alacahan Çocuk Parkı",
+    "lat": 39.27432,
+    "lon": 36.74729
+  },
+  {
+    "il": "Sivas",
+    "ilce": "ALTINYAYLA",
+    "mahalle": "ŞAFAK",
+    "ad": "Şehit Hasan Subaşı Çocuk Parkı",
+    "lat": 39.27333,
+    "lon": 36.75708
+  },
+  {
+    "il": "Sivas",
+    "ilce": "GÜRÜN",
+    "mahalle": "BURÇEVİ",
+    "ad": "Kemal Özalper İlkokulu Bahçesi",
+    "lat": 38.72835,
+    "lon": 37.24661
+  },
+  {
+    "il": "Sivas",
+    "ilce": "GÜRÜN",
+    "mahalle": "KİRAZLIK",
+    "ad": "Erol Gürün Parkı",
+    "lat": 38.7225,
+    "lon": 37.26542
+  },
+  {
+    "il": "Sivas",
+    "ilce": "GÜRÜN",
+    "mahalle": "PINARÖNÜ",
+    "ad": "Gürün Cumhuriyet İlkokulu Bahçesi",
+    "lat": 38.72204,
+    "lon": 37.27022
+  },
+  {
+    "il": "Sivas",
+    "ilce": "GÜRÜN",
+    "mahalle": "KARATEPE",
+    "ad": "Hükümet Konağı Önü",
+    "lat": 38.72056,
+    "lon": 37.2706
+  },
+  {
+    "il": "Sivas",
+    "ilce": "GÜRÜN",
+    "mahalle": "YEŞİLYURT",
+    "ad": "Gürün Aşağı Suçatı İlkokulu Bahçesi",
+    "lat": 38.72081,
+    "lon": 37.35966
+  },
+  {
+    "il": "Sivas",
+    "ilce": "GÜRÜN",
+    "mahalle": "PINARÖNÜ",
+    "ad": "Gürün İlçe Stadyumu",
+    "lat": 38.72063,
+    "lon": 37.27828
+  },
+  {
+    "il": "Sivas",
+    "ilce": "GÜRÜN",
+    "mahalle": "KURULTAY",
+    "ad": "Gürün Yatılı Bölge Ortaokulu Bahçesi",
+    "lat": 38.71962,
+    "lon": 37.27395
+  },
+  {
+    "il": "Sivas",
+    "ilce": "GÜRÜN",
+    "mahalle": "ÇAYBOYU",
+    "ad": "Gürün Atatürk İlkokulu Bahçesi",
+    "lat": 38.72269,
+    "lon": 37.29593
+  },
+  {
+    "il": "Sivas",
+    "ilce": "GÜRÜN",
+    "mahalle": "ÇAYBOYU",
+    "ad": "Türk Telekom Çok Prog. Anadolu Lisesi Bahçesi",
+    "lat": 38.72447,
+    "lon": 37.29045
+  },
+  {
+    "il": "Sivas",
+    "ilce": "YILDIZELİ",
+    "mahalle": "KARŞIYAKA",
+    "ad": "İlçe Stadyumu",
+    "lat": 39.87309,
+    "lon": 36.60078
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "FATİH",
+    "ad": "Aşık Veysel İlkokulu Bahçesi",
+    "lat": 39.75913,
+    "lon": 36.97912
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "FATİH",
+    "ad": "İMKB Anadolu Lisesi Bahçesi",
+    "lat": 39.76298,
+    "lon": 36.98598
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "FATİH",
+    "ad": "Bahattin-Makbule Özberk Anaokulu Bahçesi",
+    "lat": 39.76166,
+    "lon": 36.98733
+  },
+  {
+    "il": "Sivas",
+    "ilce": "YILDIZELİ",
+    "mahalle": "FEVZİ ÇAKMAK",
+    "ad": "Yıldızeli Çok Programlı Lisesi Bahçesi",
+    "lat": 39.87135,
+    "lon": 36.60075
+  },
+  {
+    "il": "Sivas",
+    "ilce": "YILDIZELİ",
+    "mahalle": "CAMİİ",
+    "ad": "Yıldızeli Kent Meydanı ve Hükümet Konağı Bahçesi",
+    "lat": 39.86642,
+    "lon": 36.60211
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "ALİBABA",
+    "ad": "Alibaba Mahallesi Parkı",
+    "lat": 39.77353,
+    "lon": 37.02867
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "ÇAYBOYU",
+    "ad": "Çocuk Parkı",
+    "lat": 39.79452,
+    "lon": 37.05512
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "ALİBABA",
+    "ad": "Çocuk Parkı",
+    "lat": 39.77453,
+    "lon": 37.02814
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "ALİBABA",
+    "ad": "Ozanlar Parkı Toplanma Alanı",
+    "lat": 39.77356,
+    "lon": 37.02317
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "AHMET TURANGAZİ",
+    "ad": "Spor Kondüsyon Parkı",
+    "lat": 39.77934,
+    "lon": 37.06642
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "DANİŞMENTGAZİ",
+    "ad": "Belediye Hayvan Pazarı Alanı",
+    "lat": 39.7309,
+    "lon": 36.92847
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "KARŞIYAKA",
+    "ad": "Çocuk Parkı",
+    "lat": 39.7065,
+    "lon": 36.96315
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "KARŞIYAKA",
+    "ad": "Karşıyaka Mesire Alanı",
+    "lat": 39.71176,
+    "lon": 36.96203
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "ESENYURT",
+    "ad": "Sivas Batı Koleji Bahçesi",
+    "lat": 39.70003,
+    "lon": 36.99984
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "YENİŞEHİR",
+    "ad": "Cumhuriyet Meydanı Parkı",
+    "lat": 39.70458,
+    "lon": 37.02898
+  },
+  {
+    "il": "Sivas",
+    "ilce": "ULAŞ",
+    "mahalle": "ESENTEPE",
+    "ad": "Ulaş Demokrasi Meydanı",
+    "lat": 39.44427,
+    "lon": 37.0412
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "ESENYURT",
+    "ad": "Esenyurt Bölge Parkı",
+    "lat": 39.70119,
+    "lon": 36.98446
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "ŞEYH ŞAMİL OSB",
+    "ad": "Osman Seçilmiş Mesire Alanı",
+    "lat": 39.78036,
+    "lon": 37.07969
+  },
+  {
+    "il": "Sivas",
+    "ilce": "HAFİK",
+    "mahalle": "TEPE",
+    "ad": "Hasan Coşkun Çocuk Parkı",
+    "lat": 39.856,
+    "lon": 37.38908
+  },
+  {
+    "il": "Sivas",
+    "ilce": "HAFİK",
+    "mahalle": "YENİ",
+    "ad": "Hafik İmam Hatip Lisesi Bahçesi",
+    "lat": 39.854,
+    "lon": 37.38329
+  },
+  {
+    "il": "Sivas",
+    "ilce": "ULAŞ",
+    "mahalle": "YENİKARAHİSAR",
+    "ad": "Yenikarahisar Mahalle Meydanı",
+    "lat": 39.33463,
+    "lon": 37.09828
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "KARŞIYAKA",
+    "ad": "Karşıyaka Kız Teknik ve Meslek Lisesi Bahçesi",
+    "lat": 39.70904,
+    "lon": 36.96405
+  },
+  {
+    "il": "Sivas",
+    "ilce": "KANGAL",
+    "mahalle": "REŞADİYE",
+    "ad": "Ayhan Erkan İlkokulu Bahçesi",
+    "lat": 39.23365,
+    "lon": 37.37941
+  },
+  {
+    "il": "Sivas",
+    "ilce": "KANGAL",
+    "mahalle": "KARŞIYAKA",
+    "ad": "Karşıyaka Çocuk Parkı",
+    "lat": 39.2271,
+    "lon": 37.38798
+  },
+  {
+    "il": "Sivas",
+    "ilce": "KANGAL",
+    "mahalle": "KARŞIYAKA",
+    "ad": "Karşıyaka Mahallesi Okulu Bahçesi",
+    "lat": 39.22722,
+    "lon": 37.38939
+  },
+  {
+    "il": "Sivas",
+    "ilce": "KANGAL",
+    "mahalle": "REŞADİYE",
+    "ad": "Kongre İlkokulu Bahçesi",
+    "lat": 39.23149,
+    "lon": 37.38683
+  },
+  {
+    "il": "Sivas",
+    "ilce": "KANGAL",
+    "mahalle": "YENİ",
+    "ad": "Mehmet Salih Şirin İlkokulu Bahçesi",
+    "lat": 39.24207,
+    "lon": 37.38524
+  },
+  {
+    "il": "Sivas",
+    "ilce": "KANGAL",
+    "mahalle": "KARŞIYAKA",
+    "ad": "Yatılı Bölge Ortaokulu Bahçesi",
+    "lat": 39.21721,
+    "lon": 37.40553
+  },
+  {
+    "il": "Sivas",
+    "ilce": "GÜRÜN",
+    "mahalle": "YENİ",
+    "ad": "Seyfi Saltoğlu Parkı",
+    "lat": 38.72293,
+    "lon": 37.27877
+  },
+  {
+    "il": "Sivas",
+    "ilce": "KANGAL",
+    "mahalle": "GÜRSEL",
+    "ad": "Kangal Lisesi Bahçesi",
+    "lat": 39.23627,
+    "lon": 37.39607
+  },
+  {
+    "il": "Sivas",
+    "ilce": "KANGAL",
+    "mahalle": "GÜRSEL",
+    "ad": "30 Evler Sitesi Çocuk Parkı",
+    "lat": 39.2322,
+    "lon": 37.39677
+  },
+  {
+    "il": "Sivas",
+    "ilce": "KANGAL",
+    "mahalle": "ZAFER",
+    "ad": "Atatürk İlkokulu Bahçesi",
+    "lat": 39.23834,
+    "lon": 37.3939
+  },
+  {
+    "il": "Sivas",
+    "ilce": "KANGAL",
+    "mahalle": "ZAFER",
+    "ad": "Zafer Mahallesi Çocuk Parkı",
+    "lat": 39.23822,
+    "lon": 37.39446
+  },
+  {
+    "il": "Sivas",
+    "ilce": "DİVRİĞİ",
+    "mahalle": "DEMİRDAĞ",
+    "ad": "Atatürk Stadyumu",
+    "lat": 39.39421,
+    "lon": 38.10726
+  },
+  {
+    "il": "Sivas",
+    "ilce": "DİVRİĞİ",
+    "mahalle": "GÖKÇECAMİİ",
+    "ad": "İstiklal İlkokulu Bahçesi",
+    "lat": 39.37162,
+    "lon": 38.10965
+  },
+  {
+    "il": "Sivas",
+    "ilce": "DİVRİĞİ",
+    "mahalle": "KOCAPAŞA",
+    "ad": "Şehit Yüzbaşı İlker Aydın Parkı",
+    "lat": 39.36436,
+    "lon": 38.11103
+  },
+  {
+    "il": "Sivas",
+    "ilce": "DİVRİĞİ",
+    "mahalle": "KÜLTÜRLÜ",
+    "ad": "Hüseyin Aydın İmam Hatip Lisesi Bahçesi",
+    "lat": 39.37111,
+    "lon": 38.10738
+  },
+  {
+    "il": "Sivas",
+    "ilce": "HAFİK",
+    "mahalle": "ÇAY",
+    "ad": "Yüksek Öğrenim Kredi Kız Öğrenci Yurdu Bahçesi",
+    "lat": 39.85481,
+    "lon": 37.38997
+  },
+  {
+    "il": "Sivas",
+    "ilce": "HAFİK",
+    "mahalle": "FATİH",
+    "ad": "Osmanlı Parkı",
+    "lat": 39.85414,
+    "lon": 37.39243
+  },
+  {
+    "il": "Sivas",
+    "ilce": "HAFİK",
+    "mahalle": "FATİH",
+    "ad": "Çocuk Parkı",
+    "lat": 39.8546,
+    "lon": 37.39461
+  },
+  {
+    "il": "Sivas",
+    "ilce": "ZARA",
+    "mahalle": "AHMETBAŞYURT",
+    "ad": "Zara İlçe Stadyumu",
+    "lat": 39.88738,
+    "lon": 37.7449
+  },
+  {
+    "il": "Sivas",
+    "ilce": "ZARA",
+    "mahalle": "AHMETBAŞYURT",
+    "ad": "Anadolu Lisesi Ve Anadolu Öğretmen Lisesi",
+    "lat": 39.89073,
+    "lon": 37.74394
+  },
+  {
+    "il": "Sivas",
+    "ilce": "ZARA",
+    "mahalle": "ŞEHİTLER",
+    "ad": "Şehit Teğmen Hacı Bayram Elmas Yatılı Bölge Ortaokulu Bahçesi",
+    "lat": 39.89056,
+    "lon": 37.74615
+  },
+  {
+    "il": "Sivas",
+    "ilce": "ZARA",
+    "mahalle": "KARŞIYAKA",
+    "ad": "Park",
+    "lat": 39.89414,
+    "lon": 37.76752
+  },
+  {
+    "il": "Sivas",
+    "ilce": "ZARA",
+    "mahalle": "AHMETBAŞYURT",
+    "ad": "Zara Anadolu İmam Hatip Lisesi Bahçesi",
+    "lat": 39.8898,
+    "lon": 37.74698
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "UZUNTEPE",
+    "ad": "Uzuntepe İlkokulu Bahçesi",
+    "lat": 39.75587,
+    "lon": 37.08542
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "EĞRİKÖPRÜ",
+    "ad": "Fen Lisesi Bahçesi",
+    "lat": 39.72555,
+    "lon": 37.05747
+  },
+  {
+    "il": "Sivas",
+    "ilce": "ZARA",
+    "mahalle": "KIZILIRMAK",
+    "ad": "Park",
+    "lat": 39.89598,
+    "lon": 37.75823
+  },
+  {
+    "il": "Sivas",
+    "ilce": "ZARA",
+    "mahalle": "YENİCAMİİ",
+    "ad": "Reşit Akif Paşa Ortaokulu Bahçesi",
+    "lat": 39.89779,
+    "lon": 37.76026
+  },
+  {
+    "il": "Sivas",
+    "ilce": "DİVRİĞİ",
+    "mahalle": "CEDİTPAŞA",
+    "ad": "Şehit Hamza Özçelik İlkokulu Bahçesi",
+    "lat": 39.37833,
+    "lon": 38.1132
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "YENİŞEHİR",
+    "ad": "Anadolu Uygarlıkları Parkı",
+    "lat": 39.70735,
+    "lon": 37.03162
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "AHMET TURANGAZİ",
+    "ad": "Kahramanlar Parkı",
+    "lat": 39.77893,
+    "lon": 37.07122
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "ŞEYH ŞAMİL",
+    "ad": "Şeyh Şamil Mah. Park Alanı",
+    "lat": 39.77107,
+    "lon": 37.06441
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "ŞEYH ŞAMİL",
+    "ad": "Asya Parkı Toplanma Alanı",
+    "lat": 39.76583,
+    "lon": 37.05978
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "ŞEYH ŞAMİL",
+    "ad": "Şehit Talha Emre Zileligil İlkokulu Bahçesi",
+    "lat": 39.76405,
+    "lon": 37.0613
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "KILAVUZ",
+    "ad": "Çocuk Parkı",
+    "lat": 39.76159,
+    "lon": 37.04351
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "HUZUR",
+    "ad": "Park Alanı",
+    "lat": 39.75699,
+    "lon": 37.04655
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "KILAVUZ",
+    "ad": "Lütfi Albay İlkokulu ve Hasan Vardar Ortaokulu Bahçesi",
+    "lat": 39.76073,
+    "lon": 37.04412
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "AHMET TURANGAZİ",
+    "ad": "Park Alanı",
+    "lat": 39.77336,
+    "lon": 37.06073
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "ŞEYH ŞAMİL",
+    "ad": "Şeyh Şamil Mahalle Parkı",
+    "lat": 39.76005,
+    "lon": 37.05583
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "ŞEYH ŞAMİL",
+    "ad": "Asrı Saadet Parkı",
+    "lat": 39.76145,
+    "lon": 37.05736
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "ŞEYH ŞAMİL",
+    "ad": "Özel İdare İlkokulu Bahçesi",
+    "lat": 39.75972,
+    "lon": 37.05503
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "KARDEŞLER",
+    "ad": "Çocuk Parkı",
+    "lat": 39.73864,
+    "lon": 37.03285
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "MEHMET AKİF ERSOY",
+    "ad": "Bölge Parkı",
+    "lat": 39.74567,
+    "lon": 37.03885
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "YEŞİLYURT",
+    "ad": "Gazi Mustafa Kemal İlkokulu Bahçesi",
+    "lat": 39.74473,
+    "lon": 37.04331
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "YEŞİLYURT",
+    "ad": "Park Alanı",
+    "lat": 39.74616,
+    "lon": 37.04641
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "KARDEŞLER",
+    "ad": "60.Yıl Ortaokulu Bahçesi",
+    "lat": 39.73437,
+    "lon": 37.03306
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "YENİŞEHİR",
+    "ad": "Yavuz Selim İlkokulu Bahçesi",
+    "lat": 39.73553,
+    "lon": 37.02068
+  },
+  {
+    "il": "Sivas",
+    "ilce": "MERKEZ",
+    "mahalle": "KARDEŞLER",
+    "ad": "Kardeşler Mah. Park Alanı",
+    "lat": 39.73605,
+    "lon": 37.03785
+  },
+  {
+    "il": "Sivas",
+    "ilce": "KOYULHİSAR",
+    "mahalle": "CAMİİKEBİR",
+    "ad": "Hükümet Konağı Bahçesi",
+    "lat": 40.30112,
+    "lon": 37.83274
+  },
+  {
+    "il": "Sivas",
+    "ilce": "KOYULHİSAR",
+    "mahalle": "TUĞLADAĞI",
+    "ad": "Yatılı Bölge Ortaokulu Bahçesi",
+    "lat": 40.28765,
+    "lon": 37.8248
+  },
+  {
+    "il": "Sivas",
+    "ilce": "KOYULHİSAR",
+    "mahalle": "TUĞLADAĞI",
+    "ad": "Tuğladağı Çocuk Parkı",
+    "lat": 40.2929,
+    "lon": 37.82597
+  },
+  {
+    "il": "Sivas",
+    "ilce": "KOYULHİSAR",
+    "mahalle": "ORTA",
+    "ad": "Çamlıkaya İlkokulu Bahçesi",
+    "lat": 40.29615,
+    "lon": 37.82226
+  },
+  {
+    "il": "Sivas",
+    "ilce": "SUŞEHRİ",
+    "mahalle": "YALNIZBAĞLAR",
+    "ad": "Suşehri İlçe Stadyumu",
+    "lat": 40.17118,
+    "lon": 38.07733
+  },
+  {
+    "il": "Sivas",
+    "ilce": "SUŞEHRİ",
+    "mahalle": "TAŞKÖPRÜ",
+    "ad": "Fen Lisesi Bahçesi",
+    "lat": 40.17565,
+    "lon": 38.06458
+  },
+  {
+    "il": "Sivas",
+    "ilce": "SUŞEHRİ",
+    "mahalle": "YALNIZBAĞLAR",
+    "ad": "Farabi Mesleki ve Teknik Anadolu Lisesi Bahçesi",
+    "lat": 40.16747,
+    "lon": 38.07891
+  },
+  {
+    "il": "Sivas",
+    "ilce": "ZARA",
+    "mahalle": "ŞEHİTLER",
+    "ad": "Cumhuriyet İlkokulu Bahçesi",
+    "lat": 39.89466,
+    "lon": 37.75194
+  },
+  {
+    "il": "Sivas",
+    "ilce": "DOĞANŞAR",
+    "mahalle": "ÖMERAĞA",
+    "ad": "Ahmet Ayık Parkı",
+    "lat": 40.21375,
+    "lon": 37.53677
+  },
+  {
+    "il": "Sivas",
+    "ilce": "DOĞANŞAR",
+    "mahalle": "CİNCİ",
+    "ad": "Özel Doğanşar Ortaöğretim Erkek Öğrenci Yurdu Bahçesi",
+    "lat": 40.21566,
+    "lon": 37.53967
+  },
+  {
+    "il": "Sivas",
+    "ilce": "DOĞANŞAR",
+    "mahalle": "DEVRİŞAĞA",
+    "ad": "Hüseyin Yumuşak YİBO Pansiyon Bahçesi",
+    "lat": 40.21738,
+    "lon": 37.53733
+  },
+  {
+    "il": "Sivas",
+    "ilce": "İMRANLI",
+    "mahalle": "DURCAN",
+    "ad": "Durucan Cami Bahçesi",
+    "lat": 39.85968,
+    "lon": 38.13385
+  },
+  {
+    "il": "Sivas",
+    "ilce": "İMRANLI",
+    "mahalle": "VALİTUNCEL",
+    "ad": "Yatılı Bölge Okulu Yemekhanesi Bahçesi",
+    "lat": 39.87188,
+    "lon": 38.1153
+  },
+  {
+    "il": "Sivas",
+    "ilce": "İMRANLI",
+    "mahalle": "KARŞIYAKA",
+    "ad": "İmranlı Kaymakamlık Binası Bahçesi",
+    "lat": 39.87341,
+    "lon": 38.1113
+  },
+  {
+    "il": "Sivas",
+    "ilce": "DİVRİĞİ",
+    "mahalle": "GÜLLÜBAĞ",
+    "ad": "Çocuk Parkı",
+    "lat": 39.37962,
+    "lon": 38.11515
+  },
+  {
+    "il": "Sivas",
+    "ilce": "DİVRİĞİ",
+    "mahalle": "AŞAĞIHAMAM",
+    "ad": "Divriği Belediyesi Çay Bahçesi",
+    "lat": 39.37959,
+    "lon": 38.11998
+  },
+  {
+    "il": "Sivas",
+    "ilce": "DİVRİĞİ",
+    "mahalle": "AŞAĞIHAMAM",
+    "ad": "Futbol Sahası",
+    "lat": 39.37629,
+    "lon": 38.1176
+  },
+  {
+    "il": "Sivas",
+    "ilce": "DİVRİĞİ",
+    "mahalle": "KEMENKEŞ",
+    "ad": "Danacı Sadık Özgür İlköğretim Okulu Bahçesi",
+    "lat": 39.37015,
+    "lon": 38.12183
+  },
+  {
+    "il": "Sivas",
+    "ilce": "DİVRİĞİ",
+    "mahalle": "MERCANTEPE",
+    "ad": "Park ve Pazar Yeri",
+    "lat": 39.37126,
+    "lon": 38.11784
+  },
+  {
+    "il": "Sivas",
+    "ilce": "DİVRİĞİ",
+    "mahalle": "KOCAPAŞA",
+    "ad": "Otogar Bahçesi",
+    "lat": 39.36863,
+    "lon": 38.11346
+  },
+  {
+    "il": "Sivas",
+    "ilce": "DİVRİĞİ",
+    "mahalle": "MERCANTEPE",
+    "ad": "Çocuk Parkı",
+    "lat": 39.36881,
+    "lon": 38.11446
+  },
+  {
+    "il": "Sivas",
+    "ilce": "DOĞANŞAR",
+    "mahalle": "CAMİKEBİR",
+    "ad": "Doğanşar İlkokulu Bahçesi",
+    "lat": 40.2152,
+    "lon": 37.53392
+  },
+  {
+    "il": "Sivas",
+    "ilce": "KOYULHİSAR",
+    "mahalle": "ORTA",
+    "ad": "Şehitler Parkı Bahçesi",
+    "lat": 40.30077,
+    "lon": 37.82329
+  },
+  {
+    "il": "Sivas",
+    "ilce": "KOYULHİSAR",
+    "mahalle": "CAMİİKEBİR",
+    "ad": "Futbol Sahası",
+    "lat": 40.29928,
+    "lon": 37.82742
+  },
+  {
+    "il": "Sivas",
+    "ilce": "AKINCILAR",
+    "mahalle": "CUMHURİYET",
+    "ad": "Pazar Alanı",
+    "lat": 40.07861,
+    "lon": 38.34685
+  },
+  {
+    "il": "Sivas",
+    "ilce": "AKINCILAR",
+    "mahalle": "GÖNEN",
+    "ad": "Akıncılar Türk Telekom Çok Programlı Lisesi",
+    "lat": 40.08022,
+    "lon": 38.35138
+  },
+  {
+    "il": "Sivas",
+    "ilce": "AKINCILAR",
+    "mahalle": "YENİ",
+    "ad": "Akıncılar İlkokulu Bahçesi",
+    "lat": 40.08297,
+    "lon": 38.34596
+  },
+  {
+    "il": "Sivas",
+    "ilce": "AKINCILAR",
+    "mahalle": "YENİ",
+    "ad": "Fuar Alanı",
+    "lat": 40.10811,
+    "lon": 38.35257
+  },
+  {
+    "il": "Sivas",
+    "ilce": "AKINCILAR",
+    "mahalle": "YUKARI",
+    "ad": "Çocuk Parkı",
+    "lat": 40.07827,
+    "lon": 38.34854
+  },
+  {
+    "il": "Sivas",
+    "ilce": "SUŞEHRİ",
+    "mahalle": "GÖLLÜKÖY",
+    "ad": "Mehmet Akif Ersoy İlkokulu Bahçesi",
+    "lat": 40.19348,
+    "lon": 38.11047
+  },
+  {
+    "il": "Sivas",
+    "ilce": "SUŞEHRİ",
+    "mahalle": "KEMALPAŞA",
+    "ad": "Kemal Paşa İlkokulu Bahçesi",
+    "lat": 40.16668,
+    "lon": 38.09166
+  },
+  {
+    "il": "Sivas",
+    "ilce": "SUŞEHRİ",
+    "mahalle": "CUMHURİYET",
+    "ad": "Cumhuriyet İlkokulu Bahçesi",
+    "lat": 40.16426,
+    "lon": 38.09179
+  },
+  {
+    "il": "Sivas",
+    "ilce": "İMRANLI",
+    "mahalle": "KIZILIRMAK",
+    "ad": "Özel İmranlı Ortaöğrenim Erkek Öğrenci Yurdu Bahçesi",
+    "lat": 39.87437,
+    "lon": 38.11617
+  },
+  {
+    "il": "Sivas",
+    "ilce": "SUŞEHRİ",
+    "mahalle": "CUMHURİYET",
+    "ad": "Hükümet Konağı Bahçesi",
+    "lat": 40.16301,
+    "lon": 38.08897
+  },
+  {
+    "il": "Sivas",
+    "ilce": "SUŞEHRİ",
+    "mahalle": "TAŞKÖPRÜ",
+    "ad": "Yeni Hükümet Konağı Bahçesi",
+    "lat": 40.16231,
+    "lon": 38.08332
+  },
+  {
+    "il": "Sivas",
+    "ilce": "İMRANLI",
+    "mahalle": "ÇARŞIBAŞI",
+    "ad": "Şehit Melayip Erdoğan Parkı",
+    "lat": 39.87588,
+    "lon": 38.11286
+  },
+  {
+    "il": "Sivas",
+    "ilce": "SUŞEHRİ",
+    "mahalle": "YALNIZBAĞLAR",
+    "ad": "Suşehri Yeni Halk Pazarı",
+    "lat": 40.16494,
+    "lon": 38.08199
+  }
+]

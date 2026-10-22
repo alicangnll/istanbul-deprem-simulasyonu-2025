@@ -1,1 +1,3202 @@
-[{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"GÜMÜŞTEPE","ad":"GÜMÜŞTEPE","lat":38.90868,"lon":33.90325},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"İYDELİ (YAĞMURHÜYÜĞÜ)","ad":"İYDELİ (YAĞMURHÜYÜĞÜ)","lat":38.69282,"lon":33.72559},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"KALE","ad":"KALE","lat":38.86905,"lon":33.91564},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"KARAPINAR (YAĞMURHÜYÜĞÜ)","ad":"KARAPINAR (YAĞMURHÜYÜĞÜ)","lat":38.71512,"lon":33.75248},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"KÖYÜN KENDİSİ (ABALI)","ad":"KÖYÜN KENDİSİ (ABALI)","lat":38.87803,"lon":33.82141},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"KÖYÜN KENDİSİ (ABDİUŞAĞI)","ad":"KÖYÜN KENDİSİ (ABDİUŞAĞI)","lat":38.79904,"lon":33.94561},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"KÖYÜN KENDİSİ (AHIRLI)","ad":"KÖYÜN KENDİSİ (AHIRLI)","lat":38.73491,"lon":33.7951},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"KÖYÜN KENDİSİ (AVŞAR)","ad":"KÖYÜN KENDİSİ (AVŞAR)","lat":38.7636,"lon":33.79584},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"KÖYÜN KENDİSİ (CAMİLİ)","ad":"KÖYÜN KENDİSİ (CAMİLİ)","lat":38.90084,"lon":33.97744},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"KÖYÜN KENDİSİ (ÇATALÇEŞME)","ad":"KÖYÜN KENDİSİ (ÇATALÇEŞME)","lat":38.77144,"lon":33.958},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"KÖYÜN KENDİSİ (DADILAR)","ad":"KÖYÜN KENDİSİ (DADILAR)","lat":38.83558,"lon":34.00088},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"KÖYÜN KENDİSİ (DEMİRCİLİ)","ad":"KÖYÜN KENDİSİ (DEMİRCİLİ)","lat":38.84941,"lon":33.80626},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"KÖYÜN KENDİSİ (GÖLLÜ)","ad":"KÖYÜN KENDİSİ (GÖLLÜ)","lat":38.86273,"lon":33.8469},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"KÖYÜN KENDİSİ (GÖYNÜK)","ad":"KÖYÜN KENDİSİ (GÖYNÜK)","lat":38.77406,"lon":33.81348},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"KÖYÜN KENDİSİ (GÜZELÖZ)","ad":"KÖYÜN KENDİSİ (GÜZELÖZ)","lat":38.91136,"lon":33.89153},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"KÖYÜN KENDİSİ (HACIAHMETLİDAVUTLU)","ad":"KÖYÜN KENDİSİ (HACIAHMETLİDAVUTLU)","lat":38.8261,"lon":33.85511},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"KÖYÜN KENDİSİ (HACIAHMETLİTEPEKÖY)","ad":"KÖYÜN KENDİSİ (HACIAHMETLİTEPEKÖY)","lat":38.81951,"lon":33.98771},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"KÖYÜN KENDİSİ (HACIİSMAİLLİ)","ad":"KÖYÜN KENDİSİ (HACIİSMAİLLİ)","lat":38.82063,"lon":33.91752},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"KÖYÜN KENDİSİ (KAŞIÇALIKLAR)","ad":"KÖYÜN KENDİSİ (KAŞIÇALIKLAR)","lat":38.78775,"lon":33.87122},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"KÖYÜN KENDİSİ (KEDERLİ)","ad":"KÖYÜN KENDİSİ (KEDERLİ)","lat":38.85559,"lon":33.99062},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"KÖYÜN KENDİSİ (KILIÇLI)","ad":"KÖYÜN KENDİSİ (KILIÇLI)","lat":38.83048,"lon":33.86335},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"KÖYÜN KENDİSİ (KIRIMİNİ)","ad":"KÖYÜN KENDİSİ (KIRIMİNİ)","lat":38.80225,"lon":33.80156},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"KÖYÜN KENDİSİ (KURTİNİ)","ad":"KÖYÜN KENDİSİ (KURTİNİ)","lat":38.74815,"lon":33.83761},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"KÖYÜN KENDİSİ (KÜTÜKLÜ)","ad":"KÖYÜN KENDİSİ (KÜTÜKLÜ)","lat":38.9666,"lon":33.94111},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"KÖYÜN KENDİSİ (OYMAAĞAÇ)","ad":"KÖYÜN KENDİSİ (OYMAAĞAÇ)","lat":38.72817,"lon":33.86003},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"KÖYÜN KENDİSİ (SARIAĞIL)","ad":"KÖYÜN KENDİSİ (SARIAĞIL)","lat":38.83915,"lon":33.88979},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"KÖYÜN KENDİSİ (SARIHASANLI)","ad":"KÖYÜN KENDİSİ (SARIHASANLI)","lat":38.92239,"lon":33.8676},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"KÖYÜN KENDİSİ (SOFULAR)","ad":"KÖYÜN KENDİSİ (SOFULAR)","lat":38.78981,"lon":33.8316},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"KÖYÜN KENDİSİ (YAĞMURHÜYÜĞÜ)","ad":"KÖYÜN KENDİSİ (YAĞMURHÜYÜĞÜ)","lat":38.78073,"lon":33.91143},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"KÖYÜN KENDİSİ (YENİCE)","ad":"KÖYÜN KENDİSİ (YENİCE)","lat":38.7736,"lon":33.92477},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"YENİ","ad":"YENİ","lat":38.87522,"lon":33.91527},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"YENİŞABANLI","ad":"YENİŞABANLI","lat":38.88363,"lon":33.87021},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"YURTSEVER","ad":"YURTSEVER","lat":38.89742,"lon":33.93646},{"il":"Aksaray","ilce":"AĞAÇÖREN","mahalle":"ZAFER","ad":"ZAFER","lat":38.86906,"lon":33.9174},{"il":"Aksaray","ilce":"ESKİL","mahalle":"AYDINLIK","ad":"AYDINLIK","lat":38.17767,"lon":33.4315},{"il":"Aksaray","ilce":"ESKİL","mahalle":"BAYRAMDÜĞÜN KÜMESİ (BAYRAMDÜĞÜN)","ad":"BAYRAMDÜĞÜN KÜMESİ (BAYRAMDÜĞÜN)","lat":38.15153,"lon":33.28766},{"il":"Aksaray","ilce":"ESKİL","mahalle":"BEZİRCİ YAYLASI (GÜNEŞLİ)","ad":"BEZİRCİ YAYLASI (GÜNEŞLİ)","lat":38.14027,"lon":33.54622},{"il":"Aksaray","ilce":"ESKİL","mahalle":"BUTACI YAYLASI (BAŞARAN)","ad":"BUTACI YAYLASI (BAŞARAN)","lat":38.07803,"lon":33.53938},{"il":"Aksaray","ilce":"ESKİL","mahalle":"CAMİKEBİR","ad":"CAMİKEBİR","lat":38.30847,"lon":33.43207},{"il":"Aksaray","ilce":"ESKİL","mahalle":"CELİL KÜMESİ (CELİL)","ad":"CELİL KÜMESİ (CELİL)","lat":38.26998,"lon":33.3156},{"il":"Aksaray","ilce":"ESKİL","mahalle":"CUMHURİYET","ad":"CUMHURİYET","lat":38.37587,"lon":33.37172},{"il":"Aksaray","ilce":"ESKİL","mahalle":"ÇAĞLAK YAYLASI (GÜNEŞLİ)","ad":"ÇAĞLAK YAYLASI (GÜNEŞLİ)","lat":38.18608,"lon":33.5195},{"il":"Aksaray","ilce":"ESKİL","mahalle":"ÇİMYAYLA (BÜĞET)","ad":"ÇİMYAYLA (BÜĞET)","lat":38.29866,"lon":33.49112},{"il":"Aksaray","ilce":"ESKİL","mahalle":"ÇUKURYURT KÜMESİ (ÇUKURYURT)","ad":"ÇUKURYURT KÜMESİ (ÇUKURYURT)","lat":38.28513,"lon":33.25897},{"il":"Aksaray","ilce":"ESKİL","mahalle":"ÇULFA","ad":"ÇULFA","lat":38.28014,"lon":33.24794},{"il":"Aksaray","ilce":"ESKİL","mahalle":"DERE YAYLASI (GÜNEŞLİ)","ad":"DERE YAYLASI (GÜNEŞLİ)","lat":38.13214,"lon":33.48794},{"il":"Aksaray","ilce":"ESKİL","mahalle":"FATİH","ad":"FATİH","lat":38.37179,"lon":33.2646},{"il":"Aksaray","ilce":"ESKİL","mahalle":"FEVZİ ÇAKMAK","ad":"FEVZİ ÇAKMAK","lat":38.23646,"lon":33.36826},{"il":"Aksaray","ilce":"ESKİL","mahalle":"GEDİK YAYLASI (GÜNEŞLİ)","ad":"GEDİK YAYLASI (GÜNEŞLİ)","lat":38.08198,"lon":33.5352},{"il":"Aksaray","ilce":"ESKİL","mahalle":"GÖZERLİ YAYLASI (GÜNEŞLİ)","ad":"GÖZERLİ YAYLASI (GÜNEŞLİ)","lat":38.10565,"lon":33.49655},{"il":"Aksaray","ilce":"ESKİL","mahalle":"GÜLLÜDERE YAYLASI (GÜNEŞLİ)","ad":"GÜLLÜDERE YAYLASI (GÜNEŞLİ)","lat":38.10899,"lon":33.52463},{"il":"Aksaray","ilce":"ESKİL","mahalle":"HOCA YAYLASI (BÜĞET)","ad":"HOCA YAYLASI (BÜĞET)","lat":38.33365,"lon":33.47356},{"il":"Aksaray","ilce":"ESKİL","mahalle":"HÜRRİYET","ad":"HÜRRİYET","lat":38.12286,"lon":33.4423},{"il":"Aksaray","ilce":"ESKİL","mahalle":"İSTİKLAL","ad":"İSTİKLAL","lat":38.09863,"lon":33.41088},{"il":"Aksaray","ilce":"ESKİL","mahalle":"KARŞIYAKA","ad":"KARŞIYAKA","lat":38.35031,"lon":33.45298},{"il":"Aksaray","ilce":"ESKİL","mahalle":"KATRANCI KÜMESİ (KATRANCI)","ad":"KATRANCI KÜMESİ (KATRANCI)","lat":38.28639,"lon":33.33015},{"il":"Aksaray","ilce":"ESKİL","mahalle":"KAYACIK","ad":"KAYACIK","lat":38.25626,"lon":33.49047},{"il":"Aksaray","ilce":"ESKİL","mahalle":"KÖYÜN KENDİSİ (BAŞARAN)","ad":"KÖYÜN KENDİSİ (BAŞARAN)","lat":38.02643,"lon":33.55857},{"il":"Aksaray","ilce":"ESKİL","mahalle":"KÖYÜN KENDİSİ (BÜĞET)","ad":"KÖYÜN KENDİSİ (BÜĞET)","lat":38.34251,"lon":33.46459},{"il":"Aksaray","ilce":"ESKİL","mahalle":"KÖYÜN KENDİSİ (FİLİKÇİ)","ad":"KÖYÜN KENDİSİ (FİLİKÇİ)","lat":38.2925,"lon":33.30601},{"il":"Aksaray","ilce":"ESKİL","mahalle":"KÖYÜN KENDİSİ (GÜMÜŞDÜĞÜN)","ad":"KÖYÜN KENDİSİ (GÜMÜŞDÜĞÜN)","lat":38.26299,"lon":33.34609},{"il":"Aksaray","ilce":"ESKİL","mahalle":"KÖYÜN KENDİSİ (GÜNEŞLİ)","ad":"KÖYÜN KENDİSİ (GÜNEŞLİ)","lat":38.15696,"lon":33.53602},{"il":"Aksaray","ilce":"ESKİL","mahalle":"KÖYÜN KENDİSİ (KÖKEZ)","ad":"KÖYÜN KENDİSİ (KÖKEZ)","lat":38.27737,"lon":33.21587},{"il":"Aksaray","ilce":"ESKİL","mahalle":"MERKEZ","ad":"MERKEZ","lat":38.37143,"lon":33.499},{"il":"Aksaray","ilce":"ESKİL","mahalle":"MİMAR SİNAN","ad":"MİMAR SİNAN","lat":38.37564,"lon":33.37196},{"il":"Aksaray","ilce":"ESKİL","mahalle":"SAĞSAK KÜMESİ (SAĞSAK)","ad":"SAĞSAK KÜMESİ (SAĞSAK)","lat":38.31901,"lon":33.3446},{"il":"Aksaray","ilce":"ESKİL","mahalle":"ŞAVVEL YAYLASI (BÜĞET)","ad":"ŞAVVEL YAYLASI (BÜĞET)","lat":38.33186,"lon":33.47477},{"il":"Aksaray","ilce":"ESKİL","mahalle":"YAVUZ SULTAN SELİM","ad":"YAVUZ SULTAN SELİM","lat":38.30456,"lon":33.1871},{"il":"Aksaray","ilce":"ESKİL","mahalle":"YENİ","ad":"YENİ","lat":38.27417,"lon":33.47127},{"il":"Aksaray","ilce":"ESKİL","mahalle":"YEŞİLYURT","ad":"YEŞİLYURT","lat":38.20127,"lon":33.5094},{"il":"Aksaray","ilce":"ESKİL","mahalle":"YILDIRIM","ad":"YILDIRIM","lat":38.19036,"lon":33.36231},{"il":"Aksaray","ilce":"ESKİL","mahalle":"YUKARIBEZİRCİ YAYLASI (GÜNEŞLİ)","ad":"YUKARIBEZİRCİ YAYLASI (GÜNEŞLİ)","lat":38.11883,"lon":33.55708},{"il":"Aksaray","ilce":"ESKİL","mahalle":"ZAFER","ad":"ZAFER","lat":38.25657,"lon":33.29063},{"il":"Aksaray","ilce":"GÜLAĞAÇ","mahalle":"ATATÜRK","ad":"ATATÜRK","lat":38.41502,"lon":34.34204},{"il":"Aksaray","ilce":"GÜLAĞAÇ","mahalle":"CUMHURİYET","ad":"CUMHURİYET","lat":38.50636,"lon":34.30372},{"il":"Aksaray","ilce":"GÜLAĞAÇ","mahalle":"CUMHURİYET (BEKARLAR)","ad":"CUMHURİYET (BEKARLAR)","lat":38.39851,"lon":34.39772},{"il":"Aksaray","ilce":"GÜLAĞAÇ","mahalle":"ESKİCAMİ","ad":"ESKİCAMİ","lat":38.42303,"lon":34.25281},{"il":"Aksaray","ilce":"GÜLAĞAÇ","mahalle":"FATİH","ad":"FATİH","lat":38.40784,"lon":34.36793},{"il":"Aksaray","ilce":"GÜLAĞAÇ","mahalle":"FATİH (SOFULAR)","ad":"FATİH (SOFULAR)","lat":38.38008,"lon":34.47531},{"il":"Aksaray","ilce":"GÜLAĞAÇ","mahalle":"FEVZİ ÇAKMAK (SOFULAR)","ad":"FEVZİ ÇAKMAK (SOFULAR)","lat":38.38062,"lon":34.41229},{"il":"Aksaray","ilce":"GÜLAĞAÇ","mahalle":"HÜRREM (BEKARLAR)","ad":"HÜRREM (BEKARLAR)","lat":38.37126,"lon":34.43952},{"il":"Aksaray","ilce":"GÜLAĞAÇ","mahalle":"HÜRRİYET","ad":"HÜRRİYET","lat":38.38769,"lon":34.34562},{"il":"Aksaray","ilce":"GÜLAĞAÇ","mahalle":"HÜRRİYET (BEKARLAR)","ad":"HÜRRİYET (BEKARLAR)","lat":38.43779,"lon":34.43539},{"il":"Aksaray","ilce":"GÜLAĞAÇ","mahalle":"İSTİKLAL","ad":"İSTİKLAL","lat":38.42466,"lon":34.30926},{"il":"Aksaray","ilce":"GÜLAĞAÇ","mahalle":"KALEALTI","ad":"KALEALTI","lat":38.37714,"lon":34.28137},{"il":"Aksaray","ilce":"GÜLAĞAÇ","mahalle":"KARŞIYAKA","ad":"KARŞIYAKA","lat":38.44902,"lon":34.23395},{"il":"Aksaray","ilce":"GÜLAĞAÇ","mahalle":"KAYABAŞI (BEKARLAR)","ad":"KAYABAŞI (BEKARLAR)","lat":38.44558,"lon":34.44681},{"il":"Aksaray","ilce":"GÜLAĞAÇ","mahalle":"KOYUNLU","ad":"KOYUNLU","lat":38.47777,"lon":34.37807},{"il":"Aksaray","ilce":"GÜLAĞAÇ","mahalle":"KÖYÜN KENDİSİ (AKMEZAR)","ad":"KÖYÜN KENDİSİ (AKMEZAR)","lat":38.47957,"lon":34.31981},{"il":"Aksaray","ilce":"GÜLAĞAÇ","mahalle":"KÖYÜN KENDİSİ (CAMİLİÖREN)","ad":"KÖYÜN KENDİSİ (CAMİLİÖREN)","lat":38.51953,"lon":34.39949},{"il":"Aksaray","ilce":"GÜLAĞAÇ","mahalle":"KÖYÜN KENDİSİ (ÇATALSU)","ad":"KÖYÜN KENDİSİ (ÇATALSU)","lat":38.43716,"lon":34.22843},{"il":"Aksaray","ilce":"GÜLAĞAÇ","mahalle":"KÖYÜN KENDİSİ (KIZILKAYA)","ad":"KÖYÜN KENDİSİ (KIZILKAYA)","lat":38.37432,"lon":34.24854},{"il":"Aksaray","ilce":"GÜLAĞAÇ","mahalle":"KÖYÜN KENDİSİ (OSMANLI)","ad":"KÖYÜN KENDİSİ (OSMANLI)","lat":38.51475,"lon":34.35023},{"il":"Aksaray","ilce":"GÜLAĞAÇ","mahalle":"KÖYÜN KENDİSİ (PINARBAŞI)","ad":"KÖYÜN KENDİSİ (PINARBAŞI)","lat":38.4801,"lon":34.28698},{"il":"Aksaray","ilce":"GÜLAĞAÇ","mahalle":"KÖYÜN KENDİSİ (SÜLEYMANHÜYÜĞÜ)","ad":"KÖYÜN KENDİSİ (SÜLEYMANHÜYÜĞÜ)","lat":38.51147,"lon":34.34017},{"il":"Aksaray","ilce":"GÜLAĞAÇ","mahalle":"KURTULUŞ","ad":"KURTULUŞ","lat":38.4403,"lon":34.2856},{"il":"Aksaray","ilce":"GÜLAĞAÇ","mahalle":"MEYDAN","ad":"MEYDAN","lat":38.39496,"lon":34.34195},{"il":"Aksaray","ilce":"GÜLAĞAÇ","mahalle":"PINARBAŞI","ad":"PINARBAŞI","lat":38.48035,"lon":34.39198},{"il":"Aksaray","ilce":"GÜLAĞAÇ","mahalle":"TUZLA","ad":"TUZLA","lat":38.42211,"lon":34.36323},{"il":"Aksaray","ilce":"GÜLAĞAÇ","mahalle":"YAVUZ SELİM (SOFULAR)","ad":"YAVUZ SELİM (SOFULAR)","lat":38.35832,"lon":34.43604},{"il":"Aksaray","ilce":"GÜLAĞAÇ","mahalle":"YENİ","ad":"YENİ","lat":38.40083,"lon":34.34344},{"il":"Aksaray","ilce":"GÜLAĞAÇ","mahalle":"YENİPAZAR","ad":"YENİPAZAR","lat":38.37905,"lon":34.28783},{"il":"Aksaray","ilce":"GÜLAĞAÇ","mahalle":"ZAFER","ad":"ZAFER","lat":38.45907,"lon":34.23275},{"il":"Aksaray","ilce":"GÜZELYURT","mahalle":"AKPINAR","ad":"AKPINAR","lat":38.26685,"lon":34.26414},{"il":"Aksaray","ilce":"GÜZELYURT","mahalle":"AKYAMAÇ","ad":"AKYAMAÇ","lat":38.32497,"lon":34.37279},{"il":"Aksaray","ilce":"GÜZELYURT","mahalle":"AŞAĞI","ad":"AŞAĞI","lat":38.27625,"lon":34.37073},{"il":"Aksaray","ilce":"GÜZELYURT","mahalle":"HARMANLIK","ad":"HARMANLIK","lat":38.26987,"lon":34.27003},{"il":"Aksaray","ilce":"GÜZELYURT","mahalle":"KARŞIYAKA","ad":"KARŞIYAKA","lat":38.2408,"lon":34.30682},{"il":"Aksaray","ilce":"GÜZELYURT","mahalle":"KAYAALTI","ad":"KAYAALTI","lat":38.30763,"lon":34.29986},{"il":"Aksaray","ilce":"GÜZELYURT","mahalle":"KAYAARDI","ad":"KAYAARDI","lat":38.26094,"lon":34.33135},{"il":"Aksaray","ilce":"GÜZELYURT","mahalle":"KÖPRÜBAŞI","ad":"KÖPRÜBAŞI","lat":38.31583,"lon":34.29497},{"il":"Aksaray","ilce":"GÜZELYURT","mahalle":"KÖYÜN KENDİSİ (ALANYURT)","ad":"KÖYÜN KENDİSİ (ALANYURT)","lat":38.34976,"lon":34.3232},{"il":"Aksaray","ilce":"GÜZELYURT","mahalle":"KÖYÜN KENDİSİ (BELİSIRMA)","ad":"KÖYÜN KENDİSİ (BELİSIRMA)","lat":38.2963,"lon":34.30377},{"il":"Aksaray","ilce":"GÜZELYURT","mahalle":"KÖYÜN KENDİSİ (BOZCAYURT)","ad":"KÖYÜN KENDİSİ (BOZCAYURT)","lat":38.3477,"lon":34.39249},{"il":"Aksaray","ilce":"GÜZELYURT","mahalle":"KÖYÜN KENDİSİ (GAZİEMİR)","ad":"KÖYÜN KENDİSİ (GAZİEMİR)","lat":38.36067,"lon":34.39207},{"il":"Aksaray","ilce":"GÜZELYURT","mahalle":"KÖYÜN KENDİSİ (SİVRİHİSAR)","ad":"KÖYÜN KENDİSİ (SİVRİHİSAR)","lat":38.29261,"lon":34.42252},{"il":"Aksaray","ilce":"GÜZELYURT","mahalle":"KÖYÜN KENDİSİ (UZUNKAYA)","ad":"KÖYÜN KENDİSİ (UZUNKAYA)","lat":38.31695,"lon":34.18394},{"il":"Aksaray","ilce":"GÜZELYURT","mahalle":"KÖYÜN KENDİSİ (YAPRAKHİSAR)","ad":"KÖYÜN KENDİSİ (YAPRAKHİSAR)","lat":38.30615,"lon":34.30086},{"il":"Aksaray","ilce":"GÜZELYURT","mahalle":"MEYDAN (ILISU)","ad":"MEYDAN (ILISU)","lat":38.25664,"lon":34.34937},{"il":"Aksaray","ilce":"GÜZELYURT","mahalle":"YENİ","ad":"YENİ","lat":38.2739,"lon":34.37591},{"il":"Aksaray","ilce":"GÜZELYURT","mahalle":"YENİ (ILISU)","ad":"YENİ (ILISU)","lat":38.2525,"lon":34.33853},{"il":"Aksaray","ilce":"GÜZELYURT","mahalle":"YUKARI","ad":"YUKARI","lat":38.34159,"lon":34.35906},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"1.KÜME (HIRKATOL)","ad":"1.KÜME (HIRKATOL)","lat":38.41163,"lon":33.94159},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"1.KÜME (YENİPINAR)","ad":"1.KÜME (YENİPINAR)","lat":38.21901,"lon":34.25783},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"2.KÜME (HIRKATOL)","ad":"2.KÜME (HIRKATOL)","lat":38.43241,"lon":33.9466},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"2.KÜME (YENİPINAR)","ad":"2.KÜME (YENİPINAR)","lat":38.17572,"lon":34.25746},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"3.KÜME (HIRKATOL)","ad":"3.KÜME (HIRKATOL)","lat":38.42141,"lon":33.91371},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"3.KÜME (YENİPINAR)","ad":"3.KÜME (YENİPINAR)","lat":38.17043,"lon":34.25101},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"4.KÜME (YENİPINAR)","ad":"4.KÜME (YENİPINAR)","lat":38.17432,"lon":34.2544},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"5.KÜME (YENİPINAR)","ad":"5.KÜME (YENİPINAR)","lat":38.17221,"lon":34.25456},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"6.KÜME (YENİPINAR)","ad":"6.KÜME (YENİPINAR)","lat":38.20965,"lon":34.26817},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"AKSEKİ (İNCESU)","ad":"AKSEKİ (İNCESU)","lat":38.17849,"lon":33.86154},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"ALASAKALLI","ad":"ALASAKALLI","lat":38.43744,"lon":33.80813},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"ALAYHAN MEZRASI (ALAYHANI)","ad":"ALAYHAN MEZRASI (ALAYHANI)","lat":38.53007,"lon":34.3555},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"ARATOL BAHÇELİ","ad":"ARATOL BAHÇELİ","lat":38.36804,"lon":33.94405},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"ARATOL İSTİKLAL","ad":"ARATOL İSTİKLAL","lat":38.3758,"lon":33.95765},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"AŞAĞI (TATLICA)","ad":"AŞAĞI (TATLICA)","lat":38.57426,"lon":34.28738},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"ATATÜRK  (KARAÖREN)","ad":"ATATÜRK (KARAÖREN)","lat":38.275,"lon":34.13933},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"ATATÜRK (KUTLU)","ad":"ATATÜRK (KUTLU)","lat":38.33181,"lon":33.83981},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"AYDINLAR","ad":"AYDINLAR","lat":38.2154,"lon":34.18697},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"BAGYOLU (TATLICA)","ad":"BAGYOLU (TATLICA)","lat":38.54009,"lon":34.26688},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"BAĞ YOLU (TATLICA)","ad":"BAĞ YOLU (TATLICA)","lat":38.57993,"lon":34.28145},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"BAHÇELİ","ad":"BAHÇELİ","lat":38.37085,"lon":34.04118},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"BAHÇELİEVLER (ACIPINAR)","ad":"BAHÇELİEVLER (ACIPINAR)","lat":38.52459,"lon":33.84982},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"BAHÇELİEVLER (YUVA)","ad":"BAHÇELİEVLER (YUVA)","lat":38.2742,"lon":34.18081},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"BAHÇESARAY","ad":"BAHÇESARAY","lat":38.33615,"lon":33.99364},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"BAYRAMBABA","ad":"BAYRAMBABA","lat":38.38553,"lon":34.04734},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"BEDİR MUHTAR","ad":"BEDİR MUHTAR","lat":38.38225,"lon":34.03447},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"BEYAZSARAY (SARAYHAN)","ad":"BEYAZSARAY (SARAYHAN)","lat":38.63662,"lon":33.83972},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"BİRLİK (ALTINKAYA)","ad":"BİRLİK (ALTINKAYA)","lat":38.70574,"lon":33.82914},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"BOĞAZİÇİ","ad":"BOĞAZİÇİ","lat":38.52012,"lon":33.98389},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"BÜYÜK BÖLCEK","ad":"BÜYÜK BÖLCEK","lat":38.36865,"lon":34.01733},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"CAMİİ (TATLICA)","ad":"CAMİİ (TATLICA)","lat":38.55727,"lon":34.23986},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"CAMİKEBİR (İNCESU)","ad":"CAMİKEBİR (İNCESU)","lat":38.22626,"lon":33.74769},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"CAMİ (TATLICA)","ad":"CAMİ (TATLICA)","lat":38.53919,"lon":34.2686},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"CİTKİRYOLU (TATLICA)","ad":"CİTKİRYOLU (TATLICA)","lat":38.53491,"lon":34.26833},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"COĞLAKİ","ad":"COĞLAKİ","lat":38.37803,"lon":34.04617},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"CUMHURİYET","ad":"CUMHURİYET","lat":38.19472,"lon":34.19539},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"CUMHURİYET (KARKIN)","ad":"CUMHURİYET (KARKIN)","lat":38.21258,"lon":34.17684},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"CUMHURİYET (YUVA)","ad":"CUMHURİYET (YUVA)","lat":38.29101,"lon":34.15113},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"ÇALIŞKAN","ad":"ÇALIŞKAN","lat":38.46901,"lon":33.80155},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"ÇERDİĞİN","ad":"ÇERDİĞİN","lat":38.37817,"lon":34.03174},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"ÇİFTLİK","ad":"ÇİFTLİK","lat":38.38452,"lon":33.99452},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"ÇİMELİ","ad":"ÇİMELİ","lat":38.49996,"lon":33.94441},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"ÇİTÇİR YOLU (TATLICA)","ad":"ÇİTÇİR YOLU (TATLICA)","lat":38.57952,"lon":34.26633},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"DERE","ad":"DERE","lat":38.37439,"lon":34.02806},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"DİVANOĞLU","ad":"DİVANOĞLU","lat":38.31991,"lon":34.05293},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"EREĞLİKAPI","ad":"EREĞLİKAPI","lat":38.36854,"lon":34.02984},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"ERENLER","ad":"ERENLER","lat":38.26445,"lon":33.99948},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"ERENLER OSB","ad":"ERENLER OSB","lat":38.27816,"lon":34.02501},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"FATİH","ad":"FATİH","lat":38.47329,"lon":33.97514},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"FATİH (ACIPINAR)","ad":"FATİH (ACIPINAR)","lat":38.57861,"lon":33.88202},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"FATİH (KUTLU)","ad":"FATİH (KUTLU)","lat":38.25894,"lon":33.92515},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"FATİH (SEVİNÇLİ)","ad":"FATİH (SEVİNÇLİ)","lat":38.38382,"lon":34.06415},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"FATİH (ULUKIŞLA)","ad":"FATİH (ULUKIŞLA)","lat":38.52613,"lon":33.77749},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"GAZİ","ad":"GAZİ","lat":38.35765,"lon":33.79666},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"GENÇ OSMAN (ARMUTLU)","ad":"GENÇ OSMAN (ARMUTLU)","lat":38.22635,"lon":33.93691},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"GÜLHANE","ad":"GÜLHANE","lat":38.48441,"lon":33.95126},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"HACIHASANLI","ad":"HACIHASANLI","lat":38.3722,"lon":34.03204},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"HACILAR HARMANI","ad":"HACILAR HARMANI","lat":38.3445,"lon":33.98533},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"HAMİDİYE","ad":"HAMİDİYE","lat":38.37177,"lon":34.03051},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"HASAS","ad":"HASAS","lat":38.38852,"lon":34.01782},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"HÜRRİYET","ad":"HÜRRİYET","lat":38.46118,"lon":33.77227},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"HÜRRİYET (AKÇAKENT)","ad":"HÜRRİYET (AKÇAKENT)","lat":38.11035,"lon":34.04538},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"İSTİKLAL","ad":"İSTİKLAL","lat":38.36688,"lon":33.7001},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KALANLAR","ad":"KALANLAR","lat":38.38606,"lon":34.06233},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KARŞIYAKA (İNCESU)","ad":"KARŞIYAKA (İNCESU)","lat":38.17368,"lon":33.76384},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KILIÇASLAN","ad":"KILIÇASLAN","lat":38.36366,"lon":34.03504},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KIRIMLI","ad":"KIRIMLI","lat":38.29102,"lon":33.99342},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KIRIMLI OSB","ad":"KIRIMLI OSB","lat":38.29811,"lon":34.01764},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KİRAZLI","ad":"KİRAZLI","lat":38.25928,"lon":34.23331},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KOCATEPE (DOĞANTARLA)","ad":"KOCATEPE (DOĞANTARLA)","lat":38.39234,"lon":34.24088},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖSELİ","ad":"KÖSELİ","lat":38.40846,"lon":33.83972},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (AĞZIKARAHAN)","ad":"KÖYÜN KENDİSİ (AĞZIKARAHAN)","lat":38.47503,"lon":34.12567},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (AKHİSAR)","ad":"KÖYÜN KENDİSİ (AKHİSAR)","lat":38.33569,"lon":34.11323},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (AKİN)","ad":"KÖYÜN KENDİSİ (AKİN)","lat":38.49053,"lon":34.02093},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (ALAYHANI)","ad":"KÖYÜN KENDİSİ (ALAYHANI)","lat":38.55348,"lon":34.34562},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (ATAKÖY)","ad":"KÖYÜN KENDİSİ (ATAKÖY)","lat":38.36119,"lon":33.91219},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (BABAKONAĞI)","ad":"KÖYÜN KENDİSİ (BABAKONAĞI)","lat":38.59846,"lon":34.30389},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (BAĞLI)","ad":"KÖYÜN KENDİSİ (BAĞLI)","lat":38.28032,"lon":34.0751},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (BAYINDIR)","ad":"KÖYÜN KENDİSİ (BAYINDIR)","lat":38.60091,"lon":34.3042},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (BAYMIŞ)","ad":"KÖYÜN KENDİSİ (BAYMIŞ)","lat":38.524,"lon":33.9091},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (BEBEK)","ad":"KÖYÜN KENDİSİ (BEBEK)","lat":38.53038,"lon":34.19312},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (BOSTANLIK)","ad":"KÖYÜN KENDİSİ (BOSTANLIK)","lat":38.63507,"lon":33.9166},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (BOYALI)","ad":"KÖYÜN KENDİSİ (BOYALI)","lat":38.61692,"lon":33.93141},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (BOZCATEPE)","ad":"KÖYÜN KENDİSİ (BOZCATEPE)","lat":38.58037,"lon":34.38169},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (BÜYÜKGÜVE)","ad":"KÖYÜN KENDİSİ (BÜYÜKGÜVE)","lat":38.66099,"lon":33.86285},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (BÜYÜKPÖRNEKLER)","ad":"KÖYÜN KENDİSİ (BÜYÜKPÖRNEKLER)","lat":38.64047,"lon":34.23757},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (CANKILLI)","ad":"KÖYÜN KENDİSİ (CANKILLI)","lat":38.62058,"lon":34.06879},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (CERAN)","ad":"KÖYÜN KENDİSİ (CERAN)","lat":38.56332,"lon":34.08596},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (CERİT)","ad":"KÖYÜN KENDİSİ (CERİT)","lat":38.63458,"lon":33.89909},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (ÇAĞLAYAN)","ad":"KÖYÜN KENDİSİ (ÇAĞLAYAN)","lat":38.50259,"lon":34.25411},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (ÇAVDARLILAR)","ad":"KÖYÜN KENDİSİ (ÇAVDARLILAR)","lat":38.6473,"lon":34.08209},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (ÇEKİÇLER)","ad":"KÖYÜN KENDİSİ (ÇEKİÇLER)","lat":38.62746,"lon":34.08886},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (ÇELTEK)","ad":"KÖYÜN KENDİSİ (ÇELTEK)","lat":38.33707,"lon":34.15976},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (ÇİMELİYENİ)","ad":"KÖYÜN KENDİSİ (ÇİMELİYENİ)","lat":38.4909,"lon":33.9178},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (ÇOLAKNEBİ)","ad":"KÖYÜN KENDİSİ (ÇOLAKNEBİ)","lat":38.60805,"lon":33.98759},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (DARIHÜYÜK)","ad":"KÖYÜN KENDİSİ (DARIHÜYÜK)","lat":38.36646,"lon":33.80464},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (DİKMEN)","ad":"KÖYÜN KENDİSİ (DİKMEN)","lat":38.19075,"lon":34.07248},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (EKECİKGÖDELER)","ad":"KÖYÜN KENDİSİ (EKECİKGÖDELER)","lat":38.62214,"lon":34.03978},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (EKECİKTOL)","ad":"KÖYÜN KENDİSİ (EKECİKTOL)","lat":38.51382,"lon":34.10133},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (EKECİKYENİ)","ad":"KÖYÜN KENDİSİ (EKECİKYENİ)","lat":38.54958,"lon":34.11322},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (ELMACIK)","ad":"KÖYÜN KENDİSİ (ELMACIK)","lat":38.26541,"lon":34.18712},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (FATMAUŞAĞI)","ad":"KÖYÜN KENDİSİ (FATMAUŞAĞI)","lat":38.60798,"lon":34.00539},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (GENÇOSMAN)","ad":"KÖYÜN KENDİSİ (GENÇOSMAN)","lat":38.43841,"lon":34.07599},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (GÖKÇE)","ad":"KÖYÜN KENDİSİ (GÖKÇE)","lat":38.44597,"lon":34.16027},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (GÖKSÜGÜZEL)","ad":"KÖYÜN KENDİSİ (GÖKSÜGÜZEL)","lat":38.53481,"lon":34.17723},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (GÖZLÜKUYU)","ad":"KÖYÜN KENDİSİ (GÖZLÜKUYU)","lat":38.22762,"lon":34.06172},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (GÜCÜNKAYA)","ad":"KÖYÜN KENDİSİ (GÜCÜNKAYA)","lat":38.40301,"lon":34.14122},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (GÜLTEPE)","ad":"KÖYÜN KENDİSİ (GÜLTEPE)","lat":38.50628,"lon":34.04487},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (HANOBASI)","ad":"KÖYÜN KENDİSİ (HANOBASI)","lat":38.65181,"lon":33.89195},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (HATİPOĞLUTOLU)","ad":"KÖYÜN KENDİSİ (HATİPOĞLUTOLU)","lat":38.39704,"lon":33.89317},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (İSMAİLAĞATOLU)","ad":"KÖYÜN KENDİSİ (İSMAİLAĞATOLU)","lat":38.42034,"lon":33.95455},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (KALEBALTA)","ad":"KÖYÜN KENDİSİ (KALEBALTA)","lat":38.60375,"lon":34.22962},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (KARACAÖREN)","ad":"KÖYÜN KENDİSİ (KARACAÖREN)","lat":38.14489,"lon":34.0522},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (KARAÇAYIR)","ad":"KÖYÜN KENDİSİ (KARAÇAYIR)","lat":38.56414,"lon":34.09732},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (KARAKOVA)","ad":"KÖYÜN KENDİSİ (KARAKOVA)","lat":38.5805,"lon":34.30533},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (KARAKUYU)","ad":"KÖYÜN KENDİSİ (KARAKUYU)","lat":38.54279,"lon":34.28854},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (KARATAŞ)","ad":"KÖYÜN KENDİSİ (KARATAŞ)","lat":38.27539,"lon":34.10765},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (KAZICIK)","ad":"KÖYÜN KENDİSİ (KAZICIK)","lat":38.38966,"lon":33.95093},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (KOÇPINAR)","ad":"KÖYÜN KENDİSİ (KOÇPINAR)","lat":38.26673,"lon":34.23053},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (KOYAK)","ad":"KÖYÜN KENDİSİ (KOYAK)","lat":38.55894,"lon":34.12898},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (KÜÇÜKGÜVE)","ad":"KÖYÜN KENDİSİ (KÜÇÜKGÜVE)","lat":38.69448,"lon":33.88247},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (KÜÇÜKPÖRNEKLER)","ad":"KÖYÜN KENDİSİ (KÜÇÜKPÖRNEKLER)","lat":38.616,"lon":34.226},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (MACARLI)","ad":"KÖYÜN KENDİSİ (MACARLI)","lat":38.5922,"lon":33.98543},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (NURGÖZ)","ad":"KÖYÜN KENDİSİ (NURGÖZ)","lat":38.57602,"lon":34.01113},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (SALMANLI)","ad":"KÖYÜN KENDİSİ (SALMANLI)","lat":38.59627,"lon":34.15188},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (SAPMAZ)","ad":"KÖYÜN KENDİSİ (SAPMAZ)","lat":38.57659,"lon":33.89189},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (SARIAĞIL)","ad":"KÖYÜN KENDİSİ (SARIAĞIL)","lat":38.64004,"lon":34.20007},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (SELECİKÖSE)","ad":"KÖYÜN KENDİSİ (SELECİKÖSE)","lat":38.37754,"lon":33.93312},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (SUSADI)","ad":"KÖYÜN KENDİSİ (SUSADI)","lat":38.57181,"lon":34.21432},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (ŞEYHLER)","ad":"KÖYÜN KENDİSİ (ŞEYHLER)","lat":38.57463,"lon":34.05451},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (TAPTUK EMRE)","ad":"KÖYÜN KENDİSİ (TAPTUK EMRE)","lat":38.57332,"lon":34.12232},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (TATLICA)","ad":"KÖYÜN KENDİSİ (TATLICA)","lat":38.55836,"lon":34.28641},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (ULUKIŞLATOLU)","ad":"KÖYÜN KENDİSİ (ULUKIŞLATOLU)","lat":38.38469,"lon":33.88871},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (YAĞAN)","ad":"KÖYÜN KENDİSİ (YAĞAN)","lat":38.5527,"lon":34.03008},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (YALMAN)","ad":"KÖYÜN KENDİSİ (YALMAN)","lat":38.5155,"lon":34.42121},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (YALNIZCEVİZ)","ad":"KÖYÜN KENDİSİ (YALNIZCEVİZ)","lat":38.49902,"lon":34.16949},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (YANYURT)","ad":"KÖYÜN KENDİSİ (YANYURT)","lat":38.65488,"lon":34.13598},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (YAPILCAN)","ad":"KÖYÜN KENDİSİ (YAPILCAN)","lat":38.34951,"lon":33.90175},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÖYÜN KENDİSİ (YENİPINAR)","ad":"KÖYÜN KENDİSİ (YENİPINAR)","lat":38.17137,"lon":34.25663},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KURTULUŞ","ad":"KURTULUŞ","lat":38.35485,"lon":34.05196},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KURTULUŞ (DOĞANTARLA)","ad":"KURTULUŞ (DOĞANTARLA)","lat":38.37368,"lon":34.14926},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"KÜÇÜK BÖLCEK","ad":"KÜÇÜK BÖLCEK","lat":38.38465,"lon":33.99473},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"LALELİ","ad":"LALELİ","lat":38.35715,"lon":34.05863},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"MEDENİ","ad":"MEDENİ","lat":38.44555,"lon":33.97344},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"MEHMET AKİF ERSOY","ad":"MEHMET AKİF ERSOY","lat":38.35374,"lon":34.02086},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"MEYDAN","ad":"MEYDAN","lat":38.37816,"lon":34.02436},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"MİNARECİK","ad":"MİNARECİK","lat":38.37028,"lon":34.02695},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"MUHSİN ÇELEBİ","ad":"MUHSİN ÇELEBİ","lat":38.37296,"lon":34.02317},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"NAKKAŞ","ad":"NAKKAŞ","lat":38.38863,"lon":34.00053},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"ÖZ MEVKİİ (GÖKÇE)","ad":"ÖZ MEVKİİ (GÖKÇE)","lat":38.43962,"lon":34.13955},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"PARABAŞLI","ad":"PARABAŞLI","lat":38.46225,"lon":33.86567},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"PAŞACIK","ad":"PAŞACIK","lat":38.36451,"lon":34.02022},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"PEÇENEK (BÜYÜKGÜVE)","ad":"PEÇENEK (BÜYÜKGÜVE)","lat":38.68452,"lon":33.87846},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"PINAR","ad":"PINAR","lat":38.35258,"lon":34.04266},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"SANAYİ","ad":"SANAYİ","lat":38.39133,"lon":33.98913},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"SANAYİ CADDESİ (TATLICA)","ad":"SANAYİ CADDESİ (TATLICA)","lat":38.5749,"lon":34.23101},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"SANAYİ (TATLICA)","ad":"SANAYİ (TATLICA)","lat":38.5394,"lon":34.26787},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"SELÇUKLU","ad":"SELÇUKLU","lat":38.35467,"lon":34.01142},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"SİYEK MEVKİİ (GÖKÇE)","ad":"SİYEK MEVKİİ (GÖKÇE)","lat":38.38788,"lon":34.16409},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"SOFULAR","ad":"SOFULAR","lat":38.3743,"lon":34.02819},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"SOMUNCU BABA","ad":"SOMUNCU BABA","lat":38.40197,"lon":33.98183},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"ŞAHİNLER (ALTINKAYA)","ad":"ŞAHİNLER (ALTINKAYA)","lat":38.6706,"lon":33.80617},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"ŞAMLI","ad":"ŞAMLI","lat":38.38372,"lon":34.02346},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"ŞEYHHAMİT","ad":"ŞEYHHAMİT","lat":38.3807,"lon":34.03637},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"ŞİFAHANE","ad":"ŞİFAHANE","lat":38.393,"lon":34.02249},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"TACİN","ad":"TACİN","lat":38.3767,"lon":33.97936},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"TAŞPAZAR","ad":"TAŞPAZAR","lat":38.37035,"lon":34.02671},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"VATAN (KARKIN)","ad":"VATAN (KARKIN)","lat":38.22674,"lon":34.14929},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"VİRANŞEHİR VE DÖLEK MEVKİ (GÖKÇE)","ad":"VİRANŞEHİR VE DÖLEK MEVKİ (GÖKÇE)","lat":38.46564,"lon":34.20763},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"YAVUZ SELİM","ad":"YAVUZ SELİM","lat":38.17835,"lon":34.02536},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"YAVUZ SELİM (ARMUTLU)","ad":"YAVUZ SELİM (ARMUTLU)","lat":38.25378,"lon":33.83571},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"YAVUZ SULTAN SELİM","ad":"YAVUZ SULTAN SELİM","lat":38.3441,"lon":33.99695},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"YAVUZ (ULUKIŞLA)","ad":"YAVUZ (ULUKIŞLA)","lat":38.55417,"lon":33.75774},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"YENİ (ALTINKAYA)","ad":"YENİ (ALTINKAYA)","lat":38.61555,"lon":33.8128},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"YENİ CAMİ","ad":"YENİ CAMİ","lat":38.24833,"lon":33.99616},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"YENİ (DOĞANTARLA)","ad":"YENİ (DOĞANTARLA)","lat":38.36216,"lon":34.2171},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"YENİKENT (AKÇAKENT)","ad":"YENİKENT (AKÇAKENT)","lat":38.13613,"lon":33.9951},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"YENİMAHALLE","ad":"YENİMAHALLE","lat":38.40398,"lon":33.94679},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"YENİ (SEVİNÇLİ)","ad":"YENİ (SEVİNÇLİ)","lat":38.38685,"lon":34.08336},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"YEŞİLÇAM","ad":"YEŞİLÇAM","lat":38.46817,"lon":33.97419},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"YEŞİLYUR (SAPMAZ)","ad":"YEŞİLYUR (SAPMAZ)","lat":38.51674,"lon":33.8627},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"YUNUS EMRE","ad":"YUNUS EMRE","lat":38.43346,"lon":34.02038},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"ZAFER","ad":"ZAFER","lat":38.20057,"lon":34.20866},{"il":"Aksaray","ilce":"MERKEZ","mahalle":"ZİNCİRLİ","ad":"ZİNCİRLİ","lat":38.37256,"lon":34.02529},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"1. KÜME (AKPINAR)","ad":"1. KÜME (AKPINAR)","lat":38.77588,"lon":34.03931},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"2.KÜME (AKPINAR)","ad":"2.KÜME (AKPINAR)","lat":38.78711,"lon":34.01154},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"2.KÜME (SEKSENUŞAĞI)","ad":"2.KÜME (SEKSENUŞAĞI)","lat":38.72041,"lon":33.99953},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"3.KÜME (AKPINAR)","ad":"3.KÜME (AKPINAR)","lat":38.76129,"lon":34.00794},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"4.KÜME (AKPINAR)","ad":"4.KÜME (AKPINAR)","lat":38.75978,"lon":33.99983},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"AŞAĞI (OZANCIK)","ad":"AŞAĞI (OZANCIK)","lat":38.70045,"lon":34.24494},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"BAĞ KÜMESİ (ÇATİN)","ad":"BAĞ KÜMESİ (ÇATİN)","lat":38.67712,"lon":34.18177},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"BALCI","ad":"BALCI","lat":38.76662,"lon":34.10324},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"CAMIZLIK YAYLA (CAMUZLUK)","ad":"CAMIZLIK YAYLA (CAMUZLUK)","lat":38.66719,"lon":33.91901},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"CUMHURİYET (BOZKIR)","ad":"CUMHURİYET (BOZKIR)","lat":38.821,"lon":34.16084},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"ÇANKAYA","ad":"ÇANKAYA","lat":38.72836,"lon":34.03997},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"ÇETİNKAYA  KÜMESİ  (ÇATİN)","ad":"ÇETİNKAYA KÜMESİ (ÇATİN)","lat":38.67819,"lon":34.18344},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"ÇOKYATAN (HACIMAHMUTUŞAĞI)","ad":"ÇOKYATAN (HACIMAHMUTUŞAĞI)","lat":38.68398,"lon":33.75859},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"EKİNCİOĞLU (SARIKARAMAN)","ad":"EKİNCİOĞLU (SARIKARAMAN)","lat":38.81795,"lon":34.25035},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"ESENTEPE","ad":"ESENTEPE","lat":38.74279,"lon":34.06502},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"FATİH","ad":"FATİH","lat":38.73658,"lon":34.03877},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"HÜRRİYET (HARMANDALI)","ad":"HÜRRİYET (HARMANDALI)","lat":38.98272,"lon":34.003},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"İ.KARAPINAR (KARAPINAR)","ad":"İ.KARAPINAR (KARAPINAR)","lat":38.69237,"lon":33.90711},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"İSTİKLAL","ad":"İSTİKLAL","lat":38.73607,"lon":34.04424},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"KARAMANOĞLU (SARIKARAMAN)","ad":"KARAMANOĞLU (SARIKARAMAN)","lat":38.78487,"lon":34.22905},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"KARŞI","ad":"KARŞI","lat":38.7358,"lon":34.04817},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"KARŞI KÜME (ÇATİN)","ad":"KARŞI KÜME (ÇATİN)","lat":38.70361,"lon":34.22189},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"KARŞI (OZANCIK)","ad":"KARŞI (OZANCIK)","lat":38.66885,"lon":34.2549},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"KARŞIYAKA (HARMANDALI)","ad":"KARŞIYAKA (HARMANDALI)","lat":38.93934,"lon":33.95401},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"KIZILAY","ad":"KIZILAY","lat":38.7269,"lon":34.02949},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"KOCELİ KÜMESİ (ÇATİN)","ad":"KOCELİ KÜMESİ (ÇATİN)","lat":38.67985,"lon":34.18585},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"KÖYÜN KENDİSİ (AKPINAR)","ad":"KÖYÜN KENDİSİ (AKPINAR)","lat":38.75976,"lon":34.07339},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"KÖYÜN KENDİSİ (CAMUZLUK)","ad":"KÖYÜN KENDİSİ (CAMUZLUK)","lat":38.65185,"lon":33.9253},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"KÖYÜN KENDİSİ (CECELİ)","ad":"KÖYÜN KENDİSİ (CECELİ)","lat":38.75175,"lon":34.26301},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"KÖYÜN KENDİSİ (CUMALİ)","ad":"KÖYÜN KENDİSİ (CUMALİ)","lat":38.69276,"lon":34.14239},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"KÖYÜN KENDİSİ (ÇATİN)","ad":"KÖYÜN KENDİSİ (ÇATİN)","lat":38.66968,"lon":34.19035},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"KÖYÜN KENDİSİ (DURHASANLI)","ad":"KÖYÜN KENDİSİ (DURHASANLI)","lat":38.75776,"lon":34.24962},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"KÖYÜN KENDİSİ (GÖKKAYA)","ad":"KÖYÜN KENDİSİ (GÖKKAYA)","lat":38.71504,"lon":34.07961},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"KÖYÜN KENDİSİ (GÖKLER)","ad":"KÖYÜN KENDİSİ (GÖKLER)","lat":38.80361,"lon":34.07985},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"KÖYÜN KENDİSİ (HACIİBRAHİMUŞAĞI)","ad":"KÖYÜN KENDİSİ (HACIİBRAHİMUŞAĞI)","lat":38.72104,"lon":33.98391},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"KÖYÜN KENDİSİ (HACIMAHMUTUŞAĞI)","ad":"KÖYÜN KENDİSİ (HACIMAHMUTUŞAĞI)","lat":38.74776,"lon":33.96588},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"KÖYÜN KENDİSİ (HIDIRLI)","ad":"KÖYÜN KENDİSİ (HIDIRLI)","lat":38.69711,"lon":33.92882},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"KÖYÜN KENDİSİ (HOCABEYLİ)","ad":"KÖYÜN KENDİSİ (HOCABEYLİ)","lat":38.73289,"lon":34.00854},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"KÖYÜN KENDİSİ (KARAPINAR)","ad":"KÖYÜN KENDİSİ (KARAPINAR)","lat":38.66725,"lon":33.91731},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"KÖYÜN KENDİSİ (KÜMBET)","ad":"KÖYÜN KENDİSİ (KÜMBET)","lat":38.72054,"lon":34.20468},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"KÖYÜN KENDİSİ (NAMLIKIŞLA)","ad":"KÖYÜN KENDİSİ (NAMLIKIŞLA)","lat":38.77069,"lon":33.99582},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"KÖYÜN KENDİSİ (PINARBAŞI)","ad":"KÖYÜN KENDİSİ (PINARBAŞI)","lat":38.7357,"lon":33.90847},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"KÖYÜN KENDİSİ (PİRLİ)","ad":"KÖYÜN KENDİSİ (PİRLİ)","lat":38.74674,"lon":34.15398},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"KÖYÜN KENDİSİ (REŞADİYE)","ad":"KÖYÜN KENDİSİ (REŞADİYE)","lat":38.83219,"lon":34.24145},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"KÖYÜN KENDİSİ (SALARIALACA)","ad":"KÖYÜN KENDİSİ (SALARIALACA)","lat":38.86023,"lon":34.07136},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"KÖYÜN KENDİSİ (SALARIGÖDELER)","ad":"KÖYÜN KENDİSİ (SALARIGÖDELER)","lat":38.71735,"lon":34.16234},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"KÖYÜN KENDİSİ (SATANSARI)","ad":"KÖYÜN KENDİSİ (SATANSARI)","lat":38.80301,"lon":34.28918},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"KÖYÜN KENDİSİ (SEKSENUŞAĞI)","ad":"KÖYÜN KENDİSİ (SEKSENUŞAĞI)","lat":38.70589,"lon":34.02256},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"KÖYÜN KENDİSİ (YILDIRIMLAR)","ad":"KÖYÜN KENDİSİ (YILDIRIMLAR)","lat":38.68196,"lon":33.99788},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"KÜME 1 (SEKSENUŞAĞI)","ad":"KÜME 1 (SEKSENUŞAĞI)","lat":38.71692,"lon":34.01773},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"MALTEPE","ad":"MALTEPE","lat":38.72684,"lon":34.06561},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"MEHMET AKİF ERSOY","ad":"MEHMET AKİF ERSOY","lat":38.73867,"lon":34.04261},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"MUSALLA KÜMESİ (ÇATİN)","ad":"MUSALLA KÜMESİ (ÇATİN)","lat":38.70683,"lon":34.1907},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"OĞUZLAR1 (OĞUZLAR)","ad":"OĞUZLAR1 (OĞUZLAR)","lat":38.68084,"lon":33.94992},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"OĞUZLAR 2 (OĞUZLAR)","ad":"OĞUZLAR 2 (OĞUZLAR)","lat":38.6752,"lon":33.95844},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"ORTA KÜME (ÇATİN)","ad":"ORTA KÜME (ÇATİN)","lat":38.67852,"lon":34.18226},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"PLEVNE","ad":"PLEVNE","lat":38.75427,"lon":34.03227},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"ŞEHİT ERSOY (ÇİFTEVİ)","ad":"ŞEHİT ERSOY (ÇİFTEVİ)","lat":38.88261,"lon":34.05451},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"ŞEHİT MEHMET ALİ (ÇİFTEVİ)","ad":"ŞEHİT MEHMET ALİ (ÇİFTEVİ)","lat":38.82535,"lon":34.01992},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"ŞENER KÜMESİ (ÇATİN)","ad":"ŞENER KÜMESİ (ÇATİN)","lat":38.68053,"lon":34.18417},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"ŞHT.YZB.BAHTİYAR ER (DEVEDAMI)","ad":"ŞHT.YZB.BAHTİYAR ER (DEVEDAMI)","lat":38.97864,"lon":34.00975},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"YENİ","ad":"YENİ","lat":38.75454,"lon":34.05993},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"YEŞİLYURT (HARMANDALI)","ad":"YEŞİLYURT (HARMANDALI)","lat":38.92952,"lon":34.00065},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"YEŞİLYURT (SARIKARAMAN)","ad":"YEŞİLYURT (SARIKARAMAN)","lat":38.79098,"lon":34.15199},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"YİĞİTLER (DEVEDAMI)","ad":"YİĞİTLER (DEVEDAMI)","lat":38.93771,"lon":34.066},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"YUKARI (OZANCIK)","ad":"YUKARI (OZANCIK)","lat":38.67314,"lon":34.1987},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"YUNUS EMRE (SARIKARAMAN)","ad":"YUNUS EMRE (SARIKARAMAN)","lat":38.81943,"lon":34.1985},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"ZAFER","ad":"ZAFER","lat":38.76401,"lon":34.08071},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"ZAFER (BOZKIR)","ad":"ZAFER (BOZKIR)","lat":38.80658,"lon":34.12208},{"il":"Aksaray","ilce":"ORTAKÖY","mahalle":"ZAFER (ÇİFTEVİ)","ad":"ZAFER (ÇİFTEVİ)","lat":38.85813,"lon":34.06629},{"il":"Aksaray","ilce":"SARIYAHŞİ","mahalle":"15 TEMMUZ","ad":"15 TEMMUZ","lat":38.98348,"lon":33.846},{"il":"Aksaray","ilce":"SARIYAHŞİ","mahalle":"BOĞAZİÇİ (BOĞAZKÖY)","ad":"BOĞAZİÇİ (BOĞAZKÖY)","lat":38.95918,"lon":33.88548},{"il":"Aksaray","ilce":"SARIYAHŞİ","mahalle":"FATİH","ad":"FATİH","lat":38.96599,"lon":33.86991},{"il":"Aksaray","ilce":"SARIYAHŞİ","mahalle":"KARŞIYAKA","ad":"KARŞIYAKA","lat":39.00122,"lon":33.90248},{"il":"Aksaray","ilce":"SARIYAHŞİ","mahalle":"KIZILIRMAK","ad":"KIZILIRMAK","lat":39.00456,"lon":33.82765},{"il":"Aksaray","ilce":"SARIYAHŞİ","mahalle":"KÖYÜN KENDİSİ (BEKDİK)","ad":"KÖYÜN KENDİSİ (BEKDİK)","lat":39.05185,"lon":33.95747},{"il":"Aksaray","ilce":"SARIYAHŞİ","mahalle":"KÖYÜN KENDİSİ (DEMİRCİOBASI)","ad":"KÖYÜN KENDİSİ (DEMİRCİOBASI)","lat":38.98835,"lon":33.77515},{"il":"Aksaray","ilce":"SARIYAHŞİ","mahalle":"KÖYÜN KENDİSİ (SİPAHİLER)","ad":"KÖYÜN KENDİSİ (SİPAHİLER)","lat":38.93332,"lon":33.83349},{"il":"Aksaray","ilce":"SARIYAHŞİ","mahalle":"KÖYÜN KENDİSİ (YENİTORUNOBASI)","ad":"KÖYÜN KENDİSİ (YENİTORUNOBASI)","lat":38.99065,"lon":33.7439},{"il":"Aksaray","ilce":"SARIYAHŞİ","mahalle":"KURTULUŞ","ad":"KURTULUŞ","lat":39.03734,"lon":33.87217},{"il":"Aksaray","ilce":"SARIYAHŞİ","mahalle":"KURTULUŞ (BOĞAZKÖY)","ad":"KURTULUŞ (BOĞAZKÖY)","lat":38.99408,"lon":33.90625},{"il":"Aksaray","ilce":"SARIYAHŞİ","mahalle":"ÖZAL","ad":"ÖZAL","lat":38.98152,"lon":33.83641},{"il":"Aksaray","ilce":"SARIYAHŞİ","mahalle":"ŞAFAKTEPE","ad":"ŞAFAKTEPE","lat":38.98345,"lon":33.84404},{"il":"Aksaray","ilce":"SARIYAHŞİ","mahalle":"YAYLAK","ad":"YAYLAK","lat":38.954,"lon":33.79518},{"il":"Aksaray","ilce":"SARIYAHŞİ","mahalle":"YENİ (BOĞAZKÖY)","ad":"YENİ (BOĞAZKÖY)","lat":38.97646,"lon":33.88221},{"il":"Aksaray","ilce":"SARIYAHŞİ","mahalle":"YENİDOĞAN","ad":"YENİDOĞAN","lat":38.98579,"lon":33.84224},{"il":"Aksaray","ilce":"SULTANHANI","mahalle":"CUMHURİYET","ad":"CUMHURİYET","lat":38.34945,"lon":33.69679},{"il":"Aksaray","ilce":"SULTANHANI","mahalle":"GAZİ","ad":"GAZİ","lat":38.22367,"lon":33.5746},{"il":"Aksaray","ilce":"SULTANHANI","mahalle":"İSTİKAMET","ad":"İSTİKAMET","lat":38.24845,"lon":33.5359},{"il":"Aksaray","ilce":"SULTANHANI","mahalle":"KOYUNCU","ad":"KOYUNCU","lat":38.24763,"lon":33.55705},{"il":"Aksaray","ilce":"SULTANHANI","mahalle":"KÖYÜN KENDİSİ (YEŞİLTÖMEK)","ad":"KÖYÜN KENDİSİ (YEŞİLTÖMEK)","lat":38.3232,"lon":33.5184},{"il":"Aksaray","ilce":"SULTANHANI","mahalle":"SELÇUK","ad":"SELÇUK","lat":38.24467,"lon":33.55568},{"il":"Aksaray","ilce":"SULTANHANI","mahalle":"TÜRKİSTAN","ad":"TÜRKİSTAN","lat":38.25164,"lon":33.67844},{"il":"Aksaray","ilce":"SULTANHANI","mahalle":"ZAFER","ad":"ZAFER","lat":38.25232,"lon":33.56631}]
+[
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "GÜMÜŞTEPE",
+    "ad": "GÜMÜŞTEPE",
+    "lat": 38.90868,
+    "lon": 33.90325
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "İYDELİ (YAĞMURHÜYÜĞÜ)",
+    "ad": "İYDELİ (YAĞMURHÜYÜĞÜ)",
+    "lat": 38.69282,
+    "lon": 33.72559
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "KALE",
+    "ad": "KALE",
+    "lat": 38.86905,
+    "lon": 33.91564
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "KARAPINAR (YAĞMURHÜYÜĞÜ)",
+    "ad": "KARAPINAR (YAĞMURHÜYÜĞÜ)",
+    "lat": 38.71512,
+    "lon": 33.75248
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "KÖYÜN KENDİSİ (ABALI)",
+    "ad": "KÖYÜN KENDİSİ (ABALI)",
+    "lat": 38.87803,
+    "lon": 33.82141
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "KÖYÜN KENDİSİ (ABDİUŞAĞI)",
+    "ad": "KÖYÜN KENDİSİ (ABDİUŞAĞI)",
+    "lat": 38.79904,
+    "lon": 33.94561
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "KÖYÜN KENDİSİ (AHIRLI)",
+    "ad": "KÖYÜN KENDİSİ (AHIRLI)",
+    "lat": 38.73491,
+    "lon": 33.7951
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "KÖYÜN KENDİSİ (AVŞAR)",
+    "ad": "KÖYÜN KENDİSİ (AVŞAR)",
+    "lat": 38.7636,
+    "lon": 33.79584
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "KÖYÜN KENDİSİ (CAMİLİ)",
+    "ad": "KÖYÜN KENDİSİ (CAMİLİ)",
+    "lat": 38.90084,
+    "lon": 33.97744
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "KÖYÜN KENDİSİ (ÇATALÇEŞME)",
+    "ad": "KÖYÜN KENDİSİ (ÇATALÇEŞME)",
+    "lat": 38.77144,
+    "lon": 33.958
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "KÖYÜN KENDİSİ (DADILAR)",
+    "ad": "KÖYÜN KENDİSİ (DADILAR)",
+    "lat": 38.83558,
+    "lon": 34.00088
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "KÖYÜN KENDİSİ (DEMİRCİLİ)",
+    "ad": "KÖYÜN KENDİSİ (DEMİRCİLİ)",
+    "lat": 38.84941,
+    "lon": 33.80626
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "KÖYÜN KENDİSİ (GÖLLÜ)",
+    "ad": "KÖYÜN KENDİSİ (GÖLLÜ)",
+    "lat": 38.86273,
+    "lon": 33.8469
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "KÖYÜN KENDİSİ (GÖYNÜK)",
+    "ad": "KÖYÜN KENDİSİ (GÖYNÜK)",
+    "lat": 38.77406,
+    "lon": 33.81348
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "KÖYÜN KENDİSİ (GÜZELÖZ)",
+    "ad": "KÖYÜN KENDİSİ (GÜZELÖZ)",
+    "lat": 38.91136,
+    "lon": 33.89153
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "KÖYÜN KENDİSİ (HACIAHMETLİDAVUTLU)",
+    "ad": "KÖYÜN KENDİSİ (HACIAHMETLİDAVUTLU)",
+    "lat": 38.8261,
+    "lon": 33.85511
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "KÖYÜN KENDİSİ (HACIAHMETLİTEPEKÖY)",
+    "ad": "KÖYÜN KENDİSİ (HACIAHMETLİTEPEKÖY)",
+    "lat": 38.81951,
+    "lon": 33.98771
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "KÖYÜN KENDİSİ (HACIİSMAİLLİ)",
+    "ad": "KÖYÜN KENDİSİ (HACIİSMAİLLİ)",
+    "lat": 38.82063,
+    "lon": 33.91752
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "KÖYÜN KENDİSİ (KAŞIÇALIKLAR)",
+    "ad": "KÖYÜN KENDİSİ (KAŞIÇALIKLAR)",
+    "lat": 38.78775,
+    "lon": 33.87122
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "KÖYÜN KENDİSİ (KEDERLİ)",
+    "ad": "KÖYÜN KENDİSİ (KEDERLİ)",
+    "lat": 38.85559,
+    "lon": 33.99062
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "KÖYÜN KENDİSİ (KILIÇLI)",
+    "ad": "KÖYÜN KENDİSİ (KILIÇLI)",
+    "lat": 38.83048,
+    "lon": 33.86335
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "KÖYÜN KENDİSİ (KIRIMİNİ)",
+    "ad": "KÖYÜN KENDİSİ (KIRIMİNİ)",
+    "lat": 38.80225,
+    "lon": 33.80156
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "KÖYÜN KENDİSİ (KURTİNİ)",
+    "ad": "KÖYÜN KENDİSİ (KURTİNİ)",
+    "lat": 38.74815,
+    "lon": 33.83761
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "KÖYÜN KENDİSİ (KÜTÜKLÜ)",
+    "ad": "KÖYÜN KENDİSİ (KÜTÜKLÜ)",
+    "lat": 38.9666,
+    "lon": 33.94111
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "KÖYÜN KENDİSİ (OYMAAĞAÇ)",
+    "ad": "KÖYÜN KENDİSİ (OYMAAĞAÇ)",
+    "lat": 38.72817,
+    "lon": 33.86003
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "KÖYÜN KENDİSİ (SARIAĞIL)",
+    "ad": "KÖYÜN KENDİSİ (SARIAĞIL)",
+    "lat": 38.83915,
+    "lon": 33.88979
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "KÖYÜN KENDİSİ (SARIHASANLI)",
+    "ad": "KÖYÜN KENDİSİ (SARIHASANLI)",
+    "lat": 38.92239,
+    "lon": 33.8676
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "KÖYÜN KENDİSİ (SOFULAR)",
+    "ad": "KÖYÜN KENDİSİ (SOFULAR)",
+    "lat": 38.78981,
+    "lon": 33.8316
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "KÖYÜN KENDİSİ (YAĞMURHÜYÜĞÜ)",
+    "ad": "KÖYÜN KENDİSİ (YAĞMURHÜYÜĞÜ)",
+    "lat": 38.78073,
+    "lon": 33.91143
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "KÖYÜN KENDİSİ (YENİCE)",
+    "ad": "KÖYÜN KENDİSİ (YENİCE)",
+    "lat": 38.7736,
+    "lon": 33.92477
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "YENİ",
+    "ad": "YENİ",
+    "lat": 38.87522,
+    "lon": 33.91527
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "YENİŞABANLI",
+    "ad": "YENİŞABANLI",
+    "lat": 38.88363,
+    "lon": 33.87021
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "YURTSEVER",
+    "ad": "YURTSEVER",
+    "lat": 38.89742,
+    "lon": 33.93646
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "AĞAÇÖREN",
+    "mahalle": "ZAFER",
+    "ad": "ZAFER",
+    "lat": 38.86906,
+    "lon": 33.9174
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "AYDINLIK",
+    "ad": "AYDINLIK",
+    "lat": 38.17767,
+    "lon": 33.4315
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "BAYRAMDÜĞÜN KÜMESİ (BAYRAMDÜĞÜN)",
+    "ad": "BAYRAMDÜĞÜN KÜMESİ (BAYRAMDÜĞÜN)",
+    "lat": 38.15153,
+    "lon": 33.28766
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "BEZİRCİ YAYLASI (GÜNEŞLİ)",
+    "ad": "BEZİRCİ YAYLASI (GÜNEŞLİ)",
+    "lat": 38.14027,
+    "lon": 33.54622
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "BUTACI YAYLASI (BAŞARAN)",
+    "ad": "BUTACI YAYLASI (BAŞARAN)",
+    "lat": 38.07803,
+    "lon": 33.53938
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "CAMİKEBİR",
+    "ad": "CAMİKEBİR",
+    "lat": 38.30847,
+    "lon": 33.43207
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "CELİL KÜMESİ (CELİL)",
+    "ad": "CELİL KÜMESİ (CELİL)",
+    "lat": 38.26998,
+    "lon": 33.3156
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "CUMHURİYET",
+    "ad": "CUMHURİYET",
+    "lat": 38.37587,
+    "lon": 33.37172
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "ÇAĞLAK YAYLASI (GÜNEŞLİ)",
+    "ad": "ÇAĞLAK YAYLASI (GÜNEŞLİ)",
+    "lat": 38.18608,
+    "lon": 33.5195
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "ÇİMYAYLA (BÜĞET)",
+    "ad": "ÇİMYAYLA (BÜĞET)",
+    "lat": 38.29866,
+    "lon": 33.49112
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "ÇUKURYURT KÜMESİ (ÇUKURYURT)",
+    "ad": "ÇUKURYURT KÜMESİ (ÇUKURYURT)",
+    "lat": 38.28513,
+    "lon": 33.25897
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "ÇULFA",
+    "ad": "ÇULFA",
+    "lat": 38.28014,
+    "lon": 33.24794
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "DERE YAYLASI (GÜNEŞLİ)",
+    "ad": "DERE YAYLASI (GÜNEŞLİ)",
+    "lat": 38.13214,
+    "lon": 33.48794
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "FATİH",
+    "ad": "FATİH",
+    "lat": 38.37179,
+    "lon": 33.2646
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "FEVZİ ÇAKMAK",
+    "ad": "FEVZİ ÇAKMAK",
+    "lat": 38.23646,
+    "lon": 33.36826
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "GEDİK YAYLASI (GÜNEŞLİ)",
+    "ad": "GEDİK YAYLASI (GÜNEŞLİ)",
+    "lat": 38.08198,
+    "lon": 33.5352
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "GÖZERLİ YAYLASI (GÜNEŞLİ)",
+    "ad": "GÖZERLİ YAYLASI (GÜNEŞLİ)",
+    "lat": 38.10565,
+    "lon": 33.49655
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "GÜLLÜDERE YAYLASI (GÜNEŞLİ)",
+    "ad": "GÜLLÜDERE YAYLASI (GÜNEŞLİ)",
+    "lat": 38.10899,
+    "lon": 33.52463
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "HOCA YAYLASI (BÜĞET)",
+    "ad": "HOCA YAYLASI (BÜĞET)",
+    "lat": 38.33365,
+    "lon": 33.47356
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "HÜRRİYET",
+    "ad": "HÜRRİYET",
+    "lat": 38.12286,
+    "lon": 33.4423
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "İSTİKLAL",
+    "ad": "İSTİKLAL",
+    "lat": 38.09863,
+    "lon": 33.41088
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "KARŞIYAKA",
+    "ad": "KARŞIYAKA",
+    "lat": 38.35031,
+    "lon": 33.45298
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "KATRANCI KÜMESİ (KATRANCI)",
+    "ad": "KATRANCI KÜMESİ (KATRANCI)",
+    "lat": 38.28639,
+    "lon": 33.33015
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "KAYACIK",
+    "ad": "KAYACIK",
+    "lat": 38.25626,
+    "lon": 33.49047
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "KÖYÜN KENDİSİ (BAŞARAN)",
+    "ad": "KÖYÜN KENDİSİ (BAŞARAN)",
+    "lat": 38.02643,
+    "lon": 33.55857
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "KÖYÜN KENDİSİ (BÜĞET)",
+    "ad": "KÖYÜN KENDİSİ (BÜĞET)",
+    "lat": 38.34251,
+    "lon": 33.46459
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "KÖYÜN KENDİSİ (FİLİKÇİ)",
+    "ad": "KÖYÜN KENDİSİ (FİLİKÇİ)",
+    "lat": 38.2925,
+    "lon": 33.30601
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "KÖYÜN KENDİSİ (GÜMÜŞDÜĞÜN)",
+    "ad": "KÖYÜN KENDİSİ (GÜMÜŞDÜĞÜN)",
+    "lat": 38.26299,
+    "lon": 33.34609
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "KÖYÜN KENDİSİ (GÜNEŞLİ)",
+    "ad": "KÖYÜN KENDİSİ (GÜNEŞLİ)",
+    "lat": 38.15696,
+    "lon": 33.53602
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "KÖYÜN KENDİSİ (KÖKEZ)",
+    "ad": "KÖYÜN KENDİSİ (KÖKEZ)",
+    "lat": 38.27737,
+    "lon": 33.21587
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "MERKEZ",
+    "ad": "MERKEZ",
+    "lat": 38.37143,
+    "lon": 33.499
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "MİMAR SİNAN",
+    "ad": "MİMAR SİNAN",
+    "lat": 38.37564,
+    "lon": 33.37196
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "SAĞSAK KÜMESİ (SAĞSAK)",
+    "ad": "SAĞSAK KÜMESİ (SAĞSAK)",
+    "lat": 38.31901,
+    "lon": 33.3446
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "ŞAVVEL YAYLASI (BÜĞET)",
+    "ad": "ŞAVVEL YAYLASI (BÜĞET)",
+    "lat": 38.33186,
+    "lon": 33.47477
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "YAVUZ SULTAN SELİM",
+    "ad": "YAVUZ SULTAN SELİM",
+    "lat": 38.30456,
+    "lon": 33.1871
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "YENİ",
+    "ad": "YENİ",
+    "lat": 38.27417,
+    "lon": 33.47127
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "YEŞİLYURT",
+    "ad": "YEŞİLYURT",
+    "lat": 38.20127,
+    "lon": 33.5094
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "YILDIRIM",
+    "ad": "YILDIRIM",
+    "lat": 38.19036,
+    "lon": 33.36231
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "YUKARIBEZİRCİ YAYLASI (GÜNEŞLİ)",
+    "ad": "YUKARIBEZİRCİ YAYLASI (GÜNEŞLİ)",
+    "lat": 38.11883,
+    "lon": 33.55708
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ESKİL",
+    "mahalle": "ZAFER",
+    "ad": "ZAFER",
+    "lat": 38.25657,
+    "lon": 33.29063
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜLAĞAÇ",
+    "mahalle": "ATATÜRK",
+    "ad": "ATATÜRK",
+    "lat": 38.41502,
+    "lon": 34.34204
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜLAĞAÇ",
+    "mahalle": "CUMHURİYET",
+    "ad": "CUMHURİYET",
+    "lat": 38.50636,
+    "lon": 34.30372
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜLAĞAÇ",
+    "mahalle": "CUMHURİYET (BEKARLAR)",
+    "ad": "CUMHURİYET (BEKARLAR)",
+    "lat": 38.39851,
+    "lon": 34.39772
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜLAĞAÇ",
+    "mahalle": "ESKİCAMİ",
+    "ad": "ESKİCAMİ",
+    "lat": 38.42303,
+    "lon": 34.25281
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜLAĞAÇ",
+    "mahalle": "FATİH",
+    "ad": "FATİH",
+    "lat": 38.40784,
+    "lon": 34.36793
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜLAĞAÇ",
+    "mahalle": "FATİH (SOFULAR)",
+    "ad": "FATİH (SOFULAR)",
+    "lat": 38.38008,
+    "lon": 34.47531
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜLAĞAÇ",
+    "mahalle": "FEVZİ ÇAKMAK (SOFULAR)",
+    "ad": "FEVZİ ÇAKMAK (SOFULAR)",
+    "lat": 38.38062,
+    "lon": 34.41229
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜLAĞAÇ",
+    "mahalle": "HÜRREM (BEKARLAR)",
+    "ad": "HÜRREM (BEKARLAR)",
+    "lat": 38.37126,
+    "lon": 34.43952
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜLAĞAÇ",
+    "mahalle": "HÜRRİYET",
+    "ad": "HÜRRİYET",
+    "lat": 38.38769,
+    "lon": 34.34562
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜLAĞAÇ",
+    "mahalle": "HÜRRİYET (BEKARLAR)",
+    "ad": "HÜRRİYET (BEKARLAR)",
+    "lat": 38.43779,
+    "lon": 34.43539
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜLAĞAÇ",
+    "mahalle": "İSTİKLAL",
+    "ad": "İSTİKLAL",
+    "lat": 38.42466,
+    "lon": 34.30926
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜLAĞAÇ",
+    "mahalle": "KALEALTI",
+    "ad": "KALEALTI",
+    "lat": 38.37714,
+    "lon": 34.28137
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜLAĞAÇ",
+    "mahalle": "KARŞIYAKA",
+    "ad": "KARŞIYAKA",
+    "lat": 38.44902,
+    "lon": 34.23395
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜLAĞAÇ",
+    "mahalle": "KAYABAŞI (BEKARLAR)",
+    "ad": "KAYABAŞI (BEKARLAR)",
+    "lat": 38.44558,
+    "lon": 34.44681
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜLAĞAÇ",
+    "mahalle": "KOYUNLU",
+    "ad": "KOYUNLU",
+    "lat": 38.47777,
+    "lon": 34.37807
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜLAĞAÇ",
+    "mahalle": "KÖYÜN KENDİSİ (AKMEZAR)",
+    "ad": "KÖYÜN KENDİSİ (AKMEZAR)",
+    "lat": 38.47957,
+    "lon": 34.31981
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜLAĞAÇ",
+    "mahalle": "KÖYÜN KENDİSİ (CAMİLİÖREN)",
+    "ad": "KÖYÜN KENDİSİ (CAMİLİÖREN)",
+    "lat": 38.51953,
+    "lon": 34.39949
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜLAĞAÇ",
+    "mahalle": "KÖYÜN KENDİSİ (ÇATALSU)",
+    "ad": "KÖYÜN KENDİSİ (ÇATALSU)",
+    "lat": 38.43716,
+    "lon": 34.22843
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜLAĞAÇ",
+    "mahalle": "KÖYÜN KENDİSİ (KIZILKAYA)",
+    "ad": "KÖYÜN KENDİSİ (KIZILKAYA)",
+    "lat": 38.37432,
+    "lon": 34.24854
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜLAĞAÇ",
+    "mahalle": "KÖYÜN KENDİSİ (OSMANLI)",
+    "ad": "KÖYÜN KENDİSİ (OSMANLI)",
+    "lat": 38.51475,
+    "lon": 34.35023
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜLAĞAÇ",
+    "mahalle": "KÖYÜN KENDİSİ (PINARBAŞI)",
+    "ad": "KÖYÜN KENDİSİ (PINARBAŞI)",
+    "lat": 38.4801,
+    "lon": 34.28698
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜLAĞAÇ",
+    "mahalle": "KÖYÜN KENDİSİ (SÜLEYMANHÜYÜĞÜ)",
+    "ad": "KÖYÜN KENDİSİ (SÜLEYMANHÜYÜĞÜ)",
+    "lat": 38.51147,
+    "lon": 34.34017
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜLAĞAÇ",
+    "mahalle": "KURTULUŞ",
+    "ad": "KURTULUŞ",
+    "lat": 38.4403,
+    "lon": 34.2856
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜLAĞAÇ",
+    "mahalle": "MEYDAN",
+    "ad": "MEYDAN",
+    "lat": 38.39496,
+    "lon": 34.34195
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜLAĞAÇ",
+    "mahalle": "PINARBAŞI",
+    "ad": "PINARBAŞI",
+    "lat": 38.48035,
+    "lon": 34.39198
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜLAĞAÇ",
+    "mahalle": "TUZLA",
+    "ad": "TUZLA",
+    "lat": 38.42211,
+    "lon": 34.36323
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜLAĞAÇ",
+    "mahalle": "YAVUZ SELİM (SOFULAR)",
+    "ad": "YAVUZ SELİM (SOFULAR)",
+    "lat": 38.35832,
+    "lon": 34.43604
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜLAĞAÇ",
+    "mahalle": "YENİ",
+    "ad": "YENİ",
+    "lat": 38.40083,
+    "lon": 34.34344
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜLAĞAÇ",
+    "mahalle": "YENİPAZAR",
+    "ad": "YENİPAZAR",
+    "lat": 38.37905,
+    "lon": 34.28783
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜLAĞAÇ",
+    "mahalle": "ZAFER",
+    "ad": "ZAFER",
+    "lat": 38.45907,
+    "lon": 34.23275
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜZELYURT",
+    "mahalle": "AKPINAR",
+    "ad": "AKPINAR",
+    "lat": 38.26685,
+    "lon": 34.26414
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜZELYURT",
+    "mahalle": "AKYAMAÇ",
+    "ad": "AKYAMAÇ",
+    "lat": 38.32497,
+    "lon": 34.37279
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜZELYURT",
+    "mahalle": "AŞAĞI",
+    "ad": "AŞAĞI",
+    "lat": 38.27625,
+    "lon": 34.37073
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜZELYURT",
+    "mahalle": "HARMANLIK",
+    "ad": "HARMANLIK",
+    "lat": 38.26987,
+    "lon": 34.27003
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜZELYURT",
+    "mahalle": "KARŞIYAKA",
+    "ad": "KARŞIYAKA",
+    "lat": 38.2408,
+    "lon": 34.30682
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜZELYURT",
+    "mahalle": "KAYAALTI",
+    "ad": "KAYAALTI",
+    "lat": 38.30763,
+    "lon": 34.29986
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜZELYURT",
+    "mahalle": "KAYAARDI",
+    "ad": "KAYAARDI",
+    "lat": 38.26094,
+    "lon": 34.33135
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜZELYURT",
+    "mahalle": "KÖPRÜBAŞI",
+    "ad": "KÖPRÜBAŞI",
+    "lat": 38.31583,
+    "lon": 34.29497
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜZELYURT",
+    "mahalle": "KÖYÜN KENDİSİ (ALANYURT)",
+    "ad": "KÖYÜN KENDİSİ (ALANYURT)",
+    "lat": 38.34976,
+    "lon": 34.3232
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜZELYURT",
+    "mahalle": "KÖYÜN KENDİSİ (BELİSIRMA)",
+    "ad": "KÖYÜN KENDİSİ (BELİSIRMA)",
+    "lat": 38.2963,
+    "lon": 34.30377
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜZELYURT",
+    "mahalle": "KÖYÜN KENDİSİ (BOZCAYURT)",
+    "ad": "KÖYÜN KENDİSİ (BOZCAYURT)",
+    "lat": 38.3477,
+    "lon": 34.39249
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜZELYURT",
+    "mahalle": "KÖYÜN KENDİSİ (GAZİEMİR)",
+    "ad": "KÖYÜN KENDİSİ (GAZİEMİR)",
+    "lat": 38.36067,
+    "lon": 34.39207
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜZELYURT",
+    "mahalle": "KÖYÜN KENDİSİ (SİVRİHİSAR)",
+    "ad": "KÖYÜN KENDİSİ (SİVRİHİSAR)",
+    "lat": 38.29261,
+    "lon": 34.42252
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜZELYURT",
+    "mahalle": "KÖYÜN KENDİSİ (UZUNKAYA)",
+    "ad": "KÖYÜN KENDİSİ (UZUNKAYA)",
+    "lat": 38.31695,
+    "lon": 34.18394
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜZELYURT",
+    "mahalle": "KÖYÜN KENDİSİ (YAPRAKHİSAR)",
+    "ad": "KÖYÜN KENDİSİ (YAPRAKHİSAR)",
+    "lat": 38.30615,
+    "lon": 34.30086
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜZELYURT",
+    "mahalle": "MEYDAN (ILISU)",
+    "ad": "MEYDAN (ILISU)",
+    "lat": 38.25664,
+    "lon": 34.34937
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜZELYURT",
+    "mahalle": "YENİ",
+    "ad": "YENİ",
+    "lat": 38.2739,
+    "lon": 34.37591
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜZELYURT",
+    "mahalle": "YENİ (ILISU)",
+    "ad": "YENİ (ILISU)",
+    "lat": 38.2525,
+    "lon": 34.33853
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "GÜZELYURT",
+    "mahalle": "YUKARI",
+    "ad": "YUKARI",
+    "lat": 38.34159,
+    "lon": 34.35906
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "1.KÜME (HIRKATOL)",
+    "ad": "1.KÜME (HIRKATOL)",
+    "lat": 38.41163,
+    "lon": 33.94159
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "1.KÜME (YENİPINAR)",
+    "ad": "1.KÜME (YENİPINAR)",
+    "lat": 38.21901,
+    "lon": 34.25783
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "2.KÜME (HIRKATOL)",
+    "ad": "2.KÜME (HIRKATOL)",
+    "lat": 38.43241,
+    "lon": 33.9466
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "2.KÜME (YENİPINAR)",
+    "ad": "2.KÜME (YENİPINAR)",
+    "lat": 38.17572,
+    "lon": 34.25746
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "3.KÜME (HIRKATOL)",
+    "ad": "3.KÜME (HIRKATOL)",
+    "lat": 38.42141,
+    "lon": 33.91371
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "3.KÜME (YENİPINAR)",
+    "ad": "3.KÜME (YENİPINAR)",
+    "lat": 38.17043,
+    "lon": 34.25101
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "4.KÜME (YENİPINAR)",
+    "ad": "4.KÜME (YENİPINAR)",
+    "lat": 38.17432,
+    "lon": 34.2544
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "5.KÜME (YENİPINAR)",
+    "ad": "5.KÜME (YENİPINAR)",
+    "lat": 38.17221,
+    "lon": 34.25456
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "6.KÜME (YENİPINAR)",
+    "ad": "6.KÜME (YENİPINAR)",
+    "lat": 38.20965,
+    "lon": 34.26817
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "AKSEKİ (İNCESU)",
+    "ad": "AKSEKİ (İNCESU)",
+    "lat": 38.17849,
+    "lon": 33.86154
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "ALASAKALLI",
+    "ad": "ALASAKALLI",
+    "lat": 38.43744,
+    "lon": 33.80813
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "ALAYHAN MEZRASI (ALAYHANI)",
+    "ad": "ALAYHAN MEZRASI (ALAYHANI)",
+    "lat": 38.53007,
+    "lon": 34.3555
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "ARATOL BAHÇELİ",
+    "ad": "ARATOL BAHÇELİ",
+    "lat": 38.36804,
+    "lon": 33.94405
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "ARATOL İSTİKLAL",
+    "ad": "ARATOL İSTİKLAL",
+    "lat": 38.3758,
+    "lon": 33.95765
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "AŞAĞI (TATLICA)",
+    "ad": "AŞAĞI (TATLICA)",
+    "lat": 38.57426,
+    "lon": 34.28738
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "ATATÜRK  (KARAÖREN)",
+    "ad": "ATATÜRK (KARAÖREN)",
+    "lat": 38.275,
+    "lon": 34.13933
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "ATATÜRK (KUTLU)",
+    "ad": "ATATÜRK (KUTLU)",
+    "lat": 38.33181,
+    "lon": 33.83981
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "AYDINLAR",
+    "ad": "AYDINLAR",
+    "lat": 38.2154,
+    "lon": 34.18697
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "BAGYOLU (TATLICA)",
+    "ad": "BAGYOLU (TATLICA)",
+    "lat": 38.54009,
+    "lon": 34.26688
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "BAĞ YOLU (TATLICA)",
+    "ad": "BAĞ YOLU (TATLICA)",
+    "lat": 38.57993,
+    "lon": 34.28145
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "BAHÇELİ",
+    "ad": "BAHÇELİ",
+    "lat": 38.37085,
+    "lon": 34.04118
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "BAHÇELİEVLER (ACIPINAR)",
+    "ad": "BAHÇELİEVLER (ACIPINAR)",
+    "lat": 38.52459,
+    "lon": 33.84982
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "BAHÇELİEVLER (YUVA)",
+    "ad": "BAHÇELİEVLER (YUVA)",
+    "lat": 38.2742,
+    "lon": 34.18081
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "BAHÇESARAY",
+    "ad": "BAHÇESARAY",
+    "lat": 38.33615,
+    "lon": 33.99364
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "BAYRAMBABA",
+    "ad": "BAYRAMBABA",
+    "lat": 38.38553,
+    "lon": 34.04734
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "BEDİR MUHTAR",
+    "ad": "BEDİR MUHTAR",
+    "lat": 38.38225,
+    "lon": 34.03447
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "BEYAZSARAY (SARAYHAN)",
+    "ad": "BEYAZSARAY (SARAYHAN)",
+    "lat": 38.63662,
+    "lon": 33.83972
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "BİRLİK (ALTINKAYA)",
+    "ad": "BİRLİK (ALTINKAYA)",
+    "lat": 38.70574,
+    "lon": 33.82914
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "BOĞAZİÇİ",
+    "ad": "BOĞAZİÇİ",
+    "lat": 38.52012,
+    "lon": 33.98389
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "BÜYÜK BÖLCEK",
+    "ad": "BÜYÜK BÖLCEK",
+    "lat": 38.36865,
+    "lon": 34.01733
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "CAMİİ (TATLICA)",
+    "ad": "CAMİİ (TATLICA)",
+    "lat": 38.55727,
+    "lon": 34.23986
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "CAMİKEBİR (İNCESU)",
+    "ad": "CAMİKEBİR (İNCESU)",
+    "lat": 38.22626,
+    "lon": 33.74769
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "CAMİ (TATLICA)",
+    "ad": "CAMİ (TATLICA)",
+    "lat": 38.53919,
+    "lon": 34.2686
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "CİTKİRYOLU (TATLICA)",
+    "ad": "CİTKİRYOLU (TATLICA)",
+    "lat": 38.53491,
+    "lon": 34.26833
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "COĞLAKİ",
+    "ad": "COĞLAKİ",
+    "lat": 38.37803,
+    "lon": 34.04617
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "CUMHURİYET",
+    "ad": "CUMHURİYET",
+    "lat": 38.19472,
+    "lon": 34.19539
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "CUMHURİYET (KARKIN)",
+    "ad": "CUMHURİYET (KARKIN)",
+    "lat": 38.21258,
+    "lon": 34.17684
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "CUMHURİYET (YUVA)",
+    "ad": "CUMHURİYET (YUVA)",
+    "lat": 38.29101,
+    "lon": 34.15113
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "ÇALIŞKAN",
+    "ad": "ÇALIŞKAN",
+    "lat": 38.46901,
+    "lon": 33.80155
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "ÇERDİĞİN",
+    "ad": "ÇERDİĞİN",
+    "lat": 38.37817,
+    "lon": 34.03174
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "ÇİFTLİK",
+    "ad": "ÇİFTLİK",
+    "lat": 38.38452,
+    "lon": 33.99452
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "ÇİMELİ",
+    "ad": "ÇİMELİ",
+    "lat": 38.49996,
+    "lon": 33.94441
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "ÇİTÇİR YOLU (TATLICA)",
+    "ad": "ÇİTÇİR YOLU (TATLICA)",
+    "lat": 38.57952,
+    "lon": 34.26633
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "DERE",
+    "ad": "DERE",
+    "lat": 38.37439,
+    "lon": 34.02806
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "DİVANOĞLU",
+    "ad": "DİVANOĞLU",
+    "lat": 38.31991,
+    "lon": 34.05293
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "EREĞLİKAPI",
+    "ad": "EREĞLİKAPI",
+    "lat": 38.36854,
+    "lon": 34.02984
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "ERENLER",
+    "ad": "ERENLER",
+    "lat": 38.26445,
+    "lon": 33.99948
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "ERENLER OSB",
+    "ad": "ERENLER OSB",
+    "lat": 38.27816,
+    "lon": 34.02501
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "FATİH",
+    "ad": "FATİH",
+    "lat": 38.47329,
+    "lon": 33.97514
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "FATİH (ACIPINAR)",
+    "ad": "FATİH (ACIPINAR)",
+    "lat": 38.57861,
+    "lon": 33.88202
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "FATİH (KUTLU)",
+    "ad": "FATİH (KUTLU)",
+    "lat": 38.25894,
+    "lon": 33.92515
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "FATİH (SEVİNÇLİ)",
+    "ad": "FATİH (SEVİNÇLİ)",
+    "lat": 38.38382,
+    "lon": 34.06415
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "FATİH (ULUKIŞLA)",
+    "ad": "FATİH (ULUKIŞLA)",
+    "lat": 38.52613,
+    "lon": 33.77749
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "GAZİ",
+    "ad": "GAZİ",
+    "lat": 38.35765,
+    "lon": 33.79666
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "GENÇ OSMAN (ARMUTLU)",
+    "ad": "GENÇ OSMAN (ARMUTLU)",
+    "lat": 38.22635,
+    "lon": 33.93691
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "GÜLHANE",
+    "ad": "GÜLHANE",
+    "lat": 38.48441,
+    "lon": 33.95126
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "HACIHASANLI",
+    "ad": "HACIHASANLI",
+    "lat": 38.3722,
+    "lon": 34.03204
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "HACILAR HARMANI",
+    "ad": "HACILAR HARMANI",
+    "lat": 38.3445,
+    "lon": 33.98533
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "HAMİDİYE",
+    "ad": "HAMİDİYE",
+    "lat": 38.37177,
+    "lon": 34.03051
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "HASAS",
+    "ad": "HASAS",
+    "lat": 38.38852,
+    "lon": 34.01782
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "HÜRRİYET",
+    "ad": "HÜRRİYET",
+    "lat": 38.46118,
+    "lon": 33.77227
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "HÜRRİYET (AKÇAKENT)",
+    "ad": "HÜRRİYET (AKÇAKENT)",
+    "lat": 38.11035,
+    "lon": 34.04538
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "İSTİKLAL",
+    "ad": "İSTİKLAL",
+    "lat": 38.36688,
+    "lon": 33.7001
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KALANLAR",
+    "ad": "KALANLAR",
+    "lat": 38.38606,
+    "lon": 34.06233
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KARŞIYAKA (İNCESU)",
+    "ad": "KARŞIYAKA (İNCESU)",
+    "lat": 38.17368,
+    "lon": 33.76384
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KILIÇASLAN",
+    "ad": "KILIÇASLAN",
+    "lat": 38.36366,
+    "lon": 34.03504
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KIRIMLI",
+    "ad": "KIRIMLI",
+    "lat": 38.29102,
+    "lon": 33.99342
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KIRIMLI OSB",
+    "ad": "KIRIMLI OSB",
+    "lat": 38.29811,
+    "lon": 34.01764
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KİRAZLI",
+    "ad": "KİRAZLI",
+    "lat": 38.25928,
+    "lon": 34.23331
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KOCATEPE (DOĞANTARLA)",
+    "ad": "KOCATEPE (DOĞANTARLA)",
+    "lat": 38.39234,
+    "lon": 34.24088
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖSELİ",
+    "ad": "KÖSELİ",
+    "lat": 38.40846,
+    "lon": 33.83972
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (AĞZIKARAHAN)",
+    "ad": "KÖYÜN KENDİSİ (AĞZIKARAHAN)",
+    "lat": 38.47503,
+    "lon": 34.12567
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (AKHİSAR)",
+    "ad": "KÖYÜN KENDİSİ (AKHİSAR)",
+    "lat": 38.33569,
+    "lon": 34.11323
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (AKİN)",
+    "ad": "KÖYÜN KENDİSİ (AKİN)",
+    "lat": 38.49053,
+    "lon": 34.02093
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (ALAYHANI)",
+    "ad": "KÖYÜN KENDİSİ (ALAYHANI)",
+    "lat": 38.55348,
+    "lon": 34.34562
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (ATAKÖY)",
+    "ad": "KÖYÜN KENDİSİ (ATAKÖY)",
+    "lat": 38.36119,
+    "lon": 33.91219
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (BABAKONAĞI)",
+    "ad": "KÖYÜN KENDİSİ (BABAKONAĞI)",
+    "lat": 38.59846,
+    "lon": 34.30389
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (BAĞLI)",
+    "ad": "KÖYÜN KENDİSİ (BAĞLI)",
+    "lat": 38.28032,
+    "lon": 34.0751
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (BAYINDIR)",
+    "ad": "KÖYÜN KENDİSİ (BAYINDIR)",
+    "lat": 38.60091,
+    "lon": 34.3042
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (BAYMIŞ)",
+    "ad": "KÖYÜN KENDİSİ (BAYMIŞ)",
+    "lat": 38.524,
+    "lon": 33.9091
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (BEBEK)",
+    "ad": "KÖYÜN KENDİSİ (BEBEK)",
+    "lat": 38.53038,
+    "lon": 34.19312
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (BOSTANLIK)",
+    "ad": "KÖYÜN KENDİSİ (BOSTANLIK)",
+    "lat": 38.63507,
+    "lon": 33.9166
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (BOYALI)",
+    "ad": "KÖYÜN KENDİSİ (BOYALI)",
+    "lat": 38.61692,
+    "lon": 33.93141
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (BOZCATEPE)",
+    "ad": "KÖYÜN KENDİSİ (BOZCATEPE)",
+    "lat": 38.58037,
+    "lon": 34.38169
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (BÜYÜKGÜVE)",
+    "ad": "KÖYÜN KENDİSİ (BÜYÜKGÜVE)",
+    "lat": 38.66099,
+    "lon": 33.86285
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (BÜYÜKPÖRNEKLER)",
+    "ad": "KÖYÜN KENDİSİ (BÜYÜKPÖRNEKLER)",
+    "lat": 38.64047,
+    "lon": 34.23757
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (CANKILLI)",
+    "ad": "KÖYÜN KENDİSİ (CANKILLI)",
+    "lat": 38.62058,
+    "lon": 34.06879
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (CERAN)",
+    "ad": "KÖYÜN KENDİSİ (CERAN)",
+    "lat": 38.56332,
+    "lon": 34.08596
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (CERİT)",
+    "ad": "KÖYÜN KENDİSİ (CERİT)",
+    "lat": 38.63458,
+    "lon": 33.89909
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (ÇAĞLAYAN)",
+    "ad": "KÖYÜN KENDİSİ (ÇAĞLAYAN)",
+    "lat": 38.50259,
+    "lon": 34.25411
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (ÇAVDARLILAR)",
+    "ad": "KÖYÜN KENDİSİ (ÇAVDARLILAR)",
+    "lat": 38.6473,
+    "lon": 34.08209
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (ÇEKİÇLER)",
+    "ad": "KÖYÜN KENDİSİ (ÇEKİÇLER)",
+    "lat": 38.62746,
+    "lon": 34.08886
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (ÇELTEK)",
+    "ad": "KÖYÜN KENDİSİ (ÇELTEK)",
+    "lat": 38.33707,
+    "lon": 34.15976
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (ÇİMELİYENİ)",
+    "ad": "KÖYÜN KENDİSİ (ÇİMELİYENİ)",
+    "lat": 38.4909,
+    "lon": 33.9178
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (ÇOLAKNEBİ)",
+    "ad": "KÖYÜN KENDİSİ (ÇOLAKNEBİ)",
+    "lat": 38.60805,
+    "lon": 33.98759
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (DARIHÜYÜK)",
+    "ad": "KÖYÜN KENDİSİ (DARIHÜYÜK)",
+    "lat": 38.36646,
+    "lon": 33.80464
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (DİKMEN)",
+    "ad": "KÖYÜN KENDİSİ (DİKMEN)",
+    "lat": 38.19075,
+    "lon": 34.07248
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (EKECİKGÖDELER)",
+    "ad": "KÖYÜN KENDİSİ (EKECİKGÖDELER)",
+    "lat": 38.62214,
+    "lon": 34.03978
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (EKECİKTOL)",
+    "ad": "KÖYÜN KENDİSİ (EKECİKTOL)",
+    "lat": 38.51382,
+    "lon": 34.10133
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (EKECİKYENİ)",
+    "ad": "KÖYÜN KENDİSİ (EKECİKYENİ)",
+    "lat": 38.54958,
+    "lon": 34.11322
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (ELMACIK)",
+    "ad": "KÖYÜN KENDİSİ (ELMACIK)",
+    "lat": 38.26541,
+    "lon": 34.18712
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (FATMAUŞAĞI)",
+    "ad": "KÖYÜN KENDİSİ (FATMAUŞAĞI)",
+    "lat": 38.60798,
+    "lon": 34.00539
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (GENÇOSMAN)",
+    "ad": "KÖYÜN KENDİSİ (GENÇOSMAN)",
+    "lat": 38.43841,
+    "lon": 34.07599
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (GÖKÇE)",
+    "ad": "KÖYÜN KENDİSİ (GÖKÇE)",
+    "lat": 38.44597,
+    "lon": 34.16027
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (GÖKSÜGÜZEL)",
+    "ad": "KÖYÜN KENDİSİ (GÖKSÜGÜZEL)",
+    "lat": 38.53481,
+    "lon": 34.17723
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (GÖZLÜKUYU)",
+    "ad": "KÖYÜN KENDİSİ (GÖZLÜKUYU)",
+    "lat": 38.22762,
+    "lon": 34.06172
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (GÜCÜNKAYA)",
+    "ad": "KÖYÜN KENDİSİ (GÜCÜNKAYA)",
+    "lat": 38.40301,
+    "lon": 34.14122
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (GÜLTEPE)",
+    "ad": "KÖYÜN KENDİSİ (GÜLTEPE)",
+    "lat": 38.50628,
+    "lon": 34.04487
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (HANOBASI)",
+    "ad": "KÖYÜN KENDİSİ (HANOBASI)",
+    "lat": 38.65181,
+    "lon": 33.89195
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (HATİPOĞLUTOLU)",
+    "ad": "KÖYÜN KENDİSİ (HATİPOĞLUTOLU)",
+    "lat": 38.39704,
+    "lon": 33.89317
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (İSMAİLAĞATOLU)",
+    "ad": "KÖYÜN KENDİSİ (İSMAİLAĞATOLU)",
+    "lat": 38.42034,
+    "lon": 33.95455
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (KALEBALTA)",
+    "ad": "KÖYÜN KENDİSİ (KALEBALTA)",
+    "lat": 38.60375,
+    "lon": 34.22962
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (KARACAÖREN)",
+    "ad": "KÖYÜN KENDİSİ (KARACAÖREN)",
+    "lat": 38.14489,
+    "lon": 34.0522
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (KARAÇAYIR)",
+    "ad": "KÖYÜN KENDİSİ (KARAÇAYIR)",
+    "lat": 38.56414,
+    "lon": 34.09732
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (KARAKOVA)",
+    "ad": "KÖYÜN KENDİSİ (KARAKOVA)",
+    "lat": 38.5805,
+    "lon": 34.30533
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (KARAKUYU)",
+    "ad": "KÖYÜN KENDİSİ (KARAKUYU)",
+    "lat": 38.54279,
+    "lon": 34.28854
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (KARATAŞ)",
+    "ad": "KÖYÜN KENDİSİ (KARATAŞ)",
+    "lat": 38.27539,
+    "lon": 34.10765
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (KAZICIK)",
+    "ad": "KÖYÜN KENDİSİ (KAZICIK)",
+    "lat": 38.38966,
+    "lon": 33.95093
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (KOÇPINAR)",
+    "ad": "KÖYÜN KENDİSİ (KOÇPINAR)",
+    "lat": 38.26673,
+    "lon": 34.23053
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (KOYAK)",
+    "ad": "KÖYÜN KENDİSİ (KOYAK)",
+    "lat": 38.55894,
+    "lon": 34.12898
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (KÜÇÜKGÜVE)",
+    "ad": "KÖYÜN KENDİSİ (KÜÇÜKGÜVE)",
+    "lat": 38.69448,
+    "lon": 33.88247
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (KÜÇÜKPÖRNEKLER)",
+    "ad": "KÖYÜN KENDİSİ (KÜÇÜKPÖRNEKLER)",
+    "lat": 38.616,
+    "lon": 34.226
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (MACARLI)",
+    "ad": "KÖYÜN KENDİSİ (MACARLI)",
+    "lat": 38.5922,
+    "lon": 33.98543
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (NURGÖZ)",
+    "ad": "KÖYÜN KENDİSİ (NURGÖZ)",
+    "lat": 38.57602,
+    "lon": 34.01113
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (SALMANLI)",
+    "ad": "KÖYÜN KENDİSİ (SALMANLI)",
+    "lat": 38.59627,
+    "lon": 34.15188
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (SAPMAZ)",
+    "ad": "KÖYÜN KENDİSİ (SAPMAZ)",
+    "lat": 38.57659,
+    "lon": 33.89189
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (SARIAĞIL)",
+    "ad": "KÖYÜN KENDİSİ (SARIAĞIL)",
+    "lat": 38.64004,
+    "lon": 34.20007
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (SELECİKÖSE)",
+    "ad": "KÖYÜN KENDİSİ (SELECİKÖSE)",
+    "lat": 38.37754,
+    "lon": 33.93312
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (SUSADI)",
+    "ad": "KÖYÜN KENDİSİ (SUSADI)",
+    "lat": 38.57181,
+    "lon": 34.21432
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (ŞEYHLER)",
+    "ad": "KÖYÜN KENDİSİ (ŞEYHLER)",
+    "lat": 38.57463,
+    "lon": 34.05451
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (TAPTUK EMRE)",
+    "ad": "KÖYÜN KENDİSİ (TAPTUK EMRE)",
+    "lat": 38.57332,
+    "lon": 34.12232
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (TATLICA)",
+    "ad": "KÖYÜN KENDİSİ (TATLICA)",
+    "lat": 38.55836,
+    "lon": 34.28641
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (ULUKIŞLATOLU)",
+    "ad": "KÖYÜN KENDİSİ (ULUKIŞLATOLU)",
+    "lat": 38.38469,
+    "lon": 33.88871
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (YAĞAN)",
+    "ad": "KÖYÜN KENDİSİ (YAĞAN)",
+    "lat": 38.5527,
+    "lon": 34.03008
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (YALMAN)",
+    "ad": "KÖYÜN KENDİSİ (YALMAN)",
+    "lat": 38.5155,
+    "lon": 34.42121
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (YALNIZCEVİZ)",
+    "ad": "KÖYÜN KENDİSİ (YALNIZCEVİZ)",
+    "lat": 38.49902,
+    "lon": 34.16949
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (YANYURT)",
+    "ad": "KÖYÜN KENDİSİ (YANYURT)",
+    "lat": 38.65488,
+    "lon": 34.13598
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (YAPILCAN)",
+    "ad": "KÖYÜN KENDİSİ (YAPILCAN)",
+    "lat": 38.34951,
+    "lon": 33.90175
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÖYÜN KENDİSİ (YENİPINAR)",
+    "ad": "KÖYÜN KENDİSİ (YENİPINAR)",
+    "lat": 38.17137,
+    "lon": 34.25663
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KURTULUŞ",
+    "ad": "KURTULUŞ",
+    "lat": 38.35485,
+    "lon": 34.05196
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KURTULUŞ (DOĞANTARLA)",
+    "ad": "KURTULUŞ (DOĞANTARLA)",
+    "lat": 38.37368,
+    "lon": 34.14926
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "KÜÇÜK BÖLCEK",
+    "ad": "KÜÇÜK BÖLCEK",
+    "lat": 38.38465,
+    "lon": 33.99473
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "LALELİ",
+    "ad": "LALELİ",
+    "lat": 38.35715,
+    "lon": 34.05863
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "MEDENİ",
+    "ad": "MEDENİ",
+    "lat": 38.44555,
+    "lon": 33.97344
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "MEHMET AKİF ERSOY",
+    "ad": "MEHMET AKİF ERSOY",
+    "lat": 38.35374,
+    "lon": 34.02086
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "MEYDAN",
+    "ad": "MEYDAN",
+    "lat": 38.37816,
+    "lon": 34.02436
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "MİNARECİK",
+    "ad": "MİNARECİK",
+    "lat": 38.37028,
+    "lon": 34.02695
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "MUHSİN ÇELEBİ",
+    "ad": "MUHSİN ÇELEBİ",
+    "lat": 38.37296,
+    "lon": 34.02317
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "NAKKAŞ",
+    "ad": "NAKKAŞ",
+    "lat": 38.38863,
+    "lon": 34.00053
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "ÖZ MEVKİİ (GÖKÇE)",
+    "ad": "ÖZ MEVKİİ (GÖKÇE)",
+    "lat": 38.43962,
+    "lon": 34.13955
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "PARABAŞLI",
+    "ad": "PARABAŞLI",
+    "lat": 38.46225,
+    "lon": 33.86567
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "PAŞACIK",
+    "ad": "PAŞACIK",
+    "lat": 38.36451,
+    "lon": 34.02022
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "PEÇENEK (BÜYÜKGÜVE)",
+    "ad": "PEÇENEK (BÜYÜKGÜVE)",
+    "lat": 38.68452,
+    "lon": 33.87846
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "PINAR",
+    "ad": "PINAR",
+    "lat": 38.35258,
+    "lon": 34.04266
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "SANAYİ",
+    "ad": "SANAYİ",
+    "lat": 38.39133,
+    "lon": 33.98913
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "SANAYİ CADDESİ (TATLICA)",
+    "ad": "SANAYİ CADDESİ (TATLICA)",
+    "lat": 38.5749,
+    "lon": 34.23101
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "SANAYİ (TATLICA)",
+    "ad": "SANAYİ (TATLICA)",
+    "lat": 38.5394,
+    "lon": 34.26787
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "SELÇUKLU",
+    "ad": "SELÇUKLU",
+    "lat": 38.35467,
+    "lon": 34.01142
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "SİYEK MEVKİİ (GÖKÇE)",
+    "ad": "SİYEK MEVKİİ (GÖKÇE)",
+    "lat": 38.38788,
+    "lon": 34.16409
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "SOFULAR",
+    "ad": "SOFULAR",
+    "lat": 38.3743,
+    "lon": 34.02819
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "SOMUNCU BABA",
+    "ad": "SOMUNCU BABA",
+    "lat": 38.40197,
+    "lon": 33.98183
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "ŞAHİNLER (ALTINKAYA)",
+    "ad": "ŞAHİNLER (ALTINKAYA)",
+    "lat": 38.6706,
+    "lon": 33.80617
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "ŞAMLI",
+    "ad": "ŞAMLI",
+    "lat": 38.38372,
+    "lon": 34.02346
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "ŞEYHHAMİT",
+    "ad": "ŞEYHHAMİT",
+    "lat": 38.3807,
+    "lon": 34.03637
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "ŞİFAHANE",
+    "ad": "ŞİFAHANE",
+    "lat": 38.393,
+    "lon": 34.02249
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "TACİN",
+    "ad": "TACİN",
+    "lat": 38.3767,
+    "lon": 33.97936
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "TAŞPAZAR",
+    "ad": "TAŞPAZAR",
+    "lat": 38.37035,
+    "lon": 34.02671
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "VATAN (KARKIN)",
+    "ad": "VATAN (KARKIN)",
+    "lat": 38.22674,
+    "lon": 34.14929
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "VİRANŞEHİR VE DÖLEK MEVKİ (GÖKÇE)",
+    "ad": "VİRANŞEHİR VE DÖLEK MEVKİ (GÖKÇE)",
+    "lat": 38.46564,
+    "lon": 34.20763
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "YAVUZ SELİM",
+    "ad": "YAVUZ SELİM",
+    "lat": 38.17835,
+    "lon": 34.02536
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "YAVUZ SELİM (ARMUTLU)",
+    "ad": "YAVUZ SELİM (ARMUTLU)",
+    "lat": 38.25378,
+    "lon": 33.83571
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "YAVUZ SULTAN SELİM",
+    "ad": "YAVUZ SULTAN SELİM",
+    "lat": 38.3441,
+    "lon": 33.99695
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "YAVUZ (ULUKIŞLA)",
+    "ad": "YAVUZ (ULUKIŞLA)",
+    "lat": 38.55417,
+    "lon": 33.75774
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "YENİ (ALTINKAYA)",
+    "ad": "YENİ (ALTINKAYA)",
+    "lat": 38.61555,
+    "lon": 33.8128
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "YENİ CAMİ",
+    "ad": "YENİ CAMİ",
+    "lat": 38.24833,
+    "lon": 33.99616
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "YENİ (DOĞANTARLA)",
+    "ad": "YENİ (DOĞANTARLA)",
+    "lat": 38.36216,
+    "lon": 34.2171
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "YENİKENT (AKÇAKENT)",
+    "ad": "YENİKENT (AKÇAKENT)",
+    "lat": 38.13613,
+    "lon": 33.9951
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "YENİMAHALLE",
+    "ad": "YENİMAHALLE",
+    "lat": 38.40398,
+    "lon": 33.94679
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "YENİ (SEVİNÇLİ)",
+    "ad": "YENİ (SEVİNÇLİ)",
+    "lat": 38.38685,
+    "lon": 34.08336
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "YEŞİLÇAM",
+    "ad": "YEŞİLÇAM",
+    "lat": 38.46817,
+    "lon": 33.97419
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "YEŞİLYUR (SAPMAZ)",
+    "ad": "YEŞİLYUR (SAPMAZ)",
+    "lat": 38.51674,
+    "lon": 33.8627
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "YUNUS EMRE",
+    "ad": "YUNUS EMRE",
+    "lat": 38.43346,
+    "lon": 34.02038
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "ZAFER",
+    "ad": "ZAFER",
+    "lat": 38.20057,
+    "lon": 34.20866
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "MERKEZ",
+    "mahalle": "ZİNCİRLİ",
+    "ad": "ZİNCİRLİ",
+    "lat": 38.37256,
+    "lon": 34.02529
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "1. KÜME (AKPINAR)",
+    "ad": "1. KÜME (AKPINAR)",
+    "lat": 38.77588,
+    "lon": 34.03931
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "2.KÜME (AKPINAR)",
+    "ad": "2.KÜME (AKPINAR)",
+    "lat": 38.78711,
+    "lon": 34.01154
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "2.KÜME (SEKSENUŞAĞI)",
+    "ad": "2.KÜME (SEKSENUŞAĞI)",
+    "lat": 38.72041,
+    "lon": 33.99953
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "3.KÜME (AKPINAR)",
+    "ad": "3.KÜME (AKPINAR)",
+    "lat": 38.76129,
+    "lon": 34.00794
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "4.KÜME (AKPINAR)",
+    "ad": "4.KÜME (AKPINAR)",
+    "lat": 38.75978,
+    "lon": 33.99983
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "AŞAĞI (OZANCIK)",
+    "ad": "AŞAĞI (OZANCIK)",
+    "lat": 38.70045,
+    "lon": 34.24494
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "BAĞ KÜMESİ (ÇATİN)",
+    "ad": "BAĞ KÜMESİ (ÇATİN)",
+    "lat": 38.67712,
+    "lon": 34.18177
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "BALCI",
+    "ad": "BALCI",
+    "lat": 38.76662,
+    "lon": 34.10324
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "CAMIZLIK YAYLA (CAMUZLUK)",
+    "ad": "CAMIZLIK YAYLA (CAMUZLUK)",
+    "lat": 38.66719,
+    "lon": 33.91901
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "CUMHURİYET (BOZKIR)",
+    "ad": "CUMHURİYET (BOZKIR)",
+    "lat": 38.821,
+    "lon": 34.16084
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "ÇANKAYA",
+    "ad": "ÇANKAYA",
+    "lat": 38.72836,
+    "lon": 34.03997
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "ÇETİNKAYA  KÜMESİ  (ÇATİN)",
+    "ad": "ÇETİNKAYA KÜMESİ (ÇATİN)",
+    "lat": 38.67819,
+    "lon": 34.18344
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "ÇOKYATAN (HACIMAHMUTUŞAĞI)",
+    "ad": "ÇOKYATAN (HACIMAHMUTUŞAĞI)",
+    "lat": 38.68398,
+    "lon": 33.75859
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "EKİNCİOĞLU (SARIKARAMAN)",
+    "ad": "EKİNCİOĞLU (SARIKARAMAN)",
+    "lat": 38.81795,
+    "lon": 34.25035
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "ESENTEPE",
+    "ad": "ESENTEPE",
+    "lat": 38.74279,
+    "lon": 34.06502
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "FATİH",
+    "ad": "FATİH",
+    "lat": 38.73658,
+    "lon": 34.03877
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "HÜRRİYET (HARMANDALI)",
+    "ad": "HÜRRİYET (HARMANDALI)",
+    "lat": 38.98272,
+    "lon": 34.003
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "İ.KARAPINAR (KARAPINAR)",
+    "ad": "İ.KARAPINAR (KARAPINAR)",
+    "lat": 38.69237,
+    "lon": 33.90711
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "İSTİKLAL",
+    "ad": "İSTİKLAL",
+    "lat": 38.73607,
+    "lon": 34.04424
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "KARAMANOĞLU (SARIKARAMAN)",
+    "ad": "KARAMANOĞLU (SARIKARAMAN)",
+    "lat": 38.78487,
+    "lon": 34.22905
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "KARŞI",
+    "ad": "KARŞI",
+    "lat": 38.7358,
+    "lon": 34.04817
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "KARŞI KÜME (ÇATİN)",
+    "ad": "KARŞI KÜME (ÇATİN)",
+    "lat": 38.70361,
+    "lon": 34.22189
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "KARŞI (OZANCIK)",
+    "ad": "KARŞI (OZANCIK)",
+    "lat": 38.66885,
+    "lon": 34.2549
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "KARŞIYAKA (HARMANDALI)",
+    "ad": "KARŞIYAKA (HARMANDALI)",
+    "lat": 38.93934,
+    "lon": 33.95401
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "KIZILAY",
+    "ad": "KIZILAY",
+    "lat": 38.7269,
+    "lon": 34.02949
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "KOCELİ KÜMESİ (ÇATİN)",
+    "ad": "KOCELİ KÜMESİ (ÇATİN)",
+    "lat": 38.67985,
+    "lon": 34.18585
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "KÖYÜN KENDİSİ (AKPINAR)",
+    "ad": "KÖYÜN KENDİSİ (AKPINAR)",
+    "lat": 38.75976,
+    "lon": 34.07339
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "KÖYÜN KENDİSİ (CAMUZLUK)",
+    "ad": "KÖYÜN KENDİSİ (CAMUZLUK)",
+    "lat": 38.65185,
+    "lon": 33.9253
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "KÖYÜN KENDİSİ (CECELİ)",
+    "ad": "KÖYÜN KENDİSİ (CECELİ)",
+    "lat": 38.75175,
+    "lon": 34.26301
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "KÖYÜN KENDİSİ (CUMALİ)",
+    "ad": "KÖYÜN KENDİSİ (CUMALİ)",
+    "lat": 38.69276,
+    "lon": 34.14239
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "KÖYÜN KENDİSİ (ÇATİN)",
+    "ad": "KÖYÜN KENDİSİ (ÇATİN)",
+    "lat": 38.66968,
+    "lon": 34.19035
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "KÖYÜN KENDİSİ (DURHASANLI)",
+    "ad": "KÖYÜN KENDİSİ (DURHASANLI)",
+    "lat": 38.75776,
+    "lon": 34.24962
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "KÖYÜN KENDİSİ (GÖKKAYA)",
+    "ad": "KÖYÜN KENDİSİ (GÖKKAYA)",
+    "lat": 38.71504,
+    "lon": 34.07961
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "KÖYÜN KENDİSİ (GÖKLER)",
+    "ad": "KÖYÜN KENDİSİ (GÖKLER)",
+    "lat": 38.80361,
+    "lon": 34.07985
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "KÖYÜN KENDİSİ (HACIİBRAHİMUŞAĞI)",
+    "ad": "KÖYÜN KENDİSİ (HACIİBRAHİMUŞAĞI)",
+    "lat": 38.72104,
+    "lon": 33.98391
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "KÖYÜN KENDİSİ (HACIMAHMUTUŞAĞI)",
+    "ad": "KÖYÜN KENDİSİ (HACIMAHMUTUŞAĞI)",
+    "lat": 38.74776,
+    "lon": 33.96588
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "KÖYÜN KENDİSİ (HIDIRLI)",
+    "ad": "KÖYÜN KENDİSİ (HIDIRLI)",
+    "lat": 38.69711,
+    "lon": 33.92882
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "KÖYÜN KENDİSİ (HOCABEYLİ)",
+    "ad": "KÖYÜN KENDİSİ (HOCABEYLİ)",
+    "lat": 38.73289,
+    "lon": 34.00854
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "KÖYÜN KENDİSİ (KARAPINAR)",
+    "ad": "KÖYÜN KENDİSİ (KARAPINAR)",
+    "lat": 38.66725,
+    "lon": 33.91731
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "KÖYÜN KENDİSİ (KÜMBET)",
+    "ad": "KÖYÜN KENDİSİ (KÜMBET)",
+    "lat": 38.72054,
+    "lon": 34.20468
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "KÖYÜN KENDİSİ (NAMLIKIŞLA)",
+    "ad": "KÖYÜN KENDİSİ (NAMLIKIŞLA)",
+    "lat": 38.77069,
+    "lon": 33.99582
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "KÖYÜN KENDİSİ (PINARBAŞI)",
+    "ad": "KÖYÜN KENDİSİ (PINARBAŞI)",
+    "lat": 38.7357,
+    "lon": 33.90847
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "KÖYÜN KENDİSİ (PİRLİ)",
+    "ad": "KÖYÜN KENDİSİ (PİRLİ)",
+    "lat": 38.74674,
+    "lon": 34.15398
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "KÖYÜN KENDİSİ (REŞADİYE)",
+    "ad": "KÖYÜN KENDİSİ (REŞADİYE)",
+    "lat": 38.83219,
+    "lon": 34.24145
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "KÖYÜN KENDİSİ (SALARIALACA)",
+    "ad": "KÖYÜN KENDİSİ (SALARIALACA)",
+    "lat": 38.86023,
+    "lon": 34.07136
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "KÖYÜN KENDİSİ (SALARIGÖDELER)",
+    "ad": "KÖYÜN KENDİSİ (SALARIGÖDELER)",
+    "lat": 38.71735,
+    "lon": 34.16234
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "KÖYÜN KENDİSİ (SATANSARI)",
+    "ad": "KÖYÜN KENDİSİ (SATANSARI)",
+    "lat": 38.80301,
+    "lon": 34.28918
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "KÖYÜN KENDİSİ (SEKSENUŞAĞI)",
+    "ad": "KÖYÜN KENDİSİ (SEKSENUŞAĞI)",
+    "lat": 38.70589,
+    "lon": 34.02256
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "KÖYÜN KENDİSİ (YILDIRIMLAR)",
+    "ad": "KÖYÜN KENDİSİ (YILDIRIMLAR)",
+    "lat": 38.68196,
+    "lon": 33.99788
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "KÜME 1 (SEKSENUŞAĞI)",
+    "ad": "KÜME 1 (SEKSENUŞAĞI)",
+    "lat": 38.71692,
+    "lon": 34.01773
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "MALTEPE",
+    "ad": "MALTEPE",
+    "lat": 38.72684,
+    "lon": 34.06561
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "MEHMET AKİF ERSOY",
+    "ad": "MEHMET AKİF ERSOY",
+    "lat": 38.73867,
+    "lon": 34.04261
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "MUSALLA KÜMESİ (ÇATİN)",
+    "ad": "MUSALLA KÜMESİ (ÇATİN)",
+    "lat": 38.70683,
+    "lon": 34.1907
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "OĞUZLAR1 (OĞUZLAR)",
+    "ad": "OĞUZLAR1 (OĞUZLAR)",
+    "lat": 38.68084,
+    "lon": 33.94992
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "OĞUZLAR 2 (OĞUZLAR)",
+    "ad": "OĞUZLAR 2 (OĞUZLAR)",
+    "lat": 38.6752,
+    "lon": 33.95844
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "ORTA KÜME (ÇATİN)",
+    "ad": "ORTA KÜME (ÇATİN)",
+    "lat": 38.67852,
+    "lon": 34.18226
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "PLEVNE",
+    "ad": "PLEVNE",
+    "lat": 38.75427,
+    "lon": 34.03227
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "ŞEHİT ERSOY (ÇİFTEVİ)",
+    "ad": "ŞEHİT ERSOY (ÇİFTEVİ)",
+    "lat": 38.88261,
+    "lon": 34.05451
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "ŞEHİT MEHMET ALİ (ÇİFTEVİ)",
+    "ad": "ŞEHİT MEHMET ALİ (ÇİFTEVİ)",
+    "lat": 38.82535,
+    "lon": 34.01992
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "ŞENER KÜMESİ (ÇATİN)",
+    "ad": "ŞENER KÜMESİ (ÇATİN)",
+    "lat": 38.68053,
+    "lon": 34.18417
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "ŞHT.YZB.BAHTİYAR ER (DEVEDAMI)",
+    "ad": "ŞHT.YZB.BAHTİYAR ER (DEVEDAMI)",
+    "lat": 38.97864,
+    "lon": 34.00975
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "YENİ",
+    "ad": "YENİ",
+    "lat": 38.75454,
+    "lon": 34.05993
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "YEŞİLYURT (HARMANDALI)",
+    "ad": "YEŞİLYURT (HARMANDALI)",
+    "lat": 38.92952,
+    "lon": 34.00065
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "YEŞİLYURT (SARIKARAMAN)",
+    "ad": "YEŞİLYURT (SARIKARAMAN)",
+    "lat": 38.79098,
+    "lon": 34.15199
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "YİĞİTLER (DEVEDAMI)",
+    "ad": "YİĞİTLER (DEVEDAMI)",
+    "lat": 38.93771,
+    "lon": 34.066
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "YUKARI (OZANCIK)",
+    "ad": "YUKARI (OZANCIK)",
+    "lat": 38.67314,
+    "lon": 34.1987
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "YUNUS EMRE (SARIKARAMAN)",
+    "ad": "YUNUS EMRE (SARIKARAMAN)",
+    "lat": 38.81943,
+    "lon": 34.1985
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "ZAFER",
+    "ad": "ZAFER",
+    "lat": 38.76401,
+    "lon": 34.08071
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "ZAFER (BOZKIR)",
+    "ad": "ZAFER (BOZKIR)",
+    "lat": 38.80658,
+    "lon": 34.12208
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "ORTAKÖY",
+    "mahalle": "ZAFER (ÇİFTEVİ)",
+    "ad": "ZAFER (ÇİFTEVİ)",
+    "lat": 38.85813,
+    "lon": 34.06629
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "SARIYAHŞİ",
+    "mahalle": "15 TEMMUZ",
+    "ad": "15 TEMMUZ",
+    "lat": 38.98348,
+    "lon": 33.846
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "SARIYAHŞİ",
+    "mahalle": "BOĞAZİÇİ (BOĞAZKÖY)",
+    "ad": "BOĞAZİÇİ (BOĞAZKÖY)",
+    "lat": 38.95918,
+    "lon": 33.88548
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "SARIYAHŞİ",
+    "mahalle": "FATİH",
+    "ad": "FATİH",
+    "lat": 38.96599,
+    "lon": 33.86991
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "SARIYAHŞİ",
+    "mahalle": "KARŞIYAKA",
+    "ad": "KARŞIYAKA",
+    "lat": 39.00122,
+    "lon": 33.90248
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "SARIYAHŞİ",
+    "mahalle": "KIZILIRMAK",
+    "ad": "KIZILIRMAK",
+    "lat": 39.00456,
+    "lon": 33.82765
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "SARIYAHŞİ",
+    "mahalle": "KÖYÜN KENDİSİ (BEKDİK)",
+    "ad": "KÖYÜN KENDİSİ (BEKDİK)",
+    "lat": 39.05185,
+    "lon": 33.95747
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "SARIYAHŞİ",
+    "mahalle": "KÖYÜN KENDİSİ (DEMİRCİOBASI)",
+    "ad": "KÖYÜN KENDİSİ (DEMİRCİOBASI)",
+    "lat": 38.98835,
+    "lon": 33.77515
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "SARIYAHŞİ",
+    "mahalle": "KÖYÜN KENDİSİ (SİPAHİLER)",
+    "ad": "KÖYÜN KENDİSİ (SİPAHİLER)",
+    "lat": 38.93332,
+    "lon": 33.83349
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "SARIYAHŞİ",
+    "mahalle": "KÖYÜN KENDİSİ (YENİTORUNOBASI)",
+    "ad": "KÖYÜN KENDİSİ (YENİTORUNOBASI)",
+    "lat": 38.99065,
+    "lon": 33.7439
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "SARIYAHŞİ",
+    "mahalle": "KURTULUŞ",
+    "ad": "KURTULUŞ",
+    "lat": 39.03734,
+    "lon": 33.87217
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "SARIYAHŞİ",
+    "mahalle": "KURTULUŞ (BOĞAZKÖY)",
+    "ad": "KURTULUŞ (BOĞAZKÖY)",
+    "lat": 38.99408,
+    "lon": 33.90625
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "SARIYAHŞİ",
+    "mahalle": "ÖZAL",
+    "ad": "ÖZAL",
+    "lat": 38.98152,
+    "lon": 33.83641
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "SARIYAHŞİ",
+    "mahalle": "ŞAFAKTEPE",
+    "ad": "ŞAFAKTEPE",
+    "lat": 38.98345,
+    "lon": 33.84404
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "SARIYAHŞİ",
+    "mahalle": "YAYLAK",
+    "ad": "YAYLAK",
+    "lat": 38.954,
+    "lon": 33.79518
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "SARIYAHŞİ",
+    "mahalle": "YENİ (BOĞAZKÖY)",
+    "ad": "YENİ (BOĞAZKÖY)",
+    "lat": 38.97646,
+    "lon": 33.88221
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "SARIYAHŞİ",
+    "mahalle": "YENİDOĞAN",
+    "ad": "YENİDOĞAN",
+    "lat": 38.98579,
+    "lon": 33.84224
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "SULTANHANI",
+    "mahalle": "CUMHURİYET",
+    "ad": "CUMHURİYET",
+    "lat": 38.34945,
+    "lon": 33.69679
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "SULTANHANI",
+    "mahalle": "GAZİ",
+    "ad": "GAZİ",
+    "lat": 38.22367,
+    "lon": 33.5746
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "SULTANHANI",
+    "mahalle": "İSTİKAMET",
+    "ad": "İSTİKAMET",
+    "lat": 38.24845,
+    "lon": 33.5359
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "SULTANHANI",
+    "mahalle": "KOYUNCU",
+    "ad": "KOYUNCU",
+    "lat": 38.24763,
+    "lon": 33.55705
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "SULTANHANI",
+    "mahalle": "KÖYÜN KENDİSİ (YEŞİLTÖMEK)",
+    "ad": "KÖYÜN KENDİSİ (YEŞİLTÖMEK)",
+    "lat": 38.3232,
+    "lon": 33.5184
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "SULTANHANI",
+    "mahalle": "SELÇUK",
+    "ad": "SELÇUK",
+    "lat": 38.24467,
+    "lon": 33.55568
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "SULTANHANI",
+    "mahalle": "TÜRKİSTAN",
+    "ad": "TÜRKİSTAN",
+    "lat": 38.25164,
+    "lon": 33.67844
+  },
+  {
+    "il": "Aksaray",
+    "ilce": "SULTANHANI",
+    "mahalle": "ZAFER",
+    "ad": "ZAFER",
+    "lat": 38.25232,
+    "lon": 33.56631
+  }
+]

@@ -1,1 +1,34 @@
-[{"il":"Osmaniye","ilce":"DÜZİÇİ","mahalle":"MERKEZ (YENİFARSAK)","ad":"YENİFARSAK İLKOKULU","lat":37.31659,"lon":36.59092},{"il":"Osmaniye","ilce":"BAHÇE","mahalle":"MANDAL KÜMESİ (YUKARIKARDERE)","ad":"Veli KELEŞ İlkokulu/Veli Keleş Ortaokulu","lat":37.22769,"lon":36.63894},{"il":"Osmaniye","ilce":"DÜZİÇİ","mahalle":"KÖYÜN KENDİSİ (YEŞİLYURT)","ad":"YEŞİLYURT İLKOKULU","lat":37.33249,"lon":36.54004},{"il":"Osmaniye","ilce":"BAHÇE","mahalle":"MERKEZ KÜMESİ (KIZLAÇ)","ad":"Kızlaç Şehit Mehmet Eroğlu İlkokulu/Kızlaç Ortaokulu/Bahçe","lat":37.17799,"lon":36.64196}]
+[
+  {
+    "il": "Osmaniye",
+    "ilce": "DÜZİÇİ",
+    "mahalle": "MERKEZ (YENİFARSAK)",
+    "ad": "YENİFARSAK İLKOKULU",
+    "lat": 37.31659,
+    "lon": 36.59092
+  },
+  {
+    "il": "Osmaniye",
+    "ilce": "BAHÇE",
+    "mahalle": "MANDAL KÜMESİ (YUKARIKARDERE)",
+    "ad": "Veli KELEŞ İlkokulu/Veli Keleş Ortaokulu",
+    "lat": 37.22769,
+    "lon": 36.63894
+  },
+  {
+    "il": "Osmaniye",
+    "ilce": "DÜZİÇİ",
+    "mahalle": "KÖYÜN KENDİSİ (YEŞİLYURT)",
+    "ad": "YEŞİLYURT İLKOKULU",
+    "lat": 37.33249,
+    "lon": 36.54004
+  },
+  {
+    "il": "Osmaniye",
+    "ilce": "BAHÇE",
+    "mahalle": "MERKEZ KÜMESİ (KIZLAÇ)",
+    "ad": "Kızlaç Şehit Mehmet Eroğlu İlkokulu/Kızlaç Ortaokulu/Bahçe",
+    "lat": 37.17799,
+    "lon": 36.64196
+  }
+]

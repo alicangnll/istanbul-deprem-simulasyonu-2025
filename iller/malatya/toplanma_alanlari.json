@@ -1,1 +1,522 @@
-[{"il":"Malatya","ilce":"BATTALGAZİ","mahalle":"ORDUZU","ad":"MİŞMİŞ PARK ALANI","lat":38.35631,"lon":38.37594},{"il":"Malatya","ilce":"BATTALGAZİ","mahalle":"ÜÇBAĞLAR","ad":"BATTALGAZİ BELEDİYESİ BAHÇESİ","lat":38.35334,"lon":38.33186},{"il":"Malatya","ilce":"BATTALGAZİ","mahalle":"ÇÖŞNÜK","ad":"Battalgazi Üçbağlar Toplanma Alanı","lat":38.34972,"lon":38.35229},{"il":"Malatya","ilce":"YEŞİLYURT","mahalle":"HAMİDİYE","ad":"YEŞİLYURT KOLUKISA ANADOLU LİSESİ","lat":38.29845,"lon":38.25079},{"il":"Malatya","ilce":"YEŞİLYURT","mahalle":"ÇİLESİZ","ad":"Malatya Büyükşehir Belediyesi Nikah Sarayı Bahçesi","lat":38.3362,"lon":38.2756},{"il":"Malatya","ilce":"YEŞİLYURT","mahalle":"YAKINCA","ad":"Farabi Ortaokulu ve Abdulkadir Eriş Güzel Sanatlar Lisesi bahçesi","lat":38.32995,"lon":38.23441},{"il":"Malatya","ilce":"DOĞANŞEHİR","mahalle":"ALTINTOP","ad":"Şehit Fuat Bozkurt İlkokulu","lat":38.05332,"lon":37.87693},{"il":"Malatya","ilce":"BATTALGAZİ","mahalle":"FIRAT","ad":"BATTALGAZİ ŞEHİT METİN ATABEY PARKI","lat":38.3428,"lon":38.3361},{"il":"Malatya","ilce":"DOĞANYOL","mahalle":"İSAK","ad":"DOĞANYOL LİSESİ VE LOJMAN BAHÇESİ","lat":38.31319,"lon":39.03886},{"il":"Malatya","ilce":"DOĞANYOL","mahalle":"İSAK","ad":"DOĞANYOL HALI SAHA","lat":38.31398,"lon":39.03974},{"il":"Malatya","ilce":"PÜTÜRGE","mahalle":"TAŞBAŞI","ad":"Pütürge Kaymakamlığı Halı Saha","lat":38.19773,"lon":38.87863},{"il":"Malatya","ilce":"PÜTÜRGE","mahalle":"TAŞBAŞI","ad":"PÜTÜRGE LİSE BİNASI VE UYGULAMA BAHÇESİ","lat":38.19538,"lon":38.87361},{"il":"Malatya","ilce":"BATTALGAZİ","mahalle":"ALACAKAPI","ad":"BATTALGAZİ İLÇESİ NEVZAT ER PARKI TOPLANMA ALANI","lat":38.42464,"lon":38.36641},{"il":"Malatya","ilce":"BATTALGAZİ","mahalle":"TAŞTEPE","ad":"100. YIL İMAM HATİP ORTAOKULU","lat":38.36803,"lon":38.3223},{"il":"Malatya","ilce":"ARGUVAN","mahalle":"YENİ","ad":"ARGUVAN BELEDİYE BİNASI ARSASI","lat":38.78221,"lon":38.26214},{"il":"Malatya","ilce":"YAZIHAN","mahalle":"DOĞUŞ","ad":"YAZIHAN SAĞLIK OCAĞI LOJMAN ARAZİSİ","lat":38.59426,"lon":38.17928},{"il":"Malatya","ilce":"YAZIHAN","mahalle":"YENİ","ad":"Yazıhan Stadı","lat":38.59128,"lon":38.18446},{"il":"Malatya","ilce":"ARGUVAN","mahalle":"YENİ","ad":"ARGUVAN HURŞİT EREN PARKI","lat":38.78196,"lon":38.26393},{"il":"Malatya","ilce":"ARGUVAN","mahalle":"YENİ","ad":"NAZIM HİKMET MEYDANI","lat":38.782,"lon":38.26276},{"il":"Malatya","ilce":"YAZIHAN","mahalle":"YENİ","ad":"YAZIHAN PARKI","lat":38.59576,"lon":38.1815},{"il":"Malatya","ilce":"BATTALGAZİ","mahalle":"ZAFER","ad":"HÜRRİYET PARK ALANI","lat":38.34831,"lon":38.32727},{"il":"Malatya","ilce":"YEŞİLYURT","mahalle":"KARAKAVAK","ad":"Barguzu Sosyal Tesisleri","lat":38.33707,"lon":38.24525},{"il":"Malatya","ilce":"YEŞİLYURT","mahalle":"TURGUT ÖZAL","ad":"Fahri Kayahan Turgut Özal Parkı","lat":38.33857,"lon":38.27033},{"il":"Malatya","ilce":"YEŞİLYURT","mahalle":"KOYUNOĞLU","ad":"ABDULLAH GÜL PARKI","lat":38.34704,"lon":38.29717},{"il":"Malatya","ilce":"BATTALGAZİ","mahalle":"ÜÇBAĞLAR","ad":"İNÖNÜ STADYUMU","lat":38.35217,"lon":38.33013},{"il":"Malatya","ilce":"BATTALGAZİ","mahalle":"ZAFER","ad":"ŞEHİT KEMAL ÖZALPER EML ve ATATÜRK KIZ LİSESİ","lat":38.35033,"lon":38.32874},{"il":"Malatya","ilce":"YEŞİLYURT","mahalle":"ŞEYH BAYRAM","ad":"ŞEYH BAYRAM MAH. MUHTARLIĞI VE SOSYAL TESİSLER","lat":38.33419,"lon":38.29765},{"il":"Malatya","ilce":"DOĞANŞEHİR","mahalle":"ESENTEPE","ad":"Şehit Subitay Sükut İmam Hatip Ortaokulu","lat":38.09786,"lon":37.88895},{"il":"Malatya","ilce":"DOĞANŞEHİR","mahalle":"KARŞIYAKA","ad":"Şehit Serdal Toprak Çok Programlı Anadolu Lisesi ve Doğanşehir Ortaokulu","lat":38.08362,"lon":37.88031},{"il":"Malatya","ilce":"DOĞANŞEHİR","mahalle":"ESENTEPE","ad":"Şehit Barış Aybek Endüstri meslek lisesi","lat":38.09338,"lon":37.88595},{"il":"Malatya","ilce":"DOĞANŞEHİR","mahalle":"KARŞIYAKA","ad":"Ertuğrul Gazi Ortaokulu","lat":38.08965,"lon":37.88194},{"il":"Malatya","ilce":"ARAPGİR","mahalle":"MEHMETAKİF","ad":"Arapgir Maski Binası ve Arsası Toplanma Alanı","lat":39.04562,"lon":38.48533},{"il":"Malatya","ilce":"ARAPGİR","mahalle":"YENİ","ad":"ARAPGİR MEHMET AKİF İLKOKULU","lat":39.04258,"lon":38.48884},{"il":"Malatya","ilce":"ARAPGİR","mahalle":"YENİ","ad":"ARAPGİR KARAYOLLARI 85. ŞUBE ŞEFLİĞİ","lat":39.04046,"lon":38.48944},{"il":"Malatya","ilce":"HEKİMHAN","mahalle":"KÖPRÜLÜ MEHMET PAŞA","ad":"HEKİMHAN FEVZİ OKTAY PARKI","lat":38.81439,"lon":37.93589},{"il":"Malatya","ilce":"HEKİMHAN","mahalle":"FATİH","ad":"Taşhan ve Arsası","lat":38.81519,"lon":37.93415},{"il":"Malatya","ilce":"HEKİMHAN","mahalle":"BAHÇELİEVLER","ad":"HEKİMHAN FUTBOL SAHASI","lat":38.82606,"lon":37.92145},{"il":"Malatya","ilce":"HEKİMHAN","mahalle":"TAŞBAŞI","ad":"HEKİMHAN ENDÜSTRİ MESLEK LİSESİ","lat":38.81052,"lon":37.93896},{"il":"Malatya","ilce":"AKÇADAĞ","mahalle":"DOĞU","ad":"AKÇADAĞ BELEDİYE BİNASI VE LOJMAN ALANI","lat":38.34469,"lon":37.97123},{"il":"Malatya","ilce":"AKÇADAĞ","mahalle":"DOĞU","ad":"Akçadağ Anadolu Lisesi","lat":38.34402,"lon":37.97692},{"il":"Malatya","ilce":"DARENDE","mahalle":"HEYİKETEĞİ","ad":"DARENDE İLÇESİ HÜKÜMET KONAĞI BAHÇESİ","lat":38.55778,"lon":37.49067},{"il":"Malatya","ilce":"DARENDE","mahalle":"ZAVİYE","ad":"Darende Belediyesi Sosyal Tesisleri","lat":38.57594,"lon":37.49181},{"il":"Malatya","ilce":"KULUNCAK","mahalle":"KARLIK","ad":"Kuluncak Karlık İlköğretim Okulu Toplanma Alanı","lat":38.99689,"lon":37.51409},{"il":"Malatya","ilce":"KULUNCAK","mahalle":"SOFULAR","ad":"Kuluncak Sofular Köprü Başı Meydanı Toplanma Alanı","lat":38.94476,"lon":37.55225},{"il":"Malatya","ilce":"KULUNCAK","mahalle":"SOFULAR","ad":"Kuluncak Sofular Eski Belediye Binası Arsası","lat":38.94589,"lon":37.553},{"il":"Malatya","ilce":"KULUNCAK","mahalle":"ALVAR","ad":"Alvar Dostlar Kıraathanesi Meydanı","lat":38.9001,"lon":37.61325},{"il":"Malatya","ilce":"KULUNCAK","mahalle":"ALVAR","ad":"Alvar Cem Evi Toplanma alanı","lat":38.89985,"lon":37.61652},{"il":"Malatya","ilce":"KULUNCAK","mahalle":"ÇÖRMÜ","ad":"Kuluncak Darılı (Çörmü) Mahallesi Toplanma alanı","lat":38.94711,"lon":37.6037},{"il":"Malatya","ilce":"KULUNCAK","mahalle":"İSTİKLAL","ad":"KULUNCAK MİLLİ EĞİTİM MÜDÜRLÜĞÜ","lat":38.88259,"lon":37.67032},{"il":"Malatya","ilce":"KULUNCAK","mahalle":"İSTİKLAL","ad":"Kuluncak Belediyesi Hizmet binası ve arsası","lat":38.88096,"lon":37.67023},{"il":"Malatya","ilce":"KULUNCAK","mahalle":"BAHÇELİEVLER","ad":"Kuluncak Spor Tesis Alanı","lat":38.86343,"lon":37.68729},{"il":"Malatya","ilce":"KULUNCAK","mahalle":"ÇAYKÖY","ad":"Kuluncak Çayköy Mahallesi Toplanma Alanı","lat":38.85142,"lon":37.65412},{"il":"Malatya","ilce":"KULUNCAK","mahalle":"SULTANLI","ad":"Kuluncak Sultanlı Köy Konağı Meydanı Toplanma Alanı","lat":38.85242,"lon":37.67124},{"il":"Malatya","ilce":"KULUNCAK","mahalle":"SULTANLI","ad":"Kuluncak Eski Cami ve Alanı","lat":38.85182,"lon":37.66756},{"il":"Malatya","ilce":"KULUNCAK","mahalle":"KARABÜK","ad":"Kuluncak Karabük Cami ve Arsası Toplanma Alanı","lat":38.84322,"lon":37.68592},{"il":"Malatya","ilce":"KULUNCAK","mahalle":"ÇAYKÖY","ad":"Kuluncak Çayköy Merası Toplanma Alanı","lat":38.86361,"lon":37.65869},{"il":"Malatya","ilce":"KULUNCAK","mahalle":"ÇAYKÖY","ad":"Kuluncak Yukarı Çayköy Mahallesi Cami Önü Toplanma Alanı","lat":38.83512,"lon":37.56926},{"il":"Malatya","ilce":"KULUNCAK","mahalle":"KAYNARCA","ad":"Kuluncak Kaynarca Cami Önü Toplanma Alanı","lat":38.73298,"lon":37.66353},{"il":"Malatya","ilce":"KULUNCAK","mahalle":"KAYNARCA","ad":"Kuluncak Kaynarca Zafer Cami ve Arsası Toplanma Alanı","lat":38.71642,"lon":37.68677},{"il":"Malatya","ilce":"KULUNCAK","mahalle":"BİCİR","ad":"Kuluncak Bicir Okulu ve Arsası","lat":38.92202,"lon":37.57469},{"il":"Malatya","ilce":"HEKİMHAN","mahalle":"TURGUT ÖZAL","ad":"SAKARYA ORTAOKULU","lat":38.81543,"lon":37.93169},{"il":"Malatya","ilce":"HEKİMHAN","mahalle":"TURGUT ÖZAL","ad":"Hekinhan Emniyet Eski Binası Arsası","lat":38.81538,"lon":37.93093},{"il":"Malatya","ilce":"DOĞANŞEHİR","mahalle":"YENİ","ad":"Şerafettin Yıldırım Parkı","lat":38.09025,"lon":37.87519},{"il":"Malatya","ilce":"DOĞANŞEHİR","mahalle":"DOĞU","ad":"Yunus Emre İlkokulu","lat":38.09097,"lon":37.86973},{"il":"Malatya","ilce":"AKÇADAĞ","mahalle":"KÜLTÜR","ad":"Şehit Alper Güde Çok Programlı Lise","lat":38.34088,"lon":37.96717}]
+[
+  {
+    "il": "Malatya",
+    "ilce": "BATTALGAZİ",
+    "mahalle": "ORDUZU",
+    "ad": "MİŞMİŞ PARK ALANI",
+    "lat": 38.35631,
+    "lon": 38.37594
+  },
+  {
+    "il": "Malatya",
+    "ilce": "BATTALGAZİ",
+    "mahalle": "ÜÇBAĞLAR",
+    "ad": "BATTALGAZİ BELEDİYESİ BAHÇESİ",
+    "lat": 38.35334,
+    "lon": 38.33186
+  },
+  {
+    "il": "Malatya",
+    "ilce": "BATTALGAZİ",
+    "mahalle": "ÇÖŞNÜK",
+    "ad": "Battalgazi Üçbağlar Toplanma Alanı",
+    "lat": 38.34972,
+    "lon": 38.35229
+  },
+  {
+    "il": "Malatya",
+    "ilce": "YEŞİLYURT",
+    "mahalle": "HAMİDİYE",
+    "ad": "YEŞİLYURT KOLUKISA ANADOLU LİSESİ",
+    "lat": 38.29845,
+    "lon": 38.25079
+  },
+  {
+    "il": "Malatya",
+    "ilce": "YEŞİLYURT",
+    "mahalle": "ÇİLESİZ",
+    "ad": "Malatya Büyükşehir Belediyesi Nikah Sarayı Bahçesi",
+    "lat": 38.3362,
+    "lon": 38.2756
+  },
+  {
+    "il": "Malatya",
+    "ilce": "YEŞİLYURT",
+    "mahalle": "YAKINCA",
+    "ad": "Farabi Ortaokulu ve Abdulkadir Eriş Güzel Sanatlar Lisesi bahçesi",
+    "lat": 38.32995,
+    "lon": 38.23441
+  },
+  {
+    "il": "Malatya",
+    "ilce": "DOĞANŞEHİR",
+    "mahalle": "ALTINTOP",
+    "ad": "Şehit Fuat Bozkurt İlkokulu",
+    "lat": 38.05332,
+    "lon": 37.87693
+  },
+  {
+    "il": "Malatya",
+    "ilce": "BATTALGAZİ",
+    "mahalle": "FIRAT",
+    "ad": "BATTALGAZİ ŞEHİT METİN ATABEY PARKI",
+    "lat": 38.3428,
+    "lon": 38.3361
+  },
+  {
+    "il": "Malatya",
+    "ilce": "DOĞANYOL",
+    "mahalle": "İSAK",
+    "ad": "DOĞANYOL LİSESİ VE LOJMAN BAHÇESİ",
+    "lat": 38.31319,
+    "lon": 39.03886
+  },
+  {
+    "il": "Malatya",
+    "ilce": "DOĞANYOL",
+    "mahalle": "İSAK",
+    "ad": "DOĞANYOL HALI SAHA",
+    "lat": 38.31398,
+    "lon": 39.03974
+  },
+  {
+    "il": "Malatya",
+    "ilce": "PÜTÜRGE",
+    "mahalle": "TAŞBAŞI",
+    "ad": "Pütürge Kaymakamlığı Halı Saha",
+    "lat": 38.19773,
+    "lon": 38.87863
+  },
+  {
+    "il": "Malatya",
+    "ilce": "PÜTÜRGE",
+    "mahalle": "TAŞBAŞI",
+    "ad": "PÜTÜRGE LİSE BİNASI VE UYGULAMA BAHÇESİ",
+    "lat": 38.19538,
+    "lon": 38.87361
+  },
+  {
+    "il": "Malatya",
+    "ilce": "BATTALGAZİ",
+    "mahalle": "ALACAKAPI",
+    "ad": "BATTALGAZİ İLÇESİ NEVZAT ER PARKI TOPLANMA ALANI",
+    "lat": 38.42464,
+    "lon": 38.36641
+  },
+  {
+    "il": "Malatya",
+    "ilce": "BATTALGAZİ",
+    "mahalle": "TAŞTEPE",
+    "ad": "100. YIL İMAM HATİP ORTAOKULU",
+    "lat": 38.36803,
+    "lon": 38.3223
+  },
+  {
+    "il": "Malatya",
+    "ilce": "ARGUVAN",
+    "mahalle": "YENİ",
+    "ad": "ARGUVAN BELEDİYE BİNASI ARSASI",
+    "lat": 38.78221,
+    "lon": 38.26214
+  },
+  {
+    "il": "Malatya",
+    "ilce": "YAZIHAN",
+    "mahalle": "DOĞUŞ",
+    "ad": "YAZIHAN SAĞLIK OCAĞI LOJMAN ARAZİSİ",
+    "lat": 38.59426,
+    "lon": 38.17928
+  },
+  {
+    "il": "Malatya",
+    "ilce": "YAZIHAN",
+    "mahalle": "YENİ",
+    "ad": "Yazıhan Stadı",
+    "lat": 38.59128,
+    "lon": 38.18446
+  },
+  {
+    "il": "Malatya",
+    "ilce": "ARGUVAN",
+    "mahalle": "YENİ",
+    "ad": "ARGUVAN HURŞİT EREN PARKI",
+    "lat": 38.78196,
+    "lon": 38.26393
+  },
+  {
+    "il": "Malatya",
+    "ilce": "ARGUVAN",
+    "mahalle": "YENİ",
+    "ad": "NAZIM HİKMET MEYDANI",
+    "lat": 38.782,
+    "lon": 38.26276
+  },
+  {
+    "il": "Malatya",
+    "ilce": "YAZIHAN",
+    "mahalle": "YENİ",
+    "ad": "YAZIHAN PARKI",
+    "lat": 38.59576,
+    "lon": 38.1815
+  },
+  {
+    "il": "Malatya",
+    "ilce": "BATTALGAZİ",
+    "mahalle": "ZAFER",
+    "ad": "HÜRRİYET PARK ALANI",
+    "lat": 38.34831,
+    "lon": 38.32727
+  },
+  {
+    "il": "Malatya",
+    "ilce": "YEŞİLYURT",
+    "mahalle": "KARAKAVAK",
+    "ad": "Barguzu Sosyal Tesisleri",
+    "lat": 38.33707,
+    "lon": 38.24525
+  },
+  {
+    "il": "Malatya",
+    "ilce": "YEŞİLYURT",
+    "mahalle": "TURGUT ÖZAL",
+    "ad": "Fahri Kayahan Turgut Özal Parkı",
+    "lat": 38.33857,
+    "lon": 38.27033
+  },
+  {
+    "il": "Malatya",
+    "ilce": "YEŞİLYURT",
+    "mahalle": "KOYUNOĞLU",
+    "ad": "ABDULLAH GÜL PARKI",
+    "lat": 38.34704,
+    "lon": 38.29717
+  },
+  {
+    "il": "Malatya",
+    "ilce": "BATTALGAZİ",
+    "mahalle": "ÜÇBAĞLAR",
+    "ad": "İNÖNÜ STADYUMU",
+    "lat": 38.35217,
+    "lon": 38.33013
+  },
+  {
+    "il": "Malatya",
+    "ilce": "BATTALGAZİ",
+    "mahalle": "ZAFER",
+    "ad": "ŞEHİT KEMAL ÖZALPER EML ve ATATÜRK KIZ LİSESİ",
+    "lat": 38.35033,
+    "lon": 38.32874
+  },
+  {
+    "il": "Malatya",
+    "ilce": "YEŞİLYURT",
+    "mahalle": "ŞEYH BAYRAM",
+    "ad": "ŞEYH BAYRAM MAH. MUHTARLIĞI VE SOSYAL TESİSLER",
+    "lat": 38.33419,
+    "lon": 38.29765
+  },
+  {
+    "il": "Malatya",
+    "ilce": "DOĞANŞEHİR",
+    "mahalle": "ESENTEPE",
+    "ad": "Şehit Subitay Sükut İmam Hatip Ortaokulu",
+    "lat": 38.09786,
+    "lon": 37.88895
+  },
+  {
+    "il": "Malatya",
+    "ilce": "DOĞANŞEHİR",
+    "mahalle": "KARŞIYAKA",
+    "ad": "Şehit Serdal Toprak Çok Programlı Anadolu Lisesi ve Doğanşehir Ortaokulu",
+    "lat": 38.08362,
+    "lon": 37.88031
+  },
+  {
+    "il": "Malatya",
+    "ilce": "DOĞANŞEHİR",
+    "mahalle": "ESENTEPE",
+    "ad": "Şehit Barış Aybek Endüstri meslek lisesi",
+    "lat": 38.09338,
+    "lon": 37.88595
+  },
+  {
+    "il": "Malatya",
+    "ilce": "DOĞANŞEHİR",
+    "mahalle": "KARŞIYAKA",
+    "ad": "Ertuğrul Gazi Ortaokulu",
+    "lat": 38.08965,
+    "lon": 37.88194
+  },
+  {
+    "il": "Malatya",
+    "ilce": "ARAPGİR",
+    "mahalle": "MEHMETAKİF",
+    "ad": "Arapgir Maski Binası ve Arsası Toplanma Alanı",
+    "lat": 39.04562,
+    "lon": 38.48533
+  },
+  {
+    "il": "Malatya",
+    "ilce": "ARAPGİR",
+    "mahalle": "YENİ",
+    "ad": "ARAPGİR MEHMET AKİF İLKOKULU",
+    "lat": 39.04258,
+    "lon": 38.48884
+  },
+  {
+    "il": "Malatya",
+    "ilce": "ARAPGİR",
+    "mahalle": "YENİ",
+    "ad": "ARAPGİR KARAYOLLARI 85. ŞUBE ŞEFLİĞİ",
+    "lat": 39.04046,
+    "lon": 38.48944
+  },
+  {
+    "il": "Malatya",
+    "ilce": "HEKİMHAN",
+    "mahalle": "KÖPRÜLÜ MEHMET PAŞA",
+    "ad": "HEKİMHAN FEVZİ OKTAY PARKI",
+    "lat": 38.81439,
+    "lon": 37.93589
+  },
+  {
+    "il": "Malatya",
+    "ilce": "HEKİMHAN",
+    "mahalle": "FATİH",
+    "ad": "Taşhan ve Arsası",
+    "lat": 38.81519,
+    "lon": 37.93415
+  },
+  {
+    "il": "Malatya",
+    "ilce": "HEKİMHAN",
+    "mahalle": "BAHÇELİEVLER",
+    "ad": "HEKİMHAN FUTBOL SAHASI",
+    "lat": 38.82606,
+    "lon": 37.92145
+  },
+  {
+    "il": "Malatya",
+    "ilce": "HEKİMHAN",
+    "mahalle": "TAŞBAŞI",
+    "ad": "HEKİMHAN ENDÜSTRİ MESLEK LİSESİ",
+    "lat": 38.81052,
+    "lon": 37.93896
+  },
+  {
+    "il": "Malatya",
+    "ilce": "AKÇADAĞ",
+    "mahalle": "DOĞU",
+    "ad": "AKÇADAĞ BELEDİYE BİNASI VE LOJMAN ALANI",
+    "lat": 38.34469,
+    "lon": 37.97123
+  },
+  {
+    "il": "Malatya",
+    "ilce": "AKÇADAĞ",
+    "mahalle": "DOĞU",
+    "ad": "Akçadağ Anadolu Lisesi",
+    "lat": 38.34402,
+    "lon": 37.97692
+  },
+  {
+    "il": "Malatya",
+    "ilce": "DARENDE",
+    "mahalle": "HEYİKETEĞİ",
+    "ad": "DARENDE İLÇESİ HÜKÜMET KONAĞI BAHÇESİ",
+    "lat": 38.55778,
+    "lon": 37.49067
+  },
+  {
+    "il": "Malatya",
+    "ilce": "DARENDE",
+    "mahalle": "ZAVİYE",
+    "ad": "Darende Belediyesi Sosyal Tesisleri",
+    "lat": 38.57594,
+    "lon": 37.49181
+  },
+  {
+    "il": "Malatya",
+    "ilce": "KULUNCAK",
+    "mahalle": "KARLIK",
+    "ad": "Kuluncak Karlık İlköğretim Okulu Toplanma Alanı",
+    "lat": 38.99689,
+    "lon": 37.51409
+  },
+  {
+    "il": "Malatya",
+    "ilce": "KULUNCAK",
+    "mahalle": "SOFULAR",
+    "ad": "Kuluncak Sofular Köprü Başı Meydanı Toplanma Alanı",
+    "lat": 38.94476,
+    "lon": 37.55225
+  },
+  {
+    "il": "Malatya",
+    "ilce": "KULUNCAK",
+    "mahalle": "SOFULAR",
+    "ad": "Kuluncak Sofular Eski Belediye Binası Arsası",
+    "lat": 38.94589,
+    "lon": 37.553
+  },
+  {
+    "il": "Malatya",
+    "ilce": "KULUNCAK",
+    "mahalle": "ALVAR",
+    "ad": "Alvar Dostlar Kıraathanesi Meydanı",
+    "lat": 38.9001,
+    "lon": 37.61325
+  },
+  {
+    "il": "Malatya",
+    "ilce": "KULUNCAK",
+    "mahalle": "ALVAR",
+    "ad": "Alvar Cem Evi Toplanma alanı",
+    "lat": 38.89985,
+    "lon": 37.61652
+  },
+  {
+    "il": "Malatya",
+    "ilce": "KULUNCAK",
+    "mahalle": "ÇÖRMÜ",
+    "ad": "Kuluncak Darılı (Çörmü) Mahallesi Toplanma alanı",
+    "lat": 38.94711,
+    "lon": 37.6037
+  },
+  {
+    "il": "Malatya",
+    "ilce": "KULUNCAK",
+    "mahalle": "İSTİKLAL",
+    "ad": "KULUNCAK MİLLİ EĞİTİM MÜDÜRLÜĞÜ",
+    "lat": 38.88259,
+    "lon": 37.67032
+  },
+  {
+    "il": "Malatya",
+    "ilce": "KULUNCAK",
+    "mahalle": "İSTİKLAL",
+    "ad": "Kuluncak Belediyesi Hizmet binası ve arsası",
+    "lat": 38.88096,
+    "lon": 37.67023
+  },
+  {
+    "il": "Malatya",
+    "ilce": "KULUNCAK",
+    "mahalle": "BAHÇELİEVLER",
+    "ad": "Kuluncak Spor Tesis Alanı",
+    "lat": 38.86343,
+    "lon": 37.68729
+  },
+  {
+    "il": "Malatya",
+    "ilce": "KULUNCAK",
+    "mahalle": "ÇAYKÖY",
+    "ad": "Kuluncak Çayköy Mahallesi Toplanma Alanı",
+    "lat": 38.85142,
+    "lon": 37.65412
+  },
+  {
+    "il": "Malatya",
+    "ilce": "KULUNCAK",
+    "mahalle": "SULTANLI",
+    "ad": "Kuluncak Sultanlı Köy Konağı Meydanı Toplanma Alanı",
+    "lat": 38.85242,
+    "lon": 37.67124
+  },
+  {
+    "il": "Malatya",
+    "ilce": "KULUNCAK",
+    "mahalle": "SULTANLI",
+    "ad": "Kuluncak Eski Cami ve Alanı",
+    "lat": 38.85182,
+    "lon": 37.66756
+  },
+  {
+    "il": "Malatya",
+    "ilce": "KULUNCAK",
+    "mahalle": "KARABÜK",
+    "ad": "Kuluncak Karabük Cami ve Arsası Toplanma Alanı",
+    "lat": 38.84322,
+    "lon": 37.68592
+  },
+  {
+    "il": "Malatya",
+    "ilce": "KULUNCAK",
+    "mahalle": "ÇAYKÖY",
+    "ad": "Kuluncak Çayköy Merası Toplanma Alanı",
+    "lat": 38.86361,
+    "lon": 37.65869
+  },
+  {
+    "il": "Malatya",
+    "ilce": "KULUNCAK",
+    "mahalle": "ÇAYKÖY",
+    "ad": "Kuluncak Yukarı Çayköy Mahallesi Cami Önü Toplanma Alanı",
+    "lat": 38.83512,
+    "lon": 37.56926
+  },
+  {
+    "il": "Malatya",
+    "ilce": "KULUNCAK",
+    "mahalle": "KAYNARCA",
+    "ad": "Kuluncak Kaynarca Cami Önü Toplanma Alanı",
+    "lat": 38.73298,
+    "lon": 37.66353
+  },
+  {
+    "il": "Malatya",
+    "ilce": "KULUNCAK",
+    "mahalle": "KAYNARCA",
+    "ad": "Kuluncak Kaynarca Zafer Cami ve Arsası Toplanma Alanı",
+    "lat": 38.71642,
+    "lon": 37.68677
+  },
+  {
+    "il": "Malatya",
+    "ilce": "KULUNCAK",
+    "mahalle": "BİCİR",
+    "ad": "Kuluncak Bicir Okulu ve Arsası",
+    "lat": 38.92202,
+    "lon": 37.57469
+  },
+  {
+    "il": "Malatya",
+    "ilce": "HEKİMHAN",
+    "mahalle": "TURGUT ÖZAL",
+    "ad": "SAKARYA ORTAOKULU",
+    "lat": 38.81543,
+    "lon": 37.93169
+  },
+  {
+    "il": "Malatya",
+    "ilce": "HEKİMHAN",
+    "mahalle": "TURGUT ÖZAL",
+    "ad": "Hekinhan Emniyet Eski Binası Arsası",
+    "lat": 38.81538,
+    "lon": 37.93093
+  },
+  {
+    "il": "Malatya",
+    "ilce": "DOĞANŞEHİR",
+    "mahalle": "YENİ",
+    "ad": "Şerafettin Yıldırım Parkı",
+    "lat": 38.09025,
+    "lon": 37.87519
+  },
+  {
+    "il": "Malatya",
+    "ilce": "DOĞANŞEHİR",
+    "mahalle": "DOĞU",
+    "ad": "Yunus Emre İlkokulu",
+    "lat": 38.09097,
+    "lon": 37.86973
+  },
+  {
+    "il": "Malatya",
+    "ilce": "AKÇADAĞ",
+    "mahalle": "KÜLTÜR",
+    "ad": "Şehit Alper Güde Çok Programlı Lise",
+    "lat": 38.34088,
+    "lon": 37.96717
+  }
+]
