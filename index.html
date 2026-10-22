@@ -2185,43 +2185,62 @@
                                 const system = p.system || 'Türkiye Diri Fay Sistemi';
                                 const slipType = p.slip_type_tr || p.slip_type || 'Bilinmiyor';
                                 const slipRate = p.slip_rate || 'Aktif (< 1.0 mm/yıl)';
+                                const lastYear = p.last_rupture_year || 'Tarihsel Dönem (Kuvaterner Diri Fay)';
+                                const lastEvent = p.last_event || 'Diri fay aktivitesi devam etmektedir';
+                                const recurrence = p.recurrence || '~250 - 500 yıl';
+                                const maxMw = p.max_mw || '6.5 - 7.0 Mw';
+                                const gapBadge = p.gap_badge || 'DİRİ FAY';
                                 const catalogId = p.catalog_id || 'MTA / GEM';
                                 const color = p.color || '#ef4444';
 
                                 const popupHtml = `
-                                <div class="popup-card" style="font-family: var(--font-sans); width: 310px; background: #0f172a; border-radius: 12px; overflow: hidden;">
-                                    <div class="popup-header" style="background: linear-gradient(135deg, rgba(239, 68, 68, 0.28), rgba(15, 23, 42, 0.95)); border-bottom: 1px solid rgba(239, 68, 68, 0.35); padding: 12px 14px; display: flex; align-items: flex-start; justify-content: space-between; gap: 8px;">
+                                <div class="popup-card" style="font-family: var(--font-sans); width: 330px; background: #0f172a; border-radius: 12px; overflow: hidden; box-shadow: 0 20px 40px rgba(0,0,0,0.8);">
+                                    <div class="popup-header" style="background: linear-gradient(135deg, rgba(239, 68, 68, 0.32), rgba(15, 23, 42, 0.95)); border-bottom: 1px solid rgba(239, 68, 68, 0.4); padding: 12px 14px; display: flex; align-items: flex-start; justify-content: space-between; gap: 8px;">
                                         <div>
                                             <div style="font-size: 0.72rem; font-weight: 700; color: #f87171; text-transform: uppercase; letter-spacing: 0.6px; margin-bottom: 3px;">
                                                 <i class="fa-solid fa-water"></i> ${system}
                                             </div>
-                                            <div class="popup-title" style="font-size: 0.94rem; font-weight: 700; color: #ffffff; line-height: 1.35;">${name}</div>
+                                            <div class="popup-title" style="font-size: 0.95rem; font-weight: 700; color: #ffffff; line-height: 1.35;">${name}</div>
                                         </div>
-                                        <span style="font-size: 0.68rem; font-weight: 700; background: rgba(239, 68, 68, 0.2); border: 1px solid #ef4444; color: #fca5a5; padding: 2px 7px; border-radius: 9999px; white-space: nowrap; flex-shrink: 0;">
-                                            DİRİ FAY
+                                        <span style="font-size: 0.68rem; font-weight: 800; background: ${gapBadge.includes('BOŞLUK') ? 'rgba(239,68,68,0.25)' : 'rgba(56,189,248,0.15)'}; border: 1px solid ${gapBadge.includes('BOŞLUK') ? '#ef4444' : '#38bdf8'}; color: ${gapBadge.includes('BOŞLUK') ? '#fca5a5' : '#7dd3fc'}; padding: 3px 8px; border-radius: 9999px; white-space: nowrap; flex-shrink: 0; letter-spacing: 0.5px;">
+                                            ${gapBadge}
                                         </span>
                                     </div>
+                                    
                                     <div style="padding: 12px 14px; display: flex; flex-direction: column; gap: 8px; font-size: 0.82rem;">
-                                        <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.06); padding-bottom: 6px;">
-                                            <span style="color: #94a3b8;"><i class="fa-solid fa-arrows-split-up-and-left" style="width: 16px; color: #38bdf8;"></i> Mekanizma:</span>
-                                            <strong style="color: #f1f5f9; text-align: right;">${slipType}</strong>
+                                        <!-- Öne Çıkarılmış Son Kırılma Yılı Kartı -->
+                                        <div style="background: rgba(239, 68, 68, 0.14); border: 1px solid rgba(239, 68, 68, 0.35); border-radius: 8px; padding: 9px 11px;">
+                                            <div style="font-size: 0.70rem; font-weight: 700; color: #fca5a5; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 3px; display: flex; align-items: center; gap: 5px;">
+                                                <i class="fa-solid fa-clock-rotate-left"></i> Son Kırılma Yılı:
+                                            </div>
+                                            <div style="font-size: 1.05rem; font-weight: 800; color: #ffffff; letter-spacing: -0.01em;">${lastYear}</div>
+                                            <div style="font-size: 0.74rem; color: #cbd5e1; margin-top: 3px; line-height: 1.35;">${lastEvent}</div>
                                         </div>
-                                        <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.06); padding-bottom: 6px;">
-                                            <span style="color: #94a3b8;"><i class="fa-solid fa-gauge-high" style="width: 16px; color: #fbbf24;"></i> Yıllık Kayma:</span>
-                                            <strong style="color: #fbbf24; font-family: var(--font-mono);">${slipRate}</strong>
+
+                                        <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.06); padding-bottom: 5px;">
+                                            <span style="color: #94a3b8;"><i class="fa-solid fa-triangle-exclamation" style="width: 16px; color: #f59e0b;"></i> Beklenen Büyüklük:</span>
+                                            <strong style="color: #fbbf24; font-family: var(--font-mono); font-size: 0.88rem;">${maxMw}</strong>
                                         </div>
-                                        <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.06); padding-bottom: 6px;">
-                                            <span style="color: #94a3b8;"><i class="fa-solid fa-shield-halved" style="width: 16px; color: #ef4444;"></i> Risk Durumu:</span>
-                                            <strong style="color: #fca5a5;">Deprem Üretme Potansiyeli Yüksek</strong>
+
+                                        <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.06); padding-bottom: 5px;">
+                                            <span style="color: #94a3b8;"><i class="fa-solid fa-repeat" style="width: 16px; color: #38bdf8;"></i> Tekrarlanma Aralığı:</span>
+                                            <strong style="color: #f1f5f9; text-align: right; font-size: 0.78rem;">${recurrence}</strong>
                                         </div>
+
+                                        <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.06); padding-bottom: 5px;">
+                                            <span style="color: #94a3b8;"><i class="fa-solid fa-arrows-split-up-and-left" style="width: 16px; color: #10b981;"></i> Fay Mekanizması:</span>
+                                            <strong style="color: #e2e8f0; text-align: right; font-size: 0.78rem;">${slipType}</strong>
+                                        </div>
+
                                         <div style="display: flex; justify-content: space-between; align-items: center;">
-                                            <span style="color: #94a3b8;"><i class="fa-solid fa-fingerprint" style="width: 16px; color: #10b981;"></i> Veritabanı ID:</span>
-                                            <strong style="color: #cbd5e1; font-family: var(--font-mono); font-size: 0.76rem;">${catalogId}</strong>
+                                            <span style="color: #94a3b8;"><i class="fa-solid fa-gauge-high" style="width: 16px; color: #a855f7;"></i> Yıllık Kayma Hızı:</span>
+                                            <strong style="color: #cbd5e1; font-family: var(--font-mono); font-size: 0.78rem;">${slipRate}</strong>
                                         </div>
                                     </div>
+
                                     <div style="padding: 7px 14px; background: rgba(0,0,0,0.35); border-top: 1px solid rgba(255,255,255,0.06); font-size: 0.70rem; color: #64748b; display: flex; justify-content: space-between; align-items: center;">
-                                        <span>GEM / SHARE-EMME Active Faults</span>
-                                        <span style="color: #38bdf8;"><i class="fa-solid fa-circle-info"></i> Tıklanan Fay</span>
+                                        <span>GEM / SHARE-EMME Tarihsel Sismoloji</span>
+                                        <span style="color: #38bdf8;"><i class="fa-solid fa-circle-check"></i> Tıklanan Fay</span>
                                     </div>
                                 </div>`;
 
