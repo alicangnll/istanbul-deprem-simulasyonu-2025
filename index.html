@@ -9,15 +9,11 @@
     <meta name="description" content="İBB 7.5 Mw Senaryosu İstanbul Deprem Simülasyonu ve Risk Haritası">
     <title>İstanbul Deprem Simülasyonu & Risk Analiz Haritası (İBB 7.5 Mw)</title>
 
-    <!-- Google Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap"
-        rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <!-- Yerel Fontlar ve İkonlar (100% Yerel / Sıfır CDN Bağımlılığı) -->
+    <link rel="stylesheet" href="fonts/fonts.css">
+    <link rel="stylesheet" href="css/all.min.css">
 
-    <!-- Leaflet & MarkerCluster (Local Minified) -->
+    <!-- Leaflet & MarkerCluster (Yerel Minified) -->
     <link rel="stylesheet" href="leaflet/leaflet.css" />
     <link rel="stylesheet" href="leaflet/dist/MarkerCluster.css" />
     <link rel="stylesheet" href="leaflet/dist/MarkerCluster.Default.css" />
@@ -143,6 +139,13 @@
         }
 
         .brand-title {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            gap: 2px;
+        }
+
+        .brand-title-main {
             font-size: 0.92rem;
             font-weight: 700;
             letter-spacing: -0.01em;
@@ -152,6 +155,40 @@
             align-items: center;
             gap: 6px;
             white-space: nowrap;
+        }
+
+        .brand-source-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            padding: 2px 8px;
+            background: rgba(56, 189, 248, 0.12);
+            border: 1px solid rgba(56, 189, 248, 0.35);
+            border-radius: var(--radius-pill);
+            color: #38bdf8;
+            font-size: 0.68rem;
+            font-weight: 600;
+            text-decoration: none;
+            letter-spacing: 0.2px;
+            transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+            max-width: 280px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .brand-source-link:hover {
+            background: rgba(56, 189, 248, 0.26);
+            border-color: rgba(56, 189, 248, 0.7);
+            color: #ffffff;
+            box-shadow: 0 0 10px rgba(56, 189, 248, 0.3);
+            transform: translateY(-1px);
+        }
+
+        .brand-source-link i {
+            font-size: 0.62rem;
+            color: #7dd3fc;
+            flex-shrink: 0;
         }
 
         .brand-badge {
@@ -562,11 +599,11 @@
             box-shadow: 0 0 12px rgba(16, 185, 129, 0.35);
         }
 
-        /* Fay Risk Düzeyleri Lejantı (Floating Mini Legend) */
+        /* Fay Risk Düzeyleri Lejantı (Floating Mini Legend - Rahat Görünüm İçin Yukarıda) */
         .fault-risk-legend {
             position: fixed;
-            bottom: 46px;
-            right: 14px;
+            bottom: 95px;
+            right: 16px;
             z-index: 1050;
             background: rgba(15, 23, 42, 0.94);
             backdrop-filter: blur(12px);
@@ -579,6 +616,14 @@
             max-width: 320px;
             pointer-events: auto;
             animation: fadeInFaultLegend 0.25s ease-out;
+        }
+
+        @media (max-width: 768px) {
+            .fault-risk-legend {
+                bottom: 110px;
+                right: 12px;
+                max-width: calc(100vw - 24px);
+            }
         }
 
         @keyframes fadeInFaultLegend {
@@ -1039,6 +1084,46 @@
             font-family: var(--font-sans) !important;
         }
 
+        /* Toplanma Alanı Kümeleme (MarkerCluster) Özel Glowing Stilleri */
+        .marker-cluster.camp-cluster-small {
+            background-color: rgba(16, 185, 129, 0.35) !important;
+        }
+
+        .marker-cluster.camp-cluster-small div {
+            background-color: rgba(5, 150, 105, 0.95) !important;
+            color: #ffffff !important;
+            font-weight: 800 !important;
+            font-family: var(--font-sans) !important;
+            font-size: 0.82rem !important;
+            box-shadow: 0 0 12px rgba(16, 185, 129, 0.45);
+        }
+
+        .marker-cluster.camp-cluster-medium {
+            background-color: rgba(20, 184, 166, 0.38) !important;
+        }
+
+        .marker-cluster.camp-cluster-medium div {
+            background-color: rgba(13, 148, 136, 0.95) !important;
+            color: #ffffff !important;
+            font-weight: 800 !important;
+            font-family: var(--font-sans) !important;
+            font-size: 0.86rem !important;
+            box-shadow: 0 0 14px rgba(20, 184, 166, 0.5);
+        }
+
+        .marker-cluster.camp-cluster-large {
+            background-color: rgba(6, 182, 212, 0.42) !important;
+        }
+
+        .marker-cluster.camp-cluster-large div {
+            background-color: rgba(8, 145, 178, 0.95) !important;
+            color: #ffffff !important;
+            font-weight: 800 !important;
+            font-family: var(--font-sans) !important;
+            font-size: 0.92rem !important;
+            box-shadow: 0 0 16px rgba(6, 182, 212, 0.55);
+        }
+
         /* --------------------------------------------------------------------------
            5. Leaflet Popup Kartı (Modern, Temiz ve Net Okunur)
            -------------------------------------------------------------------------- */
@@ -1438,8 +1523,16 @@
                         <i class="fa-solid fa-earth-americas"></i>
                     </div>
                     <div class="brand-title">
-                        <span>İstanbul Deprem Simülasyonu</span>
-                        <span class="brand-badge">7.5 Mw</span>
+                        <div class="brand-title-main">
+                            <span id="brandCityTitle">İstanbul Deprem Simülasyonu</span>
+                        </div>
+                        <a id="brandSourceLink" class="brand-source-link"
+                            href="https://data.ibb.gov.tr/dataset/deprem-senaryosu-analiz-sonuclari/resource/9c3ac492-de4b-4245-b418-7ad3df67a193"
+                            target="_blank" rel="noopener noreferrer"
+                            title="Resmi Veri Seti / Rapor Kaynağına Git (Yeni Sekmede Açar)">
+                            <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                            <span id="brandSourceName">Kaynak: İBB Açık Veri Portalı (7.5 Mw)</span>
+                        </a>
                     </div>
                 </div>
                 <div class="brand-actions">
@@ -1459,23 +1552,23 @@
                 <div class="warning-header-row">
                     <div class="warning-title-wrap">
                         <i class="fa-solid fa-triangle-exclamation warning-icon"></i>
-                        <strong class="warning-title">İBB 7.5 Mw Senaryo Bilgilendirmesi</strong>
+                        <strong class="warning-title" id="warningTitle">İBB 7.5 Mw Senaryo Bilgilendirmesi</strong>
                     </div>
                     <button type="button" id="btnCloseWarning" class="btn-close-warning" title="Kapat / Gizle"
                         aria-label="Uyarıyı Kapat">&times;</button>
                 </div>
                 <div class="warning-content">
-                    <p class="warning-desc">
+                    <p class="warning-desc" id="warningDesc">
                         Haritada sunulan veriler, <strong>İstanbul Büyükşehir Belediyesi (İBB)</strong> tarafından
                         hazırlanan <strong>7.5 Mw büyüklüğündeki</strong> olası gece depremi senaryosu analiz sonuçlarını ve
                         bina hasar/can kaybı tahminlerini içerir.
                     </p>
                     <div class="warning-links-chips">
-                        <a target="_blank"
+                        <a target="_blank" id="warningSourceChip"
                             href="https://data.ibb.gov.tr/dataset/deprem-senaryosu-analiz-sonuclari/resource/9c3ac492-de4b-4245-b418-7ad3df67a193"
                             rel="noopener noreferrer" class="warning-chip">
-                            <i class="fa-solid fa-database"></i>
-                            <span>İBB Açık Veri Portalı</span>
+                            <i class="fa-solid fa-database" id="warningSourceChipIcon"></i>
+                            <span id="warningSourceChipText">İBB Açık Veri Portalı</span>
                             <i class="fa-solid fa-arrow-up-right-from-square chip-arrow"></i>
                         </a>
                         <a target="_blank" href="https://github.com/GEMScienceTools/gem-global-active-faults"
@@ -1498,7 +1591,7 @@
             <div class="district-select-wrap" id="provinceSelectWrap" title="İl Seçin">
                 <i class="fa-solid fa-city"></i>
                 <select id="provinceFilter" class="district-select" aria-label="İl Seçin">
-                    <option value="istanbul">İstanbul</option>
+                    <option value="istanbul" selected>İstanbul (İBB 7.5 Mw Senaryosu)</option>
                 </select>
             </div>
 
@@ -1573,23 +1666,29 @@
             <span>Toplanma Alanı:</span>
             <strong id="statToplanmaAlani" style="color: #6ee7b7;">357 Alan</strong>
         </div>
-        <div class="stat-sep"></div>
-        <div class="stat-item danger">
+        <div class="stat-sep sim-stat"></div>
+        <div class="stat-item danger sim-stat">
             <i class="fa-solid fa-skull"></i>
             <span>Tahmini Can Kaybı:</span>
             <strong id="statCanKaybi">...</strong>
         </div>
-        <div class="stat-sep"></div>
-        <div class="stat-item warning">
+        <div class="stat-sep sim-stat"></div>
+        <div class="stat-item warning sim-stat">
             <i class="fa-solid fa-house-chimney-crack"></i>
             <span>Ağır / Çok Ağır Hasarlı:</span>
             <strong id="statAgirHasar">...</strong>
         </div>
-        <div class="stat-sep"></div>
-        <div class="stat-item shelter">
+        <div class="stat-sep sim-stat"></div>
+        <div class="stat-item shelter sim-stat">
             <i class="fa-solid fa-tents"></i>
             <span>Geçici Barınma:</span>
             <strong id="statBarinma">...</strong>
+        </div>
+        <div class="stat-sep non-sim-stat" style="display: none;"></div>
+        <div class="stat-item non-sim-stat" style="display: none;">
+            <i class="fa-solid fa-circle-check" style="color: #38bdf8;"></i>
+            <span>Doğrulanmış Kaynak:</span>
+            <strong style="color: #7dd3fc;">e-Devlet / AFAD Veritabanı</strong>
         </div>
     </footer>
 
@@ -1694,6 +1793,13 @@
             let allMarkers = [];
             let markersByDistrict = new Map();
             let districtStatsMap = new Map();
+            let currentProvinceSlug = 'istanbul';
+            let currentProvinceMeta = null;
+            let currentCityTotals = { canKaybi: 0, agirHasar: 0, barinma: 0, mahalleCount: 0 };
+            let currentProvinceCampData = [];
+            let currentProvinceCampCount = 357;
+            let currentScenarioName = 'İBB 7.5 Mw Gece Senaryosu';
+            let provinceIndexList = [];
             let faultLayer = null;
             let isFaultVisible = false;
             let campCluster = null;
@@ -1706,6 +1812,25 @@
             let istanbulCampCount = 357;
 
             const fmt = (n) => Number(n || 0).toLocaleString('tr-TR');
+
+            function normalizeLocationKey(str) {
+                return (str || '')
+                    .replace(/İ/g, 'I')
+                    .replace(/ı/g, 'i')
+                    .replace(/Ş/g, 'S')
+                    .replace(/ş/g, 's')
+                    .replace(/Ğ/g, 'G')
+                    .replace(/ğ/g, 'g')
+                    .replace(/Ü/g, 'U')
+                    .replace(/ü/g, 'u')
+                    .replace(/Ö/g, 'O')
+                    .replace(/ö/g, 'o')
+                    .replace(/Ç/g, 'C')
+                    .replace(/ç/g, 'c')
+                    .toUpperCase()
+                    .replace(/[\s\.\-_]+/g, '')
+                    .trim();
+            }
 
             // Risk Seviyesi Hesaplama
             function getRiskLevel(stats) {
@@ -1814,289 +1939,112 @@
                     </div>
 
                     <div class="popup-footer">
-                        <span>İBB 7.5 Mw Gece Senaryosu</span>
-                        <a href="https://data.ibb.gov.tr/dataset/deprem-senaryosu-analiz-sonuclari" target="_blank" rel="noopener noreferrer">
-                            Veri Portalı <i class="fa-solid fa-arrow-up-right-from-square"></i>
-                        </a>
+                        <span>${currentScenarioName || 'Afet Senaryosu Analiz Sonuçları'}</span>
+                        <span style="font-size: 0.72rem; color: #64748b; display: inline-flex; align-items: center; gap: 4px;">
+                            <i class="fa-solid fa-database"></i> Yerel Veri Portalı
+                        </span>
                     </div>
                 </div>
             `;
             }
 
-            // Ana Veri Yükleme ve Algoritma Motoru (O(1) Haritalama, Sıfır N+1 İstek)
-            async function initData() {
-                try {
-                    async function fetchJsonWithCandidates(candidates) {
-                        for (const url of candidates) {
-                            try {
-                                const res = await fetch(url);
-                                if (res.ok) return res;
-                            } catch (e) { }
-                        }
-                        throw new Error('Dosya yüklenemedi: ' + candidates[0]);
-                    }
+            // Bilimsel & Resmi Senaryo ve Veri Kaynakları Kayıt Kütüğü (O(1) Güvenilir Erişim)
+            // YALNIZCA doğrulanabilir, resmi açık veri seti bulunan iller simülasyon olarak yer alır
+            const PROVINCE_META_REGISTRY = {
+                'istanbul': {
+                    slug: 'istanbul',
+                    name: 'İstanbul',
+                    scenario_name: 'İBB 7.5 Mw Gece Senaryosu',
+                    center: [41.0082, 28.9784],
+                    zoom: 10,
+                    has_simulation: true,
+                    source_name: 'Kaynak: İBB Açık Veri Portalı (7.5 Mw Analizi)',
+                    source_url: 'https://data.ibb.gov.tr/dataset/deprem-senaryosu-analiz-sonuclari/resource/9c3ac492-de4b-4245-b418-7ad3df67a193',
+                    source_desc: 'İstanbul Büyükşehir Belediyesi (İBB) 7.5 Mw Olası Gece Depremi Senaryosu Analiz Sonuçları ve İlçe Bazlı Bina Hasar / Can Kaybı Tahmin Raporu.',
+                    deprem_file: 'iller/istanbul/deprem.json',
+                    coord_file: 'iller/istanbul/ilce.json'
+                }
+            };
 
-                    // 1. JSON dosyalarını eşzamanlı tek seferde çekiyoruz (O(1) Network)
-                    const [depremResponse, ilceResponse, campResponse, indexResponse] = await Promise.all([
-                        fetchJsonWithCandidates([
-                            'iller/istanbul/deprem.json',
-                            './iller/istanbul/deprem.json',
-                            '/istdeprem/iller/istanbul/deprem.json',
-                            'deprem.json'
-                        ]),
-                        fetchJsonWithCandidates([
-                            'iller/istanbul/ilce.json',
-                            './iller/istanbul/ilce.json',
-                            '/istdeprem/iller/istanbul/ilce.json',
-                            'ilce.json'
-                        ]),
-                        fetchJsonWithCandidates([
-                            'iller/turkiye_toplanma_alanlari.json',
-                            './iller/turkiye_toplanma_alanlari.json',
-                            '/istdeprem/iller/turkiye_toplanma_alanlari.json',
-                            'turkiye_toplanma_alanlari.json'
-                        ]).catch(err => {
-                            console.warn('Türkiye toplanma alanları yüklenemedi:', err);
-                            return null;
-                        }),
-                        fetchJsonWithCandidates([
-                            'iller/iller_index.json',
-                            './iller/iller_index.json',
-                            '/istdeprem/iller/iller_index.json',
-                            'iller_index.json'
-                        ]).catch(err => {
-                            console.warn('İller indexi yüklenemedi:', err);
-                            return null;
-                        })
-                    ]);
+            // Simülasyon Veri Önbelleği (Sıfır Yeniden İndirme, Hızlı Geçiş)
+            const simulationDataCache = new Map();
 
-                    const depremList = await depremResponse.json();
-                    const ilceList = await ilceResponse.json();
+            // Yardımcı: Çoklu aday yollardan JSON çekme
+            async function fetchJsonWithCandidates(candidates) {
+                for (const url of candidates) {
+                    try {
+                        const res = await fetch(url);
+                        if (res.ok) return res;
+                    } catch (e) { }
+                }
+                throw new Error('Dosya yüklenemedi: ' + candidates[0]);
+            }
 
-                    // 2. Deprem Verilerini Hızlı Arama İçin Map'e Alıyoruz (O(1) Lookup)
-                    function normalizeLocationKey(str) {
-                        return (str || '')
-                            .replace(/İ/g, 'I')
-                            .replace(/ı/g, 'i')
-                            .replace(/Ş/g, 'S')
-                            .replace(/ş/g, 's')
-                            .replace(/Ğ/g, 'G')
-                            .replace(/ğ/g, 'g')
-                            .replace(/Ü/g, 'U')
-                            .replace(/ü/g, 'u')
-                            .replace(/Ö/g, 'O')
-                            .replace(/ö/g, 'o')
-                            .replace(/Ç/g, 'C')
-                            .replace(/ç/g, 'c')
-                            .toUpperCase()
-                            .replace(/[\s\.\-_]+/g, '')
-                            .trim();
-                    }
-
-                    const depremMap = new Map();
-                    const cityTotals = {
-                        canKaybi: 0,
-                        agirHasar: 0,
-                        barinma: 0,
-                        mahalleCount: depremList.length
-                    };
-
-                    for (let i = 0; i < depremList.length; i++) {
-                        const row = depremList[i];
-                        const rawKey = `${row.ilce_adi},${row.mahalle_adi}`.toUpperCase().trim();
-                        const normKey = normalizeLocationKey(rawKey);
-                        depremMap.set(rawKey, row);
-                        depremMap.set(normKey, row);
-
-                        // Şehir toplamları (959 Resmi İBB Mahalle)
-                        cityTotals.canKaybi += Number(row.can_kaybi_sayisi || 0);
-                        cityTotals.agirHasar += Number(row.cok_agir_hasarli_bina_sayisi || 0) + Number(row.agir_hasarli_bina_sayisi || 0);
-                        cityTotals.barinma += Number(row.gecici_barinma || 0);
-
-                        // İlçe istatistik toplamları (Resmi İBB verileri)
-                        const ilceName = row.ilce_adi;
-                        if (!districtStatsMap.has(ilceName)) {
-                            districtStatsMap.set(ilceName, {
-                                count: 0,
-                                canKaybi: 0,
-                                agirHasar: 0,
-                                barinma: 0
+            // Toplanma Alanı Kümesini Hazırla (MarkerCluster - Zümrüt/Teal Glowing Ringler & Net Sayılar)
+            function setupCampCluster() {
+                if (!campCluster) {
+                    campCluster = L.markerClusterGroup({
+                        chunkedLoading: true,
+                        chunkInterval: 50,
+                        chunkDelay: 10,
+                        spiderfyOnMaxZoom: true,
+                        showCoverageOnHover: false,
+                        zoomToBoundsOnClick: true,
+                        maxClusterRadius: 42,
+                        iconCreateFunction: function (cluster) {
+                            const count = cluster.getChildCount();
+                            let c = 'camp-cluster-small';
+                            if (count >= 100) {
+                                c = 'camp-cluster-large';
+                            } else if (count >= 20) {
+                                c = 'camp-cluster-medium';
+                            }
+                            return L.divIcon({
+                                html: '<div><span>' + count.toLocaleString('tr-TR') + '</span></div>',
+                                className: 'marker-cluster ' + c,
+                                iconSize: [40, 40]
                             });
                         }
-                        const dStat = districtStatsMap.get(ilceName);
-                        dStat.count++;
-                        dStat.canKaybi += Number(row.can_kaybi_sayisi || 0);
-                        dStat.agirHasar += Number(row.cok_agir_hasarli_bina_sayisi || 0) + Number(row.agir_hasarli_bina_sayisi || 0);
-                        dStat.barinma += Number(row.gecici_barinma || 0);
-                    }
+                    });
+                    map.addLayer(campCluster);
+                    bursaCampCluster = campCluster;
 
-                    // 3. İlçe Konumlarını İşleme ve Deduplication (391 Çift Koordinatı Temizleme)
-                    const uniqueLocations = new Set();
-                    const batchMarkers = [];
-                    const districtSet = new Set();
-
-                    for (let i = 0; i < ilceList.length; i++) {
-                        const item = ilceList[i];
-                        const lat = parseFloat(item.lat);
-                        const lon = parseFloat(item.lon);
-
-                        if (isNaN(lat) || isNaN(lon)) continue;
-
-                        // Benzersiz koordinat kontrolü
-                        const coordKey = `${lat.toFixed(5)},${lon.toFixed(5)}`;
-                        if (uniqueLocations.has(coordKey)) {
-                            continue;
-                        }
-                        uniqueLocations.add(coordKey);
-
-                        // İlçe ve Mahalle Eşleştirme (Normalizasyon Destekli)
-                        const rawName = item.ilce_adi || '';
-                        const matchKey = rawName.toUpperCase().trim();
-                        const stats = depremMap.get(matchKey) || depremMap.get(normalizeLocationKey(rawName));
-
-                        if (!stats) continue;
-
-                        const ilceName = stats.ilce_adi;
-                        districtSet.add(ilceName);
-
-                        // Risk ve Marker
-                        const risk = getRiskLevel(stats);
-                        const markerIcon = createMarkerIcon(risk);
-                        const marker = L.marker([lat, lon], { icon: markerIcon });
-
-                        const popupHtml = buildPopupHtml(stats, risk);
-                        marker.bindPopup(popupHtml, { maxWidth: 340, minWidth: 300 });
-
-                        marker.customData = {
-                            district: ilceName,
-                            mahalle: stats.mahalle_adi,
-                            stats: stats,
-                            risk: risk
-                        };
-
-                        batchMarkers.push(marker);
-
-                        if (!markersByDistrict.has(ilceName)) {
-                            markersByDistrict.set(ilceName, []);
-                        }
-                        markersByDistrict.get(ilceName).push(marker);
-                    }
-
-                    allMarkers = batchMarkers;
-                    cityTotals.mahalleCount = depremList.length;
-
-                    // 4. Markerları Tek Seferde Toplu Ekliyoruz (Sıfır Lag)
-                    markersCluster.addLayers(batchMarkers);
-
-                    // 5. Şehir İstatistiklerini Güncelle
-                    updateStatsDisplay('Tüm İstanbul', cityTotals.mahalleCount, cityTotals.canKaybi, cityTotals.agirHasar, cityTotals.barinma);
-
-                    // 6. İlçe Seçim Kutusunu Doldur
-                    populateDistrictFilter(Array.from(districtSet).sort((a, b) => a.localeCompare(b, 'tr')));
-
-                    // 7. İl Seçim Kutusunu Doldur
-                    if (indexResponse && indexResponse.ok) {
-                        try {
-                            const indexList = await indexResponse.json();
-                            populateProvinceFilter(indexList);
-                        } catch (iErr) {
-                            console.warn('İller index parse hatası:', iErr);
-                        }
-                    }
-
-                    // 8. Türkiye Toplanma Alanlarını Haritaya Ekle (Kamp Simgesi)
-                    if (campResponse && campResponse.ok) {
-                        try {
-                            const campData = await campResponse.json();
-                            allCampData = campData;
-                            istanbulCampData = campData.filter(x => {
-                                const il = (x.il || '').toUpperCase();
-                                return il === 'İSTANBUL' || il === 'ISTANBUL';
-                            });
-                            istanbulCampCount = istanbulCampData.length || 357;
-                            initTurkeyCampAreas(campData);
-                            updateStatsDisplay('Tüm İstanbul', cityTotals.mahalleCount, cityTotals.canKaybi, cityTotals.agirHasar, cityTotals.barinma, istanbulCampCount);
-                        } catch (cErr) {
-                            console.warn('Toplanma alanları parse hatası:', cErr);
-                        }
-                    }
-
-                    // Yükleme Ekranını Kapat
-                    const loader = document.getElementById('loader');
-                    loader.style.opacity = '0';
-                    setTimeout(() => loader.style.display = 'none', 350);
-
-                } catch (err) {
-                    console.error('Veri yükleme hatası:', err);
-                    const loader = document.getElementById('loader');
-                    loader.innerHTML = `
-                    <div style="color: #ef4444; font-size: 1.1rem; text-align: center; max-width: 400px; padding: 20px;">
-                        <i class="fa-solid fa-circle-exclamation" style="font-size: 2.5rem; margin-bottom: 12px;"></i>
-                        <div>Veriler yüklenirken bir sorun oluştu!</div>
-                        <div style="font-size: 0.85rem; color: #94a3b8; margin-top: 6px;">Lütfen sayfayı yenileyiniz.</div>
-                    </div>
-                `;
-                }
-            }
-
-            // İstatistik Çubuğunu Güncelleme
-            function updateStatsDisplay(regionName, count, canKaybi, agirHasar, barinma, toplanmaSayisi) {
-                document.getElementById('labelRegion').textContent = regionName;
-                document.getElementById('statMahalle').textContent = typeof count === 'number' ? `${fmt(count)} Mahalle` : count;
-                document.getElementById('statCanKaybi').textContent = typeof canKaybi === 'number' ? fmt(canKaybi) : canKaybi;
-                document.getElementById('statAgirHasar').textContent = typeof agirHasar === 'number' ? fmt(agirHasar) : agirHasar;
-                document.getElementById('statBarinma').textContent = typeof barinma === 'number' ? `${fmt(barinma)} Hane` : barinma;
-
-                const statToplanma = document.getElementById('statToplanmaAlani');
-                if (statToplanma) {
-                    const c = (toplanmaSayisi !== undefined && toplanmaSayisi !== null) ? toplanmaSayisi : istanbulCampCount;
-                    statToplanma.textContent = typeof c === 'number' ? `${fmt(c)} Alan` : c;
-                }
-            }
-
-            // İlçe Seçim Kutusunu Doldurma
-            function populateDistrictFilter(districtList) {
-                const select = document.getElementById('districtFilter');
-                districtList.forEach(dist => {
-                    const opt = document.createElement('option');
-                    opt.value = dist;
-                    const dStat = districtStatsMap.get(dist);
-                    opt.textContent = `${dist} (${dStat ? dStat.count : 0} Mahalle)`;
-                    select.appendChild(opt);
-                });
-
-                select.addEventListener('change', function () {
-                    filterByDistrict(this.value);
-                });
-            }
-
-            // İlçe Filtreleme Fonksiyonu
-            function filterByDistrict(district) {
-                markersCluster.clearLayers();
-
-                if (district === 'ALL') {
-                    markersCluster.addLayers(allMarkers);
-                    updateStatsDisplay('Tüm İstanbul', cityTotals.mahalleCount, cityTotals.canKaybi, cityTotals.agirHasar, cityTotals.barinma, istanbulCampCount);
-                    map.setView([41.0082, 28.9784], 10);
-                } else {
-                    const filtered = markersByDistrict.get(district) || [];
-                    markersCluster.addLayers(filtered);
-
-                    const dStat = districtStatsMap.get(district) || { count: 0, canKaybi: 0, agirHasar: 0, barinma: 0 };
-                    const dNorm = district.toUpperCase().trim();
-                    const dCampCount = istanbulCampData.filter(x => (x.ilce || '').toUpperCase().trim() === dNorm).length;
-                    updateStatsDisplay(district, dStat.count, dStat.canKaybi, dStat.agirHasar, dStat.barinma, dCampCount);
-
-                    if (filtered.length > 0) {
-                        const group = L.featureGroup(filtered);
-                        map.fitBounds(group.getBounds().pad(0.12));
+                    const btnCampToggle = document.getElementById('btnCampToggle') || document.getElementById('btnBursaCampToggle');
+                    if (btnCampToggle && !btnCampToggle.dataset.listenerAttached) {
+                        btnCampToggle.dataset.listenerAttached = 'true';
+                        btnCampToggle.addEventListener('click', function () {
+                            if (isCampVisible) {
+                                map.removeLayer(campCluster);
+                                isCampVisible = false;
+                                isBursaCampVisible = false;
+                                btnCampToggle.classList.remove('active');
+                                btnCampToggle.innerHTML = `<i class="fa-solid fa-campground"></i> <span>Toplanma Göster</span>`;
+                            } else {
+                                map.addLayer(campCluster);
+                                isCampVisible = true;
+                                isBursaCampVisible = true;
+                                btnCampToggle.classList.add('active');
+                                const total = campCluster.getLayers().length;
+                                btnCampToggle.innerHTML = `<i class="fa-solid fa-campground"></i> <span>Toplanma (${total.toLocaleString('tr-TR')})</span>`;
+                            }
+                        });
                     }
                 }
             }
 
-            // 6.1 Türkiye Geneli Afet Toplanma Alanları Katmanı (Kamp Sembolü, Kümeleme ve Yol Tarifi)
-            function initTurkeyCampAreas(campList) {
-                if (!Array.isArray(campList) || !campList.length) return;
+            // İle Özel Toplanma Alanı İşaretçilerini Güncelle (Yalnızca seçili ilin alanlarını çizer - 60 FPS)
+            function updateProvinceCampMarkers(campList) {
+                setupCampCluster();
+                campCluster.clearLayers();
+
+                const btnCampToggle = document.getElementById('btnCampToggle') || document.getElementById('btnBursaCampToggle');
+
+                if (!Array.isArray(campList) || !campList.length) {
+                    if (btnCampToggle && isCampVisible) {
+                        btnCampToggle.innerHTML = `<i class="fa-solid fa-campground"></i> <span>Toplanma (0)</span>`;
+                    }
+                    return;
+                }
 
                 function escapeHtml(str) {
                     if (!str) return '';
@@ -2111,9 +2059,9 @@
                 const campMarkers = [];
                 for (let i = 0; i < campList.length; i++) {
                     const item = campList[i];
-                    const lat = item.lat;
-                    const lon = item.lon;
-                    if (!lat || !lon) continue;
+                    const lat = parseFloat(item.lat);
+                    const lon = parseFloat(item.lon);
+                    if (isNaN(lat) || isNaN(lon)) continue;
 
                     const areaName = item.ad || 'Toplanma Alanı';
                     const cityName = item.il || '';
@@ -2164,43 +2112,458 @@
                     campMarkers.push(marker);
                 }
 
-                campCluster = L.markerClusterGroup({
-                    chunkedLoading: true,
-                    chunkInterval: 50,
-                    maxClusterRadius: 45,
-                    iconCreateFunction: function (cluster) {
-                        const count = cluster.getChildCount();
-                        return L.divIcon({
-                            html: `<div class="bursa-camp-cluster-badge"><i class="fa-solid fa-campground"></i> <span>${count.toLocaleString('tr-TR')}</span></div>`,
-                            className: 'bursa-camp-cluster-wrap',
-                            iconSize: [42, 42],
-                            iconAnchor: [21, 21]
+                campCluster.addLayers(campMarkers);
+
+                if (btnCampToggle && isCampVisible) {
+                    btnCampToggle.innerHTML = `<i class="fa-solid fa-campground"></i> <span>Toplanma (${campMarkers.length.toLocaleString('tr-TR')})</span>`;
+                }
+            }
+
+            // Simülasyon Verilerini Haritaya Basma Motoru
+            function renderSimulationData(slug, depremList, ilceList) {
+                const meta = (provinceIndexList && provinceIndexList.find(x => x.slug === slug)) || PROVINCE_META_REGISTRY[slug] || { name: slug, slug, has_simulation: true };
+                currentProvinceSlug = slug;
+                currentProvinceMeta = meta;
+
+                // Üst Başlık ve Sol Üst Veri Kaynağı Linkini Güncelle
+                const brandCityTitle = document.getElementById('brandCityTitle');
+                const brandSourceLink = document.getElementById('brandSourceLink');
+                const brandSourceName = document.getElementById('brandSourceName');
+
+                if (brandCityTitle) {
+                    brandCityTitle.textContent = `${meta.name} Deprem Simülasyonu`;
+                }
+
+                // SOL ÜST KAYNAK LİNKİ (Kullanıcı tıkladığında doğrudan kaynağa gider)
+                const sourceUrl = meta.source_url || (PROVINCE_META_REGISTRY[slug] && PROVINCE_META_REGISTRY[slug].source_url) || 'https://data.ibb.gov.tr/';
+                const sourceName = meta.source_name || (PROVINCE_META_REGISTRY[slug] && PROVINCE_META_REGISTRY[slug].source_name) || 'Resmi Veri Kaynağı';
+                const sourceDesc = meta.source_desc || (PROVINCE_META_REGISTRY[slug] && PROVINCE_META_REGISTRY[slug].source_desc) || `${meta.name} resmi afet senaryosu ve hasar tespit verileri.`;
+
+                if (brandSourceLink) {
+                    brandSourceLink.href = sourceUrl;
+                    brandSourceLink.style.display = 'inline-flex';
+                    if (brandSourceName) {
+                        brandSourceName.textContent = sourceName;
+                    }
+                }
+
+                // Bilgilendirme Çekmecesini (warningBox) da güncelle
+                const warningTitle = document.getElementById('warningTitle');
+                const warningDesc = document.getElementById('warningDesc');
+                const warningSourceChip = document.getElementById('warningSourceChip');
+                const warningSourceChipText = document.getElementById('warningSourceChipText');
+
+                if (warningTitle) warningTitle.textContent = `${meta.name} ${meta.scenario_name || 'Afet Senaryosu'} Bilgilendirmesi`;
+                if (warningDesc) warningDesc.textContent = sourceDesc;
+                if (warningSourceChip) {
+                    warningSourceChip.href = sourceUrl;
+                    if (warningSourceChipText) warningSourceChipText.textContent = sourceName;
+                }
+
+                currentScenarioName = meta.scenario_name || 'Afet Senaryosu Analiz Sonuçları';
+
+                // İlçe seçim kutusunu göster
+                const districtWrap = document.getElementById('districtSelectWrap');
+                if (districtWrap) districtWrap.style.display = 'flex';
+
+                // Eski simülasyon markerlarını temizle
+                markersCluster.clearLayers();
+                allMarkers = [];
+                markersByDistrict = new Map();
+                districtStatsMap = new Map();
+
+                const depremMap = new Map();
+                currentCityTotals = {
+                    canKaybi: 0,
+                    agirHasar: 0,
+                    barinma: 0,
+                    mahalleCount: depremList.length
+                };
+
+                for (let i = 0; i < depremList.length; i++) {
+                    const row = depremList[i];
+                    const rawKey = `${row.ilce_adi},${row.mahalle_adi}`.toUpperCase().trim();
+                    const normKey = normalizeLocationKey(rawKey);
+                    depremMap.set(rawKey, row);
+                    depremMap.set(normKey, row);
+
+                    currentCityTotals.canKaybi += Number(row.can_kaybi_sayisi || 0);
+                    currentCityTotals.agirHasar += Number(row.cok_agir_hasarli_bina_sayisi || 0) + Number(row.agir_hasarli_bina_sayisi || 0);
+                    currentCityTotals.barinma += Number(row.gecici_barinma || 0);
+
+                    const ilceName = row.ilce_adi || 'Merkez';
+                    if (!districtStatsMap.has(ilceName)) {
+                        districtStatsMap.set(ilceName, {
+                            count: 0,
+                            canKaybi: 0,
+                            agirHasar: 0,
+                            barinma: 0
                         });
                     }
+                    const dStat = districtStatsMap.get(ilceName);
+                    dStat.count++;
+                    dStat.canKaybi += Number(row.can_kaybi_sayisi || 0);
+                    dStat.agirHasar += Number(row.cok_agir_hasarli_bina_sayisi || 0) + Number(row.agir_hasarli_bina_sayisi || 0);
+                    dStat.barinma += Number(row.gecici_barinma || 0);
+                }
+
+                const uniqueLocations = new Set();
+                const batchMarkers = [];
+                const districtSet = new Set();
+
+                for (let i = 0; i < ilceList.length; i++) {
+                    const item = ilceList[i];
+                    const lat = parseFloat(item.lat);
+                    const lon = parseFloat(item.lon);
+
+                    if (isNaN(lat) || isNaN(lon)) continue;
+
+                    const coordKey = `${lat.toFixed(5)},${lon.toFixed(5)}`;
+                    if (uniqueLocations.has(coordKey)) {
+                        continue;
+                    }
+                    uniqueLocations.add(coordKey);
+
+                    const rawName = item.ilce_adi || '';
+                    const matchKey = rawName.toUpperCase().trim();
+                    const stats = depremMap.get(matchKey) || depremMap.get(normalizeLocationKey(rawName));
+
+                    if (!stats) continue;
+
+                    const ilceName = stats.ilce_adi || 'Merkez';
+                    districtSet.add(ilceName);
+
+                    const risk = getRiskLevel(stats);
+                    const markerIcon = createMarkerIcon(risk);
+                    const marker = L.marker([lat, lon], { icon: markerIcon });
+
+                    const popupHtml = buildPopupHtml(stats, risk);
+                    marker.bindPopup(popupHtml, { maxWidth: 340, minWidth: 300 });
+
+                    marker.customData = {
+                        district: ilceName,
+                        mahalle: stats.mahalle_adi,
+                        stats: stats,
+                        risk: risk
+                    };
+
+                    batchMarkers.push(marker);
+
+                    if (!markersByDistrict.has(ilceName)) {
+                        markersByDistrict.set(ilceName, []);
+                    }
+                    markersByDistrict.get(ilceName).push(marker);
+                }
+
+                allMarkers = batchMarkers;
+                markersCluster.addLayers(batchMarkers);
+
+                // İlçe filtresini doldur
+                populateDistrictFilter(Array.from(districtSet).sort((a, b) => a.localeCompare(b, 'tr')));
+
+                // İlin toplanma alanlarını güncelle
+                if (Array.isArray(allCampData) && allCampData.length > 0) {
+                    const pUpper = (meta.name || '').toLocaleUpperCase('tr-TR');
+                    currentProvinceCampData = allCampData.filter(x => {
+                        const il = (x.il || '').toLocaleUpperCase('tr-TR');
+                        return il === pUpper || il === slug.toUpperCase();
+                    });
+                    currentProvinceCampCount = currentProvinceCampData.length || (meta.count || 0);
+                    updateProvinceCampMarkers(currentProvinceCampData);
+                } else {
+                    currentProvinceCampData = [];
+                    currentProvinceCampCount = meta.count || 0;
+                }
+
+                // Alt istatistik panelini güncelle
+                updateStatsDisplay(`Tüm ${meta.name}`, currentCityTotals.mahalleCount, currentCityTotals.canKaybi, currentCityTotals.agirHasar, currentCityTotals.barinma, currentProvinceCampCount);
+
+                // Harita bakışını il merkezine odakla
+                const center = meta.center || (PROVINCE_META_REGISTRY[slug] && PROVINCE_META_REGISTRY[slug].center);
+                const zoom = meta.zoom || (PROVINCE_META_REGISTRY[slug] && PROVINCE_META_REGISTRY[slug].zoom) || 10;
+                if (center) {
+                    map.setView(center, zoom);
+                }
+            }
+
+            // İle Özel Simülasyon ve Toplanma Alanı Yükleme Fonksiyonu
+            async function loadProvinceSimulation(slug) {
+                const meta = (provinceIndexList && provinceIndexList.find(x => x.slug === slug)) || PROVINCE_META_REGISTRY[slug] || { name: slug, slug, has_simulation: slug === 'istanbul' };
+                currentProvinceSlug = slug;
+                currentProvinceMeta = meta;
+
+                // İl seçim kutusunda seçili yap (Senkronize tutulur)
+                const provSelect = document.getElementById('provinceFilter');
+                if (provSelect && provSelect.value !== slug) {
+                    provSelect.value = slug;
+                }
+
+                // İlin toplanma alanlarını yükle (Önce bellekten, yoksa anında yerel ildir/{slug}/toplanma_alanlari.json dosyasından)
+                let provCamps = [];
+                if (Array.isArray(allCampData) && allCampData.length > 0) {
+                    const pUpper = (meta.name || '').toLocaleUpperCase('tr-TR');
+                    provCamps = allCampData.filter(x => {
+                        const il = (x.il || '').toLocaleUpperCase('tr-TR');
+                        return il === pUpper || il === slug.toUpperCase();
+                    });
+                }
+                if (!provCamps.length) {
+                    try {
+                        const cResp = await fetchJsonWithCandidates([
+                            `iller/${slug}/toplanma_alanlari.json`,
+                            `./iller/${slug}/toplanma_alanlari.json`,
+                            `/istdeprem/iller/${slug}/toplanma_alanlari.json`
+                        ]);
+                        provCamps = await cResp.json();
+                    } catch (e) {
+                        console.warn(`${meta.name} toplanma alanları yüklenemedi:`, e);
+                    }
+                }
+                currentProvinceCampData = provCamps;
+                currentProvinceCampCount = provCamps.length || (meta.count || 0);
+                updateProvinceCampMarkers(currentProvinceCampData);
+
+                const hasSim = slug === 'istanbul' && (meta.has_simulation || (PROVINCE_META_REGISTRY[slug] && PROVINCE_META_REGISTRY[slug].has_simulation));
+
+                if (hasSim) {
+                    // Yalnızca İstanbul: Doğrulanabilir İBB Açık Veri Portalı simülasyonu
+                    const districtWrap = document.getElementById('districtSelectWrap');
+                    if (districtWrap) districtWrap.style.display = 'flex';
+
+                    if (simulationDataCache.has(slug)) {
+                        const cached = simulationDataCache.get(slug);
+                        renderSimulationData(slug, cached.depremList, cached.ilceList);
+                        return;
+                    }
+
+                    try {
+                        const depremCandidates = [
+                            meta.deprem_file,
+                            `iller/${slug}/deprem.json`,
+                            `./iller/${slug}/deprem.json`,
+                            `/istdeprem/iller/${slug}/deprem.json`
+                        ].filter(Boolean);
+
+                        const ilceCandidates = [
+                            meta.coord_file,
+                            `iller/${slug}/ilce.json`,
+                            `./iller/${slug}/ilce.json`,
+                            `/istdeprem/iller/${slug}/ilce.json`
+                        ].filter(Boolean);
+
+                        const [depremResponse, ilceResponse] = await Promise.all([
+                            fetchJsonWithCandidates(depremCandidates),
+                            fetchJsonWithCandidates(ilceCandidates)
+                        ]);
+
+                        const depremList = await depremResponse.json();
+                        const ilceList = await ilceResponse.json();
+
+                        simulationDataCache.set(slug, { depremList, ilceList });
+                        renderSimulationData(slug, depremList, ilceList);
+                    } catch (err) {
+                        console.error(`${meta.name} simülasyonu yüklenirken hata:`, err);
+                    }
+                } else {
+                    // İstanbul dışındaki tüm iller: Yalnızca doğrulanabilir AFAD resmi toplanma alanları
+                    const districtWrap = document.getElementById('districtSelectWrap');
+                    if (districtWrap) districtWrap.style.display = 'none';
+                    markersCluster.clearLayers();
+                    allMarkers = [];
+                    markersByDistrict = new Map();
+                    districtStatsMap = new Map();
+                    currentCityTotals = { canKaybi: 0, agirHasar: 0, barinma: 0, mahalleCount: 0 };
+
+                    const brandCityTitle = document.getElementById('brandCityTitle');
+                    const brandSourceLink = document.getElementById('brandSourceLink');
+                    const brandSourceName = document.getElementById('brandSourceName');
+
+                    if (brandCityTitle) {
+                        brandCityTitle.textContent = `${meta.name} Afet & Toplanma Haritası`;
+                    }
+
+                    const sourceUrl = 'https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama';
+                    const sourceName = 'Kaynak: e-Devlet AFAD Toplanma Alanları';
+
+                    if (brandSourceLink) {
+                        brandSourceLink.href = sourceUrl;
+                        brandSourceLink.style.display = 'inline-flex';
+                        if (brandSourceName) {
+                            brandSourceName.textContent = sourceName;
+                        }
+                    }
+
+                    updateStatsDisplay(`Tüm ${meta.name}`, `${currentProvinceCampCount.toLocaleString('tr-TR')} Toplanma Alanı`, false, false, false, currentProvinceCampCount);
+
+                    if (meta.center) {
+                        map.setView(meta.center, meta.zoom || 11);
+                    }
+                }
+            }
+
+            // Ana Veri Yükleme Motoru (Garantili Hızlı Başlatma)
+            async function initData() {
+                try {
+                    setupCampCluster();
+
+                    // 1. İstanbul simülasyonunu ve il indeksini paralel olarak çekiyoruz
+                    const [depremResponse, ilceResponse, indexResponse, campResponse] = await Promise.all([
+                        fetchJsonWithCandidates([
+                            'iller/istanbul/deprem.json',
+                            './iller/istanbul/deprem.json',
+                            '/istdeprem/iller/istanbul/deprem.json'
+                        ]),
+                        fetchJsonWithCandidates([
+                            'iller/istanbul/ilce.json',
+                            './iller/istanbul/ilce.json',
+                            '/istdeprem/iller/istanbul/ilce.json'
+                        ]),
+                        fetchJsonWithCandidates([
+                            'iller/iller_index.json',
+                            './iller/iller_index.json',
+                            '/istdeprem/iller/iller_index.json'
+                        ]).catch(err => {
+                            console.warn('İller indexi yüklenemedi:', err);
+                            return null;
+                        }),
+                        fetchJsonWithCandidates([
+                            'iller/turkiye_toplanma_alanlari.json',
+                            './iller/turkiye_toplanma_alanlari.json',
+                            '/istdeprem/iller/turkiye_toplanma_alanlari.json'
+                        ]).catch(err => {
+                            console.warn('Toplanma alanları yüklenemedi:', err);
+                            return null;
+                        })
+                    ]);
+
+                    // 2. İstanbul simülasyonunu önbelleğe al ve ANINDA ekrana çiz
+                    const depremList = await depremResponse.json();
+                    const ilceList = await ilceResponse.json();
+                    simulationDataCache.set('istanbul', { depremList, ilceList });
+
+                    // 3. Toplanma alanlarını hafızaya al
+                    if (campResponse && campResponse.ok) {
+                        try {
+                            allCampData = await campResponse.json();
+                        } catch (cErr) {
+                            console.warn('Toplanma alanları parse hatası:', cErr);
+                        }
+                    }
+
+                    // 4. İller seçim kutusunu doldur
+                    if (indexResponse && indexResponse.ok) {
+                        try {
+                            provinceIndexList = await indexResponse.json();
+                            populateProvinceFilter(provinceIndexList);
+                        } catch (iErr) {
+                            console.warn('İller index parse hatası:', iErr);
+                        }
+                    }
+
+                    // 5. İstanbul simülasyonunu render et (İlk açılışta daima İstanbul selected)
+                    currentProvinceSlug = 'istanbul';
+                    const provSelect = document.getElementById('provinceFilter');
+                    if (provSelect) provSelect.value = 'istanbul';
+                    renderSimulationData('istanbul', depremList, ilceList);
+
+                    // 6. Yükleme ekranını kapat
+                    const loader = document.getElementById('loader');
+                    if (loader) {
+                        loader.style.opacity = '0';
+                        setTimeout(() => loader.style.display = 'none', 300);
+                    }
+                } catch (err) {
+                    console.error('Veri yükleme hatası:', err);
+                    const loader = document.getElementById('loader');
+                    if (loader) {
+                        loader.innerHTML = `
+                            <div style="color: #ef4444; font-size: 1.1rem; text-align: center; max-width: 400px; padding: 20px;">
+                                <i class="fa-solid fa-circle-exclamation" style="font-size: 2.5rem; margin-bottom: 12px;"></i>
+                                <div>Veriler yüklenirken bir sorun oluştu!</div>
+                                <div style="font-size: 0.85rem; color: #94a3b8; margin-top: 6px;">Lütfen sayfayı yenileyiniz: ${err.message || ''}</div>
+                            </div>
+                        `;
+                    }
+                }
+            }
+
+            // İstatistik Çubuğunu Güncelleme (Simülasyon varsa tüm hasar metrikleri, yoksa resmi toplanma alanlarını gösterir)
+            function updateStatsDisplay(regionName, count, canKaybi, agirHasar, barinma, toplanmaSayisi) {
+                const elRegion = document.getElementById('labelRegion');
+                const elMahalle = document.getElementById('statMahalle');
+                const elCanKaybi = document.getElementById('statCanKaybi');
+                const elAgirHasar = document.getElementById('statAgirHasar');
+                const elBarinma = document.getElementById('statBarinma');
+                const elToplanma = document.getElementById('statToplanmaAlani');
+
+                const isSim = (canKaybi !== false && canKaybi !== undefined && canKaybi !== null);
+
+                document.querySelectorAll('.sim-stat').forEach(el => {
+                    el.style.display = isSim ? '' : 'none';
+                });
+                document.querySelectorAll('.non-sim-stat').forEach(el => {
+                    el.style.display = isSim ? 'none' : '';
                 });
 
-                campCluster.addLayers(campMarkers);
-                map.addLayer(campCluster);
-                bursaCampCluster = campCluster;
+                if (elRegion) elRegion.textContent = regionName;
+                if (elMahalle) elMahalle.textContent = typeof count === 'number' ? `${fmt(count)} Mahalle` : count;
+                if (elCanKaybi && isSim) elCanKaybi.textContent = typeof canKaybi === 'number' ? fmt(canKaybi) : canKaybi;
+                if (elAgirHasar && isSim) elAgirHasar.textContent = typeof agirHasar === 'number' ? fmt(agirHasar) : agirHasar;
+                if (elBarinma && isSim) elBarinma.textContent = typeof barinma === 'number' ? `${fmt(barinma)} Hane` : barinma;
 
-                const btnCampToggle = document.getElementById('btnCampToggle') || document.getElementById('btnBursaCampToggle');
-                if (btnCampToggle) {
-                    btnCampToggle.innerHTML = `<i class="fa-solid fa-campground"></i> <span>Toplanma Alanları (${campMarkers.length.toLocaleString('tr-TR')})</span>`;
-                    btnCampToggle.addEventListener('click', function () {
-                        if (isCampVisible) {
-                            map.removeLayer(campCluster);
-                            isCampVisible = false;
-                            isBursaCampVisible = false;
-                            btnCampToggle.classList.remove('active');
-                            btnCampToggle.innerHTML = `<i class="fa-solid fa-campground"></i> <span>Toplanma Alanlarını Göster</span>`;
-                        } else {
-                            map.addLayer(campCluster);
-                            isCampVisible = true;
-                            isBursaCampVisible = true;
-                            btnCampToggle.classList.add('active');
-                            btnCampToggle.innerHTML = `<i class="fa-solid fa-campground"></i> <span>Toplanma Alanları (${campMarkers.length.toLocaleString('tr-TR')})</span>`;
-                        }
+                if (elToplanma) {
+                    const c = (toplanmaSayisi !== undefined && toplanmaSayisi !== null) ? toplanmaSayisi : currentProvinceCampCount;
+                    elToplanma.textContent = typeof c === 'number' ? `${fmt(c)} Alan` : c;
+                }
+            }
+
+            // İlçe Seçim Kutusunu Doldurma
+            function populateDistrictFilter(districtList) {
+                const select = document.getElementById('districtFilter');
+                if (!select) return;
+                select.innerHTML = '<option value="ALL">Tüm İlçeler (Genel Bakış)</option>';
+                districtList.forEach(dist => {
+                    const opt = document.createElement('option');
+                    opt.value = dist;
+                    const dStat = districtStatsMap.get(dist);
+                    opt.textContent = `${dist} (${dStat ? dStat.count : 0} Mahalle)`;
+                    select.appendChild(opt);
+                });
+
+                if (!select.dataset.listenerAttached) {
+                    select.dataset.listenerAttached = 'true';
+                    select.addEventListener('change', function () {
+                        filterByDistrict(this.value);
                     });
+                }
+            }
+
+            // İlçe Filtreleme Fonksiyonu
+            function filterByDistrict(district) {
+                markersCluster.clearLayers();
+                const cityName = (currentProvinceMeta && currentProvinceMeta.name) ? currentProvinceMeta.name : 'İstanbul';
+
+                if (district === 'ALL') {
+                    markersCluster.addLayers(allMarkers);
+                    updateStatsDisplay(`Tüm ${cityName}`, currentCityTotals.mahalleCount, currentCityTotals.canKaybi, currentCityTotals.agirHasar, currentCityTotals.barinma, currentProvinceCampCount);
+                    if (currentProvinceMeta && currentProvinceMeta.center) {
+                        map.setView(currentProvinceMeta.center, currentProvinceMeta.zoom || 10);
+                    } else {
+                        map.setView([41.0082, 28.9784], 10);
+                    }
+                } else {
+                    const filtered = markersByDistrict.get(district) || [];
+                    markersCluster.addLayers(filtered);
+
+                    const dStat = districtStatsMap.get(district) || { count: 0, canKaybi: 0, agirHasar: 0, barinma: 0 };
+                    const dNorm = district.toLocaleUpperCase('tr-TR').trim();
+                    const dCampCount = (currentProvinceCampData || []).filter(x => (x.ilce || '').toLocaleUpperCase('tr-TR').trim() === dNorm).length;
+                    updateStatsDisplay(district, dStat.count, dStat.canKaybi, dStat.agirHasar, dStat.barinma, dCampCount);
+
+                    if (filtered.length > 0) {
+                        const group = L.featureGroup(filtered);
+                        map.fitBounds(group.getBounds().pad(0.12));
+                    }
                 }
             }
 
@@ -2223,34 +2586,32 @@
                 }
             }
 
-            // 6.2 İl Seçim Kutusunu Doldurma ve İle Göre Harita Konumlandırma
+            // 6.2 İl Seçim Kutusunu Doldurma ve İle Göre Harita Konumlandırma (İstanbul Varsayılan Selected)
             function populateProvinceFilter(indexList) {
                 const select = document.getElementById('provinceFilter');
                 if (!select || !Array.isArray(indexList)) return;
 
+                select.innerHTML = '';
                 indexList.forEach(il => {
                     const opt = document.createElement('option');
                     opt.value = il.slug;
-                    opt.textContent = `${il.name} (${il.count.toLocaleString('tr-TR')} Alan)`;
+                    const simBadge = il.has_simulation ? '✨ ' : '';
+                    const simNote = il.has_simulation ? ` [İBB 7.5 Mw]` : ` (${il.count.toLocaleString('tr-TR')} Alan)`;
+                    opt.textContent = `${simBadge}${il.name}${simNote}`;
+                    if (il.slug === (currentProvinceSlug || 'istanbul')) {
+                        opt.selected = true;
+                    }
                     select.appendChild(opt);
                 });
 
-                select.addEventListener('change', function () {
-                    const slug = this.value;
-                    const districtWrap = document.getElementById('districtSelectWrap');
-                    if (slug === 'istanbul') {
-                        if (districtWrap) districtWrap.style.display = 'flex';
-                        map.setView([41.0082, 28.9784], 10);
-                        filterByDistrict('ALL');
-                    } else {
-                        if (districtWrap) districtWrap.style.display = 'none';
-                        const found = indexList.find(x => x.slug === slug);
-                        if (found && found.center) {
-                            map.setView(found.center, 12);
-                            updateStatsDisplay(found.name, `${found.count.toLocaleString('tr-TR')} Toplanma Alanı`, 0, 0, 0);
-                        }
-                    }
-                });
+                select.value = currentProvinceSlug || 'istanbul';
+
+                if (!select.dataset.listenerAttached) {
+                    select.dataset.listenerAttached = 'true';
+                    select.addEventListener('change', function () {
+                        loadProvinceSimulation(this.value);
+                    });
+                }
             }
 
             // 7. Fay Hatları Katmanı (Dinamik Sismotektonik Risk Atlası & Tarihsel Kırılmalar)
@@ -2400,6 +2761,9 @@
                                 layer.bindPopup(popupHtml, {
                                     maxWidth: 350,
                                     minWidth: 310,
+                                    autoPan: true,
+                                    autoPanPadding: [90, 90],
+                                    offset: [0, -10],
                                     className: 'fault-leaflet-popup'
                                 });
 

@@ -296,13 +296,18 @@ def update_camps(backup=True):
             pass
 
     def turkish_slug(text):
-        s = text.lower()
         mapping = {
-            'ç': 'c', 'ğ': 'g', 'ı': 'i', 'ö': 'o', 'ş': 's', 'ü': 'u',
-            'İ': 'i', 'I': 'i'
+            'İ': 'i', 'I': 'i', 'ı': 'i',
+            'Ç': 'c', 'ç': 'c',
+            'Ğ': 'g', 'ğ': 'g',
+            'Ö': 'o', 'ö': 'o',
+            'Ş': 's', 'ş': 's',
+            'Ü': 'u', 'ü': 'u',
         }
+        s = text
         for k, v in mapping.items():
             s = s.replace(k, v)
+        s = s.lower()
         s = "".join(ch if ch.isalnum() else "-" for ch in s)
         return "-".join(part for part in s.split("-") if part)
 
@@ -335,13 +340,30 @@ def update_camps(backup=True):
             except Exception as e:
                 log_warn(f"{slug} dosyası yazılamadı: {e}")
 
-        updated_index.append({
+        entry = {
             "slug": slug,
             "name": prov_name,
             "count": len(prov_camps),
             "center": center,
             "file": prov_file_rel
-        })
+        }
+
+        # Simülasyon yalnızca doğrulanabilir resmi açık veri seti olan İstanbul için geçerlidir
+        if slug == "istanbul":
+            entry["has_simulation"] = True
+            entry["scenario_name"] = "İBB 7.5 Mw Gece Senaryosu"
+            entry["deprem_file"] = "iller/istanbul/deprem.json"
+            entry["coord_file"] = "iller/istanbul/ilce.json"
+            entry["source_name"] = "İBB Açık Veri Portalı (7.5 Mw Analizi)"
+            entry["source_url"] = "https://data.ibb.gov.tr/dataset/deprem-senaryosu-analiz-sonuclari/resource/9c3ac492-de4b-4245-b418-7ad3df67a193"
+            entry["source_desc"] = "İstanbul Büyükşehir Belediyesi (İBB) 7.5 Mw Olası Gece Depremi Senaryosu Analiz Sonuçları ve İlçe Bazlı Bina Hasar / Can Kaybı Tahmin Raporu."
+        else:
+            entry["has_simulation"] = False
+            entry["source_name"] = "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama"
+            entry["source_url"] = "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama"
+            entry["source_desc"] = f"T.C. İçişleri Bakanlığı AFAD {prov_name} İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
+
+        updated_index.append(entry)
 
     updated_index.sort(key=lambda x: x["name"])
 

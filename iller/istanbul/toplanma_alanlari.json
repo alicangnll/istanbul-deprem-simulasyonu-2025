@@ -1,1 +1,2858 @@
-[{"il":"İstanbul","ilce":"ADALAR","mahalle":"HEYBELİADA","ad":"HEYBELİADA","lat":40.88493,"lon":29.09323},{"il":"İstanbul","ilce":"ADALAR","mahalle":"NİZAM","ad":"NİZAM","lat":40.87506,"lon":29.12831},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"ADNAN MENDERES","ad":"ADNAN MENDERES","lat":41.21805,"lon":28.70864},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"ANADOLU","ad":"ANADOLU","lat":41.18454,"lon":28.75611},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"ARNAVUTKÖY MERKEZ","ad":"ARNAVUTKÖY MERKEZ","lat":41.18454,"lon":28.74153},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"ATATÜRK","ad":"ATATÜRK","lat":41.19522,"lon":28.76579},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"BAKLALI","ad":"BAKLALI","lat":41.30523,"lon":28.66693},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"BOĞAZKÖY İSTİKLAL","ad":"BOĞAZKÖY İSTİKLAL","lat":41.2224,"lon":28.80026},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"BOLLUCA","ad":"BOLLUCA","lat":41.23813,"lon":28.78836},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"BOYALIK","ad":"BOYALIK","lat":41.30719,"lon":28.63886},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"DELİKLİKAYA","ad":"DELİKLİKAYA","lat":41.11202,"lon":28.67153},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"DURSUNKÖY","ad":"DURSUNKÖY","lat":41.23737,"lon":28.65072},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"DURUSU","ad":"DURUSU","lat":41.30417,"lon":28.68466},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"FATİH","ad":"FATİH","lat":41.23127,"lon":28.70166},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"HACIMAŞLI","ad":"HACIMAŞLI","lat":41.16887,"lon":28.70764},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"HADIMKÖY","ad":"HADIMKÖY","lat":41.1862,"lon":28.61455},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"HARAÇÇI","ad":"HARAÇÇI","lat":41.19303,"lon":28.70302},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"HASTANE","ad":"HASTANE","lat":41.15781,"lon":28.61517},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"HİCRET","ad":"HİCRET","lat":41.21562,"lon":28.75716},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"İMRAHOR","ad":"İMRAHOR","lat":41.31959,"lon":28.76512},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"İSLAMBEY","ad":"İSLAMBEY","lat":41.19564,"lon":28.75439},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"KARABURUN","ad":"KARABURUN","lat":41.35245,"lon":28.63231},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"KARLIBAYIR","ad":"KARLIBAYIR","lat":41.18356,"lon":28.72048},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"MAREŞAL FEVZİ ÇAKMAK","ad":"MAREŞAL FEVZİ ÇAKMAK","lat":41.21518,"lon":28.72723},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"MAVİGÖL","ad":"MAVİGÖL","lat":41.20024,"lon":28.76426},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"MEHMET AKİF ERSOY","ad":"MEHMET AKİF ERSOY","lat":41.18795,"lon":28.70666},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"MUSTAFA KEMAL PAŞA","ad":"MUSTAFA KEMAL PAŞA","lat":41.18644,"lon":28.73889},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"NENEHATUN","ad":"NENEHATUN","lat":41.19614,"lon":28.74169},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"ÖMERLİ","ad":"ÖMERLİ","lat":41.14189,"lon":28.6357},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"TAŞOLUK","ad":"TAŞOLUK","lat":41.19861,"lon":28.7151},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"TAYAKADIN","ad":"TAYAKADIN","lat":41.29581,"lon":28.67885},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"TERKOS","ad":"TERKOS","lat":41.33802,"lon":28.66076},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"YASSIÖREN","ad":"YASSIÖREN","lat":41.30809,"lon":28.57103},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"YAVUZ SELİM","ad":"YAVUZ SELİM","lat":41.21628,"lon":28.73469},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"YENİKÖY","ad":"YENİKÖY","lat":41.33589,"lon":28.70284},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"YEŞİLBAYIR","ad":"YEŞİLBAYIR","lat":41.15715,"lon":28.58611},{"il":"İstanbul","ilce":"ARNAVUTKÖY","mahalle":"YUNUS EMRE","ad":"YUNUS EMRE","lat":41.19013,"lon":28.76562},{"il":"İstanbul","ilce":"ATAŞEHİR","mahalle":"AŞIKVEYSEL","ad":"AŞIKVEYSEL","lat":40.99754,"lon":29.08939},{"il":"İstanbul","ilce":"ATAŞEHİR","mahalle":"ATATÜRK","ad":"ATATÜRK","lat":40.99683,"lon":29.13079},{"il":"İstanbul","ilce":"ATAŞEHİR","mahalle":"BARBAROS","ad":"BARBAROS","lat":41.00012,"lon":29.10674},{"il":"İstanbul","ilce":"ATAŞEHİR","mahalle":"ESATPAŞA","ad":"ESATPAŞA","lat":41.00953,"lon":29.08891},{"il":"İstanbul","ilce":"ATAŞEHİR","mahalle":"FERHATPAŞA","ad":"FERHATPAŞA","lat":40.98203,"lon":29.20157},{"il":"İstanbul","ilce":"ATAŞEHİR","mahalle":"FETİH","ad":"FETİH","lat":40.99704,"lon":29.07413},{"il":"İstanbul","ilce":"ATAŞEHİR","mahalle":"İÇERENKÖY","ad":"İÇERENKÖY","lat":40.97906,"lon":29.10787},{"il":"İstanbul","ilce":"ATAŞEHİR","mahalle":"İNÖNÜ","ad":"İNÖNÜ","lat":40.97654,"lon":29.15094},{"il":"İstanbul","ilce":"ATAŞEHİR","mahalle":"KAYIŞDAĞI","ad":"KAYIŞDAĞI","lat":40.9826,"lon":29.15246},{"il":"İstanbul","ilce":"ATAŞEHİR","mahalle":"KÜÇÜKBAKKALKÖY","ad":"KÜÇÜKBAKKALKÖY","lat":40.98252,"lon":29.13455},{"il":"İstanbul","ilce":"ATAŞEHİR","mahalle":"MEVLANA","ad":"MEVLANA","lat":40.99125,"lon":29.15481},{"il":"İstanbul","ilce":"ATAŞEHİR","mahalle":"MİMAR SİNAN","ad":"MİMAR SİNAN","lat":40.98303,"lon":29.16573},{"il":"İstanbul","ilce":"ATAŞEHİR","mahalle":"MUSTAFA KEMAL","ad":"MUSTAFA KEMAL","lat":41.00352,"lon":29.10245},{"il":"İstanbul","ilce":"ATAŞEHİR","mahalle":"ÖRNEK","ad":"ÖRNEK","lat":40.99704,"lon":29.08851},{"il":"İstanbul","ilce":"ATAŞEHİR","mahalle":"YENİ ÇAMLICA","ad":"YENİ ÇAMLICA","lat":40.99134,"lon":29.16794},{"il":"İstanbul","ilce":"ATAŞEHİR","mahalle":"YENİSAHRA","ad":"YENİSAHRA","lat":40.99494,"lon":29.09302},{"il":"İstanbul","ilce":"ATAŞEHİR","mahalle":"YENİŞEHİR","ad":"YENİŞEHİR","lat":40.99471,"lon":29.15155},{"il":"İstanbul","ilce":"AVCILAR","mahalle":"AMBARLI","ad":"AMBARLI","lat":40.98177,"lon":28.70363},{"il":"İstanbul","ilce":"AVCILAR","mahalle":"CİHANGİR","ad":"CİHANGİR","lat":40.99976,"lon":28.69319},{"il":"İstanbul","ilce":"AVCILAR","mahalle":"DENİZKÖŞKLER","ad":"DENİZKÖŞKLER","lat":40.98039,"lon":28.7567},{"il":"İstanbul","ilce":"AVCILAR","mahalle":"FİRUZKÖY","ad":"FİRUZKÖY","lat":41.04855,"lon":28.72241},{"il":"İstanbul","ilce":"AVCILAR","mahalle":"GÜMÜŞPALA","ad":"GÜMÜŞPALA","lat":40.98383,"lon":28.7398},{"il":"İstanbul","ilce":"AVCILAR","mahalle":"MERKEZ","ad":"MERKEZ","lat":40.98218,"lon":28.72817},{"il":"İstanbul","ilce":"AVCILAR","mahalle":"MUSTAFA KEMALPAŞA","ad":"MUSTAFA KEMALPAŞA","lat":41.00809,"lon":28.70349},{"il":"İstanbul","ilce":"AVCILAR","mahalle":"TAHTAKALE","ad":"TAHTAKALE","lat":41.06224,"lon":28.73562},{"il":"İstanbul","ilce":"AVCILAR","mahalle":"ÜNİVERSİTE","ad":"ÜNİVERSİTE","lat":40.99771,"lon":28.71381},{"il":"İstanbul","ilce":"AVCILAR","mahalle":"YEŞİLKENT","ad":"YEŞİLKENT","lat":41.05861,"lon":28.70047},{"il":"İstanbul","ilce":"BAĞCILAR","mahalle":"100. YIL","ad":"100. YIL","lat":41.06267,"lon":28.85509},{"il":"İstanbul","ilce":"BAĞCILAR","mahalle":"15 TEMMUZ","ad":"15 TEMMUZ","lat":41.04427,"lon":28.81954},{"il":"İstanbul","ilce":"BAĞCILAR","mahalle":"BAĞLAR","ad":"BAĞLAR","lat":41.02692,"lon":28.82922},{"il":"İstanbul","ilce":"BAĞCILAR","mahalle":"BARBAROS","ad":"BARBAROS","lat":41.02237,"lon":28.84422},{"il":"İstanbul","ilce":"BAĞCILAR","mahalle":"ÇINAR","ad":"ÇINAR","lat":41.04032,"lon":28.86069},{"il":"İstanbul","ilce":"BAĞCILAR","mahalle":"DEMİRKAPI","ad":"DEMİRKAPI","lat":41.04746,"lon":28.84593},{"il":"İstanbul","ilce":"BAĞCILAR","mahalle":"FATİH","ad":"FATİH","lat":41.04304,"lon":28.84781},{"il":"İstanbul","ilce":"BAĞCILAR","mahalle":"FEVZİ ÇAKMAK","ad":"FEVZİ ÇAKMAK","lat":41.0438,"lon":28.85955},{"il":"İstanbul","ilce":"BAĞCILAR","mahalle":"GÖZTEPE","ad":"GÖZTEPE","lat":41.06505,"lon":28.84246},{"il":"İstanbul","ilce":"BAĞCILAR","mahalle":"GÜNEŞLİ","ad":"GÜNEŞLİ","lat":41.04405,"lon":28.83097},{"il":"İstanbul","ilce":"BAĞCILAR","mahalle":"HÜRRİYET","ad":"HÜRRİYET","lat":41.03099,"lon":28.82905},{"il":"İstanbul","ilce":"BAĞCILAR","mahalle":"İNÖNÜ","ad":"İNÖNÜ","lat":41.02429,"lon":28.84768},{"il":"İstanbul","ilce":"BAĞCILAR","mahalle":"KAZIM KARABEKİR","ad":"KAZIM KARABEKİR","lat":41.0309,"lon":28.84844},{"il":"İstanbul","ilce":"BAĞCILAR","mahalle":"KEMALPAŞA","ad":"KEMALPAŞA","lat":41.04562,"lon":28.84951},{"il":"İstanbul","ilce":"BAĞCILAR","mahalle":"KİRAZLI","ad":"KİRAZLI","lat":41.03581,"lon":28.8454},{"il":"İstanbul","ilce":"BAĞCILAR","mahalle":"MAHMUTBEY","ad":"MAHMUTBEY","lat":41.04552,"lon":28.8302},{"il":"İstanbul","ilce":"BAĞCILAR","mahalle":"MERKEZ","ad":"MERKEZ","lat":41.03375,"lon":28.87161},{"il":"İstanbul","ilce":"BAĞCILAR","mahalle":"SANCAKTEPE","ad":"SANCAKTEPE","lat":41.03443,"lon":28.85714},{"il":"İstanbul","ilce":"BAĞCILAR","mahalle":"YAVUZ SELİM","ad":"YAVUZ SELİM","lat":41.04306,"lon":28.85071},{"il":"İstanbul","ilce":"BAĞCILAR","mahalle":"YENİGÜN","ad":"YENİGÜN","lat":41.0178,"lon":28.86064},{"il":"İstanbul","ilce":"BAĞCILAR","mahalle":"YENİMAHALLE","ad":"YENİMAHALLE","lat":41.04552,"lon":28.83895},{"il":"İstanbul","ilce":"BAĞCILAR","mahalle":"YILDIZTEPE","ad":"YILDIZTEPE","lat":41.02208,"lon":28.85765},{"il":"İstanbul","ilce":"BAHÇELİEVLER","mahalle":"BAHÇELİEVLER","ad":"BAHÇELİEVLER","lat":41.00743,"lon":28.88123},{"il":"İstanbul","ilce":"BAHÇELİEVLER","mahalle":"CUMHURİYET","ad":"CUMHURİYET","lat":41.02107,"lon":28.854},{"il":"İstanbul","ilce":"BAHÇELİEVLER","mahalle":"ÇOBANÇEŞME","ad":"ÇOBANÇEŞME","lat":40.9971,"lon":28.83117},{"il":"İstanbul","ilce":"BAHÇELİEVLER","mahalle":"FEVZİ ÇAKMAK","ad":"FEVZİ ÇAKMAK","lat":40.99532,"lon":28.83509},{"il":"İstanbul","ilce":"BAHÇELİEVLER","mahalle":"HÜRRİYET","ad":"HÜRRİYET","lat":40.99188,"lon":28.84332},{"il":"İstanbul","ilce":"BAHÇELİEVLER","mahalle":"KOCASİNAN MERKEZ","ad":"KOCASİNAN MERKEZ","lat":41.02144,"lon":28.84844},{"il":"İstanbul","ilce":"BAHÇELİEVLER","mahalle":"SİYAVUŞPAŞA","ad":"SİYAVUŞPAŞA","lat":41.00715,"lon":28.85514},{"il":"İstanbul","ilce":"BAHÇELİEVLER","mahalle":"SOĞANLI","ad":"SOĞANLI","lat":41.01472,"lon":28.86074},{"il":"İstanbul","ilce":"BAHÇELİEVLER","mahalle":"ŞİRİNEVLER","ad":"ŞİRİNEVLER","lat":41.00206,"lon":28.84895},{"il":"İstanbul","ilce":"BAHÇELİEVLER","mahalle":"YENİBOSNA MERKEZ","ad":"YENİBOSNA MERKEZ","lat":41.01978,"lon":28.82314},{"il":"İstanbul","ilce":"BAHÇELİEVLER","mahalle":"ZAFER","ad":"ZAFER","lat":41.01457,"lon":28.83922},{"il":"İstanbul","ilce":"BAKIRKÖY","mahalle":"ATAKÖY 1. KISIM","ad":"ATAKÖY 1. KISIM","lat":40.97975,"lon":28.86757},{"il":"İstanbul","ilce":"BAKIRKÖY","mahalle":"ATAKÖY 2-5-6. KISIM","ad":"ATAKÖY 2-5-6. KISIM","lat":40.9799,"lon":28.86338},{"il":"İstanbul","ilce":"BAKIRKÖY","mahalle":"ATAKÖY 3-4-11. KISIM","ad":"ATAKÖY 3-4-11. KISIM","lat":40.98603,"lon":28.85983},{"il":"İstanbul","ilce":"BAKIRKÖY","mahalle":"ATAKÖY 7-8-9-10. KISIM","ad":"ATAKÖY 7-8-9-10. KISIM","lat":40.99166,"lon":28.84713},{"il":"İstanbul","ilce":"BAKIRKÖY","mahalle":"BASINKÖY","ad":"BASINKÖY","lat":40.9847,"lon":28.77752},{"il":"İstanbul","ilce":"BAKIRKÖY","mahalle":"CEVİZLİK","ad":"CEVİZLİK","lat":40.9786,"lon":28.87764},{"il":"İstanbul","ilce":"BAKIRKÖY","mahalle":"KARTALTEPE","ad":"KARTALTEPE","lat":40.99026,"lon":28.87884},{"il":"İstanbul","ilce":"BAKIRKÖY","mahalle":"OSMANİYE","ad":"OSMANİYE","lat":40.99069,"lon":28.89165},{"il":"İstanbul","ilce":"BAKIRKÖY","mahalle":"SAKIZAĞACI","ad":"SAKIZAĞACI","lat":40.98009,"lon":28.8908},{"il":"İstanbul","ilce":"BAKIRKÖY","mahalle":"ŞENLİKKÖY","ad":"ŞENLİKKÖY","lat":40.9883,"lon":28.79409},{"il":"İstanbul","ilce":"BAKIRKÖY","mahalle":"YENİMAHALLE","ad":"YENİMAHALLE","lat":40.98248,"lon":28.88946},{"il":"İstanbul","ilce":"BAKIRKÖY","mahalle":"YEŞİLKÖY","ad":"YEŞİLKÖY","lat":40.99254,"lon":28.82203},{"il":"İstanbul","ilce":"BAKIRKÖY","mahalle":"YEŞİLKÖY SB","ad":"YEŞİLKÖY SB","lat":40.98945,"lon":28.82291},{"il":"İstanbul","ilce":"BAKIRKÖY","mahalle":"YEŞİLYURT","ad":"YEŞİLYURT","lat":40.97182,"lon":28.84883},{"il":"İstanbul","ilce":"BAKIRKÖY","mahalle":"ZEYTİNLİK","ad":"ZEYTİNLİK","lat":40.98052,"lon":28.87388},{"il":"İstanbul","ilce":"BAKIRKÖY","mahalle":"ZUHURATBABA","ad":"ZUHURATBABA","lat":40.98078,"lon":28.87381},{"il":"İstanbul","ilce":"BAŞAKŞEHİR","mahalle":"ALTINŞEHİR","ad":"ALTINŞEHİR","lat":41.07217,"lon":28.75181},{"il":"İstanbul","ilce":"BAŞAKŞEHİR","mahalle":"BAHÇEŞEHİR 1. KISIM","ad":"BAHÇEŞEHİR 1. KISIM","lat":41.11018,"lon":28.68472},{"il":"İstanbul","ilce":"BAŞAKŞEHİR","mahalle":"BAHÇEŞEHİR 2. KISIM","ad":"BAHÇEŞEHİR 2. KISIM","lat":41.10195,"lon":28.64392},{"il":"İstanbul","ilce":"BAŞAKŞEHİR","mahalle":"BAŞAK","ad":"BAŞAK","lat":41.13928,"lon":28.80513},{"il":"İstanbul","ilce":"BAŞAKŞEHİR","mahalle":"BAŞAKŞEHİR","ad":"BAŞAKŞEHİR","lat":41.10009,"lon":28.79233},{"il":"İstanbul","ilce":"BAŞAKŞEHİR","mahalle":"GÜVERCİNTEPE","ad":"GÜVERCİNTEPE","lat":41.1077,"lon":28.74012},{"il":"İstanbul","ilce":"BAŞAKŞEHİR","mahalle":"İKİTELLİ OSB","ad":"İKİTELLİ OSB","lat":41.09873,"lon":28.79697},{"il":"İstanbul","ilce":"BAŞAKŞEHİR","mahalle":"KAYABAŞI","ad":"KAYABAŞI","lat":41.14924,"lon":28.78522},{"il":"İstanbul","ilce":"BAŞAKŞEHİR","mahalle":"ŞAHİNTEPE","ad":"ŞAHİNTEPE","lat":41.10691,"lon":28.73407},{"il":"İstanbul","ilce":"BAŞAKŞEHİR","mahalle":"ZİYA GÖKALP","ad":"ZİYA GÖKALP","lat":41.09545,"lon":28.76706},{"il":"İstanbul","ilce":"BAYRAMPAŞA","mahalle":"ALTINTEPSİ","ad":"ALTINTEPSİ","lat":41.03726,"lon":28.90556},{"il":"İstanbul","ilce":"BAYRAMPAŞA","mahalle":"CEVATPAŞA","ad":"CEVATPAŞA","lat":41.07511,"lon":28.88273},{"il":"İstanbul","ilce":"BAYRAMPAŞA","mahalle":"İSMET PAŞA","ad":"İSMET PAŞA","lat":41.04396,"lon":28.91146},{"il":"İstanbul","ilce":"BAYRAMPAŞA","mahalle":"KARTALTEPE","ad":"KARTALTEPE","lat":41.05992,"lon":28.90317},{"il":"İstanbul","ilce":"BAYRAMPAŞA","mahalle":"KOCATEPE","ad":"KOCATEPE","lat":41.04244,"lon":28.8991},{"il":"İstanbul","ilce":"BAYRAMPAŞA","mahalle":"MURATPAŞA","ad":"MURATPAŞA","lat":41.05102,"lon":28.91133},{"il":"İstanbul","ilce":"BAYRAMPAŞA","mahalle":"ORTA","ad":"ORTA","lat":41.03565,"lon":28.91046},{"il":"İstanbul","ilce":"BAYRAMPAŞA","mahalle":"TERAZİDERE","ad":"TERAZİDERE","lat":41.03636,"lon":28.90454},{"il":"İstanbul","ilce":"BAYRAMPAŞA","mahalle":"VATAN","ad":"VATAN","lat":41.03457,"lon":28.90859},{"il":"İstanbul","ilce":"BAYRAMPAŞA","mahalle":"YENİDOĞAN","ad":"YENİDOĞAN","lat":41.03505,"lon":28.9151},{"il":"İstanbul","ilce":"BAYRAMPAŞA","mahalle":"YILDIRIM","ad":"YILDIRIM","lat":41.06741,"lon":28.89699},{"il":"İstanbul","ilce":"BEŞİKTAŞ","mahalle":"ABBASAĞA","ad":"ABBASAĞA","lat":41.05116,"lon":29.00808},{"il":"İstanbul","ilce":"BEŞİKTAŞ","mahalle":"AKAT","ad":"AKAT","lat":41.07715,"lon":29.02263},{"il":"İstanbul","ilce":"BEŞİKTAŞ","mahalle":"ARNAVUTKÖY","ad":"ARNAVUTKÖY","lat":41.07123,"lon":29.04524},{"il":"İstanbul","ilce":"BEŞİKTAŞ","mahalle":"BALMUMCU","ad":"BALMUMCU","lat":41.05662,"lon":29.02054},{"il":"İstanbul","ilce":"BEŞİKTAŞ","mahalle":"BEBEK","ad":"BEBEK","lat":41.08499,"lon":29.04682},{"il":"İstanbul","ilce":"BEŞİKTAŞ","mahalle":"CİHANNÜMA","ad":"CİHANNÜMA","lat":41.05236,"lon":29.00891},{"il":"İstanbul","ilce":"BEŞİKTAŞ","mahalle":"DİKİLİTAŞ","ad":"DİKİLİTAŞ","lat":41.05826,"lon":29.00893},{"il":"İstanbul","ilce":"BEŞİKTAŞ","mahalle":"ETİLER","ad":"ETİLER","lat":41.08581,"lon":29.04181},{"il":"İstanbul","ilce":"BEŞİKTAŞ","mahalle":"GAYRETTEPE","ad":"GAYRETTEPE","lat":41.0628,"lon":29.01179},{"il":"İstanbul","ilce":"BEŞİKTAŞ","mahalle":"KONAKLAR","ad":"KONAKLAR","lat":41.10063,"lon":29.01883},{"il":"İstanbul","ilce":"BEŞİKTAŞ","mahalle":"KÜLTÜR","ad":"KÜLTÜR","lat":41.0763,"lon":29.03329},{"il":"İstanbul","ilce":"BEŞİKTAŞ","mahalle":"LEVAZIM","ad":"LEVAZIM","lat":41.06614,"lon":29.0227},{"il":"İstanbul","ilce":"BEŞİKTAŞ","mahalle":"LEVENT","ad":"LEVENT","lat":41.07708,"lon":29.02235},{"il":"İstanbul","ilce":"BEŞİKTAŞ","mahalle":"MECİDİYE","ad":"MECİDİYE","lat":41.04705,"lon":29.02728},{"il":"İstanbul","ilce":"BEŞİKTAŞ","mahalle":"MURADİYE","ad":"MURADİYE","lat":41.04911,"lon":29.00078},{"il":"İstanbul","ilce":"BEŞİKTAŞ","mahalle":"NİSBETİYE","ad":"NİSBETİYE","lat":41.0701,"lon":29.02981},{"il":"İstanbul","ilce":"BEŞİKTAŞ","mahalle":"ORTAKÖY","ad":"ORTAKÖY","lat":41.06095,"lon":29.03098},{"il":"İstanbul","ilce":"BEŞİKTAŞ","mahalle":"SİNANPAŞA","ad":"SİNANPAŞA","lat":41.0424,"lon":29.00811},{"il":"İstanbul","ilce":"BEŞİKTAŞ","mahalle":"TÜRKALİ","ad":"TÜRKALİ","lat":41.0469,"lon":29.00334},{"il":"İstanbul","ilce":"BEŞİKTAŞ","mahalle":"ULUS","ad":"ULUS","lat":41.065,"lon":29.03068},{"il":"İstanbul","ilce":"BEŞİKTAŞ","mahalle":"VİŞNEZADE","ad":"VİŞNEZADE","lat":41.04564,"lon":29.00029},{"il":"İstanbul","ilce":"BEŞİKTAŞ","mahalle":"YILDIZ","ad":"YILDIZ","lat":41.04857,"lon":29.02072},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"ACARLAR","ad":"ACARLAR","lat":41.12184,"lon":29.14591},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"AKBABA","ad":"AKBABA","lat":41.1735,"lon":29.1229},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"ALİBAHADIR","ad":"ALİBAHADIR","lat":41.21189,"lon":29.22598},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"ANADOLUFENERİ","ad":"ANADOLUFENERİ","lat":41.22489,"lon":29.16939},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"ANADOLU HİSARI","ad":"ANADOLU HİSARI","lat":41.09403,"lon":29.06704},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"ANADOLU KAVAĞI","ad":"ANADOLU KAVAĞI","lat":41.18498,"lon":29.11433},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"BAKLACI","ad":"BAKLACI","lat":41.07629,"lon":29.11242},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"BOZHANE","ad":"BOZHANE","lat":41.21679,"lon":29.31914},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"CUMHURİYET","ad":"CUMHURİYET","lat":41.14453,"lon":29.26196},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"ÇAMLIBAHÇE","ad":"ÇAMLIBAHÇE","lat":41.15145,"lon":29.08455},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"ÇENGELDERE","ad":"ÇENGELDERE","lat":41.10587,"lon":29.15447},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"ÇİFTLİK","ad":"ÇİFTLİK","lat":41.09262,"lon":29.14452},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"ÇİĞDEM","ad":"ÇİĞDEM","lat":41.1137,"lon":29.1032},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"ÇUBUKLU","ad":"ÇUBUKLU","lat":41.10955,"lon":29.08417},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"DERESEKİ","ad":"DERESEKİ","lat":41.17363,"lon":29.17153},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"ELMALI","ad":"ELMALI","lat":41.14811,"lon":29.11999},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"FATİH","ad":"FATİH","lat":41.0974,"lon":29.12182},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"GÖKSU","ad":"GÖKSU","lat":41.08157,"lon":29.07312},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"GÖLLÜ","ad":"GÖLLÜ","lat":41.22301,"lon":29.28806},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"GÖRELE","ad":"GÖRELE","lat":41.1201,"lon":29.15365},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"GÖZTEPE","ad":"GÖZTEPE","lat":41.08828,"lon":29.08973},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"GÜMÜŞSUYU","ad":"GÜMÜŞSUYU","lat":41.13171,"lon":29.10898},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"İNCİRKÖY","ad":"İNCİRKÖY","lat":41.12507,"lon":29.13651},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"İSHAKLI","ad":"İSHAKLI","lat":41.15027,"lon":29.31991},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"KANLICA","ad":"KANLICA","lat":41.10569,"lon":29.07164},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"KAVACIK","ad":"KAVACIK","lat":41.09553,"lon":29.08567},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"KAYNARCA","ad":"KAYNARCA","lat":41.1825,"lon":29.15989},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"KILIÇLI","ad":"KILIÇLI","lat":41.1833,"lon":29.32036},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"MAHMUTŞEVKETPAŞA","ad":"MAHMUTŞEVKETPAŞA","lat":41.17974,"lon":29.19878},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"MERKEZ","ad":"MERKEZ","lat":41.14446,"lon":29.10164},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"ORTAÇEŞME","ad":"ORTAÇEŞME","lat":41.14909,"lon":29.09331},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"ÖĞÜMCE","ad":"ÖĞÜMCE","lat":41.18441,"lon":29.26967},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"ÖRNEKKÖY","ad":"ÖRNEKKÖY","lat":41.15144,"lon":29.17506},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"PAŞABAHÇE","ad":"PAŞABAHÇE","lat":41.11957,"lon":29.09711},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"PAŞAMANDIRA","ad":"PAŞAMANDIRA","lat":41.19536,"lon":29.23125},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"POLONEZKÖY","ad":"POLONEZKÖY","lat":41.13732,"lon":29.21709},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"POYRAZKÖY","ad":"POYRAZKÖY","lat":41.21222,"lon":29.14476},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"RİVA","ad":"RİVA","lat":41.23449,"lon":29.25669},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"RÜZGARLIBAHÇE","ad":"RÜZGARLIBAHÇE","lat":41.10299,"lon":29.10082},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"SOĞUKSU","ad":"SOĞUKSU","lat":41.11706,"lon":29.11867},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"TOKATKÖY","ad":"TOKATKÖY","lat":41.17547,"lon":29.11402},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"YALIKÖY","ad":"YALIKÖY","lat":41.14676,"lon":29.07377},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"YAVUZ SELİM","ad":"YAVUZ SELİM","lat":41.0977,"lon":29.17224},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"YENİ MAHALLE","ad":"YENİ MAHALLE","lat":41.07505,"lon":29.08161},{"il":"İstanbul","ilce":"BEYKOZ","mahalle":"ZERZAVATÇI","ad":"ZERZAVATÇI","lat":41.14451,"lon":29.17463},{"il":"İstanbul","ilce":"BEYLİKDÜZÜ","mahalle":"ADNAN KAHVECİ","ad":"ADNAN KAHVECİ","lat":40.9921,"lon":28.64302},{"il":"İstanbul","ilce":"BEYLİKDÜZÜ","mahalle":"BARIŞ","ad":"BARIŞ","lat":40.99387,"lon":28.65415},{"il":"İstanbul","ilce":"BEYLİKDÜZÜ","mahalle":"BEYLİKDÜZÜOSB","ad":"BEYLİKDÜZÜOSB","lat":41.00382,"lon":28.66661},{"il":"İstanbul","ilce":"BEYLİKDÜZÜ","mahalle":"BÜYÜKŞEHİR","ad":"BÜYÜKŞEHİR","lat":41.00108,"lon":28.64691},{"il":"İstanbul","ilce":"BEYLİKDÜZÜ","mahalle":"CUMHURİYET","ad":"CUMHURİYET","lat":41.00408,"lon":28.64359},{"il":"İstanbul","ilce":"BEYLİKDÜZÜ","mahalle":"DEREAĞZI","ad":"DEREAĞZI","lat":40.99066,"lon":28.61509},{"il":"İstanbul","ilce":"BEYLİKDÜZÜ","mahalle":"GÜRPINAR","ad":"GÜRPINAR","lat":40.99734,"lon":28.60186},{"il":"İstanbul","ilce":"BEYLİKDÜZÜ","mahalle":"KAVAKLI","ad":"KAVAKLI","lat":40.9849,"lon":28.6661},{"il":"İstanbul","ilce":"BEYLİKDÜZÜ","mahalle":"MARMARA","ad":"MARMARA","lat":40.98502,"lon":28.67186},{"il":"İstanbul","ilce":"BEYLİKDÜZÜ","mahalle":"SAHİL","ad":"SAHİL","lat":40.98009,"lon":28.64929},{"il":"İstanbul","ilce":"BEYLİKDÜZÜ","mahalle":"YAKUPLU","ad":"YAKUPLU","lat":41.00867,"lon":28.65914},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"ARAP CAMİ","ad":"ARAP CAMİ","lat":41.02493,"lon":28.9719},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"ASMALI MESCİT","ad":"ASMALI MESCİT","lat":41.03355,"lon":28.97724},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"BEDRETTİN","ad":"BEDRETTİN","lat":41.03107,"lon":28.97287},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"BEREKETZADE","ad":"BEREKETZADE","lat":41.02616,"lon":28.97478},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"BOSTAN","ad":"BOSTAN","lat":41.03909,"lon":28.97806},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"BÜLBÜL","ad":"BÜLBÜL","lat":41.0384,"lon":28.98241},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"CAMİİKEBİR","ad":"CAMİİKEBİR","lat":41.03716,"lon":28.95733},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"CİHANGİR","ad":"CİHANGİR","lat":41.03269,"lon":28.98804},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"ÇATMA MESCİT","ad":"ÇATMA MESCİT","lat":41.03333,"lon":28.97453},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"ÇUKUR","ad":"ÇUKUR","lat":41.03715,"lon":28.97938},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"EVLİYA ÇELEBİ","ad":"EVLİYA ÇELEBİ","lat":41.03326,"lon":28.97522},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"FETİHTEPE","ad":"FETİHTEPE","lat":41.04619,"lon":28.95848},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"FİRUZAĞA","ad":"FİRUZAĞA","lat":41.03125,"lon":28.98256},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"GÜMÜŞSUYU","ad":"GÜMÜŞSUYU","lat":41.03922,"lon":28.99021},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"HACIAHMET","ad":"HACIAHMET","lat":41.04565,"lon":28.97585},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"HACIMİMİ","ad":"HACIMİMİ","lat":41.02761,"lon":28.9804},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"HALICIOĞLU","ad":"HALICIOĞLU","lat":41.05288,"lon":28.9543},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"HÜSEYİNAĞA","ad":"HÜSEYİNAĞA","lat":41.03485,"lon":28.98059},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"İSTİKLAL","ad":"İSTİKLAL","lat":41.04484,"lon":28.97103},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"KADIMEHMET EFENDİ","ad":"KADIMEHMET EFENDİ","lat":41.0358,"lon":28.96501},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"KALYONCU KULLUĞU","ad":"KALYONCU KULLUĞU","lat":41.03785,"lon":28.97662},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"KAMER HATUN","ad":"KAMER HATUN","lat":41.03581,"lon":28.97723},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"KAPTANPAŞA","ad":"KAPTANPAŞA","lat":41.04533,"lon":28.96584},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"KATİPMUSTAFA ÇELEBİ","ad":"KATİPMUSTAFA ÇELEBİ","lat":41.0357,"lon":28.98477},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"KEÇECİ PİRİ","ad":"KEÇECİ PİRİ","lat":41.04404,"lon":28.95885},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"KEMANKEŞ KARAMUSTAFAPAŞA","ad":"KEMANKEŞ KARAMUSTAFAPAŞA","lat":41.02523,"lon":28.98224},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"KILIÇALİ PAŞA","ad":"KILIÇALİ PAŞA","lat":41.03061,"lon":28.98522},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"KOCATEPE","ad":"KOCATEPE","lat":41.04079,"lon":28.98644},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"KULAKSIZ","ad":"KULAKSIZ","lat":41.03807,"lon":28.96357},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"KULOĞLU","ad":"KULOĞLU","lat":41.03248,"lon":28.98343},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"KÜÇÜK PİYALE","ad":"KÜÇÜK PİYALE","lat":41.03823,"lon":28.97114},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"MÜEYYETZADE","ad":"MÜEYYETZADE","lat":41.0247,"lon":28.97791},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"ÖMER AVNİ","ad":"ÖMER AVNİ","lat":41.03654,"lon":28.99551},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"ÖRNEKTEPE","ad":"ÖRNEKTEPE","lat":41.06343,"lon":28.94936},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"PİRİPAŞA","ad":"PİRİPAŞA","lat":41.0459,"lon":28.95375},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"PİYALEPAŞA","ad":"PİYALEPAŞA","lat":41.04749,"lon":28.96806},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"PÜRTELAŞ HASAN EFENDİ","ad":"PÜRTELAŞ HASAN EFENDİ","lat":41.03102,"lon":28.9901},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"SURURİ MEHMET EFENDİ","ad":"SURURİ MEHMET EFENDİ","lat":41.03812,"lon":28.97455},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"SÜTLÜCE","ad":"SÜTLÜCE","lat":41.05429,"lon":28.95032},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"ŞAHKULU","ad":"ŞAHKULU","lat":41.02807,"lon":28.97732},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"ŞEHİT MUHTAR","ad":"ŞEHİT MUHTAR","lat":41.03621,"lon":28.98436},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"TOMTOM","ad":"TOMTOM","lat":41.03165,"lon":28.97857},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"YAHYA KAHYA","ad":"YAHYA KAHYA","lat":41.03404,"lon":28.97435},{"il":"İstanbul","ilce":"BEYOĞLU","mahalle":"YENİŞEHİR","ad":"YENİŞEHİR","lat":41.04216,"lon":28.98079},{"il":"İstanbul","ilce":"BÜYÜKÇEKMECE","mahalle":"19 MAYIS","ad":"19 MAYIS","lat":41.06052,"lon":28.6027},{"il":"İstanbul","ilce":"BÜYÜKÇEKMECE","mahalle":"AHMEDİYE","ad":"AHMEDİYE","lat":41.10756,"lon":28.52361},{"il":"İstanbul","ilce":"BÜYÜKÇEKMECE","mahalle":"ALKENT 2000","ad":"ALKENT 2000","lat":41.09171,"lon":28.61869},{"il":"İstanbul","ilce":"BÜYÜKÇEKMECE","mahalle":"ATATÜRK","ad":"ATATÜRK","lat":41.01771,"lon":28.6005},{"il":"İstanbul","ilce":"BÜYÜKÇEKMECE","mahalle":"BAHÇELİEVLER","ad":"BAHÇELİEVLER","lat":41.03655,"lon":28.50036},{"il":"İstanbul","ilce":"BÜYÜKÇEKMECE","mahalle":"CELALİYE","ad":"CELALİYE","lat":41.08389,"lon":28.40613},{"il":"İstanbul","ilce":"BÜYÜKÇEKMECE","mahalle":"CUMHURİYET","ad":"CUMHURİYET","lat":41.03393,"lon":28.62306},{"il":"İstanbul","ilce":"BÜYÜKÇEKMECE","mahalle":"ÇAKMAKLI","ad":"ÇAKMAKLI","lat":41.06737,"lon":28.61946},{"il":"İstanbul","ilce":"BÜYÜKÇEKMECE","mahalle":"DİZDARİYE","ad":"DİZDARİYE","lat":41.02078,"lon":28.58192},{"il":"İstanbul","ilce":"BÜYÜKÇEKMECE","mahalle":"EKİNOBA","ad":"EKİNOBA","lat":41.00755,"lon":28.5524},{"il":"İstanbul","ilce":"BÜYÜKÇEKMECE","mahalle":"FATİH","ad":"FATİH","lat":41.02614,"lon":28.61197},{"il":"İstanbul","ilce":"BÜYÜKÇEKMECE","mahalle":"GÜZELCE","ad":"GÜZELCE","lat":41.02159,"lon":28.51344},{"il":"İstanbul","ilce":"BÜYÜKÇEKMECE","mahalle":"HÜRRİYET","ad":"HÜRRİYET","lat":41.07052,"lon":28.51712},{"il":"İstanbul","ilce":"BÜYÜKÇEKMECE","mahalle":"KAMİLOBA","ad":"KAMİLOBA","lat":41.07645,"lon":28.44413},{"il":"İstanbul","ilce":"BÜYÜKÇEKMECE","mahalle":"KARAAĞAÇ","ad":"KARAAĞAÇ","lat":41.12747,"lon":28.59399},{"il":"İstanbul","ilce":"BÜYÜKÇEKMECE","mahalle":"KUMBURGAZ","ad":"KUMBURGAZ","lat":41.04373,"lon":28.47356},{"il":"İstanbul","ilce":"BÜYÜKÇEKMECE","mahalle":"MİMAROBA","ad":"MİMAROBA","lat":41.00151,"lon":28.54473},{"il":"İstanbul","ilce":"BÜYÜKÇEKMECE","mahalle":"MİMARSİNAN","ad":"MİMARSİNAN","lat":41.02501,"lon":28.57194},{"il":"İstanbul","ilce":"BÜYÜKÇEKMECE","mahalle":"MURAT ÇESME","ad":"MURAT ÇESME","lat":41.02295,"lon":28.53412},{"il":"İstanbul","ilce":"BÜYÜKÇEKMECE","mahalle":"PINARTEPE","ad":"PINARTEPE","lat":41.01674,"lon":28.62658},{"il":"İstanbul","ilce":"BÜYÜKÇEKMECE","mahalle":"SİNANOBA","ad":"SİNANOBA","lat":40.99778,"lon":28.54625},{"il":"İstanbul","ilce":"BÜYÜKÇEKMECE","mahalle":"TÜRKOBA","ad":"TÜRKOBA","lat":41.06689,"lon":28.51246},{"il":"İstanbul","ilce":"BÜYÜKÇEKMECE","mahalle":"ULUS","ad":"ULUS","lat":41.06384,"lon":28.54521},{"il":"İstanbul","ilce":"BÜYÜKÇEKMECE","mahalle":"YENİMAHALLE","ad":"YENİMAHALLE","lat":41.03281,"lon":28.48013},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"AKALAN","ad":"AKALAN","lat":41.28163,"lon":28.40082},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"ATATÜRK","ad":"ATATÜRK","lat":41.41394,"lon":28.16205},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"AYDINLAR","ad":"AYDINLAR","lat":41.39697,"lon":28.20502},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"BAHŞAYİŞ","ad":"BAHŞAYİŞ","lat":41.13685,"lon":28.57066},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"BAŞAK","ad":"BAŞAK","lat":41.33501,"lon":28.46905},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"BELGRAT","ad":"BELGRAT","lat":41.38939,"lon":28.39161},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"CELEPKÖY","ad":"CELEPKÖY","lat":41.38381,"lon":28.50105},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"ÇAKIL","ad":"ÇAKIL","lat":41.13758,"lon":28.44216},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"ÇANAKÇA","ad":"ÇANAKÇA","lat":41.27587,"lon":28.54342},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"ÇİFTLİKKÖY","ad":"ÇİFTLİKKÖY","lat":41.38677,"lon":28.44024},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"DAĞYENİCE","ad":"DAĞYENİCE","lat":41.2903,"lon":28.50749},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"ELBASAN","ad":"ELBASAN","lat":41.18027,"lon":28.37557},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"FATİH","ad":"FATİH","lat":41.5834,"lon":28.14637},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"FERHATPAŞA","ad":"FERHATPAŞA","lat":41.15235,"lon":28.49243},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"FERHATPAŞA SB","ad":"FERHATPAŞA SB","lat":41.13257,"lon":28.48422},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"GÖKÇEALİ","ad":"GÖKÇEALİ","lat":41.22572,"lon":28.43921},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"GÜMÜŞPINAR","ad":"GÜMÜŞPINAR","lat":41.35122,"lon":28.29735},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"HALLAÇLI","ad":"HALLAÇLI","lat":41.38464,"lon":28.10665},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"HİSARBEYLİ","ad":"HİSARBEYLİ","lat":41.38906,"lon":28.48096},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"İHSANİYE","ad":"İHSANİYE","lat":41.34215,"lon":28.34812},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"İNCEĞİZ","ad":"İNCEĞİZ","lat":41.22973,"lon":28.41075},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"İZZETTİN","ad":"İZZETTİN","lat":41.2027,"lon":28.51034},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"KABAKÇA","ad":"KABAKÇA","lat":41.28433,"lon":28.3907},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"KALEİÇİ","ad":"KALEİÇİ","lat":41.18909,"lon":28.45469},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"KALFA","ad":"KALFA","lat":41.32022,"lon":28.43591},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"KARACAKÖY MERKEZ","ad":"KARACAKÖY MERKEZ","lat":41.45466,"lon":28.37396},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"KARAMANDERE","ad":"KARAMANDERE","lat":41.39954,"lon":28.28521},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"KESTANELİK","ad":"KESTANELİK","lat":41.25158,"lon":28.47209},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"KIZILCAALİ","ad":"KIZILCAALİ","lat":41.26034,"lon":28.54954},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"MURATBEY MERKEZ","ad":"MURATBEY MERKEZ","lat":41.11431,"lon":28.49956},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"NAKKAŞ","ad":"NAKKAŞ","lat":41.22984,"lon":28.57453},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"OKLALI","ad":"OKLALI","lat":41.25377,"lon":28.46093},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"ORMANLI","ad":"ORMANLI","lat":41.40813,"lon":28.4919},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"OVAYENİCE","ad":"OVAYENİCE","lat":41.13417,"lon":28.39733},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"ÖRCÜNLÜ","ad":"ÖRCÜNLÜ","lat":41.25467,"lon":28.5367},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"ÖRENCİK","ad":"ÖRENCİK","lat":41.35015,"lon":28.51446},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"SUBAŞI","ad":"SUBAŞI","lat":41.25469,"lon":28.4488},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"YALIKÖY","ad":"YALIKÖY","lat":41.5246,"lon":28.22924},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"YAYLACIK","ad":"YAYLACIK","lat":41.36505,"lon":28.20688},{"il":"İstanbul","ilce":"ÇATALCA","mahalle":"YAZLIK","ad":"YAZLIK","lat":41.32404,"lon":28.54409},{"il":"İstanbul","ilce":"ÇEKMEKÖY","mahalle":"ALEMDAĞ","ad":"ALEMDAĞ","lat":41.06574,"lon":29.24172},{"il":"İstanbul","ilce":"ÇEKMEKÖY","mahalle":"AYDINLAR","ad":"AYDINLAR","lat":41.01999,"lon":29.23482},{"il":"İstanbul","ilce":"ÇEKMEKÖY","mahalle":"CUMHURİYET","ad":"CUMHURİYET","lat":41.0213,"lon":29.23105},{"il":"İstanbul","ilce":"ÇEKMEKÖY","mahalle":"ÇAMLIK","ad":"ÇAMLIK","lat":41.02587,"lon":29.20602},{"il":"İstanbul","ilce":"ÇEKMEKÖY","mahalle":"ÇATALMEŞE","ad":"ÇATALMEŞE","lat":41.06962,"lon":29.26694},{"il":"İstanbul","ilce":"ÇEKMEKÖY","mahalle":"EKŞİOĞLU","ad":"EKŞİOĞLU","lat":41.0281,"lon":29.24975},{"il":"İstanbul","ilce":"ÇEKMEKÖY","mahalle":"GÜNGÖREN","ad":"GÜNGÖREN","lat":41.02354,"lon":29.22206},{"il":"İstanbul","ilce":"ÇEKMEKÖY","mahalle":"HAMİDİYE","ad":"HAMİDİYE","lat":41.03072,"lon":29.18616},{"il":"İstanbul","ilce":"ÇEKMEKÖY","mahalle":"HÜSEYİNLİ","ad":"HÜSEYİNLİ","lat":41.13256,"lon":29.28608},{"il":"İstanbul","ilce":"ÇEKMEKÖY","mahalle":"KİRAZLIDERE","ad":"KİRAZLIDERE","lat":41.02334,"lon":29.22155},{"il":"İstanbul","ilce":"ÇEKMEKÖY","mahalle":"KOÇULLU","ad":"KOÇULLU","lat":41.09384,"lon":29.39877},{"il":"İstanbul","ilce":"ÇEKMEKÖY","mahalle":"MEHMET AKİF","ad":"MEHMET AKİF","lat":41.02534,"lon":29.18134},{"il":"İstanbul","ilce":"ÇEKMEKÖY","mahalle":"MERKEZ","ad":"MERKEZ","lat":41.05894,"lon":29.21085},{"il":"İstanbul","ilce":"ÇEKMEKÖY","mahalle":"MİMAR SİNAN","ad":"MİMAR SİNAN","lat":41.03693,"lon":29.18836},{"il":"İstanbul","ilce":"ÇEKMEKÖY","mahalle":"NİŞANTEPE","ad":"NİŞANTEPE","lat":41.05274,"lon":29.29026},{"il":"İstanbul","ilce":"ÇEKMEKÖY","mahalle":"REŞADİYE","ad":"REŞADİYE","lat":41.11488,"lon":29.25258},{"il":"İstanbul","ilce":"ÇEKMEKÖY","mahalle":"SIRAPINAR","ad":"SIRAPINAR","lat":41.1218,"lon":29.36583},{"il":"İstanbul","ilce":"ÇEKMEKÖY","mahalle":"SOĞUKPINAR","ad":"SOĞUKPINAR","lat":41.02592,"lon":29.2387},{"il":"İstanbul","ilce":"ÇEKMEKÖY","mahalle":"SULTANÇİFTLİĞİ","ad":"SULTANÇİFTLİĞİ","lat":41.03538,"lon":29.21348},{"il":"İstanbul","ilce":"ÇEKMEKÖY","mahalle":"TAŞDELEN","ad":"TAŞDELEN","lat":41.0361,"lon":29.23262},{"il":"İstanbul","ilce":"ESENLER","mahalle":"15 TEMMUZ","ad":"15 TEMMUZ","lat":41.07553,"lon":28.87885},{"il":"İstanbul","ilce":"ESENLER","mahalle":"BİRLİK","ad":"BİRLİK","lat":41.0534,"lon":28.87495},{"il":"İstanbul","ilce":"ESENLER","mahalle":"ÇİFTE HAVUZLAR","ad":"ÇİFTE HAVUZLAR","lat":41.03114,"lon":28.89294},{"il":"İstanbul","ilce":"ESENLER","mahalle":"DAVUTPAŞA","ad":"DAVUTPAŞA","lat":41.03396,"lon":28.89483},{"il":"İstanbul","ilce":"ESENLER","mahalle":"FATİH","ad":"FATİH","lat":41.04518,"lon":28.86859},{"il":"İstanbul","ilce":"ESENLER","mahalle":"FEVZİ ÇAKMAK","ad":"FEVZİ ÇAKMAK","lat":41.04552,"lon":28.88474},{"il":"İstanbul","ilce":"ESENLER","mahalle":"HAVAALANI","ad":"HAVAALANI","lat":41.06228,"lon":28.86876},{"il":"İstanbul","ilce":"ESENLER","mahalle":"KAZIM KARABEKİR","ad":"KAZIM KARABEKİR","lat":41.04765,"lon":28.87742},{"il":"İstanbul","ilce":"ESENLER","mahalle":"KEMER","ad":"KEMER","lat":41.0563,"lon":28.88599},{"il":"İstanbul","ilce":"ESENLER","mahalle":"MENDERES","ad":"MENDERES","lat":41.04424,"lon":28.87796},{"il":"İstanbul","ilce":"ESENLER","mahalle":"MİMAR SİNAN","ad":"MİMAR SİNAN","lat":41.03687,"lon":28.88631},{"il":"İstanbul","ilce":"ESENLER","mahalle":"NAMIK KEMAL","ad":"NAMIK KEMAL","lat":41.0317,"lon":28.8973},{"il":"İstanbul","ilce":"ESENLER","mahalle":"NİNE HATUN","ad":"NİNE HATUN","lat":41.03862,"lon":28.87954},{"il":"İstanbul","ilce":"ESENLER","mahalle":"ORUÇREİS","ad":"ORUÇREİS","lat":41.07473,"lon":28.86977},{"il":"İstanbul","ilce":"ESENLER","mahalle":"TUNA","ad":"TUNA","lat":41.05454,"lon":28.86071},{"il":"İstanbul","ilce":"ESENLER","mahalle":"TURGUT REİS","ad":"TURGUT REİS","lat":41.06565,"lon":28.86266},{"il":"İstanbul","ilce":"ESENLER","mahalle":"YAVUZ SELİM","ad":"YAVUZ SELİM","lat":41.04155,"lon":28.88609}]
+[
+  {
+    "il": "İstanbul",
+    "ilce": "ADALAR",
+    "mahalle": "HEYBELİADA",
+    "ad": "HEYBELİADA",
+    "lat": 40.88493,
+    "lon": 29.09323
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ADALAR",
+    "mahalle": "NİZAM",
+    "ad": "NİZAM",
+    "lat": 40.87506,
+    "lon": 29.12831
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "ADNAN MENDERES",
+    "ad": "ADNAN MENDERES",
+    "lat": 41.21805,
+    "lon": 28.70864
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "ANADOLU",
+    "ad": "ANADOLU",
+    "lat": 41.18454,
+    "lon": 28.75611
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "ARNAVUTKÖY MERKEZ",
+    "ad": "ARNAVUTKÖY MERKEZ",
+    "lat": 41.18454,
+    "lon": 28.74153
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "ATATÜRK",
+    "ad": "ATATÜRK",
+    "lat": 41.19522,
+    "lon": 28.76579
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "BAKLALI",
+    "ad": "BAKLALI",
+    "lat": 41.30523,
+    "lon": 28.66693
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "BOĞAZKÖY İSTİKLAL",
+    "ad": "BOĞAZKÖY İSTİKLAL",
+    "lat": 41.2224,
+    "lon": 28.80026
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "BOLLUCA",
+    "ad": "BOLLUCA",
+    "lat": 41.23813,
+    "lon": 28.78836
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "BOYALIK",
+    "ad": "BOYALIK",
+    "lat": 41.30719,
+    "lon": 28.63886
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "DELİKLİKAYA",
+    "ad": "DELİKLİKAYA",
+    "lat": 41.11202,
+    "lon": 28.67153
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "DURSUNKÖY",
+    "ad": "DURSUNKÖY",
+    "lat": 41.23737,
+    "lon": 28.65072
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "DURUSU",
+    "ad": "DURUSU",
+    "lat": 41.30417,
+    "lon": 28.68466
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "FATİH",
+    "ad": "FATİH",
+    "lat": 41.23127,
+    "lon": 28.70166
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "HACIMAŞLI",
+    "ad": "HACIMAŞLI",
+    "lat": 41.16887,
+    "lon": 28.70764
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "HADIMKÖY",
+    "ad": "HADIMKÖY",
+    "lat": 41.1862,
+    "lon": 28.61455
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "HARAÇÇI",
+    "ad": "HARAÇÇI",
+    "lat": 41.19303,
+    "lon": 28.70302
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "HASTANE",
+    "ad": "HASTANE",
+    "lat": 41.15781,
+    "lon": 28.61517
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "HİCRET",
+    "ad": "HİCRET",
+    "lat": 41.21562,
+    "lon": 28.75716
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "İMRAHOR",
+    "ad": "İMRAHOR",
+    "lat": 41.31959,
+    "lon": 28.76512
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "İSLAMBEY",
+    "ad": "İSLAMBEY",
+    "lat": 41.19564,
+    "lon": 28.75439
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "KARABURUN",
+    "ad": "KARABURUN",
+    "lat": 41.35245,
+    "lon": 28.63231
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "KARLIBAYIR",
+    "ad": "KARLIBAYIR",
+    "lat": 41.18356,
+    "lon": 28.72048
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "MAREŞAL FEVZİ ÇAKMAK",
+    "ad": "MAREŞAL FEVZİ ÇAKMAK",
+    "lat": 41.21518,
+    "lon": 28.72723
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "MAVİGÖL",
+    "ad": "MAVİGÖL",
+    "lat": 41.20024,
+    "lon": 28.76426
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "MEHMET AKİF ERSOY",
+    "ad": "MEHMET AKİF ERSOY",
+    "lat": 41.18795,
+    "lon": 28.70666
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "MUSTAFA KEMAL PAŞA",
+    "ad": "MUSTAFA KEMAL PAŞA",
+    "lat": 41.18644,
+    "lon": 28.73889
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "NENEHATUN",
+    "ad": "NENEHATUN",
+    "lat": 41.19614,
+    "lon": 28.74169
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "ÖMERLİ",
+    "ad": "ÖMERLİ",
+    "lat": 41.14189,
+    "lon": 28.6357
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "TAŞOLUK",
+    "ad": "TAŞOLUK",
+    "lat": 41.19861,
+    "lon": 28.7151
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "TAYAKADIN",
+    "ad": "TAYAKADIN",
+    "lat": 41.29581,
+    "lon": 28.67885
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "TERKOS",
+    "ad": "TERKOS",
+    "lat": 41.33802,
+    "lon": 28.66076
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "YASSIÖREN",
+    "ad": "YASSIÖREN",
+    "lat": 41.30809,
+    "lon": 28.57103
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "YAVUZ SELİM",
+    "ad": "YAVUZ SELİM",
+    "lat": 41.21628,
+    "lon": 28.73469
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "YENİKÖY",
+    "ad": "YENİKÖY",
+    "lat": 41.33589,
+    "lon": 28.70284
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "YEŞİLBAYIR",
+    "ad": "YEŞİLBAYIR",
+    "lat": 41.15715,
+    "lon": 28.58611
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ARNAVUTKÖY",
+    "mahalle": "YUNUS EMRE",
+    "ad": "YUNUS EMRE",
+    "lat": 41.19013,
+    "lon": 28.76562
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ATAŞEHİR",
+    "mahalle": "AŞIKVEYSEL",
+    "ad": "AŞIKVEYSEL",
+    "lat": 40.99754,
+    "lon": 29.08939
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ATAŞEHİR",
+    "mahalle": "ATATÜRK",
+    "ad": "ATATÜRK",
+    "lat": 40.99683,
+    "lon": 29.13079
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ATAŞEHİR",
+    "mahalle": "BARBAROS",
+    "ad": "BARBAROS",
+    "lat": 41.00012,
+    "lon": 29.10674
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ATAŞEHİR",
+    "mahalle": "ESATPAŞA",
+    "ad": "ESATPAŞA",
+    "lat": 41.00953,
+    "lon": 29.08891
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ATAŞEHİR",
+    "mahalle": "FERHATPAŞA",
+    "ad": "FERHATPAŞA",
+    "lat": 40.98203,
+    "lon": 29.20157
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ATAŞEHİR",
+    "mahalle": "FETİH",
+    "ad": "FETİH",
+    "lat": 40.99704,
+    "lon": 29.07413
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ATAŞEHİR",
+    "mahalle": "İÇERENKÖY",
+    "ad": "İÇERENKÖY",
+    "lat": 40.97906,
+    "lon": 29.10787
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ATAŞEHİR",
+    "mahalle": "İNÖNÜ",
+    "ad": "İNÖNÜ",
+    "lat": 40.97654,
+    "lon": 29.15094
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ATAŞEHİR",
+    "mahalle": "KAYIŞDAĞI",
+    "ad": "KAYIŞDAĞI",
+    "lat": 40.9826,
+    "lon": 29.15246
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ATAŞEHİR",
+    "mahalle": "KÜÇÜKBAKKALKÖY",
+    "ad": "KÜÇÜKBAKKALKÖY",
+    "lat": 40.98252,
+    "lon": 29.13455
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ATAŞEHİR",
+    "mahalle": "MEVLANA",
+    "ad": "MEVLANA",
+    "lat": 40.99125,
+    "lon": 29.15481
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ATAŞEHİR",
+    "mahalle": "MİMAR SİNAN",
+    "ad": "MİMAR SİNAN",
+    "lat": 40.98303,
+    "lon": 29.16573
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ATAŞEHİR",
+    "mahalle": "MUSTAFA KEMAL",
+    "ad": "MUSTAFA KEMAL",
+    "lat": 41.00352,
+    "lon": 29.10245
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ATAŞEHİR",
+    "mahalle": "ÖRNEK",
+    "ad": "ÖRNEK",
+    "lat": 40.99704,
+    "lon": 29.08851
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ATAŞEHİR",
+    "mahalle": "YENİ ÇAMLICA",
+    "ad": "YENİ ÇAMLICA",
+    "lat": 40.99134,
+    "lon": 29.16794
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ATAŞEHİR",
+    "mahalle": "YENİSAHRA",
+    "ad": "YENİSAHRA",
+    "lat": 40.99494,
+    "lon": 29.09302
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ATAŞEHİR",
+    "mahalle": "YENİŞEHİR",
+    "ad": "YENİŞEHİR",
+    "lat": 40.99471,
+    "lon": 29.15155
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "AVCILAR",
+    "mahalle": "AMBARLI",
+    "ad": "AMBARLI",
+    "lat": 40.98177,
+    "lon": 28.70363
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "AVCILAR",
+    "mahalle": "CİHANGİR",
+    "ad": "CİHANGİR",
+    "lat": 40.99976,
+    "lon": 28.69319
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "AVCILAR",
+    "mahalle": "DENİZKÖŞKLER",
+    "ad": "DENİZKÖŞKLER",
+    "lat": 40.98039,
+    "lon": 28.7567
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "AVCILAR",
+    "mahalle": "FİRUZKÖY",
+    "ad": "FİRUZKÖY",
+    "lat": 41.04855,
+    "lon": 28.72241
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "AVCILAR",
+    "mahalle": "GÜMÜŞPALA",
+    "ad": "GÜMÜŞPALA",
+    "lat": 40.98383,
+    "lon": 28.7398
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "AVCILAR",
+    "mahalle": "MERKEZ",
+    "ad": "MERKEZ",
+    "lat": 40.98218,
+    "lon": 28.72817
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "AVCILAR",
+    "mahalle": "MUSTAFA KEMALPAŞA",
+    "ad": "MUSTAFA KEMALPAŞA",
+    "lat": 41.00809,
+    "lon": 28.70349
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "AVCILAR",
+    "mahalle": "TAHTAKALE",
+    "ad": "TAHTAKALE",
+    "lat": 41.06224,
+    "lon": 28.73562
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "AVCILAR",
+    "mahalle": "ÜNİVERSİTE",
+    "ad": "ÜNİVERSİTE",
+    "lat": 40.99771,
+    "lon": 28.71381
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "AVCILAR",
+    "mahalle": "YEŞİLKENT",
+    "ad": "YEŞİLKENT",
+    "lat": 41.05861,
+    "lon": 28.70047
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAĞCILAR",
+    "mahalle": "100. YIL",
+    "ad": "100. YIL",
+    "lat": 41.06267,
+    "lon": 28.85509
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAĞCILAR",
+    "mahalle": "15 TEMMUZ",
+    "ad": "15 TEMMUZ",
+    "lat": 41.04427,
+    "lon": 28.81954
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAĞCILAR",
+    "mahalle": "BAĞLAR",
+    "ad": "BAĞLAR",
+    "lat": 41.02692,
+    "lon": 28.82922
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAĞCILAR",
+    "mahalle": "BARBAROS",
+    "ad": "BARBAROS",
+    "lat": 41.02237,
+    "lon": 28.84422
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAĞCILAR",
+    "mahalle": "ÇINAR",
+    "ad": "ÇINAR",
+    "lat": 41.04032,
+    "lon": 28.86069
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAĞCILAR",
+    "mahalle": "DEMİRKAPI",
+    "ad": "DEMİRKAPI",
+    "lat": 41.04746,
+    "lon": 28.84593
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAĞCILAR",
+    "mahalle": "FATİH",
+    "ad": "FATİH",
+    "lat": 41.04304,
+    "lon": 28.84781
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAĞCILAR",
+    "mahalle": "FEVZİ ÇAKMAK",
+    "ad": "FEVZİ ÇAKMAK",
+    "lat": 41.0438,
+    "lon": 28.85955
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAĞCILAR",
+    "mahalle": "GÖZTEPE",
+    "ad": "GÖZTEPE",
+    "lat": 41.06505,
+    "lon": 28.84246
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAĞCILAR",
+    "mahalle": "GÜNEŞLİ",
+    "ad": "GÜNEŞLİ",
+    "lat": 41.04405,
+    "lon": 28.83097
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAĞCILAR",
+    "mahalle": "HÜRRİYET",
+    "ad": "HÜRRİYET",
+    "lat": 41.03099,
+    "lon": 28.82905
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAĞCILAR",
+    "mahalle": "İNÖNÜ",
+    "ad": "İNÖNÜ",
+    "lat": 41.02429,
+    "lon": 28.84768
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAĞCILAR",
+    "mahalle": "KAZIM KARABEKİR",
+    "ad": "KAZIM KARABEKİR",
+    "lat": 41.0309,
+    "lon": 28.84844
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAĞCILAR",
+    "mahalle": "KEMALPAŞA",
+    "ad": "KEMALPAŞA",
+    "lat": 41.04562,
+    "lon": 28.84951
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAĞCILAR",
+    "mahalle": "KİRAZLI",
+    "ad": "KİRAZLI",
+    "lat": 41.03581,
+    "lon": 28.8454
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAĞCILAR",
+    "mahalle": "MAHMUTBEY",
+    "ad": "MAHMUTBEY",
+    "lat": 41.04552,
+    "lon": 28.8302
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAĞCILAR",
+    "mahalle": "MERKEZ",
+    "ad": "MERKEZ",
+    "lat": 41.03375,
+    "lon": 28.87161
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAĞCILAR",
+    "mahalle": "SANCAKTEPE",
+    "ad": "SANCAKTEPE",
+    "lat": 41.03443,
+    "lon": 28.85714
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAĞCILAR",
+    "mahalle": "YAVUZ SELİM",
+    "ad": "YAVUZ SELİM",
+    "lat": 41.04306,
+    "lon": 28.85071
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAĞCILAR",
+    "mahalle": "YENİGÜN",
+    "ad": "YENİGÜN",
+    "lat": 41.0178,
+    "lon": 28.86064
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAĞCILAR",
+    "mahalle": "YENİMAHALLE",
+    "ad": "YENİMAHALLE",
+    "lat": 41.04552,
+    "lon": 28.83895
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAĞCILAR",
+    "mahalle": "YILDIZTEPE",
+    "ad": "YILDIZTEPE",
+    "lat": 41.02208,
+    "lon": 28.85765
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAHÇELİEVLER",
+    "mahalle": "BAHÇELİEVLER",
+    "ad": "BAHÇELİEVLER",
+    "lat": 41.00743,
+    "lon": 28.88123
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAHÇELİEVLER",
+    "mahalle": "CUMHURİYET",
+    "ad": "CUMHURİYET",
+    "lat": 41.02107,
+    "lon": 28.854
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAHÇELİEVLER",
+    "mahalle": "ÇOBANÇEŞME",
+    "ad": "ÇOBANÇEŞME",
+    "lat": 40.9971,
+    "lon": 28.83117
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAHÇELİEVLER",
+    "mahalle": "FEVZİ ÇAKMAK",
+    "ad": "FEVZİ ÇAKMAK",
+    "lat": 40.99532,
+    "lon": 28.83509
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAHÇELİEVLER",
+    "mahalle": "HÜRRİYET",
+    "ad": "HÜRRİYET",
+    "lat": 40.99188,
+    "lon": 28.84332
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAHÇELİEVLER",
+    "mahalle": "KOCASİNAN MERKEZ",
+    "ad": "KOCASİNAN MERKEZ",
+    "lat": 41.02144,
+    "lon": 28.84844
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAHÇELİEVLER",
+    "mahalle": "SİYAVUŞPAŞA",
+    "ad": "SİYAVUŞPAŞA",
+    "lat": 41.00715,
+    "lon": 28.85514
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAHÇELİEVLER",
+    "mahalle": "SOĞANLI",
+    "ad": "SOĞANLI",
+    "lat": 41.01472,
+    "lon": 28.86074
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAHÇELİEVLER",
+    "mahalle": "ŞİRİNEVLER",
+    "ad": "ŞİRİNEVLER",
+    "lat": 41.00206,
+    "lon": 28.84895
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAHÇELİEVLER",
+    "mahalle": "YENİBOSNA MERKEZ",
+    "ad": "YENİBOSNA MERKEZ",
+    "lat": 41.01978,
+    "lon": 28.82314
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAHÇELİEVLER",
+    "mahalle": "ZAFER",
+    "ad": "ZAFER",
+    "lat": 41.01457,
+    "lon": 28.83922
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAKIRKÖY",
+    "mahalle": "ATAKÖY 1. KISIM",
+    "ad": "ATAKÖY 1. KISIM",
+    "lat": 40.97975,
+    "lon": 28.86757
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAKIRKÖY",
+    "mahalle": "ATAKÖY 2-5-6. KISIM",
+    "ad": "ATAKÖY 2-5-6. KISIM",
+    "lat": 40.9799,
+    "lon": 28.86338
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAKIRKÖY",
+    "mahalle": "ATAKÖY 3-4-11. KISIM",
+    "ad": "ATAKÖY 3-4-11. KISIM",
+    "lat": 40.98603,
+    "lon": 28.85983
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAKIRKÖY",
+    "mahalle": "ATAKÖY 7-8-9-10. KISIM",
+    "ad": "ATAKÖY 7-8-9-10. KISIM",
+    "lat": 40.99166,
+    "lon": 28.84713
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAKIRKÖY",
+    "mahalle": "BASINKÖY",
+    "ad": "BASINKÖY",
+    "lat": 40.9847,
+    "lon": 28.77752
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAKIRKÖY",
+    "mahalle": "CEVİZLİK",
+    "ad": "CEVİZLİK",
+    "lat": 40.9786,
+    "lon": 28.87764
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAKIRKÖY",
+    "mahalle": "KARTALTEPE",
+    "ad": "KARTALTEPE",
+    "lat": 40.99026,
+    "lon": 28.87884
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAKIRKÖY",
+    "mahalle": "OSMANİYE",
+    "ad": "OSMANİYE",
+    "lat": 40.99069,
+    "lon": 28.89165
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAKIRKÖY",
+    "mahalle": "SAKIZAĞACI",
+    "ad": "SAKIZAĞACI",
+    "lat": 40.98009,
+    "lon": 28.8908
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAKIRKÖY",
+    "mahalle": "ŞENLİKKÖY",
+    "ad": "ŞENLİKKÖY",
+    "lat": 40.9883,
+    "lon": 28.79409
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAKIRKÖY",
+    "mahalle": "YENİMAHALLE",
+    "ad": "YENİMAHALLE",
+    "lat": 40.98248,
+    "lon": 28.88946
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAKIRKÖY",
+    "mahalle": "YEŞİLKÖY",
+    "ad": "YEŞİLKÖY",
+    "lat": 40.99254,
+    "lon": 28.82203
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAKIRKÖY",
+    "mahalle": "YEŞİLKÖY SB",
+    "ad": "YEŞİLKÖY SB",
+    "lat": 40.98945,
+    "lon": 28.82291
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAKIRKÖY",
+    "mahalle": "YEŞİLYURT",
+    "ad": "YEŞİLYURT",
+    "lat": 40.97182,
+    "lon": 28.84883
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAKIRKÖY",
+    "mahalle": "ZEYTİNLİK",
+    "ad": "ZEYTİNLİK",
+    "lat": 40.98052,
+    "lon": 28.87388
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAKIRKÖY",
+    "mahalle": "ZUHURATBABA",
+    "ad": "ZUHURATBABA",
+    "lat": 40.98078,
+    "lon": 28.87381
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAŞAKŞEHİR",
+    "mahalle": "ALTINŞEHİR",
+    "ad": "ALTINŞEHİR",
+    "lat": 41.07217,
+    "lon": 28.75181
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAŞAKŞEHİR",
+    "mahalle": "BAHÇEŞEHİR 1. KISIM",
+    "ad": "BAHÇEŞEHİR 1. KISIM",
+    "lat": 41.11018,
+    "lon": 28.68472
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAŞAKŞEHİR",
+    "mahalle": "BAHÇEŞEHİR 2. KISIM",
+    "ad": "BAHÇEŞEHİR 2. KISIM",
+    "lat": 41.10195,
+    "lon": 28.64392
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAŞAKŞEHİR",
+    "mahalle": "BAŞAK",
+    "ad": "BAŞAK",
+    "lat": 41.13928,
+    "lon": 28.80513
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAŞAKŞEHİR",
+    "mahalle": "BAŞAKŞEHİR",
+    "ad": "BAŞAKŞEHİR",
+    "lat": 41.10009,
+    "lon": 28.79233
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAŞAKŞEHİR",
+    "mahalle": "GÜVERCİNTEPE",
+    "ad": "GÜVERCİNTEPE",
+    "lat": 41.1077,
+    "lon": 28.74012
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAŞAKŞEHİR",
+    "mahalle": "İKİTELLİ OSB",
+    "ad": "İKİTELLİ OSB",
+    "lat": 41.09873,
+    "lon": 28.79697
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAŞAKŞEHİR",
+    "mahalle": "KAYABAŞI",
+    "ad": "KAYABAŞI",
+    "lat": 41.14924,
+    "lon": 28.78522
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAŞAKŞEHİR",
+    "mahalle": "ŞAHİNTEPE",
+    "ad": "ŞAHİNTEPE",
+    "lat": 41.10691,
+    "lon": 28.73407
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAŞAKŞEHİR",
+    "mahalle": "ZİYA GÖKALP",
+    "ad": "ZİYA GÖKALP",
+    "lat": 41.09545,
+    "lon": 28.76706
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAYRAMPAŞA",
+    "mahalle": "ALTINTEPSİ",
+    "ad": "ALTINTEPSİ",
+    "lat": 41.03726,
+    "lon": 28.90556
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAYRAMPAŞA",
+    "mahalle": "CEVATPAŞA",
+    "ad": "CEVATPAŞA",
+    "lat": 41.07511,
+    "lon": 28.88273
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAYRAMPAŞA",
+    "mahalle": "İSMET PAŞA",
+    "ad": "İSMET PAŞA",
+    "lat": 41.04396,
+    "lon": 28.91146
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAYRAMPAŞA",
+    "mahalle": "KARTALTEPE",
+    "ad": "KARTALTEPE",
+    "lat": 41.05992,
+    "lon": 28.90317
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAYRAMPAŞA",
+    "mahalle": "KOCATEPE",
+    "ad": "KOCATEPE",
+    "lat": 41.04244,
+    "lon": 28.8991
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAYRAMPAŞA",
+    "mahalle": "MURATPAŞA",
+    "ad": "MURATPAŞA",
+    "lat": 41.05102,
+    "lon": 28.91133
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAYRAMPAŞA",
+    "mahalle": "ORTA",
+    "ad": "ORTA",
+    "lat": 41.03565,
+    "lon": 28.91046
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAYRAMPAŞA",
+    "mahalle": "TERAZİDERE",
+    "ad": "TERAZİDERE",
+    "lat": 41.03636,
+    "lon": 28.90454
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAYRAMPAŞA",
+    "mahalle": "VATAN",
+    "ad": "VATAN",
+    "lat": 41.03457,
+    "lon": 28.90859
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAYRAMPAŞA",
+    "mahalle": "YENİDOĞAN",
+    "ad": "YENİDOĞAN",
+    "lat": 41.03505,
+    "lon": 28.9151
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BAYRAMPAŞA",
+    "mahalle": "YILDIRIM",
+    "ad": "YILDIRIM",
+    "lat": 41.06741,
+    "lon": 28.89699
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEŞİKTAŞ",
+    "mahalle": "ABBASAĞA",
+    "ad": "ABBASAĞA",
+    "lat": 41.05116,
+    "lon": 29.00808
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEŞİKTAŞ",
+    "mahalle": "AKAT",
+    "ad": "AKAT",
+    "lat": 41.07715,
+    "lon": 29.02263
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEŞİKTAŞ",
+    "mahalle": "ARNAVUTKÖY",
+    "ad": "ARNAVUTKÖY",
+    "lat": 41.07123,
+    "lon": 29.04524
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEŞİKTAŞ",
+    "mahalle": "BALMUMCU",
+    "ad": "BALMUMCU",
+    "lat": 41.05662,
+    "lon": 29.02054
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEŞİKTAŞ",
+    "mahalle": "BEBEK",
+    "ad": "BEBEK",
+    "lat": 41.08499,
+    "lon": 29.04682
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEŞİKTAŞ",
+    "mahalle": "CİHANNÜMA",
+    "ad": "CİHANNÜMA",
+    "lat": 41.05236,
+    "lon": 29.00891
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEŞİKTAŞ",
+    "mahalle": "DİKİLİTAŞ",
+    "ad": "DİKİLİTAŞ",
+    "lat": 41.05826,
+    "lon": 29.00893
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEŞİKTAŞ",
+    "mahalle": "ETİLER",
+    "ad": "ETİLER",
+    "lat": 41.08581,
+    "lon": 29.04181
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEŞİKTAŞ",
+    "mahalle": "GAYRETTEPE",
+    "ad": "GAYRETTEPE",
+    "lat": 41.0628,
+    "lon": 29.01179
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEŞİKTAŞ",
+    "mahalle": "KONAKLAR",
+    "ad": "KONAKLAR",
+    "lat": 41.10063,
+    "lon": 29.01883
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEŞİKTAŞ",
+    "mahalle": "KÜLTÜR",
+    "ad": "KÜLTÜR",
+    "lat": 41.0763,
+    "lon": 29.03329
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEŞİKTAŞ",
+    "mahalle": "LEVAZIM",
+    "ad": "LEVAZIM",
+    "lat": 41.06614,
+    "lon": 29.0227
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEŞİKTAŞ",
+    "mahalle": "LEVENT",
+    "ad": "LEVENT",
+    "lat": 41.07708,
+    "lon": 29.02235
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEŞİKTAŞ",
+    "mahalle": "MECİDİYE",
+    "ad": "MECİDİYE",
+    "lat": 41.04705,
+    "lon": 29.02728
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEŞİKTAŞ",
+    "mahalle": "MURADİYE",
+    "ad": "MURADİYE",
+    "lat": 41.04911,
+    "lon": 29.00078
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEŞİKTAŞ",
+    "mahalle": "NİSBETİYE",
+    "ad": "NİSBETİYE",
+    "lat": 41.0701,
+    "lon": 29.02981
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEŞİKTAŞ",
+    "mahalle": "ORTAKÖY",
+    "ad": "ORTAKÖY",
+    "lat": 41.06095,
+    "lon": 29.03098
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEŞİKTAŞ",
+    "mahalle": "SİNANPAŞA",
+    "ad": "SİNANPAŞA",
+    "lat": 41.0424,
+    "lon": 29.00811
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEŞİKTAŞ",
+    "mahalle": "TÜRKALİ",
+    "ad": "TÜRKALİ",
+    "lat": 41.0469,
+    "lon": 29.00334
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEŞİKTAŞ",
+    "mahalle": "ULUS",
+    "ad": "ULUS",
+    "lat": 41.065,
+    "lon": 29.03068
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEŞİKTAŞ",
+    "mahalle": "VİŞNEZADE",
+    "ad": "VİŞNEZADE",
+    "lat": 41.04564,
+    "lon": 29.00029
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEŞİKTAŞ",
+    "mahalle": "YILDIZ",
+    "ad": "YILDIZ",
+    "lat": 41.04857,
+    "lon": 29.02072
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "ACARLAR",
+    "ad": "ACARLAR",
+    "lat": 41.12184,
+    "lon": 29.14591
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "AKBABA",
+    "ad": "AKBABA",
+    "lat": 41.1735,
+    "lon": 29.1229
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "ALİBAHADIR",
+    "ad": "ALİBAHADIR",
+    "lat": 41.21189,
+    "lon": 29.22598
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "ANADOLUFENERİ",
+    "ad": "ANADOLUFENERİ",
+    "lat": 41.22489,
+    "lon": 29.16939
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "ANADOLU HİSARI",
+    "ad": "ANADOLU HİSARI",
+    "lat": 41.09403,
+    "lon": 29.06704
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "ANADOLU KAVAĞI",
+    "ad": "ANADOLU KAVAĞI",
+    "lat": 41.18498,
+    "lon": 29.11433
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "BAKLACI",
+    "ad": "BAKLACI",
+    "lat": 41.07629,
+    "lon": 29.11242
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "BOZHANE",
+    "ad": "BOZHANE",
+    "lat": 41.21679,
+    "lon": 29.31914
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "CUMHURİYET",
+    "ad": "CUMHURİYET",
+    "lat": 41.14453,
+    "lon": 29.26196
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "ÇAMLIBAHÇE",
+    "ad": "ÇAMLIBAHÇE",
+    "lat": 41.15145,
+    "lon": 29.08455
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "ÇENGELDERE",
+    "ad": "ÇENGELDERE",
+    "lat": 41.10587,
+    "lon": 29.15447
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "ÇİFTLİK",
+    "ad": "ÇİFTLİK",
+    "lat": 41.09262,
+    "lon": 29.14452
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "ÇİĞDEM",
+    "ad": "ÇİĞDEM",
+    "lat": 41.1137,
+    "lon": 29.1032
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "ÇUBUKLU",
+    "ad": "ÇUBUKLU",
+    "lat": 41.10955,
+    "lon": 29.08417
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "DERESEKİ",
+    "ad": "DERESEKİ",
+    "lat": 41.17363,
+    "lon": 29.17153
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "ELMALI",
+    "ad": "ELMALI",
+    "lat": 41.14811,
+    "lon": 29.11999
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "FATİH",
+    "ad": "FATİH",
+    "lat": 41.0974,
+    "lon": 29.12182
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "GÖKSU",
+    "ad": "GÖKSU",
+    "lat": 41.08157,
+    "lon": 29.07312
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "GÖLLÜ",
+    "ad": "GÖLLÜ",
+    "lat": 41.22301,
+    "lon": 29.28806
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "GÖRELE",
+    "ad": "GÖRELE",
+    "lat": 41.1201,
+    "lon": 29.15365
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "GÖZTEPE",
+    "ad": "GÖZTEPE",
+    "lat": 41.08828,
+    "lon": 29.08973
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "GÜMÜŞSUYU",
+    "ad": "GÜMÜŞSUYU",
+    "lat": 41.13171,
+    "lon": 29.10898
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "İNCİRKÖY",
+    "ad": "İNCİRKÖY",
+    "lat": 41.12507,
+    "lon": 29.13651
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "İSHAKLI",
+    "ad": "İSHAKLI",
+    "lat": 41.15027,
+    "lon": 29.31991
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "KANLICA",
+    "ad": "KANLICA",
+    "lat": 41.10569,
+    "lon": 29.07164
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "KAVACIK",
+    "ad": "KAVACIK",
+    "lat": 41.09553,
+    "lon": 29.08567
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "KAYNARCA",
+    "ad": "KAYNARCA",
+    "lat": 41.1825,
+    "lon": 29.15989
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "KILIÇLI",
+    "ad": "KILIÇLI",
+    "lat": 41.1833,
+    "lon": 29.32036
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "MAHMUTŞEVKETPAŞA",
+    "ad": "MAHMUTŞEVKETPAŞA",
+    "lat": 41.17974,
+    "lon": 29.19878
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "MERKEZ",
+    "ad": "MERKEZ",
+    "lat": 41.14446,
+    "lon": 29.10164
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "ORTAÇEŞME",
+    "ad": "ORTAÇEŞME",
+    "lat": 41.14909,
+    "lon": 29.09331
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "ÖĞÜMCE",
+    "ad": "ÖĞÜMCE",
+    "lat": 41.18441,
+    "lon": 29.26967
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "ÖRNEKKÖY",
+    "ad": "ÖRNEKKÖY",
+    "lat": 41.15144,
+    "lon": 29.17506
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "PAŞABAHÇE",
+    "ad": "PAŞABAHÇE",
+    "lat": 41.11957,
+    "lon": 29.09711
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "PAŞAMANDIRA",
+    "ad": "PAŞAMANDIRA",
+    "lat": 41.19536,
+    "lon": 29.23125
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "POLONEZKÖY",
+    "ad": "POLONEZKÖY",
+    "lat": 41.13732,
+    "lon": 29.21709
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "POYRAZKÖY",
+    "ad": "POYRAZKÖY",
+    "lat": 41.21222,
+    "lon": 29.14476
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "RİVA",
+    "ad": "RİVA",
+    "lat": 41.23449,
+    "lon": 29.25669
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "RÜZGARLIBAHÇE",
+    "ad": "RÜZGARLIBAHÇE",
+    "lat": 41.10299,
+    "lon": 29.10082
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "SOĞUKSU",
+    "ad": "SOĞUKSU",
+    "lat": 41.11706,
+    "lon": 29.11867
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "TOKATKÖY",
+    "ad": "TOKATKÖY",
+    "lat": 41.17547,
+    "lon": 29.11402
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "YALIKÖY",
+    "ad": "YALIKÖY",
+    "lat": 41.14676,
+    "lon": 29.07377
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "YAVUZ SELİM",
+    "ad": "YAVUZ SELİM",
+    "lat": 41.0977,
+    "lon": 29.17224
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "YENİ MAHALLE",
+    "ad": "YENİ MAHALLE",
+    "lat": 41.07505,
+    "lon": 29.08161
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYKOZ",
+    "mahalle": "ZERZAVATÇI",
+    "ad": "ZERZAVATÇI",
+    "lat": 41.14451,
+    "lon": 29.17463
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYLİKDÜZÜ",
+    "mahalle": "ADNAN KAHVECİ",
+    "ad": "ADNAN KAHVECİ",
+    "lat": 40.9921,
+    "lon": 28.64302
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYLİKDÜZÜ",
+    "mahalle": "BARIŞ",
+    "ad": "BARIŞ",
+    "lat": 40.99387,
+    "lon": 28.65415
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYLİKDÜZÜ",
+    "mahalle": "BEYLİKDÜZÜOSB",
+    "ad": "BEYLİKDÜZÜOSB",
+    "lat": 41.00382,
+    "lon": 28.66661
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYLİKDÜZÜ",
+    "mahalle": "BÜYÜKŞEHİR",
+    "ad": "BÜYÜKŞEHİR",
+    "lat": 41.00108,
+    "lon": 28.64691
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYLİKDÜZÜ",
+    "mahalle": "CUMHURİYET",
+    "ad": "CUMHURİYET",
+    "lat": 41.00408,
+    "lon": 28.64359
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYLİKDÜZÜ",
+    "mahalle": "DEREAĞZI",
+    "ad": "DEREAĞZI",
+    "lat": 40.99066,
+    "lon": 28.61509
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYLİKDÜZÜ",
+    "mahalle": "GÜRPINAR",
+    "ad": "GÜRPINAR",
+    "lat": 40.99734,
+    "lon": 28.60186
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYLİKDÜZÜ",
+    "mahalle": "KAVAKLI",
+    "ad": "KAVAKLI",
+    "lat": 40.9849,
+    "lon": 28.6661
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYLİKDÜZÜ",
+    "mahalle": "MARMARA",
+    "ad": "MARMARA",
+    "lat": 40.98502,
+    "lon": 28.67186
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYLİKDÜZÜ",
+    "mahalle": "SAHİL",
+    "ad": "SAHİL",
+    "lat": 40.98009,
+    "lon": 28.64929
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYLİKDÜZÜ",
+    "mahalle": "YAKUPLU",
+    "ad": "YAKUPLU",
+    "lat": 41.00867,
+    "lon": 28.65914
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "ARAP CAMİ",
+    "ad": "ARAP CAMİ",
+    "lat": 41.02493,
+    "lon": 28.9719
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "ASMALI MESCİT",
+    "ad": "ASMALI MESCİT",
+    "lat": 41.03355,
+    "lon": 28.97724
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "BEDRETTİN",
+    "ad": "BEDRETTİN",
+    "lat": 41.03107,
+    "lon": 28.97287
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "BEREKETZADE",
+    "ad": "BEREKETZADE",
+    "lat": 41.02616,
+    "lon": 28.97478
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "BOSTAN",
+    "ad": "BOSTAN",
+    "lat": 41.03909,
+    "lon": 28.97806
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "BÜLBÜL",
+    "ad": "BÜLBÜL",
+    "lat": 41.0384,
+    "lon": 28.98241
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "CAMİİKEBİR",
+    "ad": "CAMİİKEBİR",
+    "lat": 41.03716,
+    "lon": 28.95733
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "CİHANGİR",
+    "ad": "CİHANGİR",
+    "lat": 41.03269,
+    "lon": 28.98804
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "ÇATMA MESCİT",
+    "ad": "ÇATMA MESCİT",
+    "lat": 41.03333,
+    "lon": 28.97453
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "ÇUKUR",
+    "ad": "ÇUKUR",
+    "lat": 41.03715,
+    "lon": 28.97938
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "EVLİYA ÇELEBİ",
+    "ad": "EVLİYA ÇELEBİ",
+    "lat": 41.03326,
+    "lon": 28.97522
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "FETİHTEPE",
+    "ad": "FETİHTEPE",
+    "lat": 41.04619,
+    "lon": 28.95848
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "FİRUZAĞA",
+    "ad": "FİRUZAĞA",
+    "lat": 41.03125,
+    "lon": 28.98256
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "GÜMÜŞSUYU",
+    "ad": "GÜMÜŞSUYU",
+    "lat": 41.03922,
+    "lon": 28.99021
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "HACIAHMET",
+    "ad": "HACIAHMET",
+    "lat": 41.04565,
+    "lon": 28.97585
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "HACIMİMİ",
+    "ad": "HACIMİMİ",
+    "lat": 41.02761,
+    "lon": 28.9804
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "HALICIOĞLU",
+    "ad": "HALICIOĞLU",
+    "lat": 41.05288,
+    "lon": 28.9543
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "HÜSEYİNAĞA",
+    "ad": "HÜSEYİNAĞA",
+    "lat": 41.03485,
+    "lon": 28.98059
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "İSTİKLAL",
+    "ad": "İSTİKLAL",
+    "lat": 41.04484,
+    "lon": 28.97103
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "KADIMEHMET EFENDİ",
+    "ad": "KADIMEHMET EFENDİ",
+    "lat": 41.0358,
+    "lon": 28.96501
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "KALYONCU KULLUĞU",
+    "ad": "KALYONCU KULLUĞU",
+    "lat": 41.03785,
+    "lon": 28.97662
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "KAMER HATUN",
+    "ad": "KAMER HATUN",
+    "lat": 41.03581,
+    "lon": 28.97723
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "KAPTANPAŞA",
+    "ad": "KAPTANPAŞA",
+    "lat": 41.04533,
+    "lon": 28.96584
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "KATİPMUSTAFA ÇELEBİ",
+    "ad": "KATİPMUSTAFA ÇELEBİ",
+    "lat": 41.0357,
+    "lon": 28.98477
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "KEÇECİ PİRİ",
+    "ad": "KEÇECİ PİRİ",
+    "lat": 41.04404,
+    "lon": 28.95885
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "KEMANKEŞ KARAMUSTAFAPAŞA",
+    "ad": "KEMANKEŞ KARAMUSTAFAPAŞA",
+    "lat": 41.02523,
+    "lon": 28.98224
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "KILIÇALİ PAŞA",
+    "ad": "KILIÇALİ PAŞA",
+    "lat": 41.03061,
+    "lon": 28.98522
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "KOCATEPE",
+    "ad": "KOCATEPE",
+    "lat": 41.04079,
+    "lon": 28.98644
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "KULAKSIZ",
+    "ad": "KULAKSIZ",
+    "lat": 41.03807,
+    "lon": 28.96357
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "KULOĞLU",
+    "ad": "KULOĞLU",
+    "lat": 41.03248,
+    "lon": 28.98343
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "KÜÇÜK PİYALE",
+    "ad": "KÜÇÜK PİYALE",
+    "lat": 41.03823,
+    "lon": 28.97114
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "MÜEYYETZADE",
+    "ad": "MÜEYYETZADE",
+    "lat": 41.0247,
+    "lon": 28.97791
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "ÖMER AVNİ",
+    "ad": "ÖMER AVNİ",
+    "lat": 41.03654,
+    "lon": 28.99551
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "ÖRNEKTEPE",
+    "ad": "ÖRNEKTEPE",
+    "lat": 41.06343,
+    "lon": 28.94936
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "PİRİPAŞA",
+    "ad": "PİRİPAŞA",
+    "lat": 41.0459,
+    "lon": 28.95375
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "PİYALEPAŞA",
+    "ad": "PİYALEPAŞA",
+    "lat": 41.04749,
+    "lon": 28.96806
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "PÜRTELAŞ HASAN EFENDİ",
+    "ad": "PÜRTELAŞ HASAN EFENDİ",
+    "lat": 41.03102,
+    "lon": 28.9901
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "SURURİ MEHMET EFENDİ",
+    "ad": "SURURİ MEHMET EFENDİ",
+    "lat": 41.03812,
+    "lon": 28.97455
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "SÜTLÜCE",
+    "ad": "SÜTLÜCE",
+    "lat": 41.05429,
+    "lon": 28.95032
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "ŞAHKULU",
+    "ad": "ŞAHKULU",
+    "lat": 41.02807,
+    "lon": 28.97732
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "ŞEHİT MUHTAR",
+    "ad": "ŞEHİT MUHTAR",
+    "lat": 41.03621,
+    "lon": 28.98436
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "TOMTOM",
+    "ad": "TOMTOM",
+    "lat": 41.03165,
+    "lon": 28.97857
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "YAHYA KAHYA",
+    "ad": "YAHYA KAHYA",
+    "lat": 41.03404,
+    "lon": 28.97435
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BEYOĞLU",
+    "mahalle": "YENİŞEHİR",
+    "ad": "YENİŞEHİR",
+    "lat": 41.04216,
+    "lon": 28.98079
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BÜYÜKÇEKMECE",
+    "mahalle": "19 MAYIS",
+    "ad": "19 MAYIS",
+    "lat": 41.06052,
+    "lon": 28.6027
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BÜYÜKÇEKMECE",
+    "mahalle": "AHMEDİYE",
+    "ad": "AHMEDİYE",
+    "lat": 41.10756,
+    "lon": 28.52361
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BÜYÜKÇEKMECE",
+    "mahalle": "ALKENT 2000",
+    "ad": "ALKENT 2000",
+    "lat": 41.09171,
+    "lon": 28.61869
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BÜYÜKÇEKMECE",
+    "mahalle": "ATATÜRK",
+    "ad": "ATATÜRK",
+    "lat": 41.01771,
+    "lon": 28.6005
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BÜYÜKÇEKMECE",
+    "mahalle": "BAHÇELİEVLER",
+    "ad": "BAHÇELİEVLER",
+    "lat": 41.03655,
+    "lon": 28.50036
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BÜYÜKÇEKMECE",
+    "mahalle": "CELALİYE",
+    "ad": "CELALİYE",
+    "lat": 41.08389,
+    "lon": 28.40613
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BÜYÜKÇEKMECE",
+    "mahalle": "CUMHURİYET",
+    "ad": "CUMHURİYET",
+    "lat": 41.03393,
+    "lon": 28.62306
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BÜYÜKÇEKMECE",
+    "mahalle": "ÇAKMAKLI",
+    "ad": "ÇAKMAKLI",
+    "lat": 41.06737,
+    "lon": 28.61946
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BÜYÜKÇEKMECE",
+    "mahalle": "DİZDARİYE",
+    "ad": "DİZDARİYE",
+    "lat": 41.02078,
+    "lon": 28.58192
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BÜYÜKÇEKMECE",
+    "mahalle": "EKİNOBA",
+    "ad": "EKİNOBA",
+    "lat": 41.00755,
+    "lon": 28.5524
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BÜYÜKÇEKMECE",
+    "mahalle": "FATİH",
+    "ad": "FATİH",
+    "lat": 41.02614,
+    "lon": 28.61197
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BÜYÜKÇEKMECE",
+    "mahalle": "GÜZELCE",
+    "ad": "GÜZELCE",
+    "lat": 41.02159,
+    "lon": 28.51344
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BÜYÜKÇEKMECE",
+    "mahalle": "HÜRRİYET",
+    "ad": "HÜRRİYET",
+    "lat": 41.07052,
+    "lon": 28.51712
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BÜYÜKÇEKMECE",
+    "mahalle": "KAMİLOBA",
+    "ad": "KAMİLOBA",
+    "lat": 41.07645,
+    "lon": 28.44413
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BÜYÜKÇEKMECE",
+    "mahalle": "KARAAĞAÇ",
+    "ad": "KARAAĞAÇ",
+    "lat": 41.12747,
+    "lon": 28.59399
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BÜYÜKÇEKMECE",
+    "mahalle": "KUMBURGAZ",
+    "ad": "KUMBURGAZ",
+    "lat": 41.04373,
+    "lon": 28.47356
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BÜYÜKÇEKMECE",
+    "mahalle": "MİMAROBA",
+    "ad": "MİMAROBA",
+    "lat": 41.00151,
+    "lon": 28.54473
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BÜYÜKÇEKMECE",
+    "mahalle": "MİMARSİNAN",
+    "ad": "MİMARSİNAN",
+    "lat": 41.02501,
+    "lon": 28.57194
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BÜYÜKÇEKMECE",
+    "mahalle": "MURAT ÇESME",
+    "ad": "MURAT ÇESME",
+    "lat": 41.02295,
+    "lon": 28.53412
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BÜYÜKÇEKMECE",
+    "mahalle": "PINARTEPE",
+    "ad": "PINARTEPE",
+    "lat": 41.01674,
+    "lon": 28.62658
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BÜYÜKÇEKMECE",
+    "mahalle": "SİNANOBA",
+    "ad": "SİNANOBA",
+    "lat": 40.99778,
+    "lon": 28.54625
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BÜYÜKÇEKMECE",
+    "mahalle": "TÜRKOBA",
+    "ad": "TÜRKOBA",
+    "lat": 41.06689,
+    "lon": 28.51246
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BÜYÜKÇEKMECE",
+    "mahalle": "ULUS",
+    "ad": "ULUS",
+    "lat": 41.06384,
+    "lon": 28.54521
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "BÜYÜKÇEKMECE",
+    "mahalle": "YENİMAHALLE",
+    "ad": "YENİMAHALLE",
+    "lat": 41.03281,
+    "lon": 28.48013
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "AKALAN",
+    "ad": "AKALAN",
+    "lat": 41.28163,
+    "lon": 28.40082
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "ATATÜRK",
+    "ad": "ATATÜRK",
+    "lat": 41.41394,
+    "lon": 28.16205
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "AYDINLAR",
+    "ad": "AYDINLAR",
+    "lat": 41.39697,
+    "lon": 28.20502
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "BAHŞAYİŞ",
+    "ad": "BAHŞAYİŞ",
+    "lat": 41.13685,
+    "lon": 28.57066
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "BAŞAK",
+    "ad": "BAŞAK",
+    "lat": 41.33501,
+    "lon": 28.46905
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "BELGRAT",
+    "ad": "BELGRAT",
+    "lat": 41.38939,
+    "lon": 28.39161
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "CELEPKÖY",
+    "ad": "CELEPKÖY",
+    "lat": 41.38381,
+    "lon": 28.50105
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "ÇAKIL",
+    "ad": "ÇAKIL",
+    "lat": 41.13758,
+    "lon": 28.44216
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "ÇANAKÇA",
+    "ad": "ÇANAKÇA",
+    "lat": 41.27587,
+    "lon": 28.54342
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "ÇİFTLİKKÖY",
+    "ad": "ÇİFTLİKKÖY",
+    "lat": 41.38677,
+    "lon": 28.44024
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "DAĞYENİCE",
+    "ad": "DAĞYENİCE",
+    "lat": 41.2903,
+    "lon": 28.50749
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "ELBASAN",
+    "ad": "ELBASAN",
+    "lat": 41.18027,
+    "lon": 28.37557
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "FATİH",
+    "ad": "FATİH",
+    "lat": 41.5834,
+    "lon": 28.14637
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "FERHATPAŞA",
+    "ad": "FERHATPAŞA",
+    "lat": 41.15235,
+    "lon": 28.49243
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "FERHATPAŞA SB",
+    "ad": "FERHATPAŞA SB",
+    "lat": 41.13257,
+    "lon": 28.48422
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "GÖKÇEALİ",
+    "ad": "GÖKÇEALİ",
+    "lat": 41.22572,
+    "lon": 28.43921
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "GÜMÜŞPINAR",
+    "ad": "GÜMÜŞPINAR",
+    "lat": 41.35122,
+    "lon": 28.29735
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "HALLAÇLI",
+    "ad": "HALLAÇLI",
+    "lat": 41.38464,
+    "lon": 28.10665
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "HİSARBEYLİ",
+    "ad": "HİSARBEYLİ",
+    "lat": 41.38906,
+    "lon": 28.48096
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "İHSANİYE",
+    "ad": "İHSANİYE",
+    "lat": 41.34215,
+    "lon": 28.34812
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "İNCEĞİZ",
+    "ad": "İNCEĞİZ",
+    "lat": 41.22973,
+    "lon": 28.41075
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "İZZETTİN",
+    "ad": "İZZETTİN",
+    "lat": 41.2027,
+    "lon": 28.51034
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "KABAKÇA",
+    "ad": "KABAKÇA",
+    "lat": 41.28433,
+    "lon": 28.3907
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "KALEİÇİ",
+    "ad": "KALEİÇİ",
+    "lat": 41.18909,
+    "lon": 28.45469
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "KALFA",
+    "ad": "KALFA",
+    "lat": 41.32022,
+    "lon": 28.43591
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "KARACAKÖY MERKEZ",
+    "ad": "KARACAKÖY MERKEZ",
+    "lat": 41.45466,
+    "lon": 28.37396
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "KARAMANDERE",
+    "ad": "KARAMANDERE",
+    "lat": 41.39954,
+    "lon": 28.28521
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "KESTANELİK",
+    "ad": "KESTANELİK",
+    "lat": 41.25158,
+    "lon": 28.47209
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "KIZILCAALİ",
+    "ad": "KIZILCAALİ",
+    "lat": 41.26034,
+    "lon": 28.54954
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "MURATBEY MERKEZ",
+    "ad": "MURATBEY MERKEZ",
+    "lat": 41.11431,
+    "lon": 28.49956
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "NAKKAŞ",
+    "ad": "NAKKAŞ",
+    "lat": 41.22984,
+    "lon": 28.57453
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "OKLALI",
+    "ad": "OKLALI",
+    "lat": 41.25377,
+    "lon": 28.46093
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "ORMANLI",
+    "ad": "ORMANLI",
+    "lat": 41.40813,
+    "lon": 28.4919
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "OVAYENİCE",
+    "ad": "OVAYENİCE",
+    "lat": 41.13417,
+    "lon": 28.39733
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "ÖRCÜNLÜ",
+    "ad": "ÖRCÜNLÜ",
+    "lat": 41.25467,
+    "lon": 28.5367
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "ÖRENCİK",
+    "ad": "ÖRENCİK",
+    "lat": 41.35015,
+    "lon": 28.51446
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "SUBAŞI",
+    "ad": "SUBAŞI",
+    "lat": 41.25469,
+    "lon": 28.4488
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "YALIKÖY",
+    "ad": "YALIKÖY",
+    "lat": 41.5246,
+    "lon": 28.22924
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "YAYLACIK",
+    "ad": "YAYLACIK",
+    "lat": 41.36505,
+    "lon": 28.20688
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇATALCA",
+    "mahalle": "YAZLIK",
+    "ad": "YAZLIK",
+    "lat": 41.32404,
+    "lon": 28.54409
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇEKMEKÖY",
+    "mahalle": "ALEMDAĞ",
+    "ad": "ALEMDAĞ",
+    "lat": 41.06574,
+    "lon": 29.24172
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇEKMEKÖY",
+    "mahalle": "AYDINLAR",
+    "ad": "AYDINLAR",
+    "lat": 41.01999,
+    "lon": 29.23482
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇEKMEKÖY",
+    "mahalle": "CUMHURİYET",
+    "ad": "CUMHURİYET",
+    "lat": 41.0213,
+    "lon": 29.23105
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇEKMEKÖY",
+    "mahalle": "ÇAMLIK",
+    "ad": "ÇAMLIK",
+    "lat": 41.02587,
+    "lon": 29.20602
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇEKMEKÖY",
+    "mahalle": "ÇATALMEŞE",
+    "ad": "ÇATALMEŞE",
+    "lat": 41.06962,
+    "lon": 29.26694
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇEKMEKÖY",
+    "mahalle": "EKŞİOĞLU",
+    "ad": "EKŞİOĞLU",
+    "lat": 41.0281,
+    "lon": 29.24975
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇEKMEKÖY",
+    "mahalle": "GÜNGÖREN",
+    "ad": "GÜNGÖREN",
+    "lat": 41.02354,
+    "lon": 29.22206
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇEKMEKÖY",
+    "mahalle": "HAMİDİYE",
+    "ad": "HAMİDİYE",
+    "lat": 41.03072,
+    "lon": 29.18616
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇEKMEKÖY",
+    "mahalle": "HÜSEYİNLİ",
+    "ad": "HÜSEYİNLİ",
+    "lat": 41.13256,
+    "lon": 29.28608
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇEKMEKÖY",
+    "mahalle": "KİRAZLIDERE",
+    "ad": "KİRAZLIDERE",
+    "lat": 41.02334,
+    "lon": 29.22155
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇEKMEKÖY",
+    "mahalle": "KOÇULLU",
+    "ad": "KOÇULLU",
+    "lat": 41.09384,
+    "lon": 29.39877
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇEKMEKÖY",
+    "mahalle": "MEHMET AKİF",
+    "ad": "MEHMET AKİF",
+    "lat": 41.02534,
+    "lon": 29.18134
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇEKMEKÖY",
+    "mahalle": "MERKEZ",
+    "ad": "MERKEZ",
+    "lat": 41.05894,
+    "lon": 29.21085
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇEKMEKÖY",
+    "mahalle": "MİMAR SİNAN",
+    "ad": "MİMAR SİNAN",
+    "lat": 41.03693,
+    "lon": 29.18836
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇEKMEKÖY",
+    "mahalle": "NİŞANTEPE",
+    "ad": "NİŞANTEPE",
+    "lat": 41.05274,
+    "lon": 29.29026
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇEKMEKÖY",
+    "mahalle": "REŞADİYE",
+    "ad": "REŞADİYE",
+    "lat": 41.11488,
+    "lon": 29.25258
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇEKMEKÖY",
+    "mahalle": "SIRAPINAR",
+    "ad": "SIRAPINAR",
+    "lat": 41.1218,
+    "lon": 29.36583
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇEKMEKÖY",
+    "mahalle": "SOĞUKPINAR",
+    "ad": "SOĞUKPINAR",
+    "lat": 41.02592,
+    "lon": 29.2387
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇEKMEKÖY",
+    "mahalle": "SULTANÇİFTLİĞİ",
+    "ad": "SULTANÇİFTLİĞİ",
+    "lat": 41.03538,
+    "lon": 29.21348
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ÇEKMEKÖY",
+    "mahalle": "TAŞDELEN",
+    "ad": "TAŞDELEN",
+    "lat": 41.0361,
+    "lon": 29.23262
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ESENLER",
+    "mahalle": "15 TEMMUZ",
+    "ad": "15 TEMMUZ",
+    "lat": 41.07553,
+    "lon": 28.87885
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ESENLER",
+    "mahalle": "BİRLİK",
+    "ad": "BİRLİK",
+    "lat": 41.0534,
+    "lon": 28.87495
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ESENLER",
+    "mahalle": "ÇİFTE HAVUZLAR",
+    "ad": "ÇİFTE HAVUZLAR",
+    "lat": 41.03114,
+    "lon": 28.89294
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ESENLER",
+    "mahalle": "DAVUTPAŞA",
+    "ad": "DAVUTPAŞA",
+    "lat": 41.03396,
+    "lon": 28.89483
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ESENLER",
+    "mahalle": "FATİH",
+    "ad": "FATİH",
+    "lat": 41.04518,
+    "lon": 28.86859
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ESENLER",
+    "mahalle": "FEVZİ ÇAKMAK",
+    "ad": "FEVZİ ÇAKMAK",
+    "lat": 41.04552,
+    "lon": 28.88474
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ESENLER",
+    "mahalle": "HAVAALANI",
+    "ad": "HAVAALANI",
+    "lat": 41.06228,
+    "lon": 28.86876
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ESENLER",
+    "mahalle": "KAZIM KARABEKİR",
+    "ad": "KAZIM KARABEKİR",
+    "lat": 41.04765,
+    "lon": 28.87742
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ESENLER",
+    "mahalle": "KEMER",
+    "ad": "KEMER",
+    "lat": 41.0563,
+    "lon": 28.88599
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ESENLER",
+    "mahalle": "MENDERES",
+    "ad": "MENDERES",
+    "lat": 41.04424,
+    "lon": 28.87796
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ESENLER",
+    "mahalle": "MİMAR SİNAN",
+    "ad": "MİMAR SİNAN",
+    "lat": 41.03687,
+    "lon": 28.88631
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ESENLER",
+    "mahalle": "NAMIK KEMAL",
+    "ad": "NAMIK KEMAL",
+    "lat": 41.0317,
+    "lon": 28.8973
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ESENLER",
+    "mahalle": "NİNE HATUN",
+    "ad": "NİNE HATUN",
+    "lat": 41.03862,
+    "lon": 28.87954
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ESENLER",
+    "mahalle": "ORUÇREİS",
+    "ad": "ORUÇREİS",
+    "lat": 41.07473,
+    "lon": 28.86977
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ESENLER",
+    "mahalle": "TUNA",
+    "ad": "TUNA",
+    "lat": 41.05454,
+    "lon": 28.86071
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ESENLER",
+    "mahalle": "TURGUT REİS",
+    "ad": "TURGUT REİS",
+    "lat": 41.06565,
+    "lon": 28.86266
+  },
+  {
+    "il": "İstanbul",
+    "ilce": "ESENLER",
+    "mahalle": "YAVUZ SELİM",
+    "ad": "YAVUZ SELİM",
+    "lat": 41.04155,
+    "lon": 28.88609
+  }
+]

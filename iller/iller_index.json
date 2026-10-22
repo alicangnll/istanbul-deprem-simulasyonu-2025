@@ -7,7 +7,11 @@
       37.2468,
       35.5554
     ],
-    "file": "iller/adana/toplanma_alanlari.json"
+    "file": "iller/adana/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Adana İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "adiyaman",
@@ -17,7 +21,11 @@
       37.8123,
       38.3637
     ],
-    "file": "iller/adiyaman/toplanma_alanlari.json"
+    "file": "iller/adiyaman/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Adıyaman İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "afyonkarahisar",
@@ -27,7 +35,11 @@
       38.6042,
       30.576
     ],
-    "file": "iller/afyonkarahisar/toplanma_alanlari.json"
+    "file": "iller/afyonkarahisar/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Afyonkarahisar İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "aksaray",
@@ -37,7 +49,11 @@
       38.5122,
       33.9971
     ],
-    "file": "iller/aksaray/toplanma_alanlari.json"
+    "file": "iller/aksaray/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Aksaray İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "amasya",
@@ -47,7 +63,11 @@
       40.7427,
       35.7523
     ],
-    "file": "iller/amasya/toplanma_alanlari.json"
+    "file": "iller/amasya/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Amasya İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "ankara",
@@ -57,7 +77,11 @@
       39.938,
       32.6597
     ],
-    "file": "iller/ankara/toplanma_alanlari.json"
+    "file": "iller/ankara/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Ankara İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "antalya",
@@ -67,7 +91,11 @@
       36.7949,
       30.9745
     ],
-    "file": "iller/antalya/toplanma_alanlari.json"
+    "file": "iller/antalya/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Antalya İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "ardahan",
@@ -77,7 +105,11 @@
       41.216,
       42.7876
     ],
-    "file": "iller/ardahan/toplanma_alanlari.json"
+    "file": "iller/ardahan/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Ardahan İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "artvin",
@@ -87,7 +119,11 @@
       41.1133,
       41.851
     ],
-    "file": "iller/artvin/toplanma_alanlari.json"
+    "file": "iller/artvin/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Artvin İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "aydin",
@@ -97,7 +133,11 @@
       37.8006,
       28.026
     ],
-    "file": "iller/aydin/toplanma_alanlari.json"
+    "file": "iller/aydin/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Aydın İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "agri",
@@ -107,7 +147,11 @@
       39.528,
       43.2034
     ],
-    "file": "iller/agri/toplanma_alanlari.json"
+    "file": "iller/agri/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Ağrı İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "balikesir",
@@ -117,7 +161,11 @@
       39.7104,
       27.8363
     ],
-    "file": "iller/balikesir/toplanma_alanlari.json"
+    "file": "iller/balikesir/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Balıkesir İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "bartin",
@@ -127,7 +175,11 @@
       41.5867,
       32.4702
     ],
-    "file": "iller/bartin/toplanma_alanlari.json"
+    "file": "iller/bartin/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Bartın İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "batman",
@@ -137,7 +189,11 @@
       38.0672,
       41.3766
     ],
-    "file": "iller/batman/toplanma_alanlari.json"
+    "file": "iller/batman/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Batman İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "bayburt",
@@ -147,7 +203,11 @@
       40.2826,
       40.1935
     ],
-    "file": "iller/bayburt/toplanma_alanlari.json"
+    "file": "iller/bayburt/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Bayburt İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "bilecik",
@@ -157,7 +217,11 @@
       40.1414,
       30.1108
     ],
-    "file": "iller/bilecik/toplanma_alanlari.json"
+    "file": "iller/bilecik/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Bilecik İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "bingol",
@@ -167,7 +231,11 @@
       38.9537,
       40.6439
     ],
-    "file": "iller/bingol/toplanma_alanlari.json"
+    "file": "iller/bingol/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Bingöl İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "bitlis",
@@ -177,7 +245,11 @@
       38.4143,
       42.2796
     ],
-    "file": "iller/bitlis/toplanma_alanlari.json"
+    "file": "iller/bitlis/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Bitlis İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "bolu",
@@ -187,7 +259,11 @@
       40.6765,
       31.7561
     ],
-    "file": "iller/bolu/toplanma_alanlari.json"
+    "file": "iller/bolu/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Bolu İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "burdur",
@@ -197,17 +273,25 @@
       37.4316,
       30.1116
     ],
-    "file": "iller/burdur/toplanma_alanlari.json"
+    "file": "iller/burdur/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Burdur İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "bursa",
     "name": "Bursa",
     "count": 1045,
     "center": [
-      40.1477,
-      29.0526
+      40.1885,
+      29.061
     ],
-    "file": "iller/bursa/toplanma_alanlari.json"
+    "file": "iller/bursa/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Bursa İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "denizli",
@@ -217,7 +301,11 @@
       37.7983,
       29.2129
     ],
-    "file": "iller/denizli/toplanma_alanlari.json"
+    "file": "iller/denizli/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Denizli İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "diyarbakir",
@@ -227,7 +315,11 @@
       38.1054,
       40.3092
     ],
-    "file": "iller/diyarbakir/toplanma_alanlari.json"
+    "file": "iller/diyarbakir/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Diyarbakır İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "duzce",
@@ -237,7 +329,11 @@
       40.8703,
       31.1655
     ],
-    "file": "iller/duzce/toplanma_alanlari.json"
+    "file": "iller/duzce/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Düzce İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "edirne",
@@ -247,7 +343,11 @@
       41.2764,
       26.6112
     ],
-    "file": "iller/edirne/toplanma_alanlari.json"
+    "file": "iller/edirne/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Edirne İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "elazig",
@@ -257,7 +357,11 @@
       38.6408,
       39.3098
     ],
-    "file": "iller/elazig/toplanma_alanlari.json"
+    "file": "iller/elazig/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Elazığ İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "erzincan",
@@ -267,7 +371,11 @@
       39.691,
       39.3658
     ],
-    "file": "iller/erzincan/toplanma_alanlari.json"
+    "file": "iller/erzincan/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Erzincan İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "erzurum",
@@ -277,7 +385,11 @@
       40.0728,
       41.5757
     ],
-    "file": "iller/erzurum/toplanma_alanlari.json"
+    "file": "iller/erzurum/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Erzurum İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "eskisehir",
@@ -287,7 +399,11 @@
       39.6554,
       30.9414
     ],
-    "file": "iller/eskisehir/toplanma_alanlari.json"
+    "file": "iller/eskisehir/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Eskişehir İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "gaziantep",
@@ -297,7 +413,11 @@
       37.0735,
       37.4033
     ],
-    "file": "iller/gaziantep/toplanma_alanlari.json"
+    "file": "iller/gaziantep/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Gaziantep İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "giresun",
@@ -307,7 +427,11 @@
       40.7939,
       38.6128
     ],
-    "file": "iller/giresun/toplanma_alanlari.json"
+    "file": "iller/giresun/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Giresun İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "gumushane",
@@ -317,7 +441,11 @@
       40.4679,
       39.3553
     ],
-    "file": "iller/gumushane/toplanma_alanlari.json"
+    "file": "iller/gumushane/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Gümüşhane İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "hakkari",
@@ -327,17 +455,25 @@
       37.4969,
       44.1343
     ],
-    "file": "iller/hakkari/toplanma_alanlari.json"
+    "file": "iller/hakkari/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Hakkari İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "hatay",
     "name": "Hatay",
     "count": 1041,
     "center": [
-      36.3451,
-      36.2487
+      36.2023,
+      36.1606
     ],
-    "file": "iller/hatay/toplanma_alanlari.json"
+    "file": "iller/hatay/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Hatay İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "isparta",
@@ -347,7 +483,11 @@
       37.9744,
       30.8939
     ],
-    "file": "iller/isparta/toplanma_alanlari.json"
+    "file": "iller/isparta/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Isparta İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "igdir",
@@ -357,17 +497,25 @@
       39.9395,
       43.8852
     ],
-    "file": "iller/igdir/toplanma_alanlari.json"
+    "file": "iller/igdir/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Iğdır İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "kahramanmaras",
     "name": "Kahramanmaraş",
     "count": 163,
     "center": [
-      37.7286,
-      37.04
+      37.5858,
+      36.9372
     ],
-    "file": "iller/kahramanmaras/toplanma_alanlari.json"
+    "file": "iller/kahramanmaras/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Kahramanmaraş İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "kayseri",
@@ -377,7 +525,11 @@
       38.5814,
       36.4508
     ],
-    "file": "iller/kayseri/toplanma_alanlari.json"
+    "file": "iller/kayseri/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Kayseri İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "kilis",
@@ -387,17 +539,25 @@
       36.7188,
       37.1358
     ],
-    "file": "iller/kilis/toplanma_alanlari.json"
+    "file": "iller/kilis/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Kilis İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "kocaeli",
     "name": "Kocaeli",
     "count": 338,
     "center": [
-      40.7645,
-      29.7437
+      40.7654,
+      29.9406
     ],
-    "file": "iller/kocaeli/toplanma_alanlari.json"
+    "file": "iller/kocaeli/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Kocaeli İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "konya",
@@ -407,7 +567,11 @@
       37.9491,
       32.5063
     ],
-    "file": "iller/konya/toplanma_alanlari.json"
+    "file": "iller/konya/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Konya İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "malatya",
@@ -417,7 +581,11 @@
       38.5728,
       38.039
     ],
-    "file": "iller/malatya/toplanma_alanlari.json"
+    "file": "iller/malatya/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Malatya İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "manisa",
@@ -427,7 +595,11 @@
       38.6384,
       28.0205
     ],
-    "file": "iller/manisa/toplanma_alanlari.json"
+    "file": "iller/manisa/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Manisa İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "ordu",
@@ -437,7 +609,11 @@
       40.8481,
       37.8444
     ],
-    "file": "iller/ordu/toplanma_alanlari.json"
+    "file": "iller/ordu/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Ordu İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "osmaniye",
@@ -447,7 +623,11 @@
       37.2637,
       36.603
     ],
-    "file": "iller/osmaniye/toplanma_alanlari.json"
+    "file": "iller/osmaniye/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Osmaniye İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "sakarya",
@@ -457,7 +637,11 @@
       40.7539,
       30.4648
     ],
-    "file": "iller/sakarya/toplanma_alanlari.json"
+    "file": "iller/sakarya/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Sakarya İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "sivas",
@@ -467,7 +651,11 @@
       39.6578,
       37.4736
     ],
-    "file": "iller/sivas/toplanma_alanlari.json"
+    "file": "iller/sivas/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Sivas İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "tokat",
@@ -477,7 +665,11 @@
       40.3722,
       36.9105
     ],
-    "file": "iller/tokat/toplanma_alanlari.json"
+    "file": "iller/tokat/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Tokat İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "canakkale",
@@ -487,7 +679,11 @@
       40.002,
       26.744
     ],
-    "file": "iller/canakkale/toplanma_alanlari.json"
+    "file": "iller/canakkale/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Çanakkale İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "cankiri",
@@ -497,7 +693,11 @@
       40.7616,
       33.3921
     ],
-    "file": "iller/cankiri/toplanma_alanlari.json"
+    "file": "iller/cankiri/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Çankırı İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "corum",
@@ -507,27 +707,42 @@
       40.6812,
       34.6605
     ],
-    "file": "iller/corum/toplanma_alanlari.json"
+    "file": "iller/corum/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Çorum İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
-    "slug": "i-stanbul",
+    "slug": "istanbul",
     "name": "İstanbul",
     "count": 357,
     "center": [
       41.0962,
       28.8578
     ],
-    "file": "iller/i-stanbul/toplanma_alanlari.json"
+    "file": "iller/istanbul/toplanma_alanlari.json",
+    "has_simulation": true,
+    "scenario_name": "İBB 7.5 Mw Gece Senaryosu",
+    "deprem_file": "iller/istanbul/deprem.json",
+    "coord_file": "iller/istanbul/ilce.json",
+    "source_name": "İBB Açık Veri Portalı (7.5 Mw Analizi)",
+    "source_url": "https://data.ibb.gov.tr/dataset/deprem-senaryosu-analiz-sonuclari/resource/9c3ac492-de4b-4245-b418-7ad3df67a193",
+    "source_desc": "İstanbul Büyükşehir Belediyesi (İBB) 7.5 Mw Olası Gece Depremi Senaryosu Analiz Sonuçları ve İlçe Bazlı Bina Hasar / Can Kaybı Tahmin Raporu."
   },
   {
-    "slug": "i-zmir",
+    "slug": "izmir",
     "name": "İzmir",
     "count": 2380,
     "center": [
       38.4383,
       27.2242
     ],
-    "file": "iller/i-zmir/toplanma_alanlari.json"
+    "file": "iller/izmir/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD İzmir İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   },
   {
     "slug": "sanliurfa",
@@ -537,6 +752,10 @@
       37.1623,
       38.3195
     ],
-    "file": "iller/sanliurfa/toplanma_alanlari.json"
+    "file": "iller/sanliurfa/toplanma_alanlari.json",
+    "has_simulation": false,
+    "source_name": "e-Devlet / AFAD Acil Toplanma Alanı Sorgulama",
+    "source_url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "source_desc": "T.C. İçişleri Bakanlığı AFAD Şanlıurfa İli Resmi Afet ve Acil Durum Toplanma Alanları Veritabanı."
   }
 ]
