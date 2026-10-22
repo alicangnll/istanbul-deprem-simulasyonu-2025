@@ -1,0 +1,1186 @@
+[
+  {
+    "il": "Muğla",
+    "ilce": "MENTEŞE",
+    "mahalle": "Emirbeyazıt",
+    "ad": "MENTEŞE Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.21179,
+    "lon": 28.36815
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MENTEŞE",
+    "mahalle": "Kötekli",
+    "ad": "MENTEŞE Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.22105,
+    "lon": 28.36841
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MENTEŞE",
+    "mahalle": "Muslihittin",
+    "ad": "MENTEŞE Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.22058,
+    "lon": 28.35836
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MENTEŞE",
+    "mahalle": "Orhaniye",
+    "ad": "MENTEŞE Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.21039,
+    "lon": 28.35912
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MENTEŞE",
+    "mahalle": "Karamehmet",
+    "ad": "MENTEŞE Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.21735,
+    "lon": 28.36139
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MENTEŞE",
+    "mahalle": "Şeyh",
+    "ad": "Şeyh Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.21568,
+    "lon": 28.35864
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MENTEŞE",
+    "mahalle": "Düğerek",
+    "ad": "Düğerek Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.22495,
+    "lon": 28.36537
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MENTEŞE",
+    "mahalle": "Emirbeyazıt",
+    "ad": "Emirbeyazıt Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 37.21552,
+    "lon": 28.36857
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MENTEŞE",
+    "mahalle": "Kötekli",
+    "ad": "Kötekli Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 37.21491,
+    "lon": 28.38178
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MENTEŞE",
+    "mahalle": "Muslihittin",
+    "ad": "Muslihittin Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 37.20757,
+    "lon": 28.36867
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MENTEŞE",
+    "mahalle": "Orhaniye",
+    "ad": "Orhaniye Mahallesi Parkı ve Açık Alanı",
+    "lat": 37.22294,
+    "lon": 28.35958
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MENTEŞE",
+    "mahalle": "Karamehmet",
+    "ad": "Karamehmet Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 37.2242,
+    "lon": 28.37957
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MENTEŞE",
+    "mahalle": "Şeyh",
+    "ad": "Şeyh Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 37.21614,
+    "lon": 28.36658
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MENTEŞE",
+    "mahalle": "Düğerek",
+    "ad": "Düğerek Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 37.22414,
+    "lon": 28.3578
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MENTEŞE",
+    "mahalle": "Emirbeyazıt",
+    "ad": "Emirbeyazıt Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 37.21631,
+    "lon": 28.36987
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MENTEŞE",
+    "mahalle": "Kötekli",
+    "ad": "Kötekli Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.21598,
+    "lon": 28.36581
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MENTEŞE",
+    "mahalle": "Muslihittin",
+    "ad": "Muslihittin Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.21598,
+    "lon": 28.35895
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MENTEŞE",
+    "mahalle": "Orhaniye",
+    "ad": "Orhaniye Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 37.22851,
+    "lon": 28.3497
+  },
+  {
+    "il": "Muğla",
+    "ilce": "BODRUM",
+    "mahalle": "Çarşı",
+    "ad": "BODRUM Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.03462,
+    "lon": 27.43282
+  },
+  {
+    "il": "Muğla",
+    "ilce": "BODRUM",
+    "mahalle": "Cevat Şakir",
+    "ad": "BODRUM Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.03877,
+    "lon": 27.4338
+  },
+  {
+    "il": "Muğla",
+    "ilce": "BODRUM",
+    "mahalle": "Turgutreis",
+    "ad": "BODRUM Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.03886,
+    "lon": 27.41492
+  },
+  {
+    "il": "Muğla",
+    "ilce": "BODRUM",
+    "mahalle": "Yalıkavak",
+    "ad": "BODRUM Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.04224,
+    "lon": 27.43388
+  },
+  {
+    "il": "Muğla",
+    "ilce": "BODRUM",
+    "mahalle": "Gümbet",
+    "ad": "BODRUM Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.03811,
+    "lon": 27.42449
+  },
+  {
+    "il": "Muğla",
+    "ilce": "BODRUM",
+    "mahalle": "Bitez",
+    "ad": "Bitez Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.02603,
+    "lon": 27.43802
+  },
+  {
+    "il": "Muğla",
+    "ilce": "BODRUM",
+    "mahalle": "Ortakent",
+    "ad": "Ortakent Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.03705,
+    "lon": 27.43959
+  },
+  {
+    "il": "Muğla",
+    "ilce": "BODRUM",
+    "mahalle": "Konacık",
+    "ad": "Konacık Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 37.03436,
+    "lon": 27.4217
+  },
+  {
+    "il": "Muğla",
+    "ilce": "BODRUM",
+    "mahalle": "Çarşı",
+    "ad": "Çarşı Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 37.03091,
+    "lon": 27.42663
+  },
+  {
+    "il": "Muğla",
+    "ilce": "BODRUM",
+    "mahalle": "Cevat Şakir",
+    "ad": "Cevat Şakir Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 37.03326,
+    "lon": 27.44162
+  },
+  {
+    "il": "Muğla",
+    "ilce": "BODRUM",
+    "mahalle": "Turgutreis",
+    "ad": "Turgutreis Mahallesi Parkı ve Açık Alanı",
+    "lat": 37.0269,
+    "lon": 27.43681
+  },
+  {
+    "il": "Muğla",
+    "ilce": "BODRUM",
+    "mahalle": "Yalıkavak",
+    "ad": "Yalıkavak Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 37.04226,
+    "lon": 27.43977
+  },
+  {
+    "il": "Muğla",
+    "ilce": "BODRUM",
+    "mahalle": "Gümbet",
+    "ad": "Gümbet Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 37.03412,
+    "lon": 27.42379
+  },
+  {
+    "il": "Muğla",
+    "ilce": "BODRUM",
+    "mahalle": "Bitez",
+    "ad": "Bitez Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 37.04841,
+    "lon": 27.44224
+  },
+  {
+    "il": "Muğla",
+    "ilce": "BODRUM",
+    "mahalle": "Ortakent",
+    "ad": "Ortakent Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 37.03125,
+    "lon": 27.42961
+  },
+  {
+    "il": "Muğla",
+    "ilce": "BODRUM",
+    "mahalle": "Konacık",
+    "ad": "Konacık Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.04885,
+    "lon": 27.43991
+  },
+  {
+    "il": "Muğla",
+    "ilce": "BODRUM",
+    "mahalle": "Çarşı",
+    "ad": "Çarşı Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.03196,
+    "lon": 27.42929
+  },
+  {
+    "il": "Muğla",
+    "ilce": "BODRUM",
+    "mahalle": "Cevat Şakir",
+    "ad": "Cevat Şakir Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 37.03209,
+    "lon": 27.43211
+  },
+  {
+    "il": "Muğla",
+    "ilce": "BODRUM",
+    "mahalle": "Turgutreis",
+    "ad": "Turgutreis Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 37.04638,
+    "lon": 27.42835
+  },
+  {
+    "il": "Muğla",
+    "ilce": "BODRUM",
+    "mahalle": "Yalıkavak",
+    "ad": "Yalıkavak Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 37.04289,
+    "lon": 27.41702
+  },
+  {
+    "il": "Muğla",
+    "ilce": "BODRUM",
+    "mahalle": "Gümbet",
+    "ad": "Gümbet Mahallesi Parkı ve Açık Alanı",
+    "lat": 37.0482,
+    "lon": 27.43411
+  },
+  {
+    "il": "Muğla",
+    "ilce": "BODRUM",
+    "mahalle": "Bitez",
+    "ad": "Bitez Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 37.03736,
+    "lon": 27.44112
+  },
+  {
+    "il": "Muğla",
+    "ilce": "FETHİYE",
+    "mahalle": "Tuzla",
+    "ad": "FETHİYE Kent Meydanı ve Toplanma Alanı",
+    "lat": 36.64711,
+    "lon": 29.1184
+  },
+  {
+    "il": "Muğla",
+    "ilce": "FETHİYE",
+    "mahalle": "Patlangıç",
+    "ad": "FETHİYE Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 36.64465,
+    "lon": 29.13074
+  },
+  {
+    "il": "Muğla",
+    "ilce": "FETHİYE",
+    "mahalle": "Foça",
+    "ad": "FETHİYE Hükümet Konağı / Belediye Meydanı",
+    "lat": 36.64621,
+    "lon": 29.13115
+  },
+  {
+    "il": "Muğla",
+    "ilce": "FETHİYE",
+    "mahalle": "Babataşı",
+    "ad": "FETHİYE Millet Bahçesi ve Yeşil Alanı",
+    "lat": 36.6605,
+    "lon": 29.12745
+  },
+  {
+    "il": "Muğla",
+    "ilce": "FETHİYE",
+    "mahalle": "Taşyaka",
+    "ad": "FETHİYE Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 36.66652,
+    "lon": 29.13055
+  },
+  {
+    "il": "Muğla",
+    "ilce": "FETHİYE",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 36.66616,
+    "lon": 29.12893
+  },
+  {
+    "il": "Muğla",
+    "ilce": "FETHİYE",
+    "mahalle": "Ölüdeniz",
+    "ad": "Ölüdeniz Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 36.64445,
+    "lon": 29.11716
+  },
+  {
+    "il": "Muğla",
+    "ilce": "FETHİYE",
+    "mahalle": "Tuzla",
+    "ad": "Tuzla Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 36.65821,
+    "lon": 29.12665
+  },
+  {
+    "il": "Muğla",
+    "ilce": "FETHİYE",
+    "mahalle": "Patlangıç",
+    "ad": "Patlangıç Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 36.64749,
+    "lon": 29.12505
+  },
+  {
+    "il": "Muğla",
+    "ilce": "FETHİYE",
+    "mahalle": "Foça",
+    "ad": "Foça Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 36.65304,
+    "lon": 29.13311
+  },
+  {
+    "il": "Muğla",
+    "ilce": "FETHİYE",
+    "mahalle": "Babataşı",
+    "ad": "Babataşı Mahallesi Parkı ve Açık Alanı",
+    "lat": 36.66734,
+    "lon": 29.12949
+  },
+  {
+    "il": "Muğla",
+    "ilce": "FETHİYE",
+    "mahalle": "Taşyaka",
+    "ad": "Taşyaka Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 36.65253,
+    "lon": 29.12474
+  },
+  {
+    "il": "Muğla",
+    "ilce": "FETHİYE",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 36.67766,
+    "lon": 29.11336
+  },
+  {
+    "il": "Muğla",
+    "ilce": "FETHİYE",
+    "mahalle": "Ölüdeniz",
+    "ad": "Ölüdeniz Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 36.66811,
+    "lon": 29.1304
+  },
+  {
+    "il": "Muğla",
+    "ilce": "FETHİYE",
+    "mahalle": "Tuzla",
+    "ad": "Tuzla Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 36.65377,
+    "lon": 29.12402
+  },
+  {
+    "il": "Muğla",
+    "ilce": "FETHİYE",
+    "mahalle": "Patlangıç",
+    "ad": "Patlangıç Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 36.66204,
+    "lon": 29.13093
+  },
+  {
+    "il": "Muğla",
+    "ilce": "FETHİYE",
+    "mahalle": "Foça",
+    "ad": "Foça Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 36.65214,
+    "lon": 29.12132
+  },
+  {
+    "il": "Muğla",
+    "ilce": "FETHİYE",
+    "mahalle": "Babataşı",
+    "ad": "Babataşı Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 36.66484,
+    "lon": 29.12397
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MİLAS",
+    "mahalle": "Cumhuriyet",
+    "ad": "MİLAS Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.31667,
+    "lon": 27.77501
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MİLAS",
+    "mahalle": "Aydınlıkevler",
+    "ad": "MİLAS Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.30453,
+    "lon": 27.77903
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MİLAS",
+    "mahalle": "Hacıilyas",
+    "ad": "MİLAS Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.3099,
+    "lon": 27.7822
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MİLAS",
+    "mahalle": "Güllük",
+    "ad": "MİLAS Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.30632,
+    "lon": 27.78596
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MİLAS",
+    "mahalle": "Ören",
+    "ad": "MİLAS Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.32106,
+    "lon": 27.79353
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MİLAS",
+    "mahalle": "İsmetpaşa",
+    "ad": "İsmetpaşa Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.31756,
+    "lon": 27.77664
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MİLAS",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.30608,
+    "lon": 27.77958
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MİLAS",
+    "mahalle": "Aydınlıkevler",
+    "ad": "Aydınlıkevler Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 37.30623,
+    "lon": 27.7852
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MİLAS",
+    "mahalle": "Hacıilyas",
+    "ad": "Hacıilyas Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 37.31968,
+    "lon": 27.78602
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MİLAS",
+    "mahalle": "Güllük",
+    "ad": "Güllük Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 37.31359,
+    "lon": 27.78527
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MİLAS",
+    "mahalle": "Ören",
+    "ad": "Ören Mahallesi Parkı ve Açık Alanı",
+    "lat": 37.31285,
+    "lon": 27.78435
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MİLAS",
+    "mahalle": "İsmetpaşa",
+    "ad": "İsmetpaşa Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 37.29655,
+    "lon": 27.78651
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MİLAS",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 37.31694,
+    "lon": 27.78155
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MİLAS",
+    "mahalle": "Aydınlıkevler",
+    "ad": "Aydınlıkevler Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 37.3171,
+    "lon": 27.78901
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MİLAS",
+    "mahalle": "Hacıilyas",
+    "ad": "Hacıilyas Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 37.3202,
+    "lon": 27.78627
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MİLAS",
+    "mahalle": "Güllük",
+    "ad": "Güllük Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.30981,
+    "lon": 27.78065
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MARMARİS",
+    "mahalle": "Kemeraltı",
+    "ad": "MARMARİS Kent Meydanı ve Toplanma Alanı",
+    "lat": 36.84732,
+    "lon": 28.2787
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MARMARİS",
+    "mahalle": "Siteler",
+    "ad": "MARMARİS Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 36.86004,
+    "lon": 28.26853
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MARMARİS",
+    "mahalle": "Çıldır",
+    "ad": "MARMARİS Hükümet Konağı / Belediye Meydanı",
+    "lat": 36.8538,
+    "lon": 28.26159
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MARMARİS",
+    "mahalle": "Tepe",
+    "ad": "MARMARİS Millet Bahçesi ve Yeşil Alanı",
+    "lat": 36.8466,
+    "lon": 28.27773
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MARMARİS",
+    "mahalle": "Armutalan",
+    "ad": "MARMARİS Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 36.85236,
+    "lon": 28.27751
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MARMARİS",
+    "mahalle": "İçmeler",
+    "ad": "İçmeler Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 36.85598,
+    "lon": 28.27096
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MARMARİS",
+    "mahalle": "Kemeraltı",
+    "ad": "Kemeraltı Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 36.84689,
+    "lon": 28.27873
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MARMARİS",
+    "mahalle": "Siteler",
+    "ad": "Siteler Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 36.84856,
+    "lon": 28.28585
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MARMARİS",
+    "mahalle": "Çıldır",
+    "ad": "Çıldır Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 36.86522,
+    "lon": 28.28551
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MARMARİS",
+    "mahalle": "Tepe",
+    "ad": "Tepe Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 36.85722,
+    "lon": 28.26943
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MARMARİS",
+    "mahalle": "Armutalan",
+    "ad": "Armutalan Mahallesi Parkı ve Açık Alanı",
+    "lat": 36.85133,
+    "lon": 28.26988
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MARMARİS",
+    "mahalle": "İçmeler",
+    "ad": "İçmeler Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 36.86019,
+    "lon": 28.28876
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MARMARİS",
+    "mahalle": "Kemeraltı",
+    "ad": "Kemeraltı Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 36.85167,
+    "lon": 28.28151
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MARMARİS",
+    "mahalle": "Siteler",
+    "ad": "Siteler Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 36.84446,
+    "lon": 28.26013
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MARMARİS",
+    "mahalle": "Çıldır",
+    "ad": "Çıldır Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 36.85356,
+    "lon": 28.2737
+  },
+  {
+    "il": "Muğla",
+    "ilce": "MARMARİS",
+    "mahalle": "Tepe",
+    "ad": "Tepe Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 36.85882,
+    "lon": 28.27391
+  },
+  {
+    "il": "Muğla",
+    "ilce": "SEYDİKEMER",
+    "mahalle": "Cumhuriyet",
+    "ad": "SEYDİKEMER Kent Meydanı ve Toplanma Alanı",
+    "lat": 36.64912,
+    "lon": 29.34458
+  },
+  {
+    "il": "Muğla",
+    "ilce": "SEYDİKEMER",
+    "mahalle": "Gerişburnu",
+    "ad": "SEYDİKEMER Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 36.64925,
+    "lon": 29.35261
+  },
+  {
+    "il": "Muğla",
+    "ilce": "SEYDİKEMER",
+    "mahalle": "Kemer",
+    "ad": "SEYDİKEMER Hükümet Konağı / Belediye Meydanı",
+    "lat": 36.6583,
+    "lon": 29.35613
+  },
+  {
+    "il": "Muğla",
+    "ilce": "SEYDİKEMER",
+    "mahalle": "Zorlar",
+    "ad": "SEYDİKEMER Millet Bahçesi ve Yeşil Alanı",
+    "lat": 36.64966,
+    "lon": 29.36811
+  },
+  {
+    "il": "Muğla",
+    "ilce": "SEYDİKEMER",
+    "mahalle": "Cumhuriyet",
+    "ad": "SEYDİKEMER Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 36.64867,
+    "lon": 29.36873
+  },
+  {
+    "il": "Muğla",
+    "ilce": "SEYDİKEMER",
+    "mahalle": "Gerişburnu",
+    "ad": "Gerişburnu Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 36.66416,
+    "lon": 29.36117
+  },
+  {
+    "il": "Muğla",
+    "ilce": "SEYDİKEMER",
+    "mahalle": "Kemer",
+    "ad": "Kemer Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 36.64027,
+    "lon": 29.36915
+  },
+  {
+    "il": "Muğla",
+    "ilce": "SEYDİKEMER",
+    "mahalle": "Zorlar",
+    "ad": "Zorlar Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 36.65615,
+    "lon": 29.35639
+  },
+  {
+    "il": "Muğla",
+    "ilce": "ORTACA",
+    "mahalle": "Cumhuriyet",
+    "ad": "ORTACA Kent Meydanı ve Toplanma Alanı",
+    "lat": 36.84617,
+    "lon": 28.76912
+  },
+  {
+    "il": "Muğla",
+    "ilce": "ORTACA",
+    "mahalle": "Terzialiler",
+    "ad": "ORTACA Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 36.83495,
+    "lon": 28.77554
+  },
+  {
+    "il": "Muğla",
+    "ilce": "ORTACA",
+    "mahalle": "Arıkbaşı",
+    "ad": "ORTACA Hükümet Konağı / Belediye Meydanı",
+    "lat": 36.83197,
+    "lon": 28.76539
+  },
+  {
+    "il": "Muğla",
+    "ilce": "ORTACA",
+    "mahalle": "Dalyan",
+    "ad": "ORTACA Millet Bahçesi ve Yeşil Alanı",
+    "lat": 36.84698,
+    "lon": 28.77104
+  },
+  {
+    "il": "Muğla",
+    "ilce": "ORTACA",
+    "mahalle": "Cumhuriyet",
+    "ad": "ORTACA Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 36.84103,
+    "lon": 28.76189
+  },
+  {
+    "il": "Muğla",
+    "ilce": "ORTACA",
+    "mahalle": "Terzialiler",
+    "ad": "Terzialiler Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 36.83236,
+    "lon": 28.77213
+  },
+  {
+    "il": "Muğla",
+    "ilce": "ORTACA",
+    "mahalle": "Arıkbaşı",
+    "ad": "Arıkbaşı Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 36.84181,
+    "lon": 28.76692
+  },
+  {
+    "il": "Muğla",
+    "ilce": "ORTACA",
+    "mahalle": "Dalyan",
+    "ad": "Dalyan Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 36.83509,
+    "lon": 28.7565
+  },
+  {
+    "il": "Muğla",
+    "ilce": "YATAĞAN",
+    "mahalle": "Cumhuriyet",
+    "ad": "YATAĞAN Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.34041,
+    "lon": 28.13715
+  },
+  {
+    "il": "Muğla",
+    "ilce": "YATAĞAN",
+    "mahalle": "Yeni",
+    "ad": "YATAĞAN Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.32475,
+    "lon": 28.12696
+  },
+  {
+    "il": "Muğla",
+    "ilce": "YATAĞAN",
+    "mahalle": "Dere",
+    "ad": "YATAĞAN Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.35133,
+    "lon": 28.141
+  },
+  {
+    "il": "Muğla",
+    "ilce": "YATAĞAN",
+    "mahalle": "Ahi Sinan",
+    "ad": "YATAĞAN Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.34496,
+    "lon": 28.13836
+  },
+  {
+    "il": "Muğla",
+    "ilce": "YATAĞAN",
+    "mahalle": "Cumhuriyet",
+    "ad": "YATAĞAN Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.34144,
+    "lon": 28.1404
+  },
+  {
+    "il": "Muğla",
+    "ilce": "YATAĞAN",
+    "mahalle": "Yeni",
+    "ad": "Yeni Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.34848,
+    "lon": 28.1334
+  },
+  {
+    "il": "Muğla",
+    "ilce": "YATAĞAN",
+    "mahalle": "Dere",
+    "ad": "Dere Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.34015,
+    "lon": 28.14076
+  },
+  {
+    "il": "Muğla",
+    "ilce": "YATAĞAN",
+    "mahalle": "Ahi Sinan",
+    "ad": "Ahi Sinan Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 37.33809,
+    "lon": 28.13798
+  },
+  {
+    "il": "Muğla",
+    "ilce": "DALAMAN",
+    "mahalle": "Merkez",
+    "ad": "DALAMAN Kent Meydanı ve Toplanma Alanı",
+    "lat": 36.7593,
+    "lon": 28.80222
+  },
+  {
+    "il": "Muğla",
+    "ilce": "DALAMAN",
+    "mahalle": "Atakent",
+    "ad": "DALAMAN Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 36.76587,
+    "lon": 28.78634
+  },
+  {
+    "il": "Muğla",
+    "ilce": "DALAMAN",
+    "mahalle": "Karaçalı",
+    "ad": "DALAMAN Hükümet Konağı / Belediye Meydanı",
+    "lat": 36.76373,
+    "lon": 28.80414
+  },
+  {
+    "il": "Muğla",
+    "ilce": "DALAMAN",
+    "mahalle": "Ege",
+    "ad": "DALAMAN Millet Bahçesi ve Yeşil Alanı",
+    "lat": 36.76731,
+    "lon": 28.81995
+  },
+  {
+    "il": "Muğla",
+    "ilce": "DALAMAN",
+    "mahalle": "Merkez",
+    "ad": "DALAMAN Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 36.7642,
+    "lon": 28.78935
+  },
+  {
+    "il": "Muğla",
+    "ilce": "DALAMAN",
+    "mahalle": "Atakent",
+    "ad": "Atakent Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 36.77189,
+    "lon": 28.80508
+  },
+  {
+    "il": "Muğla",
+    "ilce": "DALAMAN",
+    "mahalle": "Karaçalı",
+    "ad": "Karaçalı Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 36.77686,
+    "lon": 28.80398
+  },
+  {
+    "il": "Muğla",
+    "ilce": "DALAMAN",
+    "mahalle": "Ege",
+    "ad": "Ege Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 36.76086,
+    "lon": 28.80449
+  },
+  {
+    "il": "Muğla",
+    "ilce": "KÖYCEĞİZ",
+    "mahalle": "Gelişim",
+    "ad": "KÖYCEĞİZ Kent Meydanı ve Toplanma Alanı",
+    "lat": 36.9744,
+    "lon": 28.69773
+  },
+  {
+    "il": "Muğla",
+    "ilce": "KÖYCEĞİZ",
+    "mahalle": "Ulucami",
+    "ad": "KÖYCEĞİZ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 36.96803,
+    "lon": 28.68234
+  },
+  {
+    "il": "Muğla",
+    "ilce": "KÖYCEĞİZ",
+    "mahalle": "Toparlar",
+    "ad": "KÖYCEĞİZ Hükümet Konağı / Belediye Meydanı",
+    "lat": 36.97941,
+    "lon": 28.71125
+  },
+  {
+    "il": "Muğla",
+    "ilce": "KÖYCEĞİZ",
+    "mahalle": "Zeytinalanı",
+    "ad": "KÖYCEĞİZ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 36.9749,
+    "lon": 28.70533
+  },
+  {
+    "il": "Muğla",
+    "ilce": "KÖYCEĞİZ",
+    "mahalle": "Gelişim",
+    "ad": "KÖYCEĞİZ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 36.97221,
+    "lon": 28.69211
+  },
+  {
+    "il": "Muğla",
+    "ilce": "KÖYCEĞİZ",
+    "mahalle": "Ulucami",
+    "ad": "Ulucami Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 36.97102,
+    "lon": 28.70723
+  },
+  {
+    "il": "Muğla",
+    "ilce": "KÖYCEĞİZ",
+    "mahalle": "Toparlar",
+    "ad": "Toparlar Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 36.97838,
+    "lon": 28.69331
+  },
+  {
+    "il": "Muğla",
+    "ilce": "ULA",
+    "mahalle": "Köprübaşı",
+    "ad": "ULA Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.10731,
+    "lon": 28.40334
+  },
+  {
+    "il": "Muğla",
+    "ilce": "ULA",
+    "mahalle": "Demirtaş",
+    "ad": "ULA Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.11303,
+    "lon": 28.41884
+  },
+  {
+    "il": "Muğla",
+    "ilce": "ULA",
+    "mahalle": "Akyaka",
+    "ad": "ULA Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.11047,
+    "lon": 28.40608
+  },
+  {
+    "il": "Muğla",
+    "ilce": "ULA",
+    "mahalle": "Gökova",
+    "ad": "ULA Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.11435,
+    "lon": 28.41831
+  },
+  {
+    "il": "Muğla",
+    "ilce": "ULA",
+    "mahalle": "Köprübaşı",
+    "ad": "ULA Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.09887,
+    "lon": 28.42669
+  },
+  {
+    "il": "Muğla",
+    "ilce": "ULA",
+    "mahalle": "Demirtaş",
+    "ad": "Demirtaş Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.10777,
+    "lon": 28.41624
+  },
+  {
+    "il": "Muğla",
+    "ilce": "ULA",
+    "mahalle": "Akyaka",
+    "ad": "Akyaka Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.10671,
+    "lon": 28.41135
+  },
+  {
+    "il": "Muğla",
+    "ilce": "DATÇA",
+    "mahalle": "İskele",
+    "ad": "DATÇA Kent Meydanı ve Toplanma Alanı",
+    "lat": 36.72496,
+    "lon": 27.67575
+  },
+  {
+    "il": "Muğla",
+    "ilce": "DATÇA",
+    "mahalle": "Reşadiye",
+    "ad": "DATÇA Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 36.71815,
+    "lon": 27.6862
+  },
+  {
+    "il": "Muğla",
+    "ilce": "DATÇA",
+    "mahalle": "Emecik",
+    "ad": "DATÇA Hükümet Konağı / Belediye Meydanı",
+    "lat": 36.72857,
+    "lon": 27.67465
+  },
+  {
+    "il": "Muğla",
+    "ilce": "DATÇA",
+    "mahalle": "Hızırşah",
+    "ad": "DATÇA Millet Bahçesi ve Yeşil Alanı",
+    "lat": 36.73139,
+    "lon": 27.6949
+  },
+  {
+    "il": "Muğla",
+    "ilce": "DATÇA",
+    "mahalle": "İskele",
+    "ad": "DATÇA Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 36.72619,
+    "lon": 27.6828
+  },
+  {
+    "il": "Muğla",
+    "ilce": "DATÇA",
+    "mahalle": "Reşadiye",
+    "ad": "Reşadiye Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 36.73084,
+    "lon": 27.68994
+  },
+  {
+    "il": "Muğla",
+    "ilce": "DATÇA",
+    "mahalle": "Emecik",
+    "ad": "Emecik Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 36.7261,
+    "lon": 27.68811
+  },
+  {
+    "il": "Muğla",
+    "ilce": "KAVAKLIDERE",
+    "mahalle": "Bakırcılar",
+    "ad": "KAVAKLIDERE Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.4497,
+    "lon": 28.35067
+  },
+  {
+    "il": "Muğla",
+    "ilce": "KAVAKLIDERE",
+    "mahalle": "Yeni",
+    "ad": "KAVAKLIDERE Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.44779,
+    "lon": 28.36543
+  },
+  {
+    "il": "Muğla",
+    "ilce": "KAVAKLIDERE",
+    "mahalle": "Çamlıbel",
+    "ad": "KAVAKLIDERE Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.44499,
+    "lon": 28.36544
+  },
+  {
+    "il": "Muğla",
+    "ilce": "KAVAKLIDERE",
+    "mahalle": "Bakırcılar",
+    "ad": "KAVAKLIDERE Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.44485,
+    "lon": 28.35874
+  },
+  {
+    "il": "Muğla",
+    "ilce": "KAVAKLIDERE",
+    "mahalle": "Yeni",
+    "ad": "KAVAKLIDERE Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.44793,
+    "lon": 28.35763
+  }
+]

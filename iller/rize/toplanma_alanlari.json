@@ -1,0 +1,802 @@
+[
+  {
+    "il": "Rize",
+    "ilce": "MERKEZ",
+    "mahalle": "Tophane",
+    "ad": "MERKEZ Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.02689,
+    "lon": 40.52862
+  },
+  {
+    "il": "Rize",
+    "ilce": "MERKEZ",
+    "mahalle": "Piriçelebi",
+    "ad": "MERKEZ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.02505,
+    "lon": 40.51575
+  },
+  {
+    "il": "Rize",
+    "ilce": "MERKEZ",
+    "mahalle": "Ekrem Orhon",
+    "ad": "MERKEZ Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.02787,
+    "lon": 40.5185
+  },
+  {
+    "il": "Rize",
+    "ilce": "MERKEZ",
+    "mahalle": "Engindere",
+    "ad": "MERKEZ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.03091,
+    "lon": 40.52619
+  },
+  {
+    "il": "Rize",
+    "ilce": "MERKEZ",
+    "mahalle": "İslampaşa",
+    "ad": "MERKEZ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.0279,
+    "lon": 40.52778
+  },
+  {
+    "il": "Rize",
+    "ilce": "MERKEZ",
+    "mahalle": "Müftü",
+    "ad": "Müftü Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.02055,
+    "lon": 40.527
+  },
+  {
+    "il": "Rize",
+    "ilce": "MERKEZ",
+    "mahalle": "Gülbahar",
+    "ad": "Gülbahar Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.02298,
+    "lon": 40.51414
+  },
+  {
+    "il": "Rize",
+    "ilce": "MERKEZ",
+    "mahalle": "Portakallık",
+    "ad": "Portakallık Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.02434,
+    "lon": 40.5205
+  },
+  {
+    "il": "Rize",
+    "ilce": "MERKEZ",
+    "mahalle": "Tophane",
+    "ad": "Tophane Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 41.02378,
+    "lon": 40.52062
+  },
+  {
+    "il": "Rize",
+    "ilce": "MERKEZ",
+    "mahalle": "Piriçelebi",
+    "ad": "Piriçelebi Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 41.02193,
+    "lon": 40.52209
+  },
+  {
+    "il": "Rize",
+    "ilce": "MERKEZ",
+    "mahalle": "Ekrem Orhon",
+    "ad": "Ekrem Orhon Mahallesi Parkı ve Açık Alanı",
+    "lat": 41.01741,
+    "lon": 40.52361
+  },
+  {
+    "il": "Rize",
+    "ilce": "MERKEZ",
+    "mahalle": "Engindere",
+    "ad": "Engindere Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 41.02497,
+    "lon": 40.51592
+  },
+  {
+    "il": "Rize",
+    "ilce": "MERKEZ",
+    "mahalle": "İslampaşa",
+    "ad": "İslampaşa Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 41.03534,
+    "lon": 40.5343
+  },
+  {
+    "il": "Rize",
+    "ilce": "MERKEZ",
+    "mahalle": "Müftü",
+    "ad": "Müftü Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 41.02278,
+    "lon": 40.51983
+  },
+  {
+    "il": "Rize",
+    "ilce": "MERKEZ",
+    "mahalle": "Gülbahar",
+    "ad": "Gülbahar Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 41.03295,
+    "lon": 40.51735
+  },
+  {
+    "il": "Rize",
+    "ilce": "MERKEZ",
+    "mahalle": "Portakallık",
+    "ad": "Portakallık Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.02754,
+    "lon": 40.52478
+  },
+  {
+    "il": "Rize",
+    "ilce": "MERKEZ",
+    "mahalle": "Tophane",
+    "ad": "Tophane Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.02771,
+    "lon": 40.52472
+  },
+  {
+    "il": "Rize",
+    "ilce": "MERKEZ",
+    "mahalle": "Piriçelebi",
+    "ad": "Piriçelebi Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.02345,
+    "lon": 40.52409
+  },
+  {
+    "il": "Rize",
+    "ilce": "MERKEZ",
+    "mahalle": "Ekrem Orhon",
+    "ad": "Ekrem Orhon Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 41.03371,
+    "lon": 40.52396
+  },
+  {
+    "il": "Rize",
+    "ilce": "MERKEZ",
+    "mahalle": "Engindere",
+    "ad": "Engindere Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 41.03694,
+    "lon": 40.51193
+  },
+  {
+    "il": "Rize",
+    "ilce": "MERKEZ",
+    "mahalle": "İslampaşa",
+    "ad": "İslampaşa Mahallesi Parkı ve Açık Alanı",
+    "lat": 41.01624,
+    "lon": 40.51943
+  },
+  {
+    "il": "Rize",
+    "ilce": "MERKEZ",
+    "mahalle": "Müftü",
+    "ad": "Müftü Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 41.02169,
+    "lon": 40.52247
+  },
+  {
+    "il": "Rize",
+    "ilce": "MERKEZ",
+    "mahalle": "Gülbahar",
+    "ad": "Gülbahar Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 41.02773,
+    "lon": 40.52574
+  },
+  {
+    "il": "Rize",
+    "ilce": "MERKEZ",
+    "mahalle": "Portakallık",
+    "ad": "Portakallık Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 41.02698,
+    "lon": 40.51757
+  },
+  {
+    "il": "Rize",
+    "ilce": "ÇAYELİ",
+    "mahalle": "Eskipazar",
+    "ad": "ÇAYELİ Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.08126,
+    "lon": 40.73534
+  },
+  {
+    "il": "Rize",
+    "ilce": "ÇAYELİ",
+    "mahalle": "Yenipazar",
+    "ad": "ÇAYELİ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.08428,
+    "lon": 40.73341
+  },
+  {
+    "il": "Rize",
+    "ilce": "ÇAYELİ",
+    "mahalle": "Sabuncular",
+    "ad": "ÇAYELİ Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.08811,
+    "lon": 40.73544
+  },
+  {
+    "il": "Rize",
+    "ilce": "ÇAYELİ",
+    "mahalle": "Kesmetaş",
+    "ad": "ÇAYELİ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.10177,
+    "lon": 40.73391
+  },
+  {
+    "il": "Rize",
+    "ilce": "ÇAYELİ",
+    "mahalle": "Eskipazar",
+    "ad": "ÇAYELİ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.08371,
+    "lon": 40.7275
+  },
+  {
+    "il": "Rize",
+    "ilce": "ÇAYELİ",
+    "mahalle": "Yenipazar",
+    "ad": "Yenipazar Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.09023,
+    "lon": 40.72714
+  },
+  {
+    "il": "Rize",
+    "ilce": "ÇAYELİ",
+    "mahalle": "Sabuncular",
+    "ad": "Sabuncular Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.0934,
+    "lon": 40.72132
+  },
+  {
+    "il": "Rize",
+    "ilce": "ÇAYELİ",
+    "mahalle": "Kesmetaş",
+    "ad": "Kesmetaş Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.08419,
+    "lon": 40.71341
+  },
+  {
+    "il": "Rize",
+    "ilce": "ÇAYELİ",
+    "mahalle": "Eskipazar",
+    "ad": "Eskipazar Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 41.08039,
+    "lon": 40.72413
+  },
+  {
+    "il": "Rize",
+    "ilce": "ÇAYELİ",
+    "mahalle": "Yenipazar",
+    "ad": "Yenipazar Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 41.08127,
+    "lon": 40.73127
+  },
+  {
+    "il": "Rize",
+    "ilce": "ÇAYELİ",
+    "mahalle": "Sabuncular",
+    "ad": "Sabuncular Mahallesi Parkı ve Açık Alanı",
+    "lat": 41.08876,
+    "lon": 40.73418
+  },
+  {
+    "il": "Rize",
+    "ilce": "ÇAYELİ",
+    "mahalle": "Kesmetaş",
+    "ad": "Kesmetaş Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 41.08971,
+    "lon": 40.71583
+  },
+  {
+    "il": "Rize",
+    "ilce": "ARDEŞEN",
+    "mahalle": "Merkez",
+    "ad": "ARDEŞEN Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.18759,
+    "lon": 40.97618
+  },
+  {
+    "il": "Rize",
+    "ilce": "ARDEŞEN",
+    "mahalle": "Cumhuriyet",
+    "ad": "ARDEŞEN Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.18537,
+    "lon": 40.98492
+  },
+  {
+    "il": "Rize",
+    "ilce": "ARDEŞEN",
+    "mahalle": "Fırtına",
+    "ad": "ARDEŞEN Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.18948,
+    "lon": 40.98389
+  },
+  {
+    "il": "Rize",
+    "ilce": "ARDEŞEN",
+    "mahalle": "Barış",
+    "ad": "ARDEŞEN Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.19217,
+    "lon": 40.99322
+  },
+  {
+    "il": "Rize",
+    "ilce": "ARDEŞEN",
+    "mahalle": "Merkez",
+    "ad": "ARDEŞEN Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.20234,
+    "lon": 40.99654
+  },
+  {
+    "il": "Rize",
+    "ilce": "ARDEŞEN",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.18409,
+    "lon": 40.98806
+  },
+  {
+    "il": "Rize",
+    "ilce": "ARDEŞEN",
+    "mahalle": "Fırtına",
+    "ad": "Fırtına Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.19102,
+    "lon": 40.98756
+  },
+  {
+    "il": "Rize",
+    "ilce": "ARDEŞEN",
+    "mahalle": "Barış",
+    "ad": "Barış Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.18499,
+    "lon": 41.00243
+  },
+  {
+    "il": "Rize",
+    "ilce": "ARDEŞEN",
+    "mahalle": "Merkez",
+    "ad": "Merkez Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 41.18326,
+    "lon": 40.99662
+  },
+  {
+    "il": "Rize",
+    "ilce": "ARDEŞEN",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 41.19396,
+    "lon": 40.97784
+  },
+  {
+    "il": "Rize",
+    "ilce": "ARDEŞEN",
+    "mahalle": "Fırtına",
+    "ad": "Fırtına Mahallesi Parkı ve Açık Alanı",
+    "lat": 41.18497,
+    "lon": 40.99712
+  },
+  {
+    "il": "Rize",
+    "ilce": "ARDEŞEN",
+    "mahalle": "Barış",
+    "ad": "Barış Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 41.19719,
+    "lon": 40.98149
+  },
+  {
+    "il": "Rize",
+    "ilce": "PAZAR",
+    "mahalle": "Kirazlık",
+    "ad": "PAZAR Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.17402,
+    "lon": 40.88601
+  },
+  {
+    "il": "Rize",
+    "ilce": "PAZAR",
+    "mahalle": "Pazar Sahil",
+    "ad": "PAZAR Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.19283,
+    "lon": 40.89798
+  },
+  {
+    "il": "Rize",
+    "ilce": "PAZAR",
+    "mahalle": "Zafer",
+    "ad": "PAZAR Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.17233,
+    "lon": 40.88796
+  },
+  {
+    "il": "Rize",
+    "ilce": "PAZAR",
+    "mahalle": "Ocak",
+    "ad": "PAZAR Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.19076,
+    "lon": 40.89448
+  },
+  {
+    "il": "Rize",
+    "ilce": "PAZAR",
+    "mahalle": "Kirazlık",
+    "ad": "PAZAR Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.18044,
+    "lon": 40.89966
+  },
+  {
+    "il": "Rize",
+    "ilce": "PAZAR",
+    "mahalle": "Pazar Sahil",
+    "ad": "Pazar Sahil Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.17275,
+    "lon": 40.89325
+  },
+  {
+    "il": "Rize",
+    "ilce": "PAZAR",
+    "mahalle": "Zafer",
+    "ad": "Zafer Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.17871,
+    "lon": 40.89437
+  },
+  {
+    "il": "Rize",
+    "ilce": "PAZAR",
+    "mahalle": "Ocak",
+    "ad": "Ocak Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.18457,
+    "lon": 40.89652
+  },
+  {
+    "il": "Rize",
+    "ilce": "PAZAR",
+    "mahalle": "Kirazlık",
+    "ad": "Kirazlık Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 41.18328,
+    "lon": 40.88313
+  },
+  {
+    "il": "Rize",
+    "ilce": "PAZAR",
+    "mahalle": "Pazar Sahil",
+    "ad": "Pazar Sahil Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 41.16713,
+    "lon": 40.8883
+  },
+  {
+    "il": "Rize",
+    "ilce": "FINDIKLI",
+    "mahalle": "Merkez",
+    "ad": "FINDIKLI Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.26997,
+    "lon": 41.14179
+  },
+  {
+    "il": "Rize",
+    "ilce": "FINDIKLI",
+    "mahalle": "Sahil",
+    "ad": "FINDIKLI Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.27055,
+    "lon": 41.14482
+  },
+  {
+    "il": "Rize",
+    "ilce": "FINDIKLI",
+    "mahalle": "Tatlısu",
+    "ad": "FINDIKLI Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.27479,
+    "lon": 41.12935
+  },
+  {
+    "il": "Rize",
+    "ilce": "FINDIKLI",
+    "mahalle": "Merkez",
+    "ad": "FINDIKLI Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.2726,
+    "lon": 41.13165
+  },
+  {
+    "il": "Rize",
+    "ilce": "FINDIKLI",
+    "mahalle": "Sahil",
+    "ad": "FINDIKLI Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.27893,
+    "lon": 41.1429
+  },
+  {
+    "il": "Rize",
+    "ilce": "FINDIKLI",
+    "mahalle": "Tatlısu",
+    "ad": "Tatlısu Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.26623,
+    "lon": 41.15405
+  },
+  {
+    "il": "Rize",
+    "ilce": "FINDIKLI",
+    "mahalle": "Merkez",
+    "ad": "Merkez Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.27549,
+    "lon": 41.14523
+  },
+  {
+    "il": "Rize",
+    "ilce": "FINDIKLI",
+    "mahalle": "Sahil",
+    "ad": "Sahil Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.26887,
+    "lon": 41.14
+  },
+  {
+    "il": "Rize",
+    "ilce": "GÜNEYSU",
+    "mahalle": "Merkez",
+    "ad": "GÜNEYSU Kent Meydanı ve Toplanma Alanı",
+    "lat": 40.98779,
+    "lon": 40.59804
+  },
+  {
+    "il": "Rize",
+    "ilce": "GÜNEYSU",
+    "mahalle": "Ulucami",
+    "ad": "GÜNEYSU Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 40.96826,
+    "lon": 40.6081
+  },
+  {
+    "il": "Rize",
+    "ilce": "GÜNEYSU",
+    "mahalle": "Birlik",
+    "ad": "GÜNEYSU Hükümet Konağı / Belediye Meydanı",
+    "lat": 40.98583,
+    "lon": 40.61596
+  },
+  {
+    "il": "Rize",
+    "ilce": "GÜNEYSU",
+    "mahalle": "Merkez",
+    "ad": "GÜNEYSU Millet Bahçesi ve Yeşil Alanı",
+    "lat": 40.97679,
+    "lon": 40.60982
+  },
+  {
+    "il": "Rize",
+    "ilce": "GÜNEYSU",
+    "mahalle": "Ulucami",
+    "ad": "GÜNEYSU Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 40.973,
+    "lon": 40.58528
+  },
+  {
+    "il": "Rize",
+    "ilce": "GÜNEYSU",
+    "mahalle": "Birlik",
+    "ad": "Birlik Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 40.98341,
+    "lon": 40.60399
+  },
+  {
+    "il": "Rize",
+    "ilce": "KALKANDERE",
+    "mahalle": "Kuruköy",
+    "ad": "KALKANDERE Kent Meydanı ve Toplanma Alanı",
+    "lat": 40.92821,
+    "lon": 40.45575
+  },
+  {
+    "il": "Rize",
+    "ilce": "KALKANDERE",
+    "mahalle": "Aksu",
+    "ad": "KALKANDERE Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 40.92231,
+    "lon": 40.43674
+  },
+  {
+    "il": "Rize",
+    "ilce": "KALKANDERE",
+    "mahalle": "Medrese",
+    "ad": "KALKANDERE Hükümet Konağı / Belediye Meydanı",
+    "lat": 40.93152,
+    "lon": 40.44188
+  },
+  {
+    "il": "Rize",
+    "ilce": "KALKANDERE",
+    "mahalle": "Kuruköy",
+    "ad": "KALKANDERE Millet Bahçesi ve Yeşil Alanı",
+    "lat": 40.92009,
+    "lon": 40.43681
+  },
+  {
+    "il": "Rize",
+    "ilce": "KALKANDERE",
+    "mahalle": "Aksu",
+    "ad": "KALKANDERE Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 40.92434,
+    "lon": 40.44329
+  },
+  {
+    "il": "Rize",
+    "ilce": "KALKANDERE",
+    "mahalle": "Medrese",
+    "ad": "Medrese Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 40.93292,
+    "lon": 40.4347
+  },
+  {
+    "il": "Rize",
+    "ilce": "İYİDERE",
+    "mahalle": "Saraykenti",
+    "ad": "İYİDERE Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.01278,
+    "lon": 40.36287
+  },
+  {
+    "il": "Rize",
+    "ilce": "İYİDERE",
+    "mahalle": "Hazar",
+    "ad": "İYİDERE Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.00656,
+    "lon": 40.3528
+  },
+  {
+    "il": "Rize",
+    "ilce": "İYİDERE",
+    "mahalle": "Fıstıklı",
+    "ad": "İYİDERE Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.02546,
+    "lon": 40.35103
+  },
+  {
+    "il": "Rize",
+    "ilce": "İYİDERE",
+    "mahalle": "Saraykenti",
+    "ad": "İYİDERE Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.00775,
+    "lon": 40.3669
+  },
+  {
+    "il": "Rize",
+    "ilce": "İYİDERE",
+    "mahalle": "Hazar",
+    "ad": "İYİDERE Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.01559,
+    "lon": 40.36217
+  },
+  {
+    "il": "Rize",
+    "ilce": "DEREPAZARI",
+    "mahalle": "Tersane",
+    "ad": "DEREPAZARI Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.03265,
+    "lon": 40.4327
+  },
+  {
+    "il": "Rize",
+    "ilce": "DEREPAZARI",
+    "mahalle": "Eriklimanı",
+    "ad": "DEREPAZARI Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.01756,
+    "lon": 40.4271
+  },
+  {
+    "il": "Rize",
+    "ilce": "DEREPAZARI",
+    "mahalle": "Tersane",
+    "ad": "DEREPAZARI Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.02194,
+    "lon": 40.43097
+  },
+  {
+    "il": "Rize",
+    "ilce": "DEREPAZARI",
+    "mahalle": "Eriklimanı",
+    "ad": "DEREPAZARI Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.019,
+    "lon": 40.4121
+  },
+  {
+    "il": "Rize",
+    "ilce": "DEREPAZARI",
+    "mahalle": "Tersane",
+    "ad": "DEREPAZARI Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.02824,
+    "lon": 40.42824
+  },
+  {
+    "il": "Rize",
+    "ilce": "ÇAMLIHEMŞİN",
+    "mahalle": "Aşağıçamlıhemşin",
+    "ad": "ÇAMLIHEMŞİN Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.04815,
+    "lon": 41.00598
+  },
+  {
+    "il": "Rize",
+    "ilce": "ÇAMLIHEMŞİN",
+    "mahalle": "Kavak",
+    "ad": "ÇAMLIHEMŞİN Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.04391,
+    "lon": 40.99031
+  },
+  {
+    "il": "Rize",
+    "ilce": "ÇAMLIHEMŞİN",
+    "mahalle": "Aşağıçamlıhemşin",
+    "ad": "ÇAMLIHEMŞİN Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.04236,
+    "lon": 41.00705
+  },
+  {
+    "il": "Rize",
+    "ilce": "ÇAMLIHEMŞİN",
+    "mahalle": "Kavak",
+    "ad": "ÇAMLIHEMŞİN Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.05287,
+    "lon": 41.00471
+  },
+  {
+    "il": "Rize",
+    "ilce": "İKİZDERE",
+    "mahalle": "Yeşilyurt",
+    "ad": "İKİZDERE Kent Meydanı ve Toplanma Alanı",
+    "lat": 40.79197,
+    "lon": 40.55563
+  },
+  {
+    "il": "Rize",
+    "ilce": "İKİZDERE",
+    "mahalle": "Çarşı",
+    "ad": "İKİZDERE Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 40.77705,
+    "lon": 40.54051
+  },
+  {
+    "il": "Rize",
+    "ilce": "İKİZDERE",
+    "mahalle": "Yeşilyurt",
+    "ad": "İKİZDERE Hükümet Konağı / Belediye Meydanı",
+    "lat": 40.77965,
+    "lon": 40.55688
+  },
+  {
+    "il": "Rize",
+    "ilce": "İKİZDERE",
+    "mahalle": "Çarşı",
+    "ad": "İKİZDERE Millet Bahçesi ve Yeşil Alanı",
+    "lat": 40.7965,
+    "lon": 40.53772
+  },
+  {
+    "il": "Rize",
+    "ilce": "HEMŞİN",
+    "mahalle": "Ortaköy",
+    "ad": "HEMŞİN Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.06363,
+    "lon": 40.89744
+  },
+  {
+    "il": "Rize",
+    "ilce": "HEMŞİN",
+    "mahalle": "Mutlu",
+    "ad": "HEMŞİN Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.06834,
+    "lon": 40.91167
+  },
+  {
+    "il": "Rize",
+    "ilce": "HEMŞİN",
+    "mahalle": "Ortaköy",
+    "ad": "HEMŞİN Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.04881,
+    "lon": 40.90389
+  },
+  {
+    "il": "Rize",
+    "ilce": "HEMŞİN",
+    "mahalle": "Mutlu",
+    "ad": "HEMŞİN Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.05904,
+    "lon": 40.91065
+  }
+]

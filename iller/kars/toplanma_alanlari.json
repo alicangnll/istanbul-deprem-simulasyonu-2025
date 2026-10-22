@@ -1,0 +1,634 @@
+[
+  {
+    "il": "Kars",
+    "ilce": "MERKEZ",
+    "mahalle": "Yusufpaşa",
+    "ad": "MERKEZ Kent Meydanı ve Toplanma Alanı",
+    "lat": 40.59441,
+    "lon": 43.10307
+  },
+  {
+    "il": "Kars",
+    "ilce": "MERKEZ",
+    "mahalle": "Ortakapı",
+    "ad": "MERKEZ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 40.59984,
+    "lon": 43.08975
+  },
+  {
+    "il": "Kars",
+    "ilce": "MERKEZ",
+    "mahalle": "Cumhuriyet",
+    "ad": "MERKEZ Hükümet Konağı / Belediye Meydanı",
+    "lat": 40.59519,
+    "lon": 43.09151
+  },
+  {
+    "il": "Kars",
+    "ilce": "MERKEZ",
+    "mahalle": "İstasyon",
+    "ad": "MERKEZ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 40.59607,
+    "lon": 43.08759
+  },
+  {
+    "il": "Kars",
+    "ilce": "MERKEZ",
+    "mahalle": "Yeni",
+    "ad": "MERKEZ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 40.59903,
+    "lon": 43.11173
+  },
+  {
+    "il": "Kars",
+    "ilce": "MERKEZ",
+    "mahalle": "Örnek",
+    "ad": "Örnek Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 40.59727,
+    "lon": 43.09025
+  },
+  {
+    "il": "Kars",
+    "ilce": "MERKEZ",
+    "mahalle": "Kars Kalesi Çevresi",
+    "ad": "Kars Kalesi Çevresi Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 40.60301,
+    "lon": 43.08553
+  },
+  {
+    "il": "Kars",
+    "ilce": "MERKEZ",
+    "mahalle": "Bülbül",
+    "ad": "Bülbül Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 40.60225,
+    "lon": 43.08616
+  },
+  {
+    "il": "Kars",
+    "ilce": "MERKEZ",
+    "mahalle": "Şehitler",
+    "ad": "Şehitler Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 40.61187,
+    "lon": 43.09403
+  },
+  {
+    "il": "Kars",
+    "ilce": "MERKEZ",
+    "mahalle": "Yusufpaşa",
+    "ad": "Yusufpaşa Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 40.605,
+    "lon": 43.08129
+  },
+  {
+    "il": "Kars",
+    "ilce": "MERKEZ",
+    "mahalle": "Ortakapı",
+    "ad": "Ortakapı Mahallesi Parkı ve Açık Alanı",
+    "lat": 40.61044,
+    "lon": 43.09321
+  },
+  {
+    "il": "Kars",
+    "ilce": "MERKEZ",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 40.5962,
+    "lon": 43.09005
+  },
+  {
+    "il": "Kars",
+    "ilce": "MERKEZ",
+    "mahalle": "İstasyon",
+    "ad": "İstasyon Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 40.60681,
+    "lon": 43.08763
+  },
+  {
+    "il": "Kars",
+    "ilce": "MERKEZ",
+    "mahalle": "Yeni",
+    "ad": "Yeni Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 40.60782,
+    "lon": 43.10359
+  },
+  {
+    "il": "Kars",
+    "ilce": "MERKEZ",
+    "mahalle": "Örnek",
+    "ad": "Örnek Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 40.59644,
+    "lon": 43.09184
+  },
+  {
+    "il": "Kars",
+    "ilce": "MERKEZ",
+    "mahalle": "Kars Kalesi Çevresi",
+    "ad": "Kars Kalesi Çevresi Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 40.61022,
+    "lon": 43.10736
+  },
+  {
+    "il": "Kars",
+    "ilce": "MERKEZ",
+    "mahalle": "Bülbül",
+    "ad": "Bülbül Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 40.60527,
+    "lon": 43.09605
+  },
+  {
+    "il": "Kars",
+    "ilce": "MERKEZ",
+    "mahalle": "Şehitler",
+    "ad": "Şehitler Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 40.61035,
+    "lon": 43.10466
+  },
+  {
+    "il": "Kars",
+    "ilce": "MERKEZ",
+    "mahalle": "Yusufpaşa",
+    "ad": "Yusufpaşa Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 40.61107,
+    "lon": 43.09334
+  },
+  {
+    "il": "Kars",
+    "ilce": "MERKEZ",
+    "mahalle": "Ortakapı",
+    "ad": "Ortakapı Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 40.61003,
+    "lon": 43.10276
+  },
+  {
+    "il": "Kars",
+    "ilce": "MERKEZ",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Parkı ve Açık Alanı",
+    "lat": 40.59488,
+    "lon": 43.1
+  },
+  {
+    "il": "Kars",
+    "ilce": "MERKEZ",
+    "mahalle": "İstasyon",
+    "ad": "İstasyon Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 40.59361,
+    "lon": 43.08459
+  },
+  {
+    "il": "Kars",
+    "ilce": "SARIKAMIŞ",
+    "mahalle": "İnönü",
+    "ad": "SARIKAMIŞ Kent Meydanı ve Toplanma Alanı",
+    "lat": 40.32812,
+    "lon": 42.60431
+  },
+  {
+    "il": "Kars",
+    "ilce": "SARIKAMIŞ",
+    "mahalle": "Yeni",
+    "ad": "SARIKAMIŞ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 40.32065,
+    "lon": 42.59904
+  },
+  {
+    "il": "Kars",
+    "ilce": "SARIKAMIŞ",
+    "mahalle": "Erenler",
+    "ad": "SARIKAMIŞ Hükümet Konağı / Belediye Meydanı",
+    "lat": 40.32907,
+    "lon": 42.59314
+  },
+  {
+    "il": "Kars",
+    "ilce": "SARIKAMIŞ",
+    "mahalle": "Tepe",
+    "ad": "SARIKAMIŞ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 40.32543,
+    "lon": 42.58644
+  },
+  {
+    "il": "Kars",
+    "ilce": "SARIKAMIŞ",
+    "mahalle": "Şehitler Koruluğu",
+    "ad": "SARIKAMIŞ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 40.32785,
+    "lon": 42.60118
+  },
+  {
+    "il": "Kars",
+    "ilce": "SARIKAMIŞ",
+    "mahalle": "İnönü",
+    "ad": "İnönü Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 40.33636,
+    "lon": 42.60222
+  },
+  {
+    "il": "Kars",
+    "ilce": "SARIKAMIŞ",
+    "mahalle": "Yeni",
+    "ad": "Yeni Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 40.32615,
+    "lon": 42.57183
+  },
+  {
+    "il": "Kars",
+    "ilce": "SARIKAMIŞ",
+    "mahalle": "Erenler",
+    "ad": "Erenler Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 40.33109,
+    "lon": 42.59021
+  },
+  {
+    "il": "Kars",
+    "ilce": "SARIKAMIŞ",
+    "mahalle": "Tepe",
+    "ad": "Tepe Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 40.31747,
+    "lon": 42.57313
+  },
+  {
+    "il": "Kars",
+    "ilce": "SARIKAMIŞ",
+    "mahalle": "Şehitler Koruluğu",
+    "ad": "Şehitler Koruluğu Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 40.32803,
+    "lon": 42.58104
+  },
+  {
+    "il": "Kars",
+    "ilce": "SARIKAMIŞ",
+    "mahalle": "İnönü",
+    "ad": "İnönü Mahallesi Parkı ve Açık Alanı",
+    "lat": 40.32306,
+    "lon": 42.58762
+  },
+  {
+    "il": "Kars",
+    "ilce": "SARIKAMIŞ",
+    "mahalle": "Yeni",
+    "ad": "Yeni Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 40.32183,
+    "lon": 42.59125
+  },
+  {
+    "il": "Kars",
+    "ilce": "KAĞIZMAN",
+    "mahalle": "Şahindere",
+    "ad": "KAĞIZMAN Kent Meydanı ve Toplanma Alanı",
+    "lat": 40.14931,
+    "lon": 43.10754
+  },
+  {
+    "il": "Kars",
+    "ilce": "KAĞIZMAN",
+    "mahalle": "Toprakkale",
+    "ad": "KAĞIZMAN Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 40.1388,
+    "lon": 43.12802
+  },
+  {
+    "il": "Kars",
+    "ilce": "KAĞIZMAN",
+    "mahalle": "Ali Ağaoğlu",
+    "ad": "KAĞIZMAN Hükümet Konağı / Belediye Meydanı",
+    "lat": 40.13811,
+    "lon": 43.10473
+  },
+  {
+    "il": "Kars",
+    "ilce": "KAĞIZMAN",
+    "mahalle": "Bayramveren",
+    "ad": "KAĞIZMAN Millet Bahçesi ve Yeşil Alanı",
+    "lat": 40.1425,
+    "lon": 43.11305
+  },
+  {
+    "il": "Kars",
+    "ilce": "KAĞIZMAN",
+    "mahalle": "Şahindere",
+    "ad": "KAĞIZMAN Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 40.14528,
+    "lon": 43.11587
+  },
+  {
+    "il": "Kars",
+    "ilce": "KAĞIZMAN",
+    "mahalle": "Toprakkale",
+    "ad": "Toprakkale Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 40.14197,
+    "lon": 43.11154
+  },
+  {
+    "il": "Kars",
+    "ilce": "KAĞIZMAN",
+    "mahalle": "Ali Ağaoğlu",
+    "ad": "Ali Ağaoğlu Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 40.13152,
+    "lon": 43.11932
+  },
+  {
+    "il": "Kars",
+    "ilce": "KAĞIZMAN",
+    "mahalle": "Bayramveren",
+    "ad": "Bayramveren Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 40.13999,
+    "lon": 43.10013
+  },
+  {
+    "il": "Kars",
+    "ilce": "KAĞIZMAN",
+    "mahalle": "Şahindere",
+    "ad": "Şahindere Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 40.14641,
+    "lon": 43.11948
+  },
+  {
+    "il": "Kars",
+    "ilce": "KAĞIZMAN",
+    "mahalle": "Toprakkale",
+    "ad": "Toprakkale Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 40.14678,
+    "lon": 43.12208
+  },
+  {
+    "il": "Kars",
+    "ilce": "DİGOR",
+    "mahalle": "Merkez",
+    "ad": "DİGOR Kent Meydanı ve Toplanma Alanı",
+    "lat": 40.37146,
+    "lon": 43.4297
+  },
+  {
+    "il": "Kars",
+    "ilce": "DİGOR",
+    "mahalle": "Türkmeşen",
+    "ad": "DİGOR Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 40.36499,
+    "lon": 43.42245
+  },
+  {
+    "il": "Kars",
+    "ilce": "DİGOR",
+    "mahalle": "Dağpınar",
+    "ad": "DİGOR Hükümet Konağı / Belediye Meydanı",
+    "lat": 40.36151,
+    "lon": 43.40017
+  },
+  {
+    "il": "Kars",
+    "ilce": "DİGOR",
+    "mahalle": "Merkez",
+    "ad": "DİGOR Millet Bahçesi ve Yeşil Alanı",
+    "lat": 40.36143,
+    "lon": 43.4115
+  },
+  {
+    "il": "Kars",
+    "ilce": "DİGOR",
+    "mahalle": "Türkmeşen",
+    "ad": "DİGOR Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 40.38031,
+    "lon": 43.40935
+  },
+  {
+    "il": "Kars",
+    "ilce": "DİGOR",
+    "mahalle": "Dağpınar",
+    "ad": "Dağpınar Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 40.37816,
+    "lon": 43.40037
+  },
+  {
+    "il": "Kars",
+    "ilce": "DİGOR",
+    "mahalle": "Merkez",
+    "ad": "Merkez Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 40.38109,
+    "lon": 43.39707
+  },
+  {
+    "il": "Kars",
+    "ilce": "DİGOR",
+    "mahalle": "Türkmeşen",
+    "ad": "Türkmeşen Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 40.38526,
+    "lon": 43.4218
+  },
+  {
+    "il": "Kars",
+    "ilce": "SELİM",
+    "mahalle": "Çarşı",
+    "ad": "SELİM Kent Meydanı ve Toplanma Alanı",
+    "lat": 40.46173,
+    "lon": 42.8092
+  },
+  {
+    "il": "Kars",
+    "ilce": "SELİM",
+    "mahalle": "Cumhuriyet",
+    "ad": "SELİM Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 40.47041,
+    "lon": 42.80037
+  },
+  {
+    "il": "Kars",
+    "ilce": "SELİM",
+    "mahalle": "Köprübaşı",
+    "ad": "SELİM Hükümet Konağı / Belediye Meydanı",
+    "lat": 40.45895,
+    "lon": 42.79995
+  },
+  {
+    "il": "Kars",
+    "ilce": "SELİM",
+    "mahalle": "Çarşı",
+    "ad": "SELİM Millet Bahçesi ve Yeşil Alanı",
+    "lat": 40.44678,
+    "lon": 42.79953
+  },
+  {
+    "il": "Kars",
+    "ilce": "SELİM",
+    "mahalle": "Cumhuriyet",
+    "ad": "SELİM Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 40.44965,
+    "lon": 42.80318
+  },
+  {
+    "il": "Kars",
+    "ilce": "SELİM",
+    "mahalle": "Köprübaşı",
+    "ad": "Köprübaşı Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 40.45215,
+    "lon": 42.81227
+  },
+  {
+    "il": "Kars",
+    "ilce": "SELİM",
+    "mahalle": "Çarşı",
+    "ad": "Çarşı Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 40.45596,
+    "lon": 42.80015
+  },
+  {
+    "il": "Kars",
+    "ilce": "SELİM",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 40.45396,
+    "lon": 42.7917
+  },
+  {
+    "il": "Kars",
+    "ilce": "ARPAÇAY",
+    "mahalle": "Bahçeler",
+    "ad": "ARPAÇAY Kent Meydanı ve Toplanma Alanı",
+    "lat": 40.84138,
+    "lon": 43.32061
+  },
+  {
+    "il": "Kars",
+    "ilce": "ARPAÇAY",
+    "mahalle": "Ortaköy",
+    "ad": "ARPAÇAY Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 40.83611,
+    "lon": 43.32654
+  },
+  {
+    "il": "Kars",
+    "ilce": "ARPAÇAY",
+    "mahalle": "Meydancık",
+    "ad": "ARPAÇAY Hükümet Konağı / Belediye Meydanı",
+    "lat": 40.85577,
+    "lon": 43.32173
+  },
+  {
+    "il": "Kars",
+    "ilce": "ARPAÇAY",
+    "mahalle": "Bahçeler",
+    "ad": "ARPAÇAY Millet Bahçesi ve Yeşil Alanı",
+    "lat": 40.8479,
+    "lon": 43.32435
+  },
+  {
+    "il": "Kars",
+    "ilce": "ARPAÇAY",
+    "mahalle": "Ortaköy",
+    "ad": "ARPAÇAY Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 40.83619,
+    "lon": 43.32194
+  },
+  {
+    "il": "Kars",
+    "ilce": "ARPAÇAY",
+    "mahalle": "Meydancık",
+    "ad": "Meydancık Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 40.84275,
+    "lon": 43.3186
+  },
+  {
+    "il": "Kars",
+    "ilce": "ARPAÇAY",
+    "mahalle": "Bahçeler",
+    "ad": "Bahçeler Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 40.84326,
+    "lon": 43.31972
+  },
+  {
+    "il": "Kars",
+    "ilce": "AKYAKA",
+    "mahalle": "İstasyon",
+    "ad": "AKYAKA Kent Meydanı ve Toplanma Alanı",
+    "lat": 40.73978,
+    "lon": 43.60997
+  },
+  {
+    "il": "Kars",
+    "ilce": "AKYAKA",
+    "mahalle": "Cumhuriyet",
+    "ad": "AKYAKA Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 40.73846,
+    "lon": 43.62346
+  },
+  {
+    "il": "Kars",
+    "ilce": "AKYAKA",
+    "mahalle": "Kızılçakçak",
+    "ad": "AKYAKA Hükümet Konağı / Belediye Meydanı",
+    "lat": 40.74796,
+    "lon": 43.61725
+  },
+  {
+    "il": "Kars",
+    "ilce": "AKYAKA",
+    "mahalle": "İstasyon",
+    "ad": "AKYAKA Millet Bahçesi ve Yeşil Alanı",
+    "lat": 40.74013,
+    "lon": 43.63368
+  },
+  {
+    "il": "Kars",
+    "ilce": "AKYAKA",
+    "mahalle": "Cumhuriyet",
+    "ad": "AKYAKA Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 40.73302,
+    "lon": 43.60988
+  },
+  {
+    "il": "Kars",
+    "ilce": "AKYAKA",
+    "mahalle": "Kızılçakçak",
+    "ad": "Kızılçakçak Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 40.74507,
+    "lon": 43.62046
+  },
+  {
+    "il": "Kars",
+    "ilce": "SUSUZ",
+    "mahalle": "Cumhuriyet",
+    "ad": "SUSUZ Kent Meydanı ve Toplanma Alanı",
+    "lat": 40.80796,
+    "lon": 43.06313
+  },
+  {
+    "il": "Kars",
+    "ilce": "SUSUZ",
+    "mahalle": "İnönü",
+    "ad": "SUSUZ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 40.80397,
+    "lon": 43.07008
+  },
+  {
+    "il": "Kars",
+    "ilce": "SUSUZ",
+    "mahalle": "Kazım Karabekir",
+    "ad": "SUSUZ Hükümet Konağı / Belediye Meydanı",
+    "lat": 40.8076,
+    "lon": 43.06723
+  },
+  {
+    "il": "Kars",
+    "ilce": "SUSUZ",
+    "mahalle": "Cumhuriyet",
+    "ad": "SUSUZ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 40.79208,
+    "lon": 43.07776
+  },
+  {
+    "il": "Kars",
+    "ilce": "SUSUZ",
+    "mahalle": "İnönü",
+    "ad": "SUSUZ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 40.78948,
+    "lon": 43.07809
+  },
+  {
+    "il": "Kars",
+    "ilce": "SUSUZ",
+    "mahalle": "Kazım Karabekir",
+    "ad": "Kazım Karabekir Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 40.8015,
+    "lon": 43.07803
+  }
+]

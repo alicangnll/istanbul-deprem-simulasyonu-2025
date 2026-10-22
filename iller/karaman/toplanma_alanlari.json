@@ -1,0 +1,506 @@
+[
+  {
+    "il": "Karaman",
+    "ilce": "MERKEZ",
+    "mahalle": "Kirişçi",
+    "ad": "MERKEZ Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.19908,
+    "lon": 33.22594
+  },
+  {
+    "il": "Karaman",
+    "ilce": "MERKEZ",
+    "mahalle": "Mansur Dede",
+    "ad": "MERKEZ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.18815,
+    "lon": 33.22417
+  },
+  {
+    "il": "Karaman",
+    "ilce": "MERKEZ",
+    "mahalle": "Alişahane",
+    "ad": "MERKEZ Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.17796,
+    "lon": 33.23997
+  },
+  {
+    "il": "Karaman",
+    "ilce": "MERKEZ",
+    "mahalle": "Valide Sultan",
+    "ad": "MERKEZ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.18106,
+    "lon": 33.21885
+  },
+  {
+    "il": "Karaman",
+    "ilce": "MERKEZ",
+    "mahalle": "Hürriyet",
+    "ad": "MERKEZ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.16963,
+    "lon": 33.22564
+  },
+  {
+    "il": "Karaman",
+    "ilce": "MERKEZ",
+    "mahalle": "Gevher Hatun",
+    "ad": "Gevher Hatun Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.19187,
+    "lon": 33.22659
+  },
+  {
+    "il": "Karaman",
+    "ilce": "MERKEZ",
+    "mahalle": "Beyazkent",
+    "ad": "Beyazkent Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.18942,
+    "lon": 33.22407
+  },
+  {
+    "il": "Karaman",
+    "ilce": "MERKEZ",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 37.17016,
+    "lon": 33.23451
+  },
+  {
+    "il": "Karaman",
+    "ilce": "MERKEZ",
+    "mahalle": "Piri Reis",
+    "ad": "Piri Reis Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 37.18063,
+    "lon": 33.22924
+  },
+  {
+    "il": "Karaman",
+    "ilce": "MERKEZ",
+    "mahalle": "Zembilli Ali Efendi",
+    "ad": "Zembilli Ali Efendi Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 37.18813,
+    "lon": 33.19623
+  },
+  {
+    "il": "Karaman",
+    "ilce": "MERKEZ",
+    "mahalle": "Kirişçi",
+    "ad": "Kirişçi Mahallesi Parkı ve Açık Alanı",
+    "lat": 37.1728,
+    "lon": 33.22448
+  },
+  {
+    "il": "Karaman",
+    "ilce": "MERKEZ",
+    "mahalle": "Mansur Dede",
+    "ad": "Mansur Dede Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 37.18195,
+    "lon": 33.22952
+  },
+  {
+    "il": "Karaman",
+    "ilce": "MERKEZ",
+    "mahalle": "Alişahane",
+    "ad": "Alişahane Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 37.19159,
+    "lon": 33.24308
+  },
+  {
+    "il": "Karaman",
+    "ilce": "MERKEZ",
+    "mahalle": "Valide Sultan",
+    "ad": "Valide Sultan Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 37.18458,
+    "lon": 33.22887
+  },
+  {
+    "il": "Karaman",
+    "ilce": "MERKEZ",
+    "mahalle": "Hürriyet",
+    "ad": "Hürriyet Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 37.18578,
+    "lon": 33.23166
+  },
+  {
+    "il": "Karaman",
+    "ilce": "MERKEZ",
+    "mahalle": "Gevher Hatun",
+    "ad": "Gevher Hatun Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.18389,
+    "lon": 33.22865
+  },
+  {
+    "il": "Karaman",
+    "ilce": "MERKEZ",
+    "mahalle": "Beyazkent",
+    "ad": "Beyazkent Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.17984,
+    "lon": 33.23567
+  },
+  {
+    "il": "Karaman",
+    "ilce": "MERKEZ",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 37.19142,
+    "lon": 33.23377
+  },
+  {
+    "il": "Karaman",
+    "ilce": "MERKEZ",
+    "mahalle": "Piri Reis",
+    "ad": "Piri Reis Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 37.18676,
+    "lon": 33.22278
+  },
+  {
+    "il": "Karaman",
+    "ilce": "MERKEZ",
+    "mahalle": "Zembilli Ali Efendi",
+    "ad": "Zembilli Ali Efendi Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 37.18853,
+    "lon": 33.22755
+  },
+  {
+    "il": "Karaman",
+    "ilce": "MERKEZ",
+    "mahalle": "Kirişçi",
+    "ad": "Kirişçi Mahallesi Parkı ve Açık Alanı",
+    "lat": 37.18275,
+    "lon": 33.23161
+  },
+  {
+    "il": "Karaman",
+    "ilce": "MERKEZ",
+    "mahalle": "Mansur Dede",
+    "ad": "Mansur Dede Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 37.1941,
+    "lon": 33.22288
+  },
+  {
+    "il": "Karaman",
+    "ilce": "MERKEZ",
+    "mahalle": "Alişahane",
+    "ad": "Alişahane Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 37.18759,
+    "lon": 33.22836
+  },
+  {
+    "il": "Karaman",
+    "ilce": "MERKEZ",
+    "mahalle": "Valide Sultan",
+    "ad": "Valide Sultan Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 37.18981,
+    "lon": 33.22428
+  },
+  {
+    "il": "Karaman",
+    "ilce": "MERKEZ",
+    "mahalle": "Hürriyet",
+    "ad": "Hürriyet Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 37.18325,
+    "lon": 33.22082
+  },
+  {
+    "il": "Karaman",
+    "ilce": "MERKEZ",
+    "mahalle": "Gevher Hatun",
+    "ad": "Gevher Hatun Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.18251,
+    "lon": 33.2224
+  },
+  {
+    "il": "Karaman",
+    "ilce": "MERKEZ",
+    "mahalle": "Beyazkent",
+    "ad": "Beyazkent Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.19192,
+    "lon": 33.2281
+  },
+  {
+    "il": "Karaman",
+    "ilce": "MERKEZ",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 37.18338,
+    "lon": 33.22748
+  },
+  {
+    "il": "Karaman",
+    "ilce": "ERMENEK",
+    "mahalle": "Meydan",
+    "ad": "ERMENEK Kent Meydanı ve Toplanma Alanı",
+    "lat": 36.62936,
+    "lon": 32.88514
+  },
+  {
+    "il": "Karaman",
+    "ilce": "ERMENEK",
+    "mahalle": "Güllük",
+    "ad": "ERMENEK Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 36.64421,
+    "lon": 32.90307
+  },
+  {
+    "il": "Karaman",
+    "ilce": "ERMENEK",
+    "mahalle": "Taşbaşı",
+    "ad": "ERMENEK Hükümet Konağı / Belediye Meydanı",
+    "lat": 36.63288,
+    "lon": 32.88926
+  },
+  {
+    "il": "Karaman",
+    "ilce": "ERMENEK",
+    "mahalle": "Seyran",
+    "ad": "ERMENEK Millet Bahçesi ve Yeşil Alanı",
+    "lat": 36.6324,
+    "lon": 32.89169
+  },
+  {
+    "il": "Karaman",
+    "ilce": "ERMENEK",
+    "mahalle": "Değirmenlik",
+    "ad": "ERMENEK Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 36.63056,
+    "lon": 32.9026
+  },
+  {
+    "il": "Karaman",
+    "ilce": "ERMENEK",
+    "mahalle": "Meydan",
+    "ad": "Meydan Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 36.63495,
+    "lon": 32.89719
+  },
+  {
+    "il": "Karaman",
+    "ilce": "ERMENEK",
+    "mahalle": "Güllük",
+    "ad": "Güllük Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 36.63759,
+    "lon": 32.91633
+  },
+  {
+    "il": "Karaman",
+    "ilce": "ERMENEK",
+    "mahalle": "Taşbaşı",
+    "ad": "Taşbaşı Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 36.63554,
+    "lon": 32.8917
+  },
+  {
+    "il": "Karaman",
+    "ilce": "ERMENEK",
+    "mahalle": "Seyran",
+    "ad": "Seyran Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 36.64859,
+    "lon": 32.90707
+  },
+  {
+    "il": "Karaman",
+    "ilce": "ERMENEK",
+    "mahalle": "Değirmenlik",
+    "ad": "Değirmenlik Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 36.64226,
+    "lon": 32.90726
+  },
+  {
+    "il": "Karaman",
+    "ilce": "ERMENEK",
+    "mahalle": "Meydan",
+    "ad": "Meydan Mahallesi Parkı ve Açık Alanı",
+    "lat": 36.64352,
+    "lon": 32.91362
+  },
+  {
+    "il": "Karaman",
+    "ilce": "ERMENEK",
+    "mahalle": "Güllük",
+    "ad": "Güllük Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 36.63674,
+    "lon": 32.89137
+  },
+  {
+    "il": "Karaman",
+    "ilce": "SARIVELİLER",
+    "mahalle": "Merkez",
+    "ad": "SARIVELİLER Kent Meydanı ve Toplanma Alanı",
+    "lat": 36.69549,
+    "lon": 32.61796
+  },
+  {
+    "il": "Karaman",
+    "ilce": "SARIVELİLER",
+    "mahalle": "Karakuyu",
+    "ad": "SARIVELİLER Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 36.69518,
+    "lon": 32.62596
+  },
+  {
+    "il": "Karaman",
+    "ilce": "SARIVELİLER",
+    "mahalle": "Adiller",
+    "ad": "SARIVELİLER Hükümet Konağı / Belediye Meydanı",
+    "lat": 36.7034,
+    "lon": 32.61836
+  },
+  {
+    "il": "Karaman",
+    "ilce": "SARIVELİLER",
+    "mahalle": "Merkez",
+    "ad": "SARIVELİLER Millet Bahçesi ve Yeşil Alanı",
+    "lat": 36.69413,
+    "lon": 32.60511
+  },
+  {
+    "il": "Karaman",
+    "ilce": "SARIVELİLER",
+    "mahalle": "Karakuyu",
+    "ad": "SARIVELİLER Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 36.70124,
+    "lon": 32.60956
+  },
+  {
+    "il": "Karaman",
+    "ilce": "SARIVELİLER",
+    "mahalle": "Adiller",
+    "ad": "Adiller Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 36.70309,
+    "lon": 32.60694
+  },
+  {
+    "il": "Karaman",
+    "ilce": "AYRANCI",
+    "mahalle": "Yeni",
+    "ad": "AYRANCI Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.36499,
+    "lon": 33.69615
+  },
+  {
+    "il": "Karaman",
+    "ilce": "AYRANCI",
+    "mahalle": "Dede",
+    "ad": "AYRANCI Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.36213,
+    "lon": 33.71614
+  },
+  {
+    "il": "Karaman",
+    "ilce": "AYRANCI",
+    "mahalle": "İstasyon",
+    "ad": "AYRANCI Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.36228,
+    "lon": 33.70337
+  },
+  {
+    "il": "Karaman",
+    "ilce": "AYRANCI",
+    "mahalle": "Yeni",
+    "ad": "AYRANCI Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.35723,
+    "lon": 33.69168
+  },
+  {
+    "il": "Karaman",
+    "ilce": "AYRANCI",
+    "mahalle": "Dede",
+    "ad": "AYRANCI Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.36643,
+    "lon": 33.71314
+  },
+  {
+    "il": "Karaman",
+    "ilce": "AYRANCI",
+    "mahalle": "İstasyon",
+    "ad": "İstasyon Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.3675,
+    "lon": 33.70449
+  },
+  {
+    "il": "Karaman",
+    "ilce": "KAZIMKARABEKİR",
+    "mahalle": "Pazar",
+    "ad": "KAZIMKARABEKİR Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.24066,
+    "lon": 32.95382
+  },
+  {
+    "il": "Karaman",
+    "ilce": "KAZIMKARABEKİR",
+    "mahalle": "Subaşı",
+    "ad": "KAZIMKARABEKİR Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.23835,
+    "lon": 32.96
+  },
+  {
+    "il": "Karaman",
+    "ilce": "KAZIMKARABEKİR",
+    "mahalle": "Boyacılar",
+    "ad": "KAZIMKARABEKİR Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.24,
+    "lon": 32.97576
+  },
+  {
+    "il": "Karaman",
+    "ilce": "KAZIMKARABEKİR",
+    "mahalle": "Pazar",
+    "ad": "KAZIMKARABEKİR Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.24756,
+    "lon": 32.95003
+  },
+  {
+    "il": "Karaman",
+    "ilce": "KAZIMKARABEKİR",
+    "mahalle": "Subaşı",
+    "ad": "KAZIMKARABEKİR Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.24595,
+    "lon": 32.96477
+  },
+  {
+    "il": "Karaman",
+    "ilce": "KAZIMKARABEKİR",
+    "mahalle": "Boyacılar",
+    "ad": "Boyacılar Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.2258,
+    "lon": 32.96831
+  },
+  {
+    "il": "Karaman",
+    "ilce": "BAŞYAYLA",
+    "mahalle": "Başköy",
+    "ad": "BAŞYAYLA Kent Meydanı ve Toplanma Alanı",
+    "lat": 36.74537,
+    "lon": 32.68722
+  },
+  {
+    "il": "Karaman",
+    "ilce": "BAŞYAYLA",
+    "mahalle": "Göztepe",
+    "ad": "BAŞYAYLA Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 36.74781,
+    "lon": 32.69239
+  },
+  {
+    "il": "Karaman",
+    "ilce": "BAŞYAYLA",
+    "mahalle": "Kirazlı",
+    "ad": "BAŞYAYLA Hükümet Konağı / Belediye Meydanı",
+    "lat": 36.75579,
+    "lon": 32.67633
+  },
+  {
+    "il": "Karaman",
+    "ilce": "BAŞYAYLA",
+    "mahalle": "Başköy",
+    "ad": "BAŞYAYLA Millet Bahçesi ve Yeşil Alanı",
+    "lat": 36.76131,
+    "lon": 32.69223
+  },
+  {
+    "il": "Karaman",
+    "ilce": "BAŞYAYLA",
+    "mahalle": "Göztepe",
+    "ad": "BAŞYAYLA Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 36.76252,
+    "lon": 32.67844
+  }
+]

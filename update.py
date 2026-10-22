@@ -332,13 +332,13 @@ def update_camps(backup=True):
         prov_file_rel = f"iller/{slug}/toplanma_alanlari.json"
         prov_file_abs = os.path.join(ILLER_DIR, slug, "toplanma_alanlari.json")
 
-        if os.path.isdir(prov_dir):
-            try:
-                with open(prov_file_abs, "w", encoding="utf-8") as pf:
-                    json.dump(prov_camps, pf, ensure_ascii=False, indent=2)
-                sync_count += 1
-            except Exception as e:
-                log_warn(f"{slug} dosyası yazılamadı: {e}")
+        os.makedirs(prov_dir, exist_ok=True)
+        try:
+            with open(prov_file_abs, "w", encoding="utf-8") as pf:
+                json.dump(prov_camps, pf, ensure_ascii=False, indent=2)
+            sync_count += 1
+        except Exception as e:
+            log_warn(f"{slug} dosyası yazılamadı: {e}")
 
         entry = {
             "slug": slug,
@@ -365,7 +365,13 @@ def update_camps(backup=True):
 
         updated_index.append(entry)
 
-    updated_index.sort(key=lambda x: x["name"])
+    tr_alphabet = "a,b,c,ç,d,e,f,g,ğ,h,ı,i,j,k,l,m,n,o,ö,p,r,s,ş,t,u,ü,v,y,z".split(",")
+    tr_order = {c: i for i, c in enumerate(tr_alphabet)}
+    def tr_sort_key(item):
+        name = item.get("name", "").lower().replace("İ", "i").replace("I", "ı")
+        return [tr_order.get(ch, 99) for ch in name]
+
+    updated_index.sort(key=tr_sort_key)
 
     with open(ILLER_INDEX_PATH, "w", encoding="utf-8") as f:
         json.dump(updated_index, f, ensure_ascii=False, indent=2)

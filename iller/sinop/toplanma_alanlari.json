@@ -1,0 +1,634 @@
+[
+  {
+    "il": "Sinop",
+    "ilce": "MERKEZ",
+    "mahalle": "Ada",
+    "ad": "MERKEZ Kent Meydanı ve Toplanma Alanı",
+    "lat": 42.02312,
+    "lon": 35.14071
+  },
+  {
+    "il": "Sinop",
+    "ilce": "MERKEZ",
+    "mahalle": "Gelincik",
+    "ad": "MERKEZ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 42.03198,
+    "lon": 35.15983
+  },
+  {
+    "il": "Sinop",
+    "ilce": "MERKEZ",
+    "mahalle": "İncedayı",
+    "ad": "MERKEZ Hükümet Konağı / Belediye Meydanı",
+    "lat": 42.01613,
+    "lon": 35.14571
+  },
+  {
+    "il": "Sinop",
+    "ilce": "MERKEZ",
+    "mahalle": "Kaleyazısı",
+    "ad": "MERKEZ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 42.02341,
+    "lon": 35.14913
+  },
+  {
+    "il": "Sinop",
+    "ilce": "MERKEZ",
+    "mahalle": "Kefevi",
+    "ad": "MERKEZ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 42.037,
+    "lon": 35.14606
+  },
+  {
+    "il": "Sinop",
+    "ilce": "MERKEZ",
+    "mahalle": "Meydankapı",
+    "ad": "Meydankapı Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 42.02127,
+    "lon": 35.16017
+  },
+  {
+    "il": "Sinop",
+    "ilce": "MERKEZ",
+    "mahalle": "Zeytinlik",
+    "ad": "Zeytinlik Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 42.03384,
+    "lon": 35.15039
+  },
+  {
+    "il": "Sinop",
+    "ilce": "MERKEZ",
+    "mahalle": "Bostancılı",
+    "ad": "Bostancılı Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 42.03338,
+    "lon": 35.14977
+  },
+  {
+    "il": "Sinop",
+    "ilce": "MERKEZ",
+    "mahalle": "Ada",
+    "ad": "Ada Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 42.01231,
+    "lon": 35.17198
+  },
+  {
+    "il": "Sinop",
+    "ilce": "MERKEZ",
+    "mahalle": "Gelincik",
+    "ad": "Gelincik Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 42.02336,
+    "lon": 35.14007
+  },
+  {
+    "il": "Sinop",
+    "ilce": "MERKEZ",
+    "mahalle": "İncedayı",
+    "ad": "İncedayı Mahallesi Parkı ve Açık Alanı",
+    "lat": 42.01832,
+    "lon": 35.1588
+  },
+  {
+    "il": "Sinop",
+    "ilce": "MERKEZ",
+    "mahalle": "Kaleyazısı",
+    "ad": "Kaleyazısı Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 42.02209,
+    "lon": 35.14898
+  },
+  {
+    "il": "Sinop",
+    "ilce": "MERKEZ",
+    "mahalle": "Kefevi",
+    "ad": "Kefevi Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 42.0213,
+    "lon": 35.14117
+  },
+  {
+    "il": "Sinop",
+    "ilce": "MERKEZ",
+    "mahalle": "Meydankapı",
+    "ad": "Meydankapı Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 42.02097,
+    "lon": 35.15403
+  },
+  {
+    "il": "Sinop",
+    "ilce": "MERKEZ",
+    "mahalle": "Zeytinlik",
+    "ad": "Zeytinlik Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 42.04028,
+    "lon": 35.15786
+  },
+  {
+    "il": "Sinop",
+    "ilce": "MERKEZ",
+    "mahalle": "Bostancılı",
+    "ad": "Bostancılı Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 42.02109,
+    "lon": 35.16961
+  },
+  {
+    "il": "Sinop",
+    "ilce": "MERKEZ",
+    "mahalle": "Ada",
+    "ad": "Ada Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 42.03666,
+    "lon": 35.14138
+  },
+  {
+    "il": "Sinop",
+    "ilce": "MERKEZ",
+    "mahalle": "Gelincik",
+    "ad": "Gelincik Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 42.02569,
+    "lon": 35.14583
+  },
+  {
+    "il": "Sinop",
+    "ilce": "MERKEZ",
+    "mahalle": "İncedayı",
+    "ad": "İncedayı Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 42.03982,
+    "lon": 35.15303
+  },
+  {
+    "il": "Sinop",
+    "ilce": "MERKEZ",
+    "mahalle": "Kaleyazısı",
+    "ad": "Kaleyazısı Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 42.03019,
+    "lon": 35.1374
+  },
+  {
+    "il": "Sinop",
+    "ilce": "MERKEZ",
+    "mahalle": "Kefevi",
+    "ad": "Kefevi Mahallesi Parkı ve Açık Alanı",
+    "lat": 42.02996,
+    "lon": 35.1499
+  },
+  {
+    "il": "Sinop",
+    "ilce": "MERKEZ",
+    "mahalle": "Meydankapı",
+    "ad": "Meydankapı Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 42.02856,
+    "lon": 35.1461
+  },
+  {
+    "il": "Sinop",
+    "ilce": "MERKEZ",
+    "mahalle": "Zeytinlik",
+    "ad": "Zeytinlik Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 42.03495,
+    "lon": 35.15517
+  },
+  {
+    "il": "Sinop",
+    "ilce": "MERKEZ",
+    "mahalle": "Bostancılı",
+    "ad": "Bostancılı Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 42.027,
+    "lon": 35.15499
+  },
+  {
+    "il": "Sinop",
+    "ilce": "BOYABAT",
+    "mahalle": "Camikebir",
+    "ad": "BOYABAT Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.47066,
+    "lon": 34.76287
+  },
+  {
+    "il": "Sinop",
+    "ilce": "BOYABAT",
+    "mahalle": "Kumluk",
+    "ad": "BOYABAT Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.4651,
+    "lon": 34.77458
+  },
+  {
+    "il": "Sinop",
+    "ilce": "BOYABAT",
+    "mahalle": "Yıldız",
+    "ad": "BOYABAT Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.47106,
+    "lon": 34.77399
+  },
+  {
+    "il": "Sinop",
+    "ilce": "BOYABAT",
+    "mahalle": "Gökdere",
+    "ad": "BOYABAT Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.47656,
+    "lon": 34.76877
+  },
+  {
+    "il": "Sinop",
+    "ilce": "BOYABAT",
+    "mahalle": "Camikebir",
+    "ad": "BOYABAT Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.46986,
+    "lon": 34.76768
+  },
+  {
+    "il": "Sinop",
+    "ilce": "BOYABAT",
+    "mahalle": "Kumluk",
+    "ad": "Kumluk Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.46289,
+    "lon": 34.76965
+  },
+  {
+    "il": "Sinop",
+    "ilce": "BOYABAT",
+    "mahalle": "Yıldız",
+    "ad": "Yıldız Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.47344,
+    "lon": 34.77229
+  },
+  {
+    "il": "Sinop",
+    "ilce": "BOYABAT",
+    "mahalle": "Gökdere",
+    "ad": "Gökdere Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.47174,
+    "lon": 34.77013
+  },
+  {
+    "il": "Sinop",
+    "ilce": "BOYABAT",
+    "mahalle": "Camikebir",
+    "ad": "Camikebir Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 41.45974,
+    "lon": 34.76609
+  },
+  {
+    "il": "Sinop",
+    "ilce": "BOYABAT",
+    "mahalle": "Kumluk",
+    "ad": "Kumluk Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 41.46938,
+    "lon": 34.76067
+  },
+  {
+    "il": "Sinop",
+    "ilce": "BOYABAT",
+    "mahalle": "Yıldız",
+    "ad": "Yıldız Mahallesi Parkı ve Açık Alanı",
+    "lat": 41.47019,
+    "lon": 34.762
+  },
+  {
+    "il": "Sinop",
+    "ilce": "BOYABAT",
+    "mahalle": "Gökdere",
+    "ad": "Gökdere Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 41.46957,
+    "lon": 34.76762
+  },
+  {
+    "il": "Sinop",
+    "ilce": "GERZE",
+    "mahalle": "Cumhuriyet",
+    "ad": "GERZE Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.79656,
+    "lon": 35.19372
+  },
+  {
+    "il": "Sinop",
+    "ilce": "GERZE",
+    "mahalle": "19 Mayıs",
+    "ad": "GERZE Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.80844,
+    "lon": 35.20452
+  },
+  {
+    "il": "Sinop",
+    "ilce": "GERZE",
+    "mahalle": "Hamidiye",
+    "ad": "GERZE Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.78986,
+    "lon": 35.18791
+  },
+  {
+    "il": "Sinop",
+    "ilce": "GERZE",
+    "mahalle": "Köşk",
+    "ad": "GERZE Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.81391,
+    "lon": 35.1975
+  },
+  {
+    "il": "Sinop",
+    "ilce": "GERZE",
+    "mahalle": "Cumhuriyet",
+    "ad": "GERZE Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.79394,
+    "lon": 35.19194
+  },
+  {
+    "il": "Sinop",
+    "ilce": "GERZE",
+    "mahalle": "19 Mayıs",
+    "ad": "19 Mayıs Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.78732,
+    "lon": 35.19726
+  },
+  {
+    "il": "Sinop",
+    "ilce": "GERZE",
+    "mahalle": "Hamidiye",
+    "ad": "Hamidiye Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.79597,
+    "lon": 35.19409
+  },
+  {
+    "il": "Sinop",
+    "ilce": "GERZE",
+    "mahalle": "Köşk",
+    "ad": "Köşk Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.79596,
+    "lon": 35.18943
+  },
+  {
+    "il": "Sinop",
+    "ilce": "GERZE",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 41.81028,
+    "lon": 35.19182
+  },
+  {
+    "il": "Sinop",
+    "ilce": "GERZE",
+    "mahalle": "19 Mayıs",
+    "ad": "19 Mayıs Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 41.8003,
+    "lon": 35.19327
+  },
+  {
+    "il": "Sinop",
+    "ilce": "AYANCIK",
+    "mahalle": "Cevizli",
+    "ad": "AYANCIK Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.96294,
+    "lon": 34.58632
+  },
+  {
+    "il": "Sinop",
+    "ilce": "AYANCIK",
+    "mahalle": "Yalı",
+    "ad": "AYANCIK Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.94851,
+    "lon": 34.58594
+  },
+  {
+    "il": "Sinop",
+    "ilce": "AYANCIK",
+    "mahalle": "Belediye Meydanı",
+    "ad": "AYANCIK Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.94191,
+    "lon": 34.60603
+  },
+  {
+    "il": "Sinop",
+    "ilce": "AYANCIK",
+    "mahalle": "Cevizli",
+    "ad": "AYANCIK Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.95847,
+    "lon": 34.58548
+  },
+  {
+    "il": "Sinop",
+    "ilce": "AYANCIK",
+    "mahalle": "Yalı",
+    "ad": "AYANCIK Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.96231,
+    "lon": 34.57988
+  },
+  {
+    "il": "Sinop",
+    "ilce": "AYANCIK",
+    "mahalle": "Belediye Meydanı",
+    "ad": "Belediye Meydanı Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.9413,
+    "lon": 34.59698
+  },
+  {
+    "il": "Sinop",
+    "ilce": "AYANCIK",
+    "mahalle": "Cevizli",
+    "ad": "Cevizli Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.93044,
+    "lon": 34.59955
+  },
+  {
+    "il": "Sinop",
+    "ilce": "AYANCIK",
+    "mahalle": "Yalı",
+    "ad": "Yalı Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.93664,
+    "lon": 34.58706
+  },
+  {
+    "il": "Sinop",
+    "ilce": "DURAĞAN",
+    "mahalle": "Buzluk",
+    "ad": "DURAĞAN Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.41487,
+    "lon": 35.05042
+  },
+  {
+    "il": "Sinop",
+    "ilce": "DURAĞAN",
+    "mahalle": "Cumhuriyet",
+    "ad": "DURAĞAN Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.42488,
+    "lon": 35.06177
+  },
+  {
+    "il": "Sinop",
+    "ilce": "DURAĞAN",
+    "mahalle": "Merkez",
+    "ad": "DURAĞAN Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.42141,
+    "lon": 35.04369
+  },
+  {
+    "il": "Sinop",
+    "ilce": "DURAĞAN",
+    "mahalle": "Buzluk",
+    "ad": "DURAĞAN Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.42327,
+    "lon": 35.0492
+  },
+  {
+    "il": "Sinop",
+    "ilce": "DURAĞAN",
+    "mahalle": "Cumhuriyet",
+    "ad": "DURAĞAN Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.41152,
+    "lon": 35.07145
+  },
+  {
+    "il": "Sinop",
+    "ilce": "DURAĞAN",
+    "mahalle": "Merkez",
+    "ad": "Merkez Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.41459,
+    "lon": 35.05821
+  },
+  {
+    "il": "Sinop",
+    "ilce": "TÜRKELİ",
+    "mahalle": "Güzelyurt",
+    "ad": "TÜRKELİ Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.94806,
+    "lon": 34.35926
+  },
+  {
+    "il": "Sinop",
+    "ilce": "TÜRKELİ",
+    "mahalle": "Gemiyanı",
+    "ad": "TÜRKELİ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.94982,
+    "lon": 34.34716
+  },
+  {
+    "il": "Sinop",
+    "ilce": "TÜRKELİ",
+    "mahalle": "Tümbek",
+    "ad": "TÜRKELİ Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.96221,
+    "lon": 34.34762
+  },
+  {
+    "il": "Sinop",
+    "ilce": "TÜRKELİ",
+    "mahalle": "Güzelyurt",
+    "ad": "TÜRKELİ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.95594,
+    "lon": 34.33375
+  },
+  {
+    "il": "Sinop",
+    "ilce": "TÜRKELİ",
+    "mahalle": "Gemiyanı",
+    "ad": "TÜRKELİ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.95795,
+    "lon": 34.34092
+  },
+  {
+    "il": "Sinop",
+    "ilce": "TÜRKELİ",
+    "mahalle": "Tümbek",
+    "ad": "Tümbek Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.9524,
+    "lon": 34.33513
+  },
+  {
+    "il": "Sinop",
+    "ilce": "ERFELEK",
+    "mahalle": "Kınık",
+    "ad": "ERFELEK Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.86373,
+    "lon": 34.90984
+  },
+  {
+    "il": "Sinop",
+    "ilce": "ERFELEK",
+    "mahalle": "Merkez",
+    "ad": "ERFELEK Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.87167,
+    "lon": 34.91271
+  },
+  {
+    "il": "Sinop",
+    "ilce": "ERFELEK",
+    "mahalle": "Şelale Park",
+    "ad": "ERFELEK Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.87063,
+    "lon": 34.91529
+  },
+  {
+    "il": "Sinop",
+    "ilce": "ERFELEK",
+    "mahalle": "Kınık",
+    "ad": "ERFELEK Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.86704,
+    "lon": 34.91083
+  },
+  {
+    "il": "Sinop",
+    "ilce": "ERFELEK",
+    "mahalle": "Merkez",
+    "ad": "ERFELEK Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.8639,
+    "lon": 34.91876
+  },
+  {
+    "il": "Sinop",
+    "ilce": "DİKMEN",
+    "mahalle": "Kırçal",
+    "ad": "DİKMEN Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.6404,
+    "lon": 35.20876
+  },
+  {
+    "il": "Sinop",
+    "ilce": "DİKMEN",
+    "mahalle": "Merkez",
+    "ad": "DİKMEN Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.66203,
+    "lon": 35.21
+  },
+  {
+    "il": "Sinop",
+    "ilce": "DİKMEN",
+    "mahalle": "Kırçal",
+    "ad": "DİKMEN Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.65006,
+    "lon": 35.21904
+  },
+  {
+    "il": "Sinop",
+    "ilce": "DİKMEN",
+    "mahalle": "Merkez",
+    "ad": "DİKMEN Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.65455,
+    "lon": 35.20096
+  },
+  {
+    "il": "Sinop",
+    "ilce": "SARAYDÜZÜ",
+    "mahalle": "Cumhuriyet",
+    "ad": "SARAYDÜZÜ Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.31419,
+    "lon": 34.84516
+  },
+  {
+    "il": "Sinop",
+    "ilce": "SARAYDÜZÜ",
+    "mahalle": "Merkez",
+    "ad": "SARAYDÜZÜ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.31792,
+    "lon": 34.85417
+  },
+  {
+    "il": "Sinop",
+    "ilce": "SARAYDÜZÜ",
+    "mahalle": "Cumhuriyet",
+    "ad": "SARAYDÜZÜ Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.32573,
+    "lon": 34.84577
+  },
+  {
+    "il": "Sinop",
+    "ilce": "SARAYDÜZÜ",
+    "mahalle": "Merkez",
+    "ad": "SARAYDÜZÜ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.33555,
+    "lon": 34.83573
+  }
+]

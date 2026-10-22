@@ -1,0 +1,554 @@
+[
+  {
+    "il": "Muş",
+    "ilce": "MERKEZ",
+    "mahalle": "Sunay",
+    "ad": "MERKEZ Kent Meydanı ve Toplanma Alanı",
+    "lat": 38.73417,
+    "lon": 41.48748
+  },
+  {
+    "il": "Muş",
+    "ilce": "MERKEZ",
+    "mahalle": "Yeşilyurt",
+    "ad": "MERKEZ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 38.74896,
+    "lon": 41.48789
+  },
+  {
+    "il": "Muş",
+    "ilce": "MERKEZ",
+    "mahalle": "Kültür",
+    "ad": "MERKEZ Hükümet Konağı / Belediye Meydanı",
+    "lat": 38.74839,
+    "lon": 41.48473
+  },
+  {
+    "il": "Muş",
+    "ilce": "MERKEZ",
+    "mahalle": "Saray",
+    "ad": "MERKEZ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 38.73678,
+    "lon": 41.49208
+  },
+  {
+    "il": "Muş",
+    "ilce": "MERKEZ",
+    "mahalle": "Zafer",
+    "ad": "MERKEZ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 38.73681,
+    "lon": 41.50709
+  },
+  {
+    "il": "Muş",
+    "ilce": "MERKEZ",
+    "mahalle": "Hürriyet",
+    "ad": "Hürriyet Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 38.75533,
+    "lon": 41.50299
+  },
+  {
+    "il": "Muş",
+    "ilce": "MERKEZ",
+    "mahalle": "Karşıyaka",
+    "ad": "Karşıyaka Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 38.74434,
+    "lon": 41.48888
+  },
+  {
+    "il": "Muş",
+    "ilce": "MERKEZ",
+    "mahalle": "Muratpaşa",
+    "ad": "Muratpaşa Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 38.74505,
+    "lon": 41.50867
+  },
+  {
+    "il": "Muş",
+    "ilce": "MERKEZ",
+    "mahalle": "Sunay",
+    "ad": "Sunay Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 38.74324,
+    "lon": 41.50458
+  },
+  {
+    "il": "Muş",
+    "ilce": "MERKEZ",
+    "mahalle": "Yeşilyurt",
+    "ad": "Yeşilyurt Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 38.73999,
+    "lon": 41.49195
+  },
+  {
+    "il": "Muş",
+    "ilce": "MERKEZ",
+    "mahalle": "Kültür",
+    "ad": "Kültür Mahallesi Parkı ve Açık Alanı",
+    "lat": 38.7441,
+    "lon": 41.48169
+  },
+  {
+    "il": "Muş",
+    "ilce": "MERKEZ",
+    "mahalle": "Saray",
+    "ad": "Saray Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 38.74432,
+    "lon": 41.49156
+  },
+  {
+    "il": "Muş",
+    "ilce": "MERKEZ",
+    "mahalle": "Zafer",
+    "ad": "Zafer Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 38.75399,
+    "lon": 41.48713
+  },
+  {
+    "il": "Muş",
+    "ilce": "MERKEZ",
+    "mahalle": "Hürriyet",
+    "ad": "Hürriyet Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 38.74706,
+    "lon": 41.48869
+  },
+  {
+    "il": "Muş",
+    "ilce": "MERKEZ",
+    "mahalle": "Karşıyaka",
+    "ad": "Karşıyaka Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 38.74281,
+    "lon": 41.49722
+  },
+  {
+    "il": "Muş",
+    "ilce": "MERKEZ",
+    "mahalle": "Muratpaşa",
+    "ad": "Muratpaşa Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 38.74824,
+    "lon": 41.50196
+  },
+  {
+    "il": "Muş",
+    "ilce": "MERKEZ",
+    "mahalle": "Sunay",
+    "ad": "Sunay Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 38.7476,
+    "lon": 41.50097
+  },
+  {
+    "il": "Muş",
+    "ilce": "MERKEZ",
+    "mahalle": "Yeşilyurt",
+    "ad": "Yeşilyurt Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 38.74073,
+    "lon": 41.48752
+  },
+  {
+    "il": "Muş",
+    "ilce": "MERKEZ",
+    "mahalle": "Kültür",
+    "ad": "Kültür Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 38.73914,
+    "lon": 41.49537
+  },
+  {
+    "il": "Muş",
+    "ilce": "MERKEZ",
+    "mahalle": "Saray",
+    "ad": "Saray Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 38.73546,
+    "lon": 41.49534
+  },
+  {
+    "il": "Muş",
+    "ilce": "MERKEZ",
+    "mahalle": "Zafer",
+    "ad": "Zafer Mahallesi Parkı ve Açık Alanı",
+    "lat": 38.74062,
+    "lon": 41.48951
+  },
+  {
+    "il": "Muş",
+    "ilce": "MERKEZ",
+    "mahalle": "Hürriyet",
+    "ad": "Hürriyet Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 38.74957,
+    "lon": 41.49913
+  },
+  {
+    "il": "Muş",
+    "ilce": "MERKEZ",
+    "mahalle": "Karşıyaka",
+    "ad": "Karşıyaka Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 38.73993,
+    "lon": 41.50241
+  },
+  {
+    "il": "Muş",
+    "ilce": "MERKEZ",
+    "mahalle": "Muratpaşa",
+    "ad": "Muratpaşa Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 38.75133,
+    "lon": 41.48203
+  },
+  {
+    "il": "Muş",
+    "ilce": "BULANIK",
+    "mahalle": "Bahçelievler",
+    "ad": "BULANIK Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.08489,
+    "lon": 42.28984
+  },
+  {
+    "il": "Muş",
+    "ilce": "BULANIK",
+    "mahalle": "İnönü",
+    "ad": "BULANIK Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.08442,
+    "lon": 42.28424
+  },
+  {
+    "il": "Muş",
+    "ilce": "BULANIK",
+    "mahalle": "Şehitlik",
+    "ad": "BULANIK Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.10086,
+    "lon": 42.27608
+  },
+  {
+    "il": "Muş",
+    "ilce": "BULANIK",
+    "mahalle": "Yeni",
+    "ad": "BULANIK Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.08259,
+    "lon": 42.27801
+  },
+  {
+    "il": "Muş",
+    "ilce": "BULANIK",
+    "mahalle": "Bahçelievler",
+    "ad": "BULANIK Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.07877,
+    "lon": 42.27741
+  },
+  {
+    "il": "Muş",
+    "ilce": "BULANIK",
+    "mahalle": "İnönü",
+    "ad": "İnönü Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.08409,
+    "lon": 42.27696
+  },
+  {
+    "il": "Muş",
+    "ilce": "BULANIK",
+    "mahalle": "Şehitlik",
+    "ad": "Şehitlik Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 39.08956,
+    "lon": 42.27493
+  },
+  {
+    "il": "Muş",
+    "ilce": "BULANIK",
+    "mahalle": "Yeni",
+    "ad": "Yeni Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 39.08481,
+    "lon": 42.27887
+  },
+  {
+    "il": "Muş",
+    "ilce": "BULANIK",
+    "mahalle": "Bahçelievler",
+    "ad": "Bahçelievler Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 39.08067,
+    "lon": 42.28101
+  },
+  {
+    "il": "Muş",
+    "ilce": "BULANIK",
+    "mahalle": "İnönü",
+    "ad": "İnönü Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 39.09414,
+    "lon": 42.26835
+  },
+  {
+    "il": "Muş",
+    "ilce": "BULANIK",
+    "mahalle": "Şehitlik",
+    "ad": "Şehitlik Mahallesi Parkı ve Açık Alanı",
+    "lat": 39.08445,
+    "lon": 42.2854
+  },
+  {
+    "il": "Muş",
+    "ilce": "BULANIK",
+    "mahalle": "Yeni",
+    "ad": "Yeni Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 39.09184,
+    "lon": 42.29176
+  },
+  {
+    "il": "Muş",
+    "ilce": "MALAZGİRT",
+    "mahalle": "Meydan",
+    "ad": "MALAZGİRT Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.14453,
+    "lon": 42.54404
+  },
+  {
+    "il": "Muş",
+    "ilce": "MALAZGİRT",
+    "mahalle": "Kültür",
+    "ad": "MALAZGİRT Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.14501,
+    "lon": 42.53567
+  },
+  {
+    "il": "Muş",
+    "ilce": "MALAZGİRT",
+    "mahalle": "Selçuklu",
+    "ad": "MALAZGİRT Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.14281,
+    "lon": 42.53372
+  },
+  {
+    "il": "Muş",
+    "ilce": "MALAZGİRT",
+    "mahalle": "Murat",
+    "ad": "MALAZGİRT Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.1581,
+    "lon": 42.54097
+  },
+  {
+    "il": "Muş",
+    "ilce": "MALAZGİRT",
+    "mahalle": "Meydan",
+    "ad": "MALAZGİRT Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.15611,
+    "lon": 42.55024
+  },
+  {
+    "il": "Muş",
+    "ilce": "MALAZGİRT",
+    "mahalle": "Kültür",
+    "ad": "Kültür Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.16299,
+    "lon": 42.5327
+  },
+  {
+    "il": "Muş",
+    "ilce": "MALAZGİRT",
+    "mahalle": "Selçuklu",
+    "ad": "Selçuklu Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 39.14896,
+    "lon": 42.54772
+  },
+  {
+    "il": "Muş",
+    "ilce": "MALAZGİRT",
+    "mahalle": "Murat",
+    "ad": "Murat Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 39.16419,
+    "lon": 42.52678
+  },
+  {
+    "il": "Muş",
+    "ilce": "MALAZGİRT",
+    "mahalle": "Meydan",
+    "ad": "Meydan Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 39.14712,
+    "lon": 42.53798
+  },
+  {
+    "il": "Muş",
+    "ilce": "MALAZGİRT",
+    "mahalle": "Kültür",
+    "ad": "Kültür Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 39.146,
+    "lon": 42.55707
+  },
+  {
+    "il": "Muş",
+    "ilce": "MALAZGİRT",
+    "mahalle": "Selçuklu",
+    "ad": "Selçuklu Mahallesi Parkı ve Açık Alanı",
+    "lat": 39.13758,
+    "lon": 42.53482
+  },
+  {
+    "il": "Muş",
+    "ilce": "MALAZGİRT",
+    "mahalle": "Murat",
+    "ad": "Murat Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 39.15013,
+    "lon": 42.5389
+  },
+  {
+    "il": "Muş",
+    "ilce": "VARTO",
+    "mahalle": "Gümgüm",
+    "ad": "VARTO Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.17328,
+    "lon": 41.46388
+  },
+  {
+    "il": "Muş",
+    "ilce": "VARTO",
+    "mahalle": "Alagöz",
+    "ad": "VARTO Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.18429,
+    "lon": 41.44942
+  },
+  {
+    "il": "Muş",
+    "ilce": "VARTO",
+    "mahalle": "Kültür",
+    "ad": "VARTO Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.18141,
+    "lon": 41.44438
+  },
+  {
+    "il": "Muş",
+    "ilce": "VARTO",
+    "mahalle": "Gümgüm",
+    "ad": "VARTO Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.16658,
+    "lon": 41.45087
+  },
+  {
+    "il": "Muş",
+    "ilce": "VARTO",
+    "mahalle": "Alagöz",
+    "ad": "VARTO Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.17014,
+    "lon": 41.46355
+  },
+  {
+    "il": "Muş",
+    "ilce": "VARTO",
+    "mahalle": "Kültür",
+    "ad": "Kültür Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.17235,
+    "lon": 41.45513
+  },
+  {
+    "il": "Muş",
+    "ilce": "VARTO",
+    "mahalle": "Gümgüm",
+    "ad": "Gümgüm Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 39.18234,
+    "lon": 41.45299
+  },
+  {
+    "il": "Muş",
+    "ilce": "VARTO",
+    "mahalle": "Alagöz",
+    "ad": "Alagöz Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 39.17469,
+    "lon": 41.4604
+  },
+  {
+    "il": "Muş",
+    "ilce": "HASKÖY",
+    "mahalle": "Sunay",
+    "ad": "HASKÖY Kent Meydanı ve Toplanma Alanı",
+    "lat": 38.68266,
+    "lon": 41.67163
+  },
+  {
+    "il": "Muş",
+    "ilce": "HASKÖY",
+    "mahalle": "Saygan",
+    "ad": "HASKÖY Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 38.68258,
+    "lon": 41.70543
+  },
+  {
+    "il": "Muş",
+    "ilce": "HASKÖY",
+    "mahalle": "Sayan",
+    "ad": "HASKÖY Hükümet Konağı / Belediye Meydanı",
+    "lat": 38.67543,
+    "lon": 41.69055
+  },
+  {
+    "il": "Muş",
+    "ilce": "HASKÖY",
+    "mahalle": "Sunay",
+    "ad": "HASKÖY Millet Bahçesi ve Yeşil Alanı",
+    "lat": 38.67945,
+    "lon": 41.68726
+  },
+  {
+    "il": "Muş",
+    "ilce": "HASKÖY",
+    "mahalle": "Saygan",
+    "ad": "HASKÖY Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 38.69084,
+    "lon": 41.68045
+  },
+  {
+    "il": "Muş",
+    "ilce": "HASKÖY",
+    "mahalle": "Sayan",
+    "ad": "Sayan Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 38.6884,
+    "lon": 41.68897
+  },
+  {
+    "il": "Muş",
+    "ilce": "HASKÖY",
+    "mahalle": "Sunay",
+    "ad": "Sunay Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 38.68483,
+    "lon": 41.68432
+  },
+  {
+    "il": "Muş",
+    "ilce": "KORKUT",
+    "mahalle": "Merkez",
+    "ad": "KORKUT Kent Meydanı ve Toplanma Alanı",
+    "lat": 38.73437,
+    "lon": 41.77636
+  },
+  {
+    "il": "Muş",
+    "ilce": "KORKUT",
+    "mahalle": "Kümbet",
+    "ad": "KORKUT Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 38.72428,
+    "lon": 41.77969
+  },
+  {
+    "il": "Muş",
+    "ilce": "KORKUT",
+    "mahalle": "Alazlı",
+    "ad": "KORKUT Hükümet Konağı / Belediye Meydanı",
+    "lat": 38.72651,
+    "lon": 41.76562
+  },
+  {
+    "il": "Muş",
+    "ilce": "KORKUT",
+    "mahalle": "Merkez",
+    "ad": "KORKUT Millet Bahçesi ve Yeşil Alanı",
+    "lat": 38.71934,
+    "lon": 41.76117
+  },
+  {
+    "il": "Muş",
+    "ilce": "KORKUT",
+    "mahalle": "Kümbet",
+    "ad": "KORKUT Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 38.71781,
+    "lon": 41.7761
+  },
+  {
+    "il": "Muş",
+    "ilce": "KORKUT",
+    "mahalle": "Alazlı",
+    "ad": "Alazlı Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 38.73689,
+    "lon": 41.7808
+  }
+]

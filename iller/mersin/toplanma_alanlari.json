@@ -1,0 +1,1186 @@
+[
+  {
+    "il": "Mersin",
+    "ilce": "AKDENİZ",
+    "mahalle": "Camiişerif",
+    "ad": "AKDENİZ Kent Meydanı ve Toplanma Alanı",
+    "lat": 36.80344,
+    "lon": 34.62188
+  },
+  {
+    "il": "Mersin",
+    "ilce": "AKDENİZ",
+    "mahalle": "Kiremithane",
+    "ad": "AKDENİZ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 36.80621,
+    "lon": 34.63269
+  },
+  {
+    "il": "Mersin",
+    "ilce": "AKDENİZ",
+    "mahalle": "İhsaniye",
+    "ad": "AKDENİZ Hükümet Konağı / Belediye Meydanı",
+    "lat": 36.79292,
+    "lon": 34.62911
+  },
+  {
+    "il": "Mersin",
+    "ilce": "AKDENİZ",
+    "mahalle": "Barış",
+    "ad": "AKDENİZ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 36.80481,
+    "lon": 34.63702
+  },
+  {
+    "il": "Mersin",
+    "ilce": "AKDENİZ",
+    "mahalle": "Mesudiye",
+    "ad": "AKDENİZ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 36.80149,
+    "lon": 34.6397
+  },
+  {
+    "il": "Mersin",
+    "ilce": "AKDENİZ",
+    "mahalle": "Nusratiye",
+    "ad": "Nusratiye Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 36.79645,
+    "lon": 34.62049
+  },
+  {
+    "il": "Mersin",
+    "ilce": "AKDENİZ",
+    "mahalle": "Gündoğdu",
+    "ad": "Gündoğdu Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 36.80267,
+    "lon": 34.61887
+  },
+  {
+    "il": "Mersin",
+    "ilce": "AKDENİZ",
+    "mahalle": "Şevket Sümer",
+    "ad": "Şevket Sümer Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 36.79887,
+    "lon": 34.61804
+  },
+  {
+    "il": "Mersin",
+    "ilce": "AKDENİZ",
+    "mahalle": "Çilek",
+    "ad": "Çilek Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 36.78207,
+    "lon": 34.63047
+  },
+  {
+    "il": "Mersin",
+    "ilce": "AKDENİZ",
+    "mahalle": "Karaduvar",
+    "ad": "Karaduvar Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 36.80709,
+    "lon": 34.63027
+  },
+  {
+    "il": "Mersin",
+    "ilce": "AKDENİZ",
+    "mahalle": "Camiişerif",
+    "ad": "Camiişerif Mahallesi Parkı ve Açık Alanı",
+    "lat": 36.80615,
+    "lon": 34.62484
+  },
+  {
+    "il": "Mersin",
+    "ilce": "AKDENİZ",
+    "mahalle": "Kiremithane",
+    "ad": "Kiremithane Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 36.80884,
+    "lon": 34.63295
+  },
+  {
+    "il": "Mersin",
+    "ilce": "AKDENİZ",
+    "mahalle": "İhsaniye",
+    "ad": "İhsaniye Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 36.80905,
+    "lon": 34.62057
+  },
+  {
+    "il": "Mersin",
+    "ilce": "AKDENİZ",
+    "mahalle": "Barış",
+    "ad": "Barış Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 36.80766,
+    "lon": 34.63796
+  },
+  {
+    "il": "Mersin",
+    "ilce": "AKDENİZ",
+    "mahalle": "Mesudiye",
+    "ad": "Mesudiye Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 36.80846,
+    "lon": 34.62871
+  },
+  {
+    "il": "Mersin",
+    "ilce": "AKDENİZ",
+    "mahalle": "Nusratiye",
+    "ad": "Nusratiye Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 36.7908,
+    "lon": 34.63216
+  },
+  {
+    "il": "Mersin",
+    "ilce": "AKDENİZ",
+    "mahalle": "Gündoğdu",
+    "ad": "Gündoğdu Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 36.7926,
+    "lon": 34.63795
+  },
+  {
+    "il": "Mersin",
+    "ilce": "AKDENİZ",
+    "mahalle": "Şevket Sümer",
+    "ad": "Şevket Sümer Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 36.79889,
+    "lon": 34.62486
+  },
+  {
+    "il": "Mersin",
+    "ilce": "MEZİTLİ",
+    "mahalle": "Merkez",
+    "ad": "MEZİTLİ Kent Meydanı ve Toplanma Alanı",
+    "lat": 36.7615,
+    "lon": 34.53694
+  },
+  {
+    "il": "Mersin",
+    "ilce": "MEZİTLİ",
+    "mahalle": "Viranşehir",
+    "ad": "MEZİTLİ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 36.76246,
+    "lon": 34.56095
+  },
+  {
+    "il": "Mersin",
+    "ilce": "MEZİTLİ",
+    "mahalle": "Akdeniz",
+    "ad": "MEZİTLİ Hükümet Konağı / Belediye Meydanı",
+    "lat": 36.75593,
+    "lon": 34.53599
+  },
+  {
+    "il": "Mersin",
+    "ilce": "MEZİTLİ",
+    "mahalle": "Davultepe",
+    "ad": "MEZİTLİ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 36.75633,
+    "lon": 34.54153
+  },
+  {
+    "il": "Mersin",
+    "ilce": "MEZİTLİ",
+    "mahalle": "Tece",
+    "ad": "MEZİTLİ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 36.75455,
+    "lon": 34.53358
+  },
+  {
+    "il": "Mersin",
+    "ilce": "MEZİTLİ",
+    "mahalle": "Kuyuluk",
+    "ad": "Kuyuluk Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 36.74476,
+    "lon": 34.54124
+  },
+  {
+    "il": "Mersin",
+    "ilce": "MEZİTLİ",
+    "mahalle": "Menderes",
+    "ad": "Menderes Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 36.75737,
+    "lon": 34.55127
+  },
+  {
+    "il": "Mersin",
+    "ilce": "MEZİTLİ",
+    "mahalle": "Bozön",
+    "ad": "Bozön Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 36.75112,
+    "lon": 34.52699
+  },
+  {
+    "il": "Mersin",
+    "ilce": "MEZİTLİ",
+    "mahalle": "Merkez",
+    "ad": "Merkez Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 36.76391,
+    "lon": 34.53145
+  },
+  {
+    "il": "Mersin",
+    "ilce": "MEZİTLİ",
+    "mahalle": "Viranşehir",
+    "ad": "Viranşehir Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 36.75461,
+    "lon": 34.52525
+  },
+  {
+    "il": "Mersin",
+    "ilce": "MEZİTLİ",
+    "mahalle": "Akdeniz",
+    "ad": "Akdeniz Mahallesi Parkı ve Açık Alanı",
+    "lat": 36.74479,
+    "lon": 34.54935
+  },
+  {
+    "il": "Mersin",
+    "ilce": "MEZİTLİ",
+    "mahalle": "Davultepe",
+    "ad": "Davultepe Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 36.76563,
+    "lon": 34.54689
+  },
+  {
+    "il": "Mersin",
+    "ilce": "MEZİTLİ",
+    "mahalle": "Tece",
+    "ad": "Tece Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 36.76443,
+    "lon": 34.53165
+  },
+  {
+    "il": "Mersin",
+    "ilce": "MEZİTLİ",
+    "mahalle": "Kuyuluk",
+    "ad": "Kuyuluk Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 36.75054,
+    "lon": 34.54941
+  },
+  {
+    "il": "Mersin",
+    "ilce": "MEZİTLİ",
+    "mahalle": "Menderes",
+    "ad": "Menderes Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 36.76406,
+    "lon": 34.53754
+  },
+  {
+    "il": "Mersin",
+    "ilce": "MEZİTLİ",
+    "mahalle": "Bozön",
+    "ad": "Bozön Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 36.75773,
+    "lon": 34.54808
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TOROSLAR",
+    "mahalle": "Çağdaşkent",
+    "ad": "TOROSLAR Kent Meydanı ve Toplanma Alanı",
+    "lat": 36.83918,
+    "lon": 34.61419
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TOROSLAR",
+    "mahalle": "Korukent",
+    "ad": "TOROSLAR Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 36.83438,
+    "lon": 34.6002
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TOROSLAR",
+    "mahalle": "Yusuf Kılıç",
+    "ad": "TOROSLAR Hükümet Konağı / Belediye Meydanı",
+    "lat": 36.83224,
+    "lon": 34.62513
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TOROSLAR",
+    "mahalle": "Halkkent",
+    "ad": "TOROSLAR Millet Bahçesi ve Yeşil Alanı",
+    "lat": 36.83928,
+    "lon": 34.61645
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TOROSLAR",
+    "mahalle": "Güneykent",
+    "ad": "TOROSLAR Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 36.83052,
+    "lon": 34.60811
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TOROSLAR",
+    "mahalle": "Tozkoparan",
+    "ad": "Tozkoparan Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 36.84071,
+    "lon": 34.63559
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TOROSLAR",
+    "mahalle": "Alsancak",
+    "ad": "Alsancak Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 36.83205,
+    "lon": 34.62441
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TOROSLAR",
+    "mahalle": "Akbelen",
+    "ad": "Akbelen Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 36.84213,
+    "lon": 34.61495
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TOROSLAR",
+    "mahalle": "Çağdaşkent",
+    "ad": "Çağdaşkent Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 36.82687,
+    "lon": 34.62368
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TOROSLAR",
+    "mahalle": "Korukent",
+    "ad": "Korukent Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 36.82917,
+    "lon": 34.61197
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TOROSLAR",
+    "mahalle": "Yusuf Kılıç",
+    "ad": "Yusuf Kılıç Mahallesi Parkı ve Açık Alanı",
+    "lat": 36.83326,
+    "lon": 34.60684
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TOROSLAR",
+    "mahalle": "Halkkent",
+    "ad": "Halkkent Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 36.82885,
+    "lon": 34.62327
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TOROSLAR",
+    "mahalle": "Güneykent",
+    "ad": "Güneykent Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 36.82802,
+    "lon": 34.61284
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TOROSLAR",
+    "mahalle": "Tozkoparan",
+    "ad": "Tozkoparan Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 36.83035,
+    "lon": 34.62801
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TOROSLAR",
+    "mahalle": "Alsancak",
+    "ad": "Alsancak Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 36.81516,
+    "lon": 34.60706
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TOROSLAR",
+    "mahalle": "Akbelen",
+    "ad": "Akbelen Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 36.84126,
+    "lon": 34.61489
+  },
+  {
+    "il": "Mersin",
+    "ilce": "YENİŞEHİR",
+    "mahalle": "Güvenevler",
+    "ad": "YENİŞEHİR Kent Meydanı ve Toplanma Alanı",
+    "lat": 36.77596,
+    "lon": 34.59529
+  },
+  {
+    "il": "Mersin",
+    "ilce": "YENİŞEHİR",
+    "mahalle": "Pirireis",
+    "ad": "YENİŞEHİR Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 36.78234,
+    "lon": 34.58489
+  },
+  {
+    "il": "Mersin",
+    "ilce": "YENİŞEHİR",
+    "mahalle": "Aydınlıkevler",
+    "ad": "YENİŞEHİR Hükümet Konağı / Belediye Meydanı",
+    "lat": 36.78135,
+    "lon": 34.57935
+  },
+  {
+    "il": "Mersin",
+    "ilce": "YENİŞEHİR",
+    "mahalle": "Cumhuriyet",
+    "ad": "YENİŞEHİR Millet Bahçesi ve Yeşil Alanı",
+    "lat": 36.7934,
+    "lon": 34.59038
+  },
+  {
+    "il": "Mersin",
+    "ilce": "YENİŞEHİR",
+    "mahalle": "Batıkent",
+    "ad": "YENİŞEHİR Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 36.77884,
+    "lon": 34.59554
+  },
+  {
+    "il": "Mersin",
+    "ilce": "YENİŞEHİR",
+    "mahalle": "Eğriçam",
+    "ad": "Eğriçam Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 36.77994,
+    "lon": 34.59464
+  },
+  {
+    "il": "Mersin",
+    "ilce": "YENİŞEHİR",
+    "mahalle": "Palmiye",
+    "ad": "Palmiye Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 36.78389,
+    "lon": 34.57552
+  },
+  {
+    "il": "Mersin",
+    "ilce": "YENİŞEHİR",
+    "mahalle": "İnönü",
+    "ad": "İnönü Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 36.7808,
+    "lon": 34.59236
+  },
+  {
+    "il": "Mersin",
+    "ilce": "YENİŞEHİR",
+    "mahalle": "Güvenevler",
+    "ad": "Güvenevler Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 36.78218,
+    "lon": 34.59597
+  },
+  {
+    "il": "Mersin",
+    "ilce": "YENİŞEHİR",
+    "mahalle": "Pirireis",
+    "ad": "Pirireis Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 36.77628,
+    "lon": 34.60334
+  },
+  {
+    "il": "Mersin",
+    "ilce": "YENİŞEHİR",
+    "mahalle": "Aydınlıkevler",
+    "ad": "Aydınlıkevler Mahallesi Parkı ve Açık Alanı",
+    "lat": 36.78484,
+    "lon": 34.58099
+  },
+  {
+    "il": "Mersin",
+    "ilce": "YENİŞEHİR",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 36.78111,
+    "lon": 34.58572
+  },
+  {
+    "il": "Mersin",
+    "ilce": "YENİŞEHİR",
+    "mahalle": "Batıkent",
+    "ad": "Batıkent Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 36.76744,
+    "lon": 34.58105
+  },
+  {
+    "il": "Mersin",
+    "ilce": "YENİŞEHİR",
+    "mahalle": "Eğriçam",
+    "ad": "Eğriçam Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 36.78165,
+    "lon": 34.57971
+  },
+  {
+    "il": "Mersin",
+    "ilce": "YENİŞEHİR",
+    "mahalle": "Palmiye",
+    "ad": "Palmiye Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 36.78905,
+    "lon": 34.58321
+  },
+  {
+    "il": "Mersin",
+    "ilce": "YENİŞEHİR",
+    "mahalle": "İnönü",
+    "ad": "İnönü Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 36.77773,
+    "lon": 34.57938
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TARSUS",
+    "mahalle": "Kırklarsırtı",
+    "ad": "TARSUS Kent Meydanı ve Toplanma Alanı",
+    "lat": 36.93148,
+    "lon": 34.90002
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TARSUS",
+    "mahalle": "Şehitishak",
+    "ad": "TARSUS Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 36.91621,
+    "lon": 34.89696
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TARSUS",
+    "mahalle": "Yeşilyurt",
+    "ad": "TARSUS Hükümet Konağı / Belediye Meydanı",
+    "lat": 36.91392,
+    "lon": 34.90247
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TARSUS",
+    "mahalle": "Ferahim Şalvuz",
+    "ad": "TARSUS Millet Bahçesi ve Yeşil Alanı",
+    "lat": 36.91542,
+    "lon": 34.89625
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TARSUS",
+    "mahalle": "Anıt",
+    "ad": "TARSUS Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 36.90712,
+    "lon": 34.89624
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TARSUS",
+    "mahalle": "Bağlar",
+    "ad": "Bağlar Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 36.92661,
+    "lon": 34.89502
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TARSUS",
+    "mahalle": "Yenice",
+    "ad": "Yenice Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 36.91841,
+    "lon": 34.88499
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TARSUS",
+    "mahalle": "Beydeğirmeni",
+    "ad": "Beydeğirmeni Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 36.93353,
+    "lon": 34.89646
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TARSUS",
+    "mahalle": "Kırklarsırtı",
+    "ad": "Kırklarsırtı Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 36.91267,
+    "lon": 34.89003
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TARSUS",
+    "mahalle": "Şehitishak",
+    "ad": "Şehitishak Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 36.91772,
+    "lon": 34.89637
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TARSUS",
+    "mahalle": "Yeşilyurt",
+    "ad": "Yeşilyurt Mahallesi Parkı ve Açık Alanı",
+    "lat": 36.92285,
+    "lon": 34.88718
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TARSUS",
+    "mahalle": "Ferahim Şalvuz",
+    "ad": "Ferahim Şalvuz Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 36.92019,
+    "lon": 34.89417
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TARSUS",
+    "mahalle": "Anıt",
+    "ad": "Anıt Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 36.92103,
+    "lon": 34.88872
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TARSUS",
+    "mahalle": "Bağlar",
+    "ad": "Bağlar Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 36.92297,
+    "lon": 34.89676
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TARSUS",
+    "mahalle": "Yenice",
+    "ad": "Yenice Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 36.91904,
+    "lon": 34.89292
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TARSUS",
+    "mahalle": "Beydeğirmeni",
+    "ad": "Beydeğirmeni Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 36.92253,
+    "lon": 34.89237
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TARSUS",
+    "mahalle": "Kırklarsırtı",
+    "ad": "Kırklarsırtı Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 36.93127,
+    "lon": 34.89827
+  },
+  {
+    "il": "Mersin",
+    "ilce": "TARSUS",
+    "mahalle": "Şehitishak",
+    "ad": "Şehitishak Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 36.92268,
+    "lon": 34.91126
+  },
+  {
+    "il": "Mersin",
+    "ilce": "ERDEMLİ",
+    "mahalle": "Merkez",
+    "ad": "ERDEMLİ Kent Meydanı ve Toplanma Alanı",
+    "lat": 36.6097,
+    "lon": 34.31661
+  },
+  {
+    "il": "Mersin",
+    "ilce": "ERDEMLİ",
+    "mahalle": "Akdeniz",
+    "ad": "ERDEMLİ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 36.61716,
+    "lon": 34.30567
+  },
+  {
+    "il": "Mersin",
+    "ilce": "ERDEMLİ",
+    "mahalle": "Kocahasanlı",
+    "ad": "ERDEMLİ Hükümet Konağı / Belediye Meydanı",
+    "lat": 36.60384,
+    "lon": 34.31839
+  },
+  {
+    "il": "Mersin",
+    "ilce": "ERDEMLİ",
+    "mahalle": "Kargıpınarı",
+    "ad": "ERDEMLİ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 36.60402,
+    "lon": 34.29729
+  },
+  {
+    "il": "Mersin",
+    "ilce": "ERDEMLİ",
+    "mahalle": "Tömük",
+    "ad": "ERDEMLİ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 36.61781,
+    "lon": 34.32324
+  },
+  {
+    "il": "Mersin",
+    "ilce": "ERDEMLİ",
+    "mahalle": "Kızkalesi",
+    "ad": "Kızkalesi Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 36.60633,
+    "lon": 34.29593
+  },
+  {
+    "il": "Mersin",
+    "ilce": "ERDEMLİ",
+    "mahalle": "Ayaş",
+    "ad": "Ayaş Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 36.61142,
+    "lon": 34.31525
+  },
+  {
+    "il": "Mersin",
+    "ilce": "ERDEMLİ",
+    "mahalle": "Merkez",
+    "ad": "Merkez Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 36.61987,
+    "lon": 34.31485
+  },
+  {
+    "il": "Mersin",
+    "ilce": "ERDEMLİ",
+    "mahalle": "Akdeniz",
+    "ad": "Akdeniz Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 36.59256,
+    "lon": 34.30099
+  },
+  {
+    "il": "Mersin",
+    "ilce": "ERDEMLİ",
+    "mahalle": "Kocahasanlı",
+    "ad": "Kocahasanlı Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 36.60799,
+    "lon": 34.308
+  },
+  {
+    "il": "Mersin",
+    "ilce": "ERDEMLİ",
+    "mahalle": "Kargıpınarı",
+    "ad": "Kargıpınarı Mahallesi Parkı ve Açık Alanı",
+    "lat": 36.58724,
+    "lon": 34.30165
+  },
+  {
+    "il": "Mersin",
+    "ilce": "ERDEMLİ",
+    "mahalle": "Tömük",
+    "ad": "Tömük Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 36.60868,
+    "lon": 34.30985
+  },
+  {
+    "il": "Mersin",
+    "ilce": "SİLİFKE",
+    "mahalle": "Saray",
+    "ad": "SİLİFKE Kent Meydanı ve Toplanma Alanı",
+    "lat": 36.378,
+    "lon": 33.92788
+  },
+  {
+    "il": "Mersin",
+    "ilce": "SİLİFKE",
+    "mahalle": "Gazi",
+    "ad": "SİLİFKE Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 36.37035,
+    "lon": 33.92732
+  },
+  {
+    "il": "Mersin",
+    "ilce": "SİLİFKE",
+    "mahalle": "Göksu",
+    "ad": "SİLİFKE Hükümet Konağı / Belediye Meydanı",
+    "lat": 36.37607,
+    "lon": 33.91424
+  },
+  {
+    "il": "Mersin",
+    "ilce": "SİLİFKE",
+    "mahalle": "Atik",
+    "ad": "SİLİFKE Millet Bahçesi ve Yeşil Alanı",
+    "lat": 36.36671,
+    "lon": 33.93467
+  },
+  {
+    "il": "Mersin",
+    "ilce": "SİLİFKE",
+    "mahalle": "Mukaddem",
+    "ad": "SİLİFKE Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 36.37654,
+    "lon": 33.93274
+  },
+  {
+    "il": "Mersin",
+    "ilce": "SİLİFKE",
+    "mahalle": "Taşucu",
+    "ad": "Taşucu Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 36.37665,
+    "lon": 33.92936
+  },
+  {
+    "il": "Mersin",
+    "ilce": "SİLİFKE",
+    "mahalle": "Yeşilovacık",
+    "ad": "Yeşilovacık Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 36.36824,
+    "lon": 33.9424
+  },
+  {
+    "il": "Mersin",
+    "ilce": "SİLİFKE",
+    "mahalle": "Saray",
+    "ad": "Saray Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 36.38441,
+    "lon": 33.94372
+  },
+  {
+    "il": "Mersin",
+    "ilce": "SİLİFKE",
+    "mahalle": "Gazi",
+    "ad": "Gazi Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 36.38961,
+    "lon": 33.92497
+  },
+  {
+    "il": "Mersin",
+    "ilce": "SİLİFKE",
+    "mahalle": "Göksu",
+    "ad": "Göksu Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 36.39176,
+    "lon": 33.95399
+  },
+  {
+    "il": "Mersin",
+    "ilce": "SİLİFKE",
+    "mahalle": "Atik",
+    "ad": "Atik Mahallesi Parkı ve Açık Alanı",
+    "lat": 36.38151,
+    "lon": 33.94102
+  },
+  {
+    "il": "Mersin",
+    "ilce": "SİLİFKE",
+    "mahalle": "Mukaddem",
+    "ad": "Mukaddem Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 36.38492,
+    "lon": 33.93226
+  },
+  {
+    "il": "Mersin",
+    "ilce": "ANAMUR",
+    "mahalle": "Yeşilyurt",
+    "ad": "ANAMUR Kent Meydanı ve Toplanma Alanı",
+    "lat": 36.06719,
+    "lon": 32.82513
+  },
+  {
+    "il": "Mersin",
+    "ilce": "ANAMUR",
+    "mahalle": "İskele",
+    "ad": "ANAMUR Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 36.08506,
+    "lon": 32.84867
+  },
+  {
+    "il": "Mersin",
+    "ilce": "ANAMUR",
+    "mahalle": "Sağlık",
+    "ad": "ANAMUR Hükümet Konağı / Belediye Meydanı",
+    "lat": 36.06917,
+    "lon": 32.83124
+  },
+  {
+    "il": "Mersin",
+    "ilce": "ANAMUR",
+    "mahalle": "Toroslar",
+    "ad": "ANAMUR Millet Bahçesi ve Yeşil Alanı",
+    "lat": 36.07841,
+    "lon": 32.85408
+  },
+  {
+    "il": "Mersin",
+    "ilce": "ANAMUR",
+    "mahalle": "Güzelyurt",
+    "ad": "ANAMUR Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 36.06797,
+    "lon": 32.83921
+  },
+  {
+    "il": "Mersin",
+    "ilce": "ANAMUR",
+    "mahalle": "Yeşilyurt",
+    "ad": "Yeşilyurt Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 36.07813,
+    "lon": 32.84534
+  },
+  {
+    "il": "Mersin",
+    "ilce": "ANAMUR",
+    "mahalle": "İskele",
+    "ad": "İskele Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 36.07881,
+    "lon": 32.83775
+  },
+  {
+    "il": "Mersin",
+    "ilce": "ANAMUR",
+    "mahalle": "Sağlık",
+    "ad": "Sağlık Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 36.06899,
+    "lon": 32.82778
+  },
+  {
+    "il": "Mersin",
+    "ilce": "ANAMUR",
+    "mahalle": "Toroslar",
+    "ad": "Toroslar Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 36.08897,
+    "lon": 32.85
+  },
+  {
+    "il": "Mersin",
+    "ilce": "ANAMUR",
+    "mahalle": "Güzelyurt",
+    "ad": "Güzelyurt Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 36.06808,
+    "lon": 32.83632
+  },
+  {
+    "il": "Mersin",
+    "ilce": "MUT",
+    "mahalle": "Doğancı",
+    "ad": "MUT Kent Meydanı ve Toplanma Alanı",
+    "lat": 36.64003,
+    "lon": 33.42743
+  },
+  {
+    "il": "Mersin",
+    "ilce": "MUT",
+    "mahalle": "Kale",
+    "ad": "MUT Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 36.64478,
+    "lon": 33.4446
+  },
+  {
+    "il": "Mersin",
+    "ilce": "MUT",
+    "mahalle": "Güllük",
+    "ad": "MUT Hükümet Konağı / Belediye Meydanı",
+    "lat": 36.6492,
+    "lon": 33.45021
+  },
+  {
+    "il": "Mersin",
+    "ilce": "MUT",
+    "mahalle": "Pınarbaşı",
+    "ad": "MUT Millet Bahçesi ve Yeşil Alanı",
+    "lat": 36.64802,
+    "lon": 33.43799
+  },
+  {
+    "il": "Mersin",
+    "ilce": "MUT",
+    "mahalle": "Yatırtaş",
+    "ad": "MUT Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 36.65409,
+    "lon": 33.42812
+  },
+  {
+    "il": "Mersin",
+    "ilce": "MUT",
+    "mahalle": "Doğancı",
+    "ad": "Doğancı Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 36.658,
+    "lon": 33.45058
+  },
+  {
+    "il": "Mersin",
+    "ilce": "MUT",
+    "mahalle": "Kale",
+    "ad": "Kale Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 36.64861,
+    "lon": 33.44708
+  },
+  {
+    "il": "Mersin",
+    "ilce": "MUT",
+    "mahalle": "Güllük",
+    "ad": "Güllük Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 36.64725,
+    "lon": 33.42966
+  },
+  {
+    "il": "Mersin",
+    "ilce": "GÜLNAR",
+    "mahalle": "Akdeniz",
+    "ad": "GÜLNAR Kent Meydanı ve Toplanma Alanı",
+    "lat": 36.33399,
+    "lon": 33.41461
+  },
+  {
+    "il": "Mersin",
+    "ilce": "GÜLNAR",
+    "mahalle": "Hacıpınar",
+    "ad": "GÜLNAR Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 36.342,
+    "lon": 33.39159
+  },
+  {
+    "il": "Mersin",
+    "ilce": "GÜLNAR",
+    "mahalle": "Ayvalı",
+    "ad": "GÜLNAR Hükümet Konağı / Belediye Meydanı",
+    "lat": 36.34809,
+    "lon": 33.40515
+  },
+  {
+    "il": "Mersin",
+    "ilce": "GÜLNAR",
+    "mahalle": "Saray",
+    "ad": "GÜLNAR Millet Bahçesi ve Yeşil Alanı",
+    "lat": 36.34446,
+    "lon": 33.39983
+  },
+  {
+    "il": "Mersin",
+    "ilce": "GÜLNAR",
+    "mahalle": "Akdeniz",
+    "ad": "GÜLNAR Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 36.34187,
+    "lon": 33.40723
+  },
+  {
+    "il": "Mersin",
+    "ilce": "GÜLNAR",
+    "mahalle": "Hacıpınar",
+    "ad": "Hacıpınar Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 36.34554,
+    "lon": 33.42205
+  },
+  {
+    "il": "Mersin",
+    "ilce": "BOZYAZI",
+    "mahalle": "Merkez",
+    "ad": "BOZYAZI Kent Meydanı ve Toplanma Alanı",
+    "lat": 36.09977,
+    "lon": 32.96996
+  },
+  {
+    "il": "Mersin",
+    "ilce": "BOZYAZI",
+    "mahalle": "Beyreli",
+    "ad": "BOZYAZI Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 36.0998,
+    "lon": 32.95689
+  },
+  {
+    "il": "Mersin",
+    "ilce": "BOZYAZI",
+    "mahalle": "Gürlevik",
+    "ad": "BOZYAZI Hükümet Konağı / Belediye Meydanı",
+    "lat": 36.10249,
+    "lon": 32.95841
+  },
+  {
+    "il": "Mersin",
+    "ilce": "BOZYAZI",
+    "mahalle": "Denizciler",
+    "ad": "BOZYAZI Millet Bahçesi ve Yeşil Alanı",
+    "lat": 36.10271,
+    "lon": 32.97112
+  },
+  {
+    "il": "Mersin",
+    "ilce": "BOZYAZI",
+    "mahalle": "Merkez",
+    "ad": "BOZYAZI Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 36.11751,
+    "lon": 32.96241
+  },
+  {
+    "il": "Mersin",
+    "ilce": "BOZYAZI",
+    "mahalle": "Beyreli",
+    "ad": "Beyreli Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 36.10154,
+    "lon": 32.97332
+  },
+  {
+    "il": "Mersin",
+    "ilce": "AYDINCIK",
+    "mahalle": "Cumhuriyet",
+    "ad": "AYDINCIK Kent Meydanı ve Toplanma Alanı",
+    "lat": 36.14747,
+    "lon": 33.32957
+  },
+  {
+    "il": "Mersin",
+    "ilce": "AYDINCIK",
+    "mahalle": "Merkez",
+    "ad": "AYDINCIK Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 36.14439,
+    "lon": 33.31396
+  },
+  {
+    "il": "Mersin",
+    "ilce": "AYDINCIK",
+    "mahalle": "Yeni",
+    "ad": "AYDINCIK Hükümet Konağı / Belediye Meydanı",
+    "lat": 36.14306,
+    "lon": 33.31058
+  },
+  {
+    "il": "Mersin",
+    "ilce": "AYDINCIK",
+    "mahalle": "Cumhuriyet",
+    "ad": "AYDINCIK Millet Bahçesi ve Yeşil Alanı",
+    "lat": 36.15308,
+    "lon": 33.32547
+  },
+  {
+    "il": "Mersin",
+    "ilce": "AYDINCIK",
+    "mahalle": "Merkez",
+    "ad": "AYDINCIK Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 36.13649,
+    "lon": 33.31493
+  },
+  {
+    "il": "Mersin",
+    "ilce": "ÇAMLIYAYLA",
+    "mahalle": "Kale",
+    "ad": "ÇAMLIYAYLA Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.17095,
+    "lon": 34.60517
+  },
+  {
+    "il": "Mersin",
+    "ilce": "ÇAMLIYAYLA",
+    "mahalle": "Çayırekinliği",
+    "ad": "ÇAMLIYAYLA Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.1687,
+    "lon": 34.60224
+  },
+  {
+    "il": "Mersin",
+    "ilce": "ÇAMLIYAYLA",
+    "mahalle": "Fakılar",
+    "ad": "ÇAMLIYAYLA Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.16261,
+    "lon": 34.62206
+  },
+  {
+    "il": "Mersin",
+    "ilce": "ÇAMLIYAYLA",
+    "mahalle": "Kale",
+    "ad": "ÇAMLIYAYLA Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.16378,
+    "lon": 34.60252
+  },
+  {
+    "il": "Mersin",
+    "ilce": "ÇAMLIYAYLA",
+    "mahalle": "Çayırekinliği",
+    "ad": "ÇAMLIYAYLA Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.17013,
+    "lon": 34.606
+  }
+]

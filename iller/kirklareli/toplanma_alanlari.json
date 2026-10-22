@@ -1,0 +1,1002 @@
+[
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Özerler",
+    "ad": "Gençlik Parkı (Halk Eğitim Yanı)",
+    "lat": 41.4042,
+    "lon": 27.3541
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Dere",
+    "ad": "Kongre Meydanı",
+    "lat": 41.4068,
+    "lon": 27.3562
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Cumhuriyet",
+    "ad": "Aydın Mutlu Parkı",
+    "lat": 41.4125,
+    "lon": 27.3621
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Kurtuluş",
+    "ad": "Milli Güvenlik Parkı",
+    "lat": 41.4012,
+    "lon": 27.3485
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "8 Kasım",
+    "ad": "8 Kasım Parkı",
+    "lat": 41.4089,
+    "lon": 27.3695
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Sevgi",
+    "ad": "Aynur Özbilen Parkı",
+    "lat": 41.3985,
+    "lon": 27.3582
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "İstasyon",
+    "ad": "Eczacıbaşı Parkı",
+    "lat": 41.3912,
+    "lon": 27.3421
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Yıldız",
+    "ad": "Yıldız Parkı",
+    "lat": 41.4182,
+    "lon": 27.3498
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Kocasinan",
+    "ad": "Kapalı Pazar Yeri Alanı",
+    "lat": 41.4051,
+    "lon": 27.3632
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Atatürk",
+    "ad": "Atatürk Mahallesi Semt Pazar Alanı",
+    "lat": 41.4152,
+    "lon": 27.3712
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Yıldız",
+    "ad": "Yıldız Mahallesi Pazar Yeri Alanı",
+    "lat": 41.4201,
+    "lon": 27.3524
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Kocasinan",
+    "ad": "Prof. Dr. Necdet Tekin Gençlik Merkezi",
+    "lat": 41.4035,
+    "lon": 27.3601
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Dere",
+    "ad": "DSİ 9. Sondaj Şube Müdürlüğü Lojmanları",
+    "lat": 41.4082,
+    "lon": 27.3594
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Kurtuluş",
+    "ad": "Lüleburgaz Tarım ve Orman Müdürlüğü Bahçesi",
+    "lat": 41.4025,
+    "lon": 27.3512
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Siteler",
+    "ad": "Atatürk Anadolu Lisesi Bahçesi",
+    "lat": 41.4112,
+    "lon": 27.3654
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet İlkokulu Bahçesi",
+    "lat": 41.4138,
+    "lon": 27.3642
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Güneş",
+    "ad": "Şaban Öğünç Ortaokulu Bahçesi",
+    "lat": 41.3965,
+    "lon": 27.3612
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Dere",
+    "ad": "İstiklal İlkokulu Bahçesi",
+    "lat": 41.4075,
+    "lon": 27.3581
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Hürriyet",
+    "ad": "Mehmet Akif Ersoy MTAL Bahçesi",
+    "lat": 41.4165,
+    "lon": 27.3582
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Zafer",
+    "ad": "Ramazan Yaman Fen Lisesi Bahçesi",
+    "lat": 41.4195,
+    "lon": 27.3685
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Yılmaz",
+    "ad": "Gazi Mustafa Kemal İlkokulu Bahçesi",
+    "lat": 41.4048,
+    "lon": 27.3492
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Kurtuluş",
+    "ad": "Fehmi Mutlu Ortaokulu Bahçesi",
+    "lat": 41.4005,
+    "lon": 27.3471
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Zafer",
+    "ad": "Şehit Pilot Üsteğmen İbrahim Gerçek İlkokulu (Burgazkent TOKİ)",
+    "lat": 41.4231,
+    "lon": 27.3752
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "8 Kasım",
+    "ad": "8 Kasım Ortaokulu Bahçesi",
+    "lat": 41.4072,
+    "lon": 27.3681
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Kocasinan",
+    "ad": "Lüleburgaz Anadolu Lisesi Bahçesi",
+    "lat": 41.4021,
+    "lon": 27.3625
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Atatürk",
+    "ad": "Düvenciler Anadolu Lisesi Bahçesi",
+    "lat": 41.4145,
+    "lon": 27.3732
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Kocasinan",
+    "ad": "Kocasinan İlkokulu Bahçesi",
+    "lat": 41.4062,
+    "lon": 27.3615
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "İnönü",
+    "ad": "Lüleburgaz MTAL Bahçesi",
+    "lat": 41.4095,
+    "lon": 27.3512
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Özerler",
+    "ad": "Emrullah Efendi Ortaokulu Bahçesi",
+    "lat": 41.4055,
+    "lon": 27.3532
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Hürriyet",
+    "ad": "Lüleburgaz Anadolu İmam Hatip Lisesi Bahçesi",
+    "lat": 41.4172,
+    "lon": 27.3612
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Yılmaz",
+    "ad": "Lüleburgaz Ortaokulu Bahçesi",
+    "lat": 41.4038,
+    "lon": 27.3521
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Sevgi",
+    "ad": "General Ferhat Akat İlkokulu Bahçesi",
+    "lat": 41.3972,
+    "lon": 27.3565
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Dere",
+    "ad": "Lüleburgaz Lisesi Bahçesi",
+    "lat": 41.4091,
+    "lon": 27.3575
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Barış",
+    "ad": "Bahçelievler İlkokulu Bahçesi",
+    "lat": 41.4105,
+    "lon": 27.3445
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Siteler",
+    "ad": "Ticaret ve Sanayi Odası İlkokulu Bahçesi",
+    "lat": 41.4128,
+    "lon": 27.3672
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Güneş",
+    "ad": "80. Yıl Ortaokulu Bahçesi",
+    "lat": 41.3952,
+    "lon": 27.3645
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Barış",
+    "ad": "Lüleburgaz Yıldızları Futbol Akademisi (LYFA)",
+    "lat": 41.4121,
+    "lon": 27.3412
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Kurtuluş",
+    "ad": "Lüleburgaz 8 Kasım Şehir Stadı Çevresi",
+    "lat": 41.4018,
+    "lon": 27.3452
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Sakızköy",
+    "ad": "Sakızköy Parkı ve Köy Meydanı",
+    "lat": 41.3685,
+    "lon": 27.4215
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Büyükkarıştıran",
+    "ad": "Büyükkarıştıran Belediye Parkı ve Pazar Alanı",
+    "lat": 41.3212,
+    "lon": 27.5021
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Ahmetbey",
+    "ad": "Ahmetbey Çamlık Parkı ve Meydanı",
+    "lat": 41.4725,
+    "lon": 27.4512
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "LÜLEBURGAZ",
+    "mahalle": "Evrensekiz",
+    "ad": "Evrensekiz Belediye Parkı ve Açık Alanı",
+    "lat": 41.3752,
+    "lon": 27.4612
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "MERKEZ",
+    "mahalle": "Karacaibrahim",
+    "ad": "Çamlık Acil Toplanma ve Barınma Alanı",
+    "lat": 41.7382,
+    "lon": 27.2285
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "MERKEZ",
+    "mahalle": "Doğu",
+    "ad": "Festival Alanı ve Fuar Meydanı",
+    "lat": 41.7321,
+    "lon": 27.2345
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "MERKEZ",
+    "mahalle": "İstasyon",
+    "ad": "Millet Bahçesi ve Gar Meydanı",
+    "lat": 41.7295,
+    "lon": 27.2185
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "MERKEZ",
+    "mahalle": "Karacaibrahim",
+    "ad": "DSİ 112. Şube Müdürlüğü Lojmanları Açık Alanı",
+    "lat": 41.7395,
+    "lon": 27.2312
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "MERKEZ",
+    "mahalle": "Bademlik",
+    "ad": "Bademlik Parkı ve Açık Spor Alanı",
+    "lat": 41.7452,
+    "lon": 27.2152
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "MERKEZ",
+    "mahalle": "Bademlik",
+    "ad": "TOBB Anadolu Lisesi Bahçesi",
+    "lat": 41.7468,
+    "lon": 27.2185
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "MERKEZ",
+    "mahalle": "Karahıdır",
+    "ad": "Karahıdır Parkı ve Sosyal Tesis Açık Alanı",
+    "lat": 41.7182,
+    "lon": 27.2412
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "MERKEZ",
+    "mahalle": "Karahıdır",
+    "ad": "Karahıdır İlkokulu Bahçesi",
+    "lat": 41.7165,
+    "lon": 27.2435
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "MERKEZ",
+    "mahalle": "Akalar",
+    "ad": "Akalar Parkı",
+    "lat": 41.7358,
+    "lon": 27.2212
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "MERKEZ",
+    "mahalle": "Akalar",
+    "ad": "Gazi Mustafa Kemal MTAL Bahçesi",
+    "lat": 41.7365,
+    "lon": 27.2195
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "MERKEZ",
+    "mahalle": "Demirtaş",
+    "ad": "Demirtaş Çocuk Parkı",
+    "lat": 41.7412,
+    "lon": 27.2265
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "MERKEZ",
+    "mahalle": "Demirtaş",
+    "ad": "Bilal Yapıcı Spor Lisesi Bahçesi",
+    "lat": 41.7435,
+    "lon": 27.2281
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "MERKEZ",
+    "mahalle": "Kocahıdır",
+    "ad": "Kocahıdır Parkı",
+    "lat": 41.7335,
+    "lon": 27.2154
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "MERKEZ",
+    "mahalle": "Karacaibrahim",
+    "ad": "Atatürk Stadyumu Çevresi ve Gençlik Parkı",
+    "lat": 41.7371,
+    "lon": 27.2245
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "MERKEZ",
+    "mahalle": "Pınar",
+    "ad": "Pınar Parkı",
+    "lat": 41.7285,
+    "lon": 27.2265
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "MERKEZ",
+    "mahalle": "Pınar",
+    "ad": "Pınar İlkokulu Bahçesi",
+    "lat": 41.7265,
+    "lon": 27.2291
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "MERKEZ",
+    "mahalle": "Yayla",
+    "ad": "Tarihi Yayla Parkı ve Kültür Meydanı",
+    "lat": 41.7425,
+    "lon": 27.2215
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "MERKEZ",
+    "mahalle": "Karacaibrahim",
+    "ad": "Kırklareli Fen Lisesi Bahçesi",
+    "lat": 41.7415,
+    "lon": 27.2352
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "MERKEZ",
+    "mahalle": "Karacaibrahim",
+    "ad": "Kırklareli Anadolu Lisesi Bahçesi",
+    "lat": 41.7362,
+    "lon": 27.2275
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "MERKEZ",
+    "mahalle": "Akalar",
+    "ad": "Fahri Kasapoğlu Ortaokulu Bahçesi",
+    "lat": 41.7342,
+    "lon": 27.2178
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "MERKEZ",
+    "mahalle": "Demirtaş",
+    "ad": "Cumhuriyet İlkokulu Bahçesi",
+    "lat": 41.7398,
+    "lon": 27.2235
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "MERKEZ",
+    "mahalle": "Karahıdır",
+    "ad": "Tevfik Fikret Yatılı Bölge Ortaokulu Bahçesi",
+    "lat": 41.7215,
+    "lon": 27.2385
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "MERKEZ",
+    "mahalle": "İstasyon",
+    "ad": "Ziya Gökalp İlkokulu Bahçesi",
+    "lat": 41.7312,
+    "lon": 27.2165
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "MERKEZ",
+    "mahalle": "İstasyon",
+    "ad": "Kırklareli Kapalı Pazar Yeri Açık Alanı",
+    "lat": 41.7281,
+    "lon": 27.2142
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "MERKEZ",
+    "mahalle": "Doğu",
+    "ad": "Doğu Mahallesi Çocuk Parkı",
+    "lat": 41.7335,
+    "lon": 27.2385
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "MERKEZ",
+    "mahalle": "Kocahıdır",
+    "ad": "Kocahıdır İlkokulu Bahçesi",
+    "lat": 41.7315,
+    "lon": 27.2135
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "MERKEZ",
+    "mahalle": "Yayla",
+    "ad": "Ali Rıza Efendi Kültür Evi Bahçesi",
+    "lat": 41.7441,
+    "lon": 27.2195
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "MERKEZ",
+    "mahalle": "İnece",
+    "ad": "İnece Belediye Meydanı ve Parkı",
+    "lat": 41.6912,
+    "lon": 27.0652
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "MERKEZ",
+    "mahalle": "Kavaklı",
+    "ad": "Kavaklı Belediye Çamlığı ve Pazar Yeri",
+    "lat": 41.6521,
+    "lon": 27.1725
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "MERKEZ",
+    "mahalle": "Üsküp",
+    "ad": "Üsküp Belde Parkı ve Festival Alanı",
+    "lat": 41.7582,
+    "lon": 27.4125
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "BABAESKİ",
+    "mahalle": "Atatürk",
+    "ad": "Atatürk Parkı ve Kent Meydanı",
+    "lat": 41.4345,
+    "lon": 27.0915
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "BABAESKİ",
+    "mahalle": "Atatürk",
+    "ad": "Babaeski Şehir Stadı Çevresi Açık Alanı",
+    "lat": 41.4362,
+    "lon": 27.0885
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "BABAESKİ",
+    "mahalle": "Atatürk",
+    "ad": "Fatih İlkokulu Bahçesi",
+    "lat": 41.4328,
+    "lon": 27.0935
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "BABAESKİ",
+    "mahalle": "Cedid",
+    "ad": "Çamlık Mesire Alanı ve Parkı",
+    "lat": 41.4412,
+    "lon": 27.0965
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "BABAESKİ",
+    "mahalle": "Cedid",
+    "ad": "Plevne Ortaokulu Bahçesi",
+    "lat": 41.4395,
+    "lon": 27.0942
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "BABAESKİ",
+    "mahalle": "Dindiş",
+    "ad": "Dindiş Çocuk Parkı",
+    "lat": 41.4285,
+    "lon": 27.0955
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "BABAESKİ",
+    "mahalle": "Dindiş",
+    "ad": "Babaeski MTAL Bahçesi",
+    "lat": 41.4265,
+    "lon": 27.0982
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "BABAESKİ",
+    "mahalle": "Gazi Kemal",
+    "ad": "Cumhuriyet Meydanı",
+    "lat": 41.4312,
+    "lon": 27.0912
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "BABAESKİ",
+    "mahalle": "Gazi Kemal",
+    "ad": "Gazi Osman Paşa İlkokulu Bahçesi",
+    "lat": 41.4325,
+    "lon": 27.0885
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "BABAESKİ",
+    "mahalle": "Hacı Hasan",
+    "ad": "Hacı Hasan Çocuk Parkı",
+    "lat": 41.4295,
+    "lon": 27.0852
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "BABAESKİ",
+    "mahalle": "Hacı Hasan",
+    "ad": "Babaeski Fen Lisesi Bahçesi",
+    "lat": 41.4272,
+    "lon": 27.0825
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "BABAESKİ",
+    "mahalle": "Kurtuluş",
+    "ad": "Kurtuluş Parkı",
+    "lat": 41.4385,
+    "lon": 27.0845
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "BABAESKİ",
+    "mahalle": "Kurtuluş",
+    "ad": "Şehit Ersan Yenici Anadolu Lisesi Bahçesi",
+    "lat": 41.4405,
+    "lon": 27.0815
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "BABAESKİ",
+    "mahalle": "Gazi Kemal",
+    "ad": "Babaeski Kapalı Pazar Yeri Otopark Alanı",
+    "lat": 41.4291,
+    "lon": 27.0931
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "BABAESKİ",
+    "mahalle": "Alpullu",
+    "ad": "Alpullu Şeker Fabrikası Açık Spor Sahası ve Parkı",
+    "lat": 41.3712,
+    "lon": 27.1452
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "BABAESKİ",
+    "mahalle": "Büyükmandıra",
+    "ad": "Büyükmandıra Belediye Parkı",
+    "lat": 41.3345,
+    "lon": 27.1252
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "BABAESKİ",
+    "mahalle": "Karahalil",
+    "ad": "Karahalil Belediye Meydanı",
+    "lat": 41.5212,
+    "lon": 27.1952
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "VİZE",
+    "mahalle": "Kale",
+    "ad": "Tarihi Vize Kale Meydanı ve Açık Park Alanı",
+    "lat": 41.5745,
+    "lon": 27.7665
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "VİZE",
+    "mahalle": "Devlet",
+    "ad": "Vize Şehir Stadyumu Çevresi",
+    "lat": 41.5685,
+    "lon": 27.7712
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "VİZE",
+    "mahalle": "Devlet",
+    "ad": "Vize Anadolu Lisesi Bahçesi",
+    "lat": 41.5702,
+    "lon": 27.7695
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "VİZE",
+    "mahalle": "Evren",
+    "ad": "Vize MTAL Bahçesi",
+    "lat": 41.5735,
+    "lon": 27.7745
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "VİZE",
+    "mahalle": "Mehmet Akif",
+    "ad": "Adalet Parkı ve Açık Alanı",
+    "lat": 41.5715,
+    "lon": 27.7635
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "VİZE",
+    "mahalle": "Mehmet Akif",
+    "ad": "Vize Ortaokulu Bahçesi",
+    "lat": 41.5728,
+    "lon": 27.7615
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "VİZE",
+    "mahalle": "Devlet",
+    "ad": "Vize Kapalı Pazar Yeri Çevresi",
+    "lat": 41.5672,
+    "lon": 27.7735
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "VİZE",
+    "mahalle": "Evren",
+    "ad": "Arıköylüler Parkı",
+    "lat": 41.5762,
+    "lon": 27.7715
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "VİZE",
+    "mahalle": "Kıyıköy",
+    "ad": "Kıyıköy Sahil ve Liman Açık Alanı",
+    "lat": 41.6352,
+    "lon": 28.0945
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "VİZE",
+    "mahalle": "Kıyıköy",
+    "ad": "Kıyıköy Atatürk İlkokulu Bahçesi",
+    "lat": 41.6375,
+    "lon": 28.0912
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "VİZE",
+    "mahalle": "Çakıllı",
+    "ad": "Çakıllı Belediye Parkı",
+    "lat": 41.5125,
+    "lon": 27.8545
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "PINARHİSAR",
+    "mahalle": "Beylik",
+    "ad": "Pınarhisar Hükümet Meydanı ve Parkı",
+    "lat": 41.6245,
+    "lon": 27.5215
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "PINARHİSAR",
+    "mahalle": "Dere",
+    "ad": "Pınarhisar Şehir Stadyumu Açık Alanı",
+    "lat": 41.6212,
+    "lon": 27.5265
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "PINARHİSAR",
+    "mahalle": "Orta",
+    "ad": "Pınarhisar Çamlığı Mesire Alanı",
+    "lat": 41.6295,
+    "lon": 27.5145
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "PINARHİSAR",
+    "mahalle": "Beylik",
+    "ad": "Pınarhisar Anadolu Lisesi Bahçesi",
+    "lat": 41.6265,
+    "lon": 27.5235
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "PINARHİSAR",
+    "mahalle": "Camiikebir",
+    "ad": "Ali Özer Parkı",
+    "lat": 41.6231,
+    "lon": 27.5185
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "PINARHİSAR",
+    "mahalle": "Camiikebir",
+    "ad": "Mehmet Akif Ersoy İlkokulu Bahçesi",
+    "lat": 41.6215,
+    "lon": 27.5165
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "PINARHİSAR",
+    "mahalle": "Dere",
+    "ad": "Pınarhisar MTAL Bahçesi",
+    "lat": 41.6185,
+    "lon": 27.5295
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "PINARHİSAR",
+    "mahalle": "Kaynarca",
+    "ad": "Kaynarca Belde Meydanı ve Su Kaynağı Parkı",
+    "lat": 41.6485,
+    "lon": 27.4612
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "PINARHİSAR",
+    "mahalle": "Kaynarca",
+    "ad": "Kaynarca İlkokulu Bahçesi",
+    "lat": 41.6505,
+    "lon": 27.4585
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "DEMİRKÖY",
+    "mahalle": "Hamdibey",
+    "ad": "Demirköy Şehir Meydanı ve Atatürk Parkı",
+    "lat": 41.8235,
+    "lon": 27.7615
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "DEMİRKÖY",
+    "mahalle": "Hamdibey",
+    "ad": "Demirköy Çok Programlı Anadolu Lisesi Bahçesi",
+    "lat": 41.8252,
+    "lon": 27.7595
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "DEMİRKÖY",
+    "mahalle": "Orhan",
+    "ad": "Orman İşletme Müdürlüğü Bahçesi ve Açık Alanı",
+    "lat": 41.8215,
+    "lon": 27.7645
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "DEMİRKÖY",
+    "mahalle": "Orhan",
+    "ad": "Orhan Mahallesi Parkı",
+    "lat": 41.8202,
+    "lon": 27.7665
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "DEMİRKÖY",
+    "mahalle": "Yeni",
+    "ad": "Gençlik Parkı",
+    "lat": 41.8265,
+    "lon": 27.7635
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "DEMİRKÖY",
+    "mahalle": "İğneada",
+    "ad": "İğneada Sahil Parkı ve Liman Meydanı",
+    "lat": 41.8765,
+    "lon": 27.9852
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "DEMİRKÖY",
+    "mahalle": "İğneada",
+    "ad": "İğneada Atatürk İlkokulu Bahçesi",
+    "lat": 41.8795,
+    "lon": 27.9825
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "PEHLİVANKÖY",
+    "mahalle": "Kazımdirik",
+    "ad": "Pehlivanköy Kent Meydanı",
+    "lat": 41.3545,
+    "lon": 26.9135
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "PEHLİVANKÖY",
+    "mahalle": "Kazımdirik",
+    "ad": "Pavli Tarihi Panayır ve Festival Alanı",
+    "lat": 41.3512,
+    "lon": 26.9185
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "PEHLİVANKÖY",
+    "mahalle": "Kurtuluş",
+    "ad": "Pehlivanköy İlkokulu Bahçesi",
+    "lat": 41.3562,
+    "lon": 26.9112
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "PEHLİVANKÖY",
+    "mahalle": "Kurtuluş",
+    "ad": "Kurtuluş Parkı ve Açık Spor Tesisleri",
+    "lat": 41.3582,
+    "lon": 26.9085
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "PEHLİVANKÖY",
+    "mahalle": "Kazımdirik",
+    "ad": "Pehlivanköy Çok Programlı Anadolu Lisesi Bahçesi",
+    "lat": 41.3528,
+    "lon": 26.9152
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "KOFÇAZ",
+    "mahalle": "Merkez",
+    "ad": "Kofçaz Hükümet Konağı Önü Meydanı",
+    "lat": 41.9345,
+    "lon": 27.1625
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "KOFÇAZ",
+    "mahalle": "Merkez",
+    "ad": "Kofçaz İlkokulu ve Ortaokulu Bahçesi",
+    "lat": 41.9362,
+    "lon": 27.1605
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "KOFÇAZ",
+    "mahalle": "Yeni",
+    "ad": "Yeni Mahalle Çocuk Parkı",
+    "lat": 41.9321,
+    "lon": 27.1645
+  },
+  {
+    "il": "Kırklareli",
+    "ilce": "KOFÇAZ",
+    "mahalle": "Yeni",
+    "ad": "Kofçaz Çok Programlı Anadolu Lisesi Bahçesi",
+    "lat": 41.9312,
+    "lon": 27.1672
+  }
+]

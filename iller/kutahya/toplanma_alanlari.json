@@ -1,0 +1,850 @@
+[
+  {
+    "il": "Kütahya",
+    "ilce": "MERKEZ",
+    "mahalle": "Ali Paşa",
+    "ad": "MERKEZ Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.41856,
+    "lon": 30.00108
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "MERKEZ",
+    "mahalle": "Cumhuriyet",
+    "ad": "MERKEZ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.40978,
+    "lon": 29.96297
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "MERKEZ",
+    "mahalle": "Meydan",
+    "ad": "MERKEZ Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.43325,
+    "lon": 29.97786
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "MERKEZ",
+    "mahalle": "Fatih",
+    "ad": "MERKEZ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.42713,
+    "lon": 29.98423
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "MERKEZ",
+    "mahalle": "Yenidoğan",
+    "ad": "MERKEZ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.42071,
+    "lon": 29.98801
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "MERKEZ",
+    "mahalle": "Maltepe",
+    "ad": "Maltepe Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.4092,
+    "lon": 29.97492
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "MERKEZ",
+    "mahalle": "Gaybiefendi",
+    "ad": "Gaybiefendi Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 39.42023,
+    "lon": 29.98973
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "MERKEZ",
+    "mahalle": "Akent",
+    "ad": "Akent Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 39.42805,
+    "lon": 29.98444
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "MERKEZ",
+    "mahalle": "Dumlupınar",
+    "ad": "Dumlupınar Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 39.41545,
+    "lon": 29.99351
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "MERKEZ",
+    "mahalle": "Ali Paşa",
+    "ad": "Ali Paşa Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 39.40661,
+    "lon": 29.97995
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "MERKEZ",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Parkı ve Açık Alanı",
+    "lat": 39.42147,
+    "lon": 29.99639
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "MERKEZ",
+    "mahalle": "Meydan",
+    "ad": "Meydan Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 39.41844,
+    "lon": 29.98617
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "MERKEZ",
+    "mahalle": "Fatih",
+    "ad": "Fatih Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 39.42568,
+    "lon": 29.97466
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "MERKEZ",
+    "mahalle": "Yenidoğan",
+    "ad": "Yenidoğan Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 39.41449,
+    "lon": 29.99396
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "MERKEZ",
+    "mahalle": "Maltepe",
+    "ad": "Maltepe Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 39.41871,
+    "lon": 29.98429
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "MERKEZ",
+    "mahalle": "Gaybiefendi",
+    "ad": "Gaybiefendi Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.41431,
+    "lon": 29.98351
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "MERKEZ",
+    "mahalle": "Akent",
+    "ad": "Akent Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 39.41019,
+    "lon": 29.98152
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "MERKEZ",
+    "mahalle": "Dumlupınar",
+    "ad": "Dumlupınar Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 39.40762,
+    "lon": 29.97731
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "MERKEZ",
+    "mahalle": "Ali Paşa",
+    "ad": "Ali Paşa Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 39.43213,
+    "lon": 29.97921
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "MERKEZ",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 39.4122,
+    "lon": 29.97991
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "MERKEZ",
+    "mahalle": "Meydan",
+    "ad": "Meydan Mahallesi Parkı ve Açık Alanı",
+    "lat": 39.41977,
+    "lon": 29.98792
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "MERKEZ",
+    "mahalle": "Fatih",
+    "ad": "Fatih Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 39.41659,
+    "lon": 29.98272
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "MERKEZ",
+    "mahalle": "Yenidoğan",
+    "ad": "Yenidoğan Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 39.41258,
+    "lon": 29.98732
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "MERKEZ",
+    "mahalle": "Maltepe",
+    "ad": "Maltepe Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 39.40846,
+    "lon": 29.98401
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "MERKEZ",
+    "mahalle": "Gaybiefendi",
+    "ad": "Gaybiefendi Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 39.43408,
+    "lon": 29.98204
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "MERKEZ",
+    "mahalle": "Akent",
+    "ad": "Akent Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.41411,
+    "lon": 29.98602
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "TAVŞANLI",
+    "mahalle": "Yeni",
+    "ad": "TAVŞANLI Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.53769,
+    "lon": 29.50027
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "TAVŞANLI",
+    "mahalle": "Durak",
+    "ad": "TAVŞANLI Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.54094,
+    "lon": 29.49244
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "TAVŞANLI",
+    "mahalle": "Kavaklı",
+    "ad": "TAVŞANLI Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.54666,
+    "lon": 29.48671
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "TAVŞANLI",
+    "mahalle": "Dağçeşme",
+    "ad": "TAVŞANLI Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.55824,
+    "lon": 29.49881
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "TAVŞANLI",
+    "mahalle": "Moymul",
+    "ad": "TAVŞANLI Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.55618,
+    "lon": 29.49089
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "TAVŞANLI",
+    "mahalle": "Yeni",
+    "ad": "Yeni Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.53524,
+    "lon": 29.49401
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "TAVŞANLI",
+    "mahalle": "Durak",
+    "ad": "Durak Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 39.53612,
+    "lon": 29.48459
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "TAVŞANLI",
+    "mahalle": "Kavaklı",
+    "ad": "Kavaklı Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 39.54918,
+    "lon": 29.51278
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "TAVŞANLI",
+    "mahalle": "Dağçeşme",
+    "ad": "Dağçeşme Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 39.53155,
+    "lon": 29.48715
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "TAVŞANLI",
+    "mahalle": "Moymul",
+    "ad": "Moymul Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 39.54233,
+    "lon": 29.49903
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "TAVŞANLI",
+    "mahalle": "Yeni",
+    "ad": "Yeni Mahallesi Parkı ve Açık Alanı",
+    "lat": 39.54145,
+    "lon": 29.48588
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "TAVŞANLI",
+    "mahalle": "Durak",
+    "ad": "Durak Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 39.53863,
+    "lon": 29.49342
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "TAVŞANLI",
+    "mahalle": "Kavaklı",
+    "ad": "Kavaklı Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 39.54461,
+    "lon": 29.4948
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "TAVŞANLI",
+    "mahalle": "Dağçeşme",
+    "ad": "Dağçeşme Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 39.53602,
+    "lon": 29.4948
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "SİMAV",
+    "mahalle": "Hisar",
+    "ad": "SİMAV Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.08916,
+    "lon": 28.97859
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "SİMAV",
+    "mahalle": "Tabakhane",
+    "ad": "SİMAV Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.10003,
+    "lon": 28.98169
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "SİMAV",
+    "mahalle": "Çitgöl",
+    "ad": "SİMAV Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.09308,
+    "lon": 28.98574
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "SİMAV",
+    "mahalle": "Eynal",
+    "ad": "SİMAV Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.10651,
+    "lon": 28.96732
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "SİMAV",
+    "mahalle": "Hisar",
+    "ad": "SİMAV Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.09521,
+    "lon": 28.98826
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "SİMAV",
+    "mahalle": "Tabakhane",
+    "ad": "Tabakhane Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.09599,
+    "lon": 28.98137
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "SİMAV",
+    "mahalle": "Çitgöl",
+    "ad": "Çitgöl Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 39.09453,
+    "lon": 28.96593
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "SİMAV",
+    "mahalle": "Eynal",
+    "ad": "Eynal Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 39.07452,
+    "lon": 28.99345
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "SİMAV",
+    "mahalle": "Hisar",
+    "ad": "Hisar Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 39.08821,
+    "lon": 28.96609
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "SİMAV",
+    "mahalle": "Tabakhane",
+    "ad": "Tabakhane Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 39.08683,
+    "lon": 28.98791
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "GEDİZ",
+    "mahalle": "Uluoymak",
+    "ad": "GEDİZ Kent Meydanı ve Toplanma Alanı",
+    "lat": 38.99586,
+    "lon": 29.55074
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "GEDİZ",
+    "mahalle": "Dayınlar",
+    "ad": "GEDİZ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 38.99749,
+    "lon": 29.57309
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "GEDİZ",
+    "mahalle": "Saygılar",
+    "ad": "GEDİZ Hükümet Konağı / Belediye Meydanı",
+    "lat": 38.99771,
+    "lon": 29.57882
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "GEDİZ",
+    "mahalle": "Ergenekon",
+    "ad": "GEDİZ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.00599,
+    "lon": 29.56682
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "GEDİZ",
+    "mahalle": "Uluoymak",
+    "ad": "GEDİZ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 38.99102,
+    "lon": 29.56825
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "GEDİZ",
+    "mahalle": "Dayınlar",
+    "ad": "Dayınlar Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 38.99378,
+    "lon": 29.57516
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "GEDİZ",
+    "mahalle": "Saygılar",
+    "ad": "Saygılar Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 38.99488,
+    "lon": 29.56922
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "GEDİZ",
+    "mahalle": "Ergenekon",
+    "ad": "Ergenekon Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 38.99684,
+    "lon": 29.56786
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "GEDİZ",
+    "mahalle": "Uluoymak",
+    "ad": "Uluoymak Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 38.99736,
+    "lon": 29.56687
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "GEDİZ",
+    "mahalle": "Dayınlar",
+    "ad": "Dayınlar Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 39.00386,
+    "lon": 29.57498
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "EMET",
+    "mahalle": "Cumhuriyet",
+    "ad": "EMET Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.35034,
+    "lon": 29.25001
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "EMET",
+    "mahalle": "Hamam",
+    "ad": "EMET Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.34777,
+    "lon": 29.27065
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "EMET",
+    "mahalle": "Kapuz",
+    "ad": "EMET Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.33893,
+    "lon": 29.26534
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "EMET",
+    "mahalle": "Cumhuriyet",
+    "ad": "EMET Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.35347,
+    "lon": 29.26376
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "EMET",
+    "mahalle": "Hamam",
+    "ad": "EMET Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.33501,
+    "lon": 29.24919
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "EMET",
+    "mahalle": "Kapuz",
+    "ad": "Kapuz Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.33824,
+    "lon": 29.24987
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "EMET",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 39.34284,
+    "lon": 29.25336
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "ALTINTAŞ",
+    "mahalle": "Hürriyet",
+    "ad": "ALTINTAŞ Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.06897,
+    "lon": 30.05728
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "ALTINTAŞ",
+    "mahalle": "İstiklal",
+    "ad": "ALTINTAŞ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.06296,
+    "lon": 30.05227
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "ALTINTAŞ",
+    "mahalle": "Yeni",
+    "ad": "ALTINTAŞ Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.06266,
+    "lon": 30.04918
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "ALTINTAŞ",
+    "mahalle": "Hürriyet",
+    "ad": "ALTINTAŞ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.06626,
+    "lon": 30.03351
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "ALTINTAŞ",
+    "mahalle": "İstiklal",
+    "ad": "ALTINTAŞ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.06828,
+    "lon": 30.05296
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "ALTINTAŞ",
+    "mahalle": "Yeni",
+    "ad": "Yeni Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.05269,
+    "lon": 30.06965
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "DOMANİÇ",
+    "mahalle": "Cumhuriyet",
+    "ad": "DOMANİÇ Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.80276,
+    "lon": 29.61453
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "DOMANİÇ",
+    "mahalle": "Hasantepe",
+    "ad": "DOMANİÇ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.79045,
+    "lon": 29.60538
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "DOMANİÇ",
+    "mahalle": "Cumhuriyet",
+    "ad": "DOMANİÇ Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.81309,
+    "lon": 29.61124
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "DOMANİÇ",
+    "mahalle": "Hasantepe",
+    "ad": "DOMANİÇ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.80302,
+    "lon": 29.60726
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "DOMANİÇ",
+    "mahalle": "Cumhuriyet",
+    "ad": "DOMANİÇ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.80864,
+    "lon": 29.61954
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "DOMANİÇ",
+    "mahalle": "Hasantepe",
+    "ad": "Hasantepe Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.79899,
+    "lon": 29.6148
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "HİSARCIK",
+    "mahalle": "Merkez",
+    "ad": "HİSARCIK Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.28219,
+    "lon": 29.27768
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "HİSARCIK",
+    "mahalle": "Şehitler",
+    "ad": "HİSARCIK Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.27814,
+    "lon": 29.28156
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "HİSARCIK",
+    "mahalle": "Merkez",
+    "ad": "HİSARCIK Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.2723,
+    "lon": 29.27788
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "HİSARCIK",
+    "mahalle": "Şehitler",
+    "ad": "HİSARCIK Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.27438,
+    "lon": 29.27995
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "HİSARCIK",
+    "mahalle": "Merkez",
+    "ad": "HİSARCIK Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.27534,
+    "lon": 29.2883
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "ASLANAPA",
+    "mahalle": "Cumhuriyet",
+    "ad": "ASLANAPA Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.20949,
+    "lon": 30.00736
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "ASLANAPA",
+    "mahalle": "Hürriyet",
+    "ad": "ASLANAPA Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.21008,
+    "lon": 30.00653
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "ASLANAPA",
+    "mahalle": "Cumhuriyet",
+    "ad": "ASLANAPA Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.20994,
+    "lon": 30.02566
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "ASLANAPA",
+    "mahalle": "Hürriyet",
+    "ad": "ASLANAPA Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.21066,
+    "lon": 30.00022
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "ASLANAPA",
+    "mahalle": "Cumhuriyet",
+    "ad": "ASLANAPA Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.21006,
+    "lon": 30.02342
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "ÇAVDARHİSAR",
+    "mahalle": "Merkez",
+    "ad": "ÇAVDARHİSAR Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.20072,
+    "lon": 29.62419
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "ÇAVDARHİSAR",
+    "mahalle": "Aizanoi Meydan",
+    "ad": "ÇAVDARHİSAR Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.19777,
+    "lon": 29.62239
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "ÇAVDARHİSAR",
+    "mahalle": "Merkez",
+    "ad": "ÇAVDARHİSAR Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.20162,
+    "lon": 29.62943
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "ÇAVDARHİSAR",
+    "mahalle": "Aizanoi Meydan",
+    "ad": "ÇAVDARHİSAR Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.20292,
+    "lon": 29.60373
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "ÇAVDARHİSAR",
+    "mahalle": "Merkez",
+    "ad": "ÇAVDARHİSAR Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.20304,
+    "lon": 29.62222
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "ŞAPHANE",
+    "mahalle": "Merkez",
+    "ad": "ŞAPHANE Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.02929,
+    "lon": 29.20599
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "ŞAPHANE",
+    "mahalle": "Turan",
+    "ad": "ŞAPHANE Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.02521,
+    "lon": 29.20817
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "ŞAPHANE",
+    "mahalle": "Merkez",
+    "ad": "ŞAPHANE Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.02798,
+    "lon": 29.23169
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "ŞAPHANE",
+    "mahalle": "Turan",
+    "ad": "ŞAPHANE Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.02346,
+    "lon": 29.21058
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "PAZARLAR",
+    "mahalle": "Merkez",
+    "ad": "PAZARLAR Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.01148,
+    "lon": 29.13446
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "PAZARLAR",
+    "mahalle": "Yenidoğan",
+    "ad": "PAZARLAR Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 38.9971,
+    "lon": 29.14295
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "PAZARLAR",
+    "mahalle": "Merkez",
+    "ad": "PAZARLAR Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.00614,
+    "lon": 29.12332
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "PAZARLAR",
+    "mahalle": "Yenidoğan",
+    "ad": "PAZARLAR Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.01464,
+    "lon": 29.12144
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "DUMLUPINAR",
+    "mahalle": "Şehitlik Çevresi",
+    "ad": "DUMLUPINAR Kent Meydanı ve Toplanma Alanı",
+    "lat": 38.86043,
+    "lon": 29.97224
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "DUMLUPINAR",
+    "mahalle": "Merkez",
+    "ad": "DUMLUPINAR Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 38.86437,
+    "lon": 29.97027
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "DUMLUPINAR",
+    "mahalle": "Şehitlik Çevresi",
+    "ad": "DUMLUPINAR Hükümet Konağı / Belediye Meydanı",
+    "lat": 38.86682,
+    "lon": 29.97136
+  },
+  {
+    "il": "Kütahya",
+    "ilce": "DUMLUPINAR",
+    "mahalle": "Merkez",
+    "ad": "DUMLUPINAR Millet Bahçesi ve Yeşil Alanı",
+    "lat": 38.87817,
+    "lon": 29.97711
+  }
+]

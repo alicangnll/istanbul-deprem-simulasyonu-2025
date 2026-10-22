@@ -1,0 +1,498 @@
+[
+  {
+    "il": "Kırşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Ahi Evran",
+    "ad": "MERKEZ Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.1529,
+    "lon": 34.16497
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Kervansaray",
+    "ad": "MERKEZ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.1387,
+    "lon": 34.16303
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Medrese",
+    "ad": "MERKEZ Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.14607,
+    "lon": 34.16095
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Yenice",
+    "ad": "MERKEZ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.13741,
+    "lon": 34.16346
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Bahçelievler",
+    "ad": "MERKEZ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.14534,
+    "lon": 34.1752
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Nasuhdede",
+    "ad": "Nasuhdede Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.1424,
+    "lon": 34.17213
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Güldiken",
+    "ad": "Güldiken Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 39.15634,
+    "lon": 34.16352
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Kuşdilli",
+    "ad": "Kuşdilli Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 39.13315,
+    "lon": 34.18061
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Ahi Evran",
+    "ad": "Ahi Evran Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 39.14183,
+    "lon": 34.14212
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Kervansaray",
+    "ad": "Kervansaray Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 39.13902,
+    "lon": 34.15886
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Medrese",
+    "ad": "Medrese Mahallesi Parkı ve Açık Alanı",
+    "lat": 39.14374,
+    "lon": 34.15958
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Yenice",
+    "ad": "Yenice Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 39.14204,
+    "lon": 34.15866
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Bahçelievler",
+    "ad": "Bahçelievler Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 39.15713,
+    "lon": 34.17041
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Nasuhdede",
+    "ad": "Nasuhdede Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 39.14271,
+    "lon": 34.16918
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Güldiken",
+    "ad": "Güldiken Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 39.13954,
+    "lon": 34.15525
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Kuşdilli",
+    "ad": "Kuşdilli Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.13977,
+    "lon": 34.1877
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Ahi Evran",
+    "ad": "Ahi Evran Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 39.13898,
+    "lon": 34.17554
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Kervansaray",
+    "ad": "Kervansaray Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 39.13977,
+    "lon": 34.154
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Medrese",
+    "ad": "Medrese Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 39.13062,
+    "lon": 34.16193
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Yenice",
+    "ad": "Yenice Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 39.14458,
+    "lon": 34.14419
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Bahçelievler",
+    "ad": "Bahçelievler Mahallesi Parkı ve Açık Alanı",
+    "lat": 39.14368,
+    "lon": 34.163
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Nasuhdede",
+    "ad": "Nasuhdede Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 39.15818,
+    "lon": 34.16301
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Güldiken",
+    "ad": "Güldiken Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 39.1393,
+    "lon": 34.17187
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Kuşdilli",
+    "ad": "Kuşdilli Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 39.14463,
+    "lon": 34.1654
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "KAMAN",
+    "mahalle": "Çiftlikli",
+    "ad": "KAMAN Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.36864,
+    "lon": 33.72291
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "KAMAN",
+    "mahalle": "Sarıuşağı",
+    "ad": "KAMAN Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.35036,
+    "lon": 33.71802
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "KAMAN",
+    "mahalle": "Yeni",
+    "ad": "KAMAN Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.35473,
+    "lon": 33.72491
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "KAMAN",
+    "mahalle": "Bahçelievler",
+    "ad": "KAMAN Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.36439,
+    "lon": 33.73781
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "KAMAN",
+    "mahalle": "Çiftlikli",
+    "ad": "KAMAN Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.35734,
+    "lon": 33.71743
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "KAMAN",
+    "mahalle": "Sarıuşağı",
+    "ad": "Sarıuşağı Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.36298,
+    "lon": 33.72942
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "KAMAN",
+    "mahalle": "Yeni",
+    "ad": "Yeni Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 39.35836,
+    "lon": 33.7156
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "KAMAN",
+    "mahalle": "Bahçelievler",
+    "ad": "Bahçelievler Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 39.36465,
+    "lon": 33.73563
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "KAMAN",
+    "mahalle": "Çiftlikli",
+    "ad": "Çiftlikli Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 39.35944,
+    "lon": 33.72101
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "KAMAN",
+    "mahalle": "Sarıuşağı",
+    "ad": "Sarıuşağı Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 39.34858,
+    "lon": 33.73366
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "MUCUR",
+    "mahalle": "Hamidiye",
+    "ad": "MUCUR Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.06951,
+    "lon": 34.36255
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "MUCUR",
+    "mahalle": "Karşıyaka",
+    "ad": "MUCUR Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.05835,
+    "lon": 34.37006
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "MUCUR",
+    "mahalle": "Solaklı",
+    "ad": "MUCUR Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.0675,
+    "lon": 34.37442
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "MUCUR",
+    "mahalle": "Yeni",
+    "ad": "MUCUR Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.06263,
+    "lon": 34.36396
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "MUCUR",
+    "mahalle": "Hamidiye",
+    "ad": "MUCUR Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.06539,
+    "lon": 34.39156
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "MUCUR",
+    "mahalle": "Karşıyaka",
+    "ad": "Karşıyaka Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.07255,
+    "lon": 34.37247
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "MUCUR",
+    "mahalle": "Solaklı",
+    "ad": "Solaklı Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 39.0625,
+    "lon": 34.3837
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "MUCUR",
+    "mahalle": "Yeni",
+    "ad": "Yeni Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 39.0691,
+    "lon": 34.36994
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "ÇİÇEKDAĞI",
+    "mahalle": "Fevzi Çakmak",
+    "ad": "ÇİÇEKDAĞI Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.61767,
+    "lon": 34.41871
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "ÇİÇEKDAĞI",
+    "mahalle": "Boyalık",
+    "ad": "ÇİÇEKDAĞI Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.60493,
+    "lon": 34.41535
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "ÇİÇEKDAĞI",
+    "mahalle": "Yeni",
+    "ad": "ÇİÇEKDAĞI Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.61381,
+    "lon": 34.43563
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "ÇİÇEKDAĞI",
+    "mahalle": "Fevzi Çakmak",
+    "ad": "ÇİÇEKDAĞI Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.61157,
+    "lon": 34.41328
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "ÇİÇEKDAĞI",
+    "mahalle": "Boyalık",
+    "ad": "ÇİÇEKDAĞI Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.60725,
+    "lon": 34.42251
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "ÇİÇEKDAĞI",
+    "mahalle": "Yeni",
+    "ad": "Yeni Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.61491,
+    "lon": 34.41915
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "AKPINAR",
+    "mahalle": "Cumhuriyet",
+    "ad": "AKPINAR Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.43793,
+    "lon": 33.97107
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "AKPINAR",
+    "mahalle": "Yeni",
+    "ad": "AKPINAR Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.45201,
+    "lon": 33.96074
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "AKPINAR",
+    "mahalle": "Karasakal",
+    "ad": "AKPINAR Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.45161,
+    "lon": 33.98539
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "AKPINAR",
+    "mahalle": "Cumhuriyet",
+    "ad": "AKPINAR Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.44346,
+    "lon": 33.97395
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "AKPINAR",
+    "mahalle": "Yeni",
+    "ad": "AKPINAR Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.44104,
+    "lon": 33.97694
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "BOZTEPE",
+    "mahalle": "Bağdat",
+    "ad": "BOZTEPE Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.27281,
+    "lon": 34.26566
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "BOZTEPE",
+    "mahalle": "Ortaköy",
+    "ad": "BOZTEPE Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.25889,
+    "lon": 34.27083
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "BOZTEPE",
+    "mahalle": "Yeni",
+    "ad": "BOZTEPE Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.25532,
+    "lon": 34.29176
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "BOZTEPE",
+    "mahalle": "Bağdat",
+    "ad": "BOZTEPE Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.27227,
+    "lon": 34.26504
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "BOZTEPE",
+    "mahalle": "Ortaköy",
+    "ad": "BOZTEPE Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.2534,
+    "lon": 34.27169
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "AKÇAKENT",
+    "mahalle": "Yeni",
+    "ad": "AKÇAKENT Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.62425,
+    "lon": 34.1148
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "AKÇAKENT",
+    "mahalle": "Karakurt",
+    "ad": "AKÇAKENT Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.64696,
+    "lon": 34.12052
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "AKÇAKENT",
+    "mahalle": "Yeni",
+    "ad": "AKÇAKENT Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.62807,
+    "lon": 34.12717
+  },
+  {
+    "il": "Kırşehir",
+    "ilce": "AKÇAKENT",
+    "mahalle": "Karakurt",
+    "ad": "AKÇAKENT Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.64588,
+    "lon": 34.11876
+  }
+]

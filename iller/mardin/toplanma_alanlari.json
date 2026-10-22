@@ -1,0 +1,890 @@
+[
+  {
+    "il": "Mardin",
+    "ilce": "ARTUKLU",
+    "mahalle": "13 Mart",
+    "ad": "ARTUKLU Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.32197,
+    "lon": 40.72914
+  },
+  {
+    "il": "Mardin",
+    "ilce": "ARTUKLU",
+    "mahalle": "Yenişehir",
+    "ad": "ARTUKLU Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.3034,
+    "lon": 40.74162
+  },
+  {
+    "il": "Mardin",
+    "ilce": "ARTUKLU",
+    "mahalle": "Eminettin",
+    "ad": "ARTUKLU Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.30637,
+    "lon": 40.73562
+  },
+  {
+    "il": "Mardin",
+    "ilce": "ARTUKLU",
+    "mahalle": "Cumhuriyet",
+    "ad": "ARTUKLU Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.31218,
+    "lon": 40.73089
+  },
+  {
+    "il": "Mardin",
+    "ilce": "ARTUKLU",
+    "mahalle": "Ofis",
+    "ad": "ARTUKLU Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.31105,
+    "lon": 40.73053
+  },
+  {
+    "il": "Mardin",
+    "ilce": "ARTUKLU",
+    "mahalle": "İstasyon",
+    "ad": "İstasyon Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.30633,
+    "lon": 40.74405
+  },
+  {
+    "il": "Mardin",
+    "ilce": "ARTUKLU",
+    "mahalle": "Nur",
+    "ad": "Nur Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.31451,
+    "lon": 40.72846
+  },
+  {
+    "il": "Mardin",
+    "ilce": "ARTUKLU",
+    "mahalle": "Saraçoğlu",
+    "ad": "Saraçoğlu Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 37.31399,
+    "lon": 40.73221
+  },
+  {
+    "il": "Mardin",
+    "ilce": "ARTUKLU",
+    "mahalle": "13 Mart",
+    "ad": "13 Mart Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 37.31819,
+    "lon": 40.72565
+  },
+  {
+    "il": "Mardin",
+    "ilce": "ARTUKLU",
+    "mahalle": "Yenişehir",
+    "ad": "Yenişehir Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 37.31252,
+    "lon": 40.73256
+  },
+  {
+    "il": "Mardin",
+    "ilce": "ARTUKLU",
+    "mahalle": "Eminettin",
+    "ad": "Eminettin Mahallesi Parkı ve Açık Alanı",
+    "lat": 37.31381,
+    "lon": 40.74121
+  },
+  {
+    "il": "Mardin",
+    "ilce": "ARTUKLU",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 37.29895,
+    "lon": 40.74909
+  },
+  {
+    "il": "Mardin",
+    "ilce": "ARTUKLU",
+    "mahalle": "Ofis",
+    "ad": "Ofis Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 37.29832,
+    "lon": 40.72148
+  },
+  {
+    "il": "Mardin",
+    "ilce": "ARTUKLU",
+    "mahalle": "İstasyon",
+    "ad": "İstasyon Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 37.30554,
+    "lon": 40.73024
+  },
+  {
+    "il": "Mardin",
+    "ilce": "ARTUKLU",
+    "mahalle": "Nur",
+    "ad": "Nur Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 37.30513,
+    "lon": 40.72658
+  },
+  {
+    "il": "Mardin",
+    "ilce": "ARTUKLU",
+    "mahalle": "Saraçoğlu",
+    "ad": "Saraçoğlu Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.32082,
+    "lon": 40.73286
+  },
+  {
+    "il": "Mardin",
+    "ilce": "ARTUKLU",
+    "mahalle": "13 Mart",
+    "ad": "13 Mart Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.31111,
+    "lon": 40.73769
+  },
+  {
+    "il": "Mardin",
+    "ilce": "ARTUKLU",
+    "mahalle": "Yenişehir",
+    "ad": "Yenişehir Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 37.30669,
+    "lon": 40.74234
+  },
+  {
+    "il": "Mardin",
+    "ilce": "ARTUKLU",
+    "mahalle": "Eminettin",
+    "ad": "Eminettin Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 37.30788,
+    "lon": 40.72406
+  },
+  {
+    "il": "Mardin",
+    "ilce": "ARTUKLU",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 37.31497,
+    "lon": 40.73031
+  },
+  {
+    "il": "Mardin",
+    "ilce": "KIZILTEPE",
+    "mahalle": "Tepebaşı",
+    "ad": "KIZILTEPE Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.17912,
+    "lon": 40.60913
+  },
+  {
+    "il": "Mardin",
+    "ilce": "KIZILTEPE",
+    "mahalle": "Koçhisar",
+    "ad": "KIZILTEPE Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.20026,
+    "lon": 40.57853
+  },
+  {
+    "il": "Mardin",
+    "ilce": "KIZILTEPE",
+    "mahalle": "Yenikent",
+    "ad": "KIZILTEPE Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.19203,
+    "lon": 40.57579
+  },
+  {
+    "il": "Mardin",
+    "ilce": "KIZILTEPE",
+    "mahalle": "İpek",
+    "ad": "KIZILTEPE Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.18469,
+    "lon": 40.58238
+  },
+  {
+    "il": "Mardin",
+    "ilce": "KIZILTEPE",
+    "mahalle": "Aşiti",
+    "ad": "KIZILTEPE Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.20049,
+    "lon": 40.59898
+  },
+  {
+    "il": "Mardin",
+    "ilce": "KIZILTEPE",
+    "mahalle": "Turgut Özal",
+    "ad": "Turgut Özal Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.19371,
+    "lon": 40.59019
+  },
+  {
+    "il": "Mardin",
+    "ilce": "KIZILTEPE",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.18239,
+    "lon": 40.58747
+  },
+  {
+    "il": "Mardin",
+    "ilce": "KIZILTEPE",
+    "mahalle": "Ersoylu",
+    "ad": "Ersoylu Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 37.19334,
+    "lon": 40.5747
+  },
+  {
+    "il": "Mardin",
+    "ilce": "KIZILTEPE",
+    "mahalle": "Tepebaşı",
+    "ad": "Tepebaşı Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 37.19521,
+    "lon": 40.58321
+  },
+  {
+    "il": "Mardin",
+    "ilce": "KIZILTEPE",
+    "mahalle": "Koçhisar",
+    "ad": "Koçhisar Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 37.19756,
+    "lon": 40.59098
+  },
+  {
+    "il": "Mardin",
+    "ilce": "KIZILTEPE",
+    "mahalle": "Yenikent",
+    "ad": "Yenikent Mahallesi Parkı ve Açık Alanı",
+    "lat": 37.18982,
+    "lon": 40.58582
+  },
+  {
+    "il": "Mardin",
+    "ilce": "KIZILTEPE",
+    "mahalle": "İpek",
+    "ad": "İpek Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 37.19727,
+    "lon": 40.59126
+  },
+  {
+    "il": "Mardin",
+    "ilce": "KIZILTEPE",
+    "mahalle": "Aşiti",
+    "ad": "Aşiti Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 37.18238,
+    "lon": 40.58388
+  },
+  {
+    "il": "Mardin",
+    "ilce": "KIZILTEPE",
+    "mahalle": "Turgut Özal",
+    "ad": "Turgut Özal Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 37.19803,
+    "lon": 40.58803
+  },
+  {
+    "il": "Mardin",
+    "ilce": "KIZILTEPE",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 37.19214,
+    "lon": 40.58898
+  },
+  {
+    "il": "Mardin",
+    "ilce": "KIZILTEPE",
+    "mahalle": "Ersoylu",
+    "ad": "Ersoylu Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.19643,
+    "lon": 40.60044
+  },
+  {
+    "il": "Mardin",
+    "ilce": "KIZILTEPE",
+    "mahalle": "Tepebaşı",
+    "ad": "Tepebaşı Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.19954,
+    "lon": 40.58213
+  },
+  {
+    "il": "Mardin",
+    "ilce": "KIZILTEPE",
+    "mahalle": "Koçhisar",
+    "ad": "Koçhisar Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 37.19425,
+    "lon": 40.58273
+  },
+  {
+    "il": "Mardin",
+    "ilce": "KIZILTEPE",
+    "mahalle": "Yenikent",
+    "ad": "Yenikent Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 37.19019,
+    "lon": 40.59047
+  },
+  {
+    "il": "Mardin",
+    "ilce": "KIZILTEPE",
+    "mahalle": "İpek",
+    "ad": "İpek Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 37.20254,
+    "lon": 40.58371
+  },
+  {
+    "il": "Mardin",
+    "ilce": "KIZILTEPE",
+    "mahalle": "Aşiti",
+    "ad": "Aşiti Mahallesi Parkı ve Açık Alanı",
+    "lat": 37.20024,
+    "lon": 40.5924
+  },
+  {
+    "il": "Mardin",
+    "ilce": "KIZILTEPE",
+    "mahalle": "Turgut Özal",
+    "ad": "Turgut Özal Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 37.19155,
+    "lon": 40.58033
+  },
+  {
+    "il": "Mardin",
+    "ilce": "MİDYAT",
+    "mahalle": "Bağlar",
+    "ad": "MİDYAT Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.41736,
+    "lon": 41.34516
+  },
+  {
+    "il": "Mardin",
+    "ilce": "MİDYAT",
+    "mahalle": "Cumhuriyet",
+    "ad": "MİDYAT Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.41484,
+    "lon": 41.33291
+  },
+  {
+    "il": "Mardin",
+    "ilce": "MİDYAT",
+    "mahalle": "Akçakaya",
+    "ad": "MİDYAT Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.41516,
+    "lon": 41.33574
+  },
+  {
+    "il": "Mardin",
+    "ilce": "MİDYAT",
+    "mahalle": "Ulucami",
+    "ad": "MİDYAT Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.43143,
+    "lon": 41.31925
+  },
+  {
+    "il": "Mardin",
+    "ilce": "MİDYAT",
+    "mahalle": "Işıklar",
+    "ad": "MİDYAT Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.42457,
+    "lon": 41.34222
+  },
+  {
+    "il": "Mardin",
+    "ilce": "MİDYAT",
+    "mahalle": "Sanayi",
+    "ad": "Sanayi Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.4195,
+    "lon": 41.33188
+  },
+  {
+    "il": "Mardin",
+    "ilce": "MİDYAT",
+    "mahalle": "Bağlar",
+    "ad": "Bağlar Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.41284,
+    "lon": 41.34177
+  },
+  {
+    "il": "Mardin",
+    "ilce": "MİDYAT",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 37.41896,
+    "lon": 41.3265
+  },
+  {
+    "il": "Mardin",
+    "ilce": "MİDYAT",
+    "mahalle": "Akçakaya",
+    "ad": "Akçakaya Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 37.41833,
+    "lon": 41.33566
+  },
+  {
+    "il": "Mardin",
+    "ilce": "MİDYAT",
+    "mahalle": "Ulucami",
+    "ad": "Ulucami Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 37.42172,
+    "lon": 41.34624
+  },
+  {
+    "il": "Mardin",
+    "ilce": "MİDYAT",
+    "mahalle": "Işıklar",
+    "ad": "Işıklar Mahallesi Parkı ve Açık Alanı",
+    "lat": 37.42537,
+    "lon": 41.33155
+  },
+  {
+    "il": "Mardin",
+    "ilce": "MİDYAT",
+    "mahalle": "Sanayi",
+    "ad": "Sanayi Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 37.4329,
+    "lon": 41.3274
+  },
+  {
+    "il": "Mardin",
+    "ilce": "MİDYAT",
+    "mahalle": "Bağlar",
+    "ad": "Bağlar Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 37.42589,
+    "lon": 41.33403
+  },
+  {
+    "il": "Mardin",
+    "ilce": "MİDYAT",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 37.41917,
+    "lon": 41.33109
+  },
+  {
+    "il": "Mardin",
+    "ilce": "MİDYAT",
+    "mahalle": "Akçakaya",
+    "ad": "Akçakaya Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 37.42038,
+    "lon": 41.32505
+  },
+  {
+    "il": "Mardin",
+    "ilce": "MİDYAT",
+    "mahalle": "Ulucami",
+    "ad": "Ulucami Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.41122,
+    "lon": 41.34948
+  },
+  {
+    "il": "Mardin",
+    "ilce": "NUSAYBİN",
+    "mahalle": "Devrim",
+    "ad": "NUSAYBİN Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.07477,
+    "lon": 41.22021
+  },
+  {
+    "il": "Mardin",
+    "ilce": "NUSAYBİN",
+    "mahalle": "Barış",
+    "ad": "NUSAYBİN Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.07494,
+    "lon": 41.2281
+  },
+  {
+    "il": "Mardin",
+    "ilce": "NUSAYBİN",
+    "mahalle": "Mor Yakup",
+    "ad": "NUSAYBİN Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.07537,
+    "lon": 41.20234
+  },
+  {
+    "il": "Mardin",
+    "ilce": "NUSAYBİN",
+    "mahalle": "Kışla",
+    "ad": "NUSAYBİN Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.0721,
+    "lon": 41.21205
+  },
+  {
+    "il": "Mardin",
+    "ilce": "NUSAYBİN",
+    "mahalle": "8 Mart",
+    "ad": "NUSAYBİN Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.0733,
+    "lon": 41.21293
+  },
+  {
+    "il": "Mardin",
+    "ilce": "NUSAYBİN",
+    "mahalle": "Gırnavas",
+    "ad": "Gırnavas Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.0798,
+    "lon": 41.2005
+  },
+  {
+    "il": "Mardin",
+    "ilce": "NUSAYBİN",
+    "mahalle": "Devrim",
+    "ad": "Devrim Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.07995,
+    "lon": 41.21475
+  },
+  {
+    "il": "Mardin",
+    "ilce": "NUSAYBİN",
+    "mahalle": "Barış",
+    "ad": "Barış Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 37.05605,
+    "lon": 41.21662
+  },
+  {
+    "il": "Mardin",
+    "ilce": "NUSAYBİN",
+    "mahalle": "Mor Yakup",
+    "ad": "Mor Yakup Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 37.07181,
+    "lon": 41.22794
+  },
+  {
+    "il": "Mardin",
+    "ilce": "NUSAYBİN",
+    "mahalle": "Kışla",
+    "ad": "Kışla Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 37.07095,
+    "lon": 41.22229
+  },
+  {
+    "il": "Mardin",
+    "ilce": "NUSAYBİN",
+    "mahalle": "8 Mart",
+    "ad": "8 Mart Mahallesi Parkı ve Açık Alanı",
+    "lat": 37.06907,
+    "lon": 41.20389
+  },
+  {
+    "il": "Mardin",
+    "ilce": "NUSAYBİN",
+    "mahalle": "Gırnavas",
+    "ad": "Gırnavas Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 37.07688,
+    "lon": 41.2196
+  },
+  {
+    "il": "Mardin",
+    "ilce": "NUSAYBİN",
+    "mahalle": "Devrim",
+    "ad": "Devrim Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 37.08404,
+    "lon": 41.20607
+  },
+  {
+    "il": "Mardin",
+    "ilce": "NUSAYBİN",
+    "mahalle": "Barış",
+    "ad": "Barış Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 37.06882,
+    "lon": 41.21786
+  },
+  {
+    "il": "Mardin",
+    "ilce": "DERİK",
+    "mahalle": "Kale",
+    "ad": "DERİK Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.35075,
+    "lon": 40.28572
+  },
+  {
+    "il": "Mardin",
+    "ilce": "DERİK",
+    "mahalle": "Zeytinpınar",
+    "ad": "DERİK Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.3457,
+    "lon": 40.27162
+  },
+  {
+    "il": "Mardin",
+    "ilce": "DERİK",
+    "mahalle": "Cevizpınar",
+    "ad": "DERİK Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.36402,
+    "lon": 40.25515
+  },
+  {
+    "il": "Mardin",
+    "ilce": "DERİK",
+    "mahalle": "Bahçelievler",
+    "ad": "DERİK Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.36759,
+    "lon": 40.26495
+  },
+  {
+    "il": "Mardin",
+    "ilce": "DERİK",
+    "mahalle": "Kale",
+    "ad": "DERİK Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.35901,
+    "lon": 40.2858
+  },
+  {
+    "il": "Mardin",
+    "ilce": "DERİK",
+    "mahalle": "Zeytinpınar",
+    "ad": "Zeytinpınar Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.36713,
+    "lon": 40.26063
+  },
+  {
+    "il": "Mardin",
+    "ilce": "DERİK",
+    "mahalle": "Cevizpınar",
+    "ad": "Cevizpınar Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.37662,
+    "lon": 40.26696
+  },
+  {
+    "il": "Mardin",
+    "ilce": "DERİK",
+    "mahalle": "Bahçelievler",
+    "ad": "Bahçelievler Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 37.37133,
+    "lon": 40.2688
+  },
+  {
+    "il": "Mardin",
+    "ilce": "MAZIDAĞI",
+    "mahalle": "Gündoğan",
+    "ad": "MAZIDAĞI Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.49381,
+    "lon": 40.46717
+  },
+  {
+    "il": "Mardin",
+    "ilce": "MAZIDAĞI",
+    "mahalle": "Poyraz",
+    "ad": "MAZIDAĞI Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.47241,
+    "lon": 40.49042
+  },
+  {
+    "il": "Mardin",
+    "ilce": "MAZIDAĞI",
+    "mahalle": "Kayalar",
+    "ad": "MAZIDAĞI Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.47557,
+    "lon": 40.47839
+  },
+  {
+    "il": "Mardin",
+    "ilce": "MAZIDAĞI",
+    "mahalle": "Gündoğan",
+    "ad": "MAZIDAĞI Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.47757,
+    "lon": 40.48134
+  },
+  {
+    "il": "Mardin",
+    "ilce": "MAZIDAĞI",
+    "mahalle": "Poyraz",
+    "ad": "MAZIDAĞI Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.47807,
+    "lon": 40.49363
+  },
+  {
+    "il": "Mardin",
+    "ilce": "MAZIDAĞI",
+    "mahalle": "Kayalar",
+    "ad": "Kayalar Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.4787,
+    "lon": 40.49561
+  },
+  {
+    "il": "Mardin",
+    "ilce": "MAZIDAĞI",
+    "mahalle": "Gündoğan",
+    "ad": "Gündoğan Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.47085,
+    "lon": 40.47873
+  },
+  {
+    "il": "Mardin",
+    "ilce": "MAZIDAĞI",
+    "mahalle": "Poyraz",
+    "ad": "Poyraz Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 37.47683,
+    "lon": 40.48416
+  },
+  {
+    "il": "Mardin",
+    "ilce": "DARGEÇİT",
+    "mahalle": "Sarıköy",
+    "ad": "DARGEÇİT Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.53377,
+    "lon": 41.71952
+  },
+  {
+    "il": "Mardin",
+    "ilce": "DARGEÇİT",
+    "mahalle": "Bahçebaşı",
+    "ad": "DARGEÇİT Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.53977,
+    "lon": 41.71536
+  },
+  {
+    "il": "Mardin",
+    "ilce": "DARGEÇİT",
+    "mahalle": "Tepebaşı",
+    "ad": "DARGEÇİT Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.5535,
+    "lon": 41.72294
+  },
+  {
+    "il": "Mardin",
+    "ilce": "DARGEÇİT",
+    "mahalle": "Sarıköy",
+    "ad": "DARGEÇİT Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.53137,
+    "lon": 41.72691
+  },
+  {
+    "il": "Mardin",
+    "ilce": "DARGEÇİT",
+    "mahalle": "Bahçebaşı",
+    "ad": "DARGEÇİT Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.52829,
+    "lon": 41.73251
+  },
+  {
+    "il": "Mardin",
+    "ilce": "DARGEÇİT",
+    "mahalle": "Tepebaşı",
+    "ad": "Tepebaşı Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.54026,
+    "lon": 41.71464
+  },
+  {
+    "il": "Mardin",
+    "ilce": "DARGEÇİT",
+    "mahalle": "Sarıköy",
+    "ad": "Sarıköy Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.53777,
+    "lon": 41.72548
+  },
+  {
+    "il": "Mardin",
+    "ilce": "SAVUR",
+    "mahalle": "Köprülü",
+    "ad": "SAVUR Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.54016,
+    "lon": 40.88624
+  },
+  {
+    "il": "Mardin",
+    "ilce": "SAVUR",
+    "mahalle": "Safa",
+    "ad": "SAVUR Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.53764,
+    "lon": 40.89241
+  },
+  {
+    "il": "Mardin",
+    "ilce": "SAVUR",
+    "mahalle": "Seydin",
+    "ad": "SAVUR Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.54028,
+    "lon": 40.88104
+  },
+  {
+    "il": "Mardin",
+    "ilce": "SAVUR",
+    "mahalle": "Köprülü",
+    "ad": "SAVUR Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.53848,
+    "lon": 40.88809
+  },
+  {
+    "il": "Mardin",
+    "ilce": "SAVUR",
+    "mahalle": "Safa",
+    "ad": "SAVUR Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.53146,
+    "lon": 40.89364
+  },
+  {
+    "il": "Mardin",
+    "ilce": "SAVUR",
+    "mahalle": "Seydin",
+    "ad": "Seydin Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.529,
+    "lon": 40.88725
+  },
+  {
+    "il": "Mardin",
+    "ilce": "YEŞİLLİ",
+    "mahalle": "Gül",
+    "ad": "YEŞİLLİ Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.35796,
+    "lon": 40.81705
+  },
+  {
+    "il": "Mardin",
+    "ilce": "YEŞİLLİ",
+    "mahalle": "Bahçebaşı",
+    "ad": "YEŞİLLİ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.34316,
+    "lon": 40.8306
+  },
+  {
+    "il": "Mardin",
+    "ilce": "YEŞİLLİ",
+    "mahalle": "Karşıyaka",
+    "ad": "YEŞİLLİ Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.35282,
+    "lon": 40.82582
+  },
+  {
+    "il": "Mardin",
+    "ilce": "YEŞİLLİ",
+    "mahalle": "Gül",
+    "ad": "YEŞİLLİ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.35081,
+    "lon": 40.81823
+  },
+  {
+    "il": "Mardin",
+    "ilce": "YEŞİLLİ",
+    "mahalle": "Bahçebaşı",
+    "ad": "YEŞİLLİ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.35407,
+    "lon": 40.82434
+  },
+  {
+    "il": "Mardin",
+    "ilce": "ÖMERLİ",
+    "mahalle": "Yeni",
+    "ad": "ÖMERLİ Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.44031,
+    "lon": 40.95534
+  },
+  {
+    "il": "Mardin",
+    "ilce": "ÖMERLİ",
+    "mahalle": "Cumhuriyet",
+    "ad": "ÖMERLİ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.44524,
+    "lon": 40.95705
+  },
+  {
+    "il": "Mardin",
+    "ilce": "ÖMERLİ",
+    "mahalle": "Şafak",
+    "ad": "ÖMERLİ Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.43468,
+    "lon": 40.96054
+  },
+  {
+    "il": "Mardin",
+    "ilce": "ÖMERLİ",
+    "mahalle": "Yeni",
+    "ad": "ÖMERLİ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.4405,
+    "lon": 40.95419
+  },
+  {
+    "il": "Mardin",
+    "ilce": "ÖMERLİ",
+    "mahalle": "Cumhuriyet",
+    "ad": "ÖMERLİ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.44298,
+    "lon": 40.96198
+  }
+]

@@ -1,0 +1,1042 @@
+[
+  {
+    "il": "Kastamonu",
+    "ilce": "MERKEZ",
+    "mahalle": "Cebrail",
+    "ad": "MERKEZ Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.36759,
+    "lon": 33.75418
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "MERKEZ",
+    "mahalle": "İnönü",
+    "ad": "MERKEZ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.37607,
+    "lon": 33.7556
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "MERKEZ",
+    "mahalle": "Kuzeykent",
+    "ad": "MERKEZ Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.39206,
+    "lon": 33.78353
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "MERKEZ",
+    "mahalle": "Saraçlar",
+    "ad": "MERKEZ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.3786,
+    "lon": 33.76201
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "MERKEZ",
+    "mahalle": "Mehmet Akif Ersoy",
+    "ad": "MERKEZ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.37267,
+    "lon": 33.77742
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "MERKEZ",
+    "mahalle": "Beyçelebi",
+    "ad": "Beyçelebi Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.37268,
+    "lon": 33.784
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "MERKEZ",
+    "mahalle": "Hepkebirler",
+    "ad": "Hepkebirler Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.39122,
+    "lon": 33.76179
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "MERKEZ",
+    "mahalle": "Aktekke",
+    "ad": "Aktekke Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.37482,
+    "lon": 33.78127
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "MERKEZ",
+    "mahalle": "Cebrail",
+    "ad": "Cebrail Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 41.3769,
+    "lon": 33.76971
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "MERKEZ",
+    "mahalle": "İnönü",
+    "ad": "İnönü Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 41.37353,
+    "lon": 33.76582
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "MERKEZ",
+    "mahalle": "Kuzeykent",
+    "ad": "Kuzeykent Mahallesi Parkı ve Açık Alanı",
+    "lat": 41.36157,
+    "lon": 33.77901
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "MERKEZ",
+    "mahalle": "Saraçlar",
+    "ad": "Saraçlar Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 41.36989,
+    "lon": 33.77038
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "MERKEZ",
+    "mahalle": "Mehmet Akif Ersoy",
+    "ad": "Mehmet Akif Ersoy Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 41.37208,
+    "lon": 33.75849
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "MERKEZ",
+    "mahalle": "Beyçelebi",
+    "ad": "Beyçelebi Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 41.37925,
+    "lon": 33.77625
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "MERKEZ",
+    "mahalle": "Hepkebirler",
+    "ad": "Hepkebirler Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 41.38176,
+    "lon": 33.77068
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "MERKEZ",
+    "mahalle": "Aktekke",
+    "ad": "Aktekke Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.38007,
+    "lon": 33.78147
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "MERKEZ",
+    "mahalle": "Cebrail",
+    "ad": "Cebrail Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.39025,
+    "lon": 33.76817
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "MERKEZ",
+    "mahalle": "İnönü",
+    "ad": "İnönü Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.37653,
+    "lon": 33.76995
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "MERKEZ",
+    "mahalle": "Kuzeykent",
+    "ad": "Kuzeykent Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 41.37918,
+    "lon": 33.77255
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "MERKEZ",
+    "mahalle": "Saraçlar",
+    "ad": "Saraçlar Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 41.38317,
+    "lon": 33.77599
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "MERKEZ",
+    "mahalle": "Mehmet Akif Ersoy",
+    "ad": "Mehmet Akif Ersoy Mahallesi Parkı ve Açık Alanı",
+    "lat": 41.36954,
+    "lon": 33.76693
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "MERKEZ",
+    "mahalle": "Beyçelebi",
+    "ad": "Beyçelebi Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 41.37508,
+    "lon": 33.76507
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "TOSYA",
+    "mahalle": "Bahçelievler",
+    "ad": "TOSYA Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.024,
+    "lon": 34.04801
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "TOSYA",
+    "mahalle": "Cumhuriyet",
+    "ad": "TOSYA Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.02719,
+    "lon": 34.04434
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "TOSYA",
+    "mahalle": "Yunus Emre",
+    "ad": "TOSYA Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.02304,
+    "lon": 34.03687
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "TOSYA",
+    "mahalle": "Dilküşa",
+    "ad": "TOSYA Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.01859,
+    "lon": 34.04353
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "TOSYA",
+    "mahalle": "Bahçelievler",
+    "ad": "TOSYA Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.00778,
+    "lon": 34.04854
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "TOSYA",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.02278,
+    "lon": 34.03859
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "TOSYA",
+    "mahalle": "Yunus Emre",
+    "ad": "Yunus Emre Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.02518,
+    "lon": 34.05693
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "TOSYA",
+    "mahalle": "Dilküşa",
+    "ad": "Dilküşa Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.01539,
+    "lon": 34.03703
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "TOSYA",
+    "mahalle": "Bahçelievler",
+    "ad": "Bahçelievler Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 41.00991,
+    "lon": 34.03296
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "TOSYA",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 41.01388,
+    "lon": 34.0346
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "TOSYA",
+    "mahalle": "Yunus Emre",
+    "ad": "Yunus Emre Mahallesi Parkı ve Açık Alanı",
+    "lat": 41.01076,
+    "lon": 34.04343
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "TOSYA",
+    "mahalle": "Dilküşa",
+    "ad": "Dilküşa Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 41.01141,
+    "lon": 34.05464
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "TAŞKÖPRÜ",
+    "mahalle": "Camikebir",
+    "ad": "TAŞKÖPRÜ Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.51496,
+    "lon": 34.22177
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "TAŞKÖPRÜ",
+    "mahalle": "Harmancık",
+    "ad": "TAŞKÖPRÜ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.50776,
+    "lon": 34.19829
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "TAŞKÖPRÜ",
+    "mahalle": "Karasait",
+    "ad": "TAŞKÖPRÜ Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.51635,
+    "lon": 34.20522
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "TAŞKÖPRÜ",
+    "mahalle": "Pusacık",
+    "ad": "TAŞKÖPRÜ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.51296,
+    "lon": 34.21747
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "TAŞKÖPRÜ",
+    "mahalle": "Camikebir",
+    "ad": "TAŞKÖPRÜ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.51428,
+    "lon": 34.21776
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "TAŞKÖPRÜ",
+    "mahalle": "Harmancık",
+    "ad": "Harmancık Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.50095,
+    "lon": 34.21112
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "TAŞKÖPRÜ",
+    "mahalle": "Karasait",
+    "ad": "Karasait Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.50207,
+    "lon": 34.19993
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "TAŞKÖPRÜ",
+    "mahalle": "Pusacık",
+    "ad": "Pusacık Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.50672,
+    "lon": 34.20655
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "TAŞKÖPRÜ",
+    "mahalle": "Camikebir",
+    "ad": "Camikebir Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 41.51384,
+    "lon": 34.20157
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "TAŞKÖPRÜ",
+    "mahalle": "Harmancık",
+    "ad": "Harmancık Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 41.50572,
+    "lon": 34.22667
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "CİDE",
+    "mahalle": "Kasaba",
+    "ad": "CİDE Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.90062,
+    "lon": 32.95444
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "CİDE",
+    "mahalle": "Memiş",
+    "ad": "CİDE Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.88315,
+    "lon": 32.95124
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "CİDE",
+    "mahalle": "Kumluca",
+    "ad": "CİDE Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.90492,
+    "lon": 32.95914
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "CİDE",
+    "mahalle": "Ecevit",
+    "ad": "CİDE Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.89485,
+    "lon": 32.94589
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "CİDE",
+    "mahalle": "Kasaba",
+    "ad": "CİDE Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.88866,
+    "lon": 32.95065
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "CİDE",
+    "mahalle": "Memiş",
+    "ad": "Memiş Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.90468,
+    "lon": 32.94756
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "CİDE",
+    "mahalle": "Kumluca",
+    "ad": "Kumluca Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.88498,
+    "lon": 32.94891
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "CİDE",
+    "mahalle": "Ecevit",
+    "ad": "Ecevit Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.88332,
+    "lon": 32.97022
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "İNEBOLU",
+    "mahalle": "Aşağıhatipbağı",
+    "ad": "İNEBOLU Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.9773,
+    "lon": 33.77105
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "İNEBOLU",
+    "mahalle": "Cünürye",
+    "ad": "İNEBOLU Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.97193,
+    "lon": 33.76117
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "İNEBOLU",
+    "mahalle": "Camiişerif",
+    "ad": "İNEBOLU Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.97192,
+    "lon": 33.75898
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "İNEBOLU",
+    "mahalle": "Karadeniz",
+    "ad": "İNEBOLU Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.96067,
+    "lon": 33.77842
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "İNEBOLU",
+    "mahalle": "Aşağıhatipbağı",
+    "ad": "İNEBOLU Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.95995,
+    "lon": 33.76636
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "İNEBOLU",
+    "mahalle": "Cünürye",
+    "ad": "Cünürye Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.97259,
+    "lon": 33.76603
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "İNEBOLU",
+    "mahalle": "Camiişerif",
+    "ad": "Camiişerif Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.97509,
+    "lon": 33.7592
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "İNEBOLU",
+    "mahalle": "Karadeniz",
+    "ad": "Karadeniz Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.9758,
+    "lon": 33.77257
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "ARAÇ",
+    "mahalle": "Mesudiye",
+    "ad": "ARAÇ Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.23198,
+    "lon": 33.3269
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "ARAÇ",
+    "mahalle": "Yeni",
+    "ad": "ARAÇ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.23613,
+    "lon": 33.31872
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "ARAÇ",
+    "mahalle": "Köprübaşı",
+    "ad": "ARAÇ Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.23395,
+    "lon": 33.33275
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "ARAÇ",
+    "mahalle": "Mesudiye",
+    "ad": "ARAÇ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.2388,
+    "lon": 33.33998
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "ARAÇ",
+    "mahalle": "Yeni",
+    "ad": "ARAÇ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.23996,
+    "lon": 33.32262
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "ARAÇ",
+    "mahalle": "Köprübaşı",
+    "ad": "Köprübaşı Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.22352,
+    "lon": 33.33207
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "DEVREKANİ",
+    "mahalle": "Kurtuluş",
+    "ad": "DEVREKANİ Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.60517,
+    "lon": 33.82221
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "DEVREKANİ",
+    "mahalle": "Mütevelli",
+    "ad": "DEVREKANİ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.60686,
+    "lon": 33.83194
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "DEVREKANİ",
+    "mahalle": "Saray",
+    "ad": "DEVREKANİ Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.59857,
+    "lon": 33.8363
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "DEVREKANİ",
+    "mahalle": "Kurtuluş",
+    "ad": "DEVREKANİ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.59769,
+    "lon": 33.84992
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "DEVREKANİ",
+    "mahalle": "Mütevelli",
+    "ad": "DEVREKANİ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.60977,
+    "lon": 33.83488
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "DEVREKANİ",
+    "mahalle": "Saray",
+    "ad": "Saray Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.58934,
+    "lon": 33.82709
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "BOZKURT",
+    "mahalle": "Merkez",
+    "ad": "BOZKURT Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.95983,
+    "lon": 34.0165
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "BOZKURT",
+    "mahalle": "Yılmaz",
+    "ad": "BOZKURT Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.9587,
+    "lon": 34.01648
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "BOZKURT",
+    "mahalle": "Bahçe",
+    "ad": "BOZKURT Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.95225,
+    "lon": 34.0015
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "BOZKURT",
+    "mahalle": "Merkez",
+    "ad": "BOZKURT Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.9585,
+    "lon": 34.00548
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "BOZKURT",
+    "mahalle": "Yılmaz",
+    "ad": "BOZKURT Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.9534,
+    "lon": 34.01142
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "BOZKURT",
+    "mahalle": "Bahçe",
+    "ad": "Bahçe Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.96029,
+    "lon": 34.01208
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "DADAY",
+    "mahalle": "Bey",
+    "ad": "DADAY Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.48093,
+    "lon": 33.46536
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "DADAY",
+    "mahalle": "Keçeli",
+    "ad": "DADAY Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.47451,
+    "lon": 33.46536
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "DADAY",
+    "mahalle": "Kolukara",
+    "ad": "DADAY Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.4772,
+    "lon": 33.47072
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "DADAY",
+    "mahalle": "Bey",
+    "ad": "DADAY Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.4539,
+    "lon": 33.46256
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "DADAY",
+    "mahalle": "Keçeli",
+    "ad": "DADAY Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.46808,
+    "lon": 33.46709
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "AZDAVAY",
+    "mahalle": "Cumhuriyet",
+    "ad": "AZDAVAY Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.65002,
+    "lon": 33.38095
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "AZDAVAY",
+    "mahalle": "Karşıyaka",
+    "ad": "AZDAVAY Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.64027,
+    "lon": 33.3986
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "AZDAVAY",
+    "mahalle": "Cumhuriyet",
+    "ad": "AZDAVAY Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.65064,
+    "lon": 33.41329
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "AZDAVAY",
+    "mahalle": "Karşıyaka",
+    "ad": "AZDAVAY Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.6483,
+    "lon": 33.39588
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "AZDAVAY",
+    "mahalle": "Cumhuriyet",
+    "ad": "AZDAVAY Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.65663,
+    "lon": 33.39631
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "ÇATALZEYTİN",
+    "mahalle": "Merkez",
+    "ad": "ÇATALZEYTİN Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.94402,
+    "lon": 34.22713
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "ÇATALZEYTİN",
+    "mahalle": "Güneşler",
+    "ad": "ÇATALZEYTİN Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.95586,
+    "lon": 34.21876
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "ÇATALZEYTİN",
+    "mahalle": "Merkez",
+    "ad": "ÇATALZEYTİN Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.94516,
+    "lon": 34.21811
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "ÇATALZEYTİN",
+    "mahalle": "Güneşler",
+    "ad": "ÇATALZEYTİN Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.95327,
+    "lon": 34.2279
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "ÇATALZEYTİN",
+    "mahalle": "Merkez",
+    "ad": "ÇATALZEYTİN Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.94601,
+    "lon": 34.22047
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "KÜRE",
+    "mahalle": "Müderris",
+    "ad": "KÜRE Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.81613,
+    "lon": 33.73807
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "KÜRE",
+    "mahalle": "Kayacık",
+    "ad": "KÜRE Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.80616,
+    "lon": 33.70061
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "KÜRE",
+    "mahalle": "Müderris",
+    "ad": "KÜRE Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.80069,
+    "lon": 33.69975
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "KÜRE",
+    "mahalle": "Kayacık",
+    "ad": "KÜRE Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.79619,
+    "lon": 33.71588
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "KÜRE",
+    "mahalle": "Müderris",
+    "ad": "KÜRE Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.80445,
+    "lon": 33.72087
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "DOĞANYURT",
+    "mahalle": "Merkez",
+    "ad": "DOĞANYURT Kent Meydanı ve Toplanma Alanı",
+    "lat": 42.01115,
+    "lon": 33.45603
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "DOĞANYURT",
+    "mahalle": "Kayabükü",
+    "ad": "DOĞANYURT Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 42.01489,
+    "lon": 33.46731
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "DOĞANYURT",
+    "mahalle": "Merkez",
+    "ad": "DOĞANYURT Hükümet Konağı / Belediye Meydanı",
+    "lat": 42.03535,
+    "lon": 33.46147
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "DOĞANYURT",
+    "mahalle": "Kayabükü",
+    "ad": "DOĞANYURT Millet Bahçesi ve Yeşil Alanı",
+    "lat": 42.01005,
+    "lon": 33.45952
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "İHSANGAZİ",
+    "mahalle": "Yeni",
+    "ad": "İHSANGAZİ Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.17491,
+    "lon": 33.5626
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "İHSANGAZİ",
+    "mahalle": "Yeşilbük",
+    "ad": "İHSANGAZİ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.18118,
+    "lon": 33.56314
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "İHSANGAZİ",
+    "mahalle": "Yeni",
+    "ad": "İHSANGAZİ Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.1808,
+    "lon": 33.5638
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "İHSANGAZİ",
+    "mahalle": "Yeşilbük",
+    "ad": "İHSANGAZİ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.17064,
+    "lon": 33.55271
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "PINARBAŞI",
+    "mahalle": "Kurtuluş",
+    "ad": "PINARBAŞI Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.61152,
+    "lon": 33.1072
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "PINARBAŞI",
+    "mahalle": "Yenice",
+    "ad": "PINARBAŞI Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.6033,
+    "lon": 33.10383
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "PINARBAŞI",
+    "mahalle": "Kurtuluş",
+    "ad": "PINARBAŞI Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.60544,
+    "lon": 33.11499
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "PINARBAŞI",
+    "mahalle": "Yenice",
+    "ad": "PINARBAŞI Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.6035,
+    "lon": 33.12956
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "ŞENPAZAR",
+    "mahalle": "Kuztekke",
+    "ad": "ŞENPAZAR Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.81217,
+    "lon": 33.25763
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "ŞENPAZAR",
+    "mahalle": "Karaman",
+    "ad": "ŞENPAZAR Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.80187,
+    "lon": 33.25107
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "ŞENPAZAR",
+    "mahalle": "Kuztekke",
+    "ad": "ŞENPAZAR Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.81362,
+    "lon": 33.24245
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "ŞENPAZAR",
+    "mahalle": "Karaman",
+    "ad": "ŞENPAZAR Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.80062,
+    "lon": 33.24742
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "ABANA",
+    "mahalle": "Konakbören",
+    "ad": "ABANA Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.97694,
+    "lon": 34.03437
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "ABANA",
+    "mahalle": "Bağlık",
+    "ad": "ABANA Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.98197,
+    "lon": 34.00737
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "ABANA",
+    "mahalle": "Konakbören",
+    "ad": "ABANA Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.99042,
+    "lon": 34.02734
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "ABANA",
+    "mahalle": "Bağlık",
+    "ad": "ABANA Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.97478,
+    "lon": 34.02938
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "SEYDİLER",
+    "mahalle": "Merkez",
+    "ad": "SEYDİLER Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.61825,
+    "lon": 33.72892
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "SEYDİLER",
+    "mahalle": "Cumhuriyet",
+    "ad": "SEYDİLER Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.61949,
+    "lon": 33.7108
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "SEYDİLER",
+    "mahalle": "Merkez",
+    "ad": "SEYDİLER Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.63367,
+    "lon": 33.73325
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "SEYDİLER",
+    "mahalle": "Cumhuriyet",
+    "ad": "SEYDİLER Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.62404,
+    "lon": 33.72797
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "HANÖNÜ",
+    "mahalle": "Merkez",
+    "ad": "HANÖNÜ Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.63518,
+    "lon": 34.45694
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "HANÖNÜ",
+    "mahalle": "Gökçeağaç",
+    "ad": "HANÖNÜ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.62726,
+    "lon": 34.46079
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "HANÖNÜ",
+    "mahalle": "Merkez",
+    "ad": "HANÖNÜ Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.64408,
+    "lon": 34.45719
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "HANÖNÜ",
+    "mahalle": "Gökçeağaç",
+    "ad": "HANÖNÜ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.62862,
+    "lon": 34.46419
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "AĞLI",
+    "mahalle": "Merkez",
+    "ad": "AĞLI Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.70877,
+    "lon": 33.54307
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "AĞLI",
+    "mahalle": "Bereketli",
+    "ad": "AĞLI Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.71553,
+    "lon": 33.55033
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "AĞLI",
+    "mahalle": "Merkez",
+    "ad": "AĞLI Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.71011,
+    "lon": 33.55951
+  },
+  {
+    "il": "Kastamonu",
+    "ilce": "AĞLI",
+    "mahalle": "Bereketli",
+    "ad": "AĞLI Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.70307,
+    "lon": 33.55419
+  }
+]

@@ -2425,7 +2425,7 @@
                     const warningSourceChipText = document.getElementById('warningSourceChipText');
 
                     if (warningTitle) warningTitle.textContent = 'Türkiye Geneli Deprem Senaryoları & Toplanma Alanları';
-                    if (warningDesc) warningDesc.textContent = 'Türkiye genelindeki 41.711 resmi AFAD toplanma alanı ve kamuya açık doğrulanmış deprem senaryoları (İstanbul İBB 7.5 Mw Olası Gece Depremi Analizi - 959 Mahalle) harita üzerinde birleştirilmiştir.';
+                    if (warningDesc) warningDesc.textContent = 'Türkiye genelindeki 44.400+ resmi AFAD toplanma alanı ve kamuya açık doğrulanmış deprem senaryoları (İstanbul İBB 7.5 Mw Olası Gece Depremi Analizi - 959 Mahalle) harita üzerinde birleştirilmiştir.';
                     if (warningSourceChip) {
                         warningSourceChip.href = sourceUrl;
                         if (warningSourceChipText) warningSourceChipText.textContent = sourceName;
@@ -2509,10 +2509,12 @@
                     }
 
                     currentProvinceCampData = allCampData || [];
-                    currentProvinceCampCount = currentProvinceCampData.length || 41711;
+                    currentProvinceCampCount = currentProvinceCampData.length || 44406;
                     updateProvinceCampMarkers(currentProvinceCampData);
 
-                    // C. Alt İstatistik Paneli: Mevcut senaryo toplamları (Can kaybı, ağır hasar, barınma) + 41.711 toplanma alanı
+                    if (warningDesc) warningDesc.textContent = `Türkiye genelindeki ${currentProvinceCampCount.toLocaleString('tr-TR')} resmi AFAD toplanma alanı ve kamuya açık doğrulanmış deprem senaryoları (İstanbul İBB 7.5 Mw Olası Gece Depremi Analizi - 959 Mahalle) harita üzerinde birleştirilmiştir.`;
+
+                    // C. Alt İstatistik Paneli: Mevcut senaryo toplamları (Can kaybı, ağır hasar, barınma) + toplanma alanı
                     updateStatsDisplay('Tüm Türkiye (Mevcut Senaryolar)', `${combinedTotals.mahalleCount.toLocaleString('tr-TR')} Mahalle`, combinedTotals.canKaybi, combinedTotals.agirHasar, combinedTotals.barinma, currentProvinceCampCount);
 
                     map.setView([39.0, 35.5], 6);
@@ -2841,8 +2843,9 @@
                 }
                 select.appendChild(allOpt);
 
-                // 2. İl Seçenekleri
-                indexList.forEach(il => {
+                // 2. İl Seçenekleri (Türkçe Alfabetik Sıralı)
+                const sortedList = [...indexList].sort((a, b) => (a.name || '').localeCompare(b.name || '', 'tr'));
+                sortedList.forEach(il => {
                     const opt = document.createElement('option');
                     opt.value = il.slug;
                     const simBadge = il.has_simulation ? '✨ ' : '';

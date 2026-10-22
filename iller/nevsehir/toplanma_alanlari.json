@@ -1,0 +1,642 @@
+[
+  {
+    "il": "Nevşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "15 Temmuz",
+    "ad": "MERKEZ Kent Meydanı ve Toplanma Alanı",
+    "lat": 38.62312,
+    "lon": 34.70998
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Güzelyurt",
+    "ad": "MERKEZ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 38.62154,
+    "lon": 34.70719
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "2000 Evler",
+    "ad": "MERKEZ Hükümet Konağı / Belediye Meydanı",
+    "lat": 38.63348,
+    "lon": 34.70066
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Cevher Dudayev",
+    "ad": "MERKEZ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 38.61419,
+    "lon": 34.71279
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "350 Evler",
+    "ad": "MERKEZ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 38.62898,
+    "lon": 34.71323
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Sümer",
+    "ad": "Sümer Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 38.62412,
+    "lon": 34.70706
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Karasoku",
+    "ad": "Karasoku Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 38.61523,
+    "lon": 34.71469
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Kapucubaşı",
+    "ad": "Kapucubaşı Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 38.61889,
+    "lon": 34.71611
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "15 Temmuz",
+    "ad": "15 Temmuz Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 38.62627,
+    "lon": 34.70015
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Güzelyurt",
+    "ad": "Güzelyurt Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 38.63344,
+    "lon": 34.71034
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "2000 Evler",
+    "ad": "2000 Evler Mahallesi Parkı ve Açık Alanı",
+    "lat": 38.63312,
+    "lon": 34.71547
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Cevher Dudayev",
+    "ad": "Cevher Dudayev Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 38.62833,
+    "lon": 34.71336
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "350 Evler",
+    "ad": "350 Evler Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 38.62857,
+    "lon": 34.72245
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Sümer",
+    "ad": "Sümer Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 38.61627,
+    "lon": 34.71281
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Karasoku",
+    "ad": "Karasoku Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 38.62685,
+    "lon": 34.7133
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Kapucubaşı",
+    "ad": "Kapucubaşı Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 38.62742,
+    "lon": 34.71717
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "15 Temmuz",
+    "ad": "15 Temmuz Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 38.61603,
+    "lon": 34.71852
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Güzelyurt",
+    "ad": "Güzelyurt Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 38.63963,
+    "lon": 34.718
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "2000 Evler",
+    "ad": "2000 Evler Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 38.62823,
+    "lon": 34.73326
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Cevher Dudayev",
+    "ad": "Cevher Dudayev Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 38.6117,
+    "lon": 34.72113
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "350 Evler",
+    "ad": "350 Evler Mahallesi Parkı ve Açık Alanı",
+    "lat": 38.61462,
+    "lon": 34.70987
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Sümer",
+    "ad": "Sümer Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 38.62519,
+    "lon": 34.71756
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Karasoku",
+    "ad": "Karasoku Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 38.62676,
+    "lon": 34.71506
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "MERKEZ",
+    "mahalle": "Kapucubaşı",
+    "ad": "Kapucubaşı Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 38.62468,
+    "lon": 34.70413
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "ÜRGÜP",
+    "mahalle": "Cumhuriyet",
+    "ad": "ÜRGÜP Kent Meydanı ve Toplanma Alanı",
+    "lat": 38.64288,
+    "lon": 34.91994
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "ÜRGÜP",
+    "mahalle": "Sivritaş",
+    "ad": "ÜRGÜP Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 38.62571,
+    "lon": 34.92724
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "ÜRGÜP",
+    "mahalle": "Temenni",
+    "ad": "ÜRGÜP Hükümet Konağı / Belediye Meydanı",
+    "lat": 38.62803,
+    "lon": 34.92357
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "ÜRGÜP",
+    "mahalle": "Mustafapaşa",
+    "ad": "ÜRGÜP Millet Bahçesi ve Yeşil Alanı",
+    "lat": 38.63104,
+    "lon": 34.91625
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "ÜRGÜP",
+    "mahalle": "Ortahisar",
+    "ad": "ÜRGÜP Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 38.62787,
+    "lon": 34.89935
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "ÜRGÜP",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 38.63061,
+    "lon": 34.9196
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "ÜRGÜP",
+    "mahalle": "Sivritaş",
+    "ad": "Sivritaş Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 38.63295,
+    "lon": 34.90914
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "ÜRGÜP",
+    "mahalle": "Temenni",
+    "ad": "Temenni Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 38.64214,
+    "lon": 34.90896
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "ÜRGÜP",
+    "mahalle": "Mustafapaşa",
+    "ad": "Mustafapaşa Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 38.62475,
+    "lon": 34.89804
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "ÜRGÜP",
+    "mahalle": "Ortahisar",
+    "ad": "Ortahisar Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 38.63224,
+    "lon": 34.91661
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "ÜRGÜP",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Parkı ve Açık Alanı",
+    "lat": 38.63448,
+    "lon": 34.92875
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "ÜRGÜP",
+    "mahalle": "Sivritaş",
+    "ad": "Sivritaş Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 38.63306,
+    "lon": 34.91684
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "AVANOS",
+    "mahalle": "Bahçelievler",
+    "ad": "AVANOS Kent Meydanı ve Toplanma Alanı",
+    "lat": 38.70413,
+    "lon": 34.84153
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "AVANOS",
+    "mahalle": "Yukarı",
+    "ad": "AVANOS Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 38.7206,
+    "lon": 34.8382
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "AVANOS",
+    "mahalle": "Karşıyaka",
+    "ad": "AVANOS Hükümet Konağı / Belediye Meydanı",
+    "lat": 38.71728,
+    "lon": 34.84961
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "AVANOS",
+    "mahalle": "Alaaddin",
+    "ad": "AVANOS Millet Bahçesi ve Yeşil Alanı",
+    "lat": 38.72014,
+    "lon": 34.85047
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "AVANOS",
+    "mahalle": "Bahçelievler",
+    "ad": "AVANOS Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 38.7142,
+    "lon": 34.85369
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "AVANOS",
+    "mahalle": "Yukarı",
+    "ad": "Yukarı Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 38.71113,
+    "lon": 34.83485
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "AVANOS",
+    "mahalle": "Karşıyaka",
+    "ad": "Karşıyaka Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 38.72949,
+    "lon": 34.86572
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "AVANOS",
+    "mahalle": "Alaaddin",
+    "ad": "Alaaddin Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 38.70983,
+    "lon": 34.85103
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "AVANOS",
+    "mahalle": "Bahçelievler",
+    "ad": "Bahçelievler Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 38.7196,
+    "lon": 34.84357
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "AVANOS",
+    "mahalle": "Yukarı",
+    "ad": "Yukarı Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 38.71545,
+    "lon": 34.84569
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "GÜLŞEHİR",
+    "mahalle": "Karavezir",
+    "ad": "GÜLŞEHİR Kent Meydanı ve Toplanma Alanı",
+    "lat": 38.74681,
+    "lon": 34.60647
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "GÜLŞEHİR",
+    "mahalle": "Oruçgazi",
+    "ad": "GÜLŞEHİR Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 38.74278,
+    "lon": 34.63081
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "GÜLŞEHİR",
+    "mahalle": "Çayır",
+    "ad": "GÜLŞEHİR Hükümet Konağı / Belediye Meydanı",
+    "lat": 38.75558,
+    "lon": 34.63807
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "GÜLŞEHİR",
+    "mahalle": "Karavezir",
+    "ad": "GÜLŞEHİR Millet Bahçesi ve Yeşil Alanı",
+    "lat": 38.75536,
+    "lon": 34.62862
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "GÜLŞEHİR",
+    "mahalle": "Oruçgazi",
+    "ad": "GÜLŞEHİR Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 38.74208,
+    "lon": 34.60424
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "GÜLŞEHİR",
+    "mahalle": "Çayır",
+    "ad": "Çayır Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 38.75162,
+    "lon": 34.62578
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "GÜLŞEHİR",
+    "mahalle": "Karavezir",
+    "ad": "Karavezir Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 38.74299,
+    "lon": 34.61358
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "GÜLŞEHİR",
+    "mahalle": "Oruçgazi",
+    "ad": "Oruçgazi Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 38.75665,
+    "lon": 34.62675
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "DERİNKUYU",
+    "mahalle": "Cumhuriyet",
+    "ad": "DERİNKUYU Kent Meydanı ve Toplanma Alanı",
+    "lat": 38.38287,
+    "lon": 34.74057
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "DERİNKUYU",
+    "mahalle": "Demirci",
+    "ad": "DERİNKUYU Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 38.37703,
+    "lon": 34.72896
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "DERİNKUYU",
+    "mahalle": "Bayramlı",
+    "ad": "DERİNKUYU Hükümet Konağı / Belediye Meydanı",
+    "lat": 38.38278,
+    "lon": 34.73711
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "DERİNKUYU",
+    "mahalle": "Cumhuriyet",
+    "ad": "DERİNKUYU Millet Bahçesi ve Yeşil Alanı",
+    "lat": 38.38504,
+    "lon": 34.72956
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "DERİNKUYU",
+    "mahalle": "Demirci",
+    "ad": "DERİNKUYU Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 38.37919,
+    "lon": 34.72642
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "DERİNKUYU",
+    "mahalle": "Bayramlı",
+    "ad": "Bayramlı Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 38.37962,
+    "lon": 34.72504
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "DERİNKUYU",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 38.37809,
+    "lon": 34.73647
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "KOZAKLI",
+    "mahalle": "Altunsu",
+    "ad": "KOZAKLI Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.2157,
+    "lon": 34.86663
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "KOZAKLI",
+    "mahalle": "Bağlıca",
+    "ad": "KOZAKLI Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.20576,
+    "lon": 34.84349
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "KOZAKLI",
+    "mahalle": "Hamam",
+    "ad": "KOZAKLI Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.20858,
+    "lon": 34.85511
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "KOZAKLI",
+    "mahalle": "Altunsu",
+    "ad": "KOZAKLI Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.2151,
+    "lon": 34.86853
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "KOZAKLI",
+    "mahalle": "Bağlıca",
+    "ad": "KOZAKLI Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.20781,
+    "lon": 34.86144
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "KOZAKLI",
+    "mahalle": "Hamam",
+    "ad": "Hamam Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.21328,
+    "lon": 34.86053
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "KOZAKLI",
+    "mahalle": "Altunsu",
+    "ad": "Altunsu Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 39.2135,
+    "lon": 34.87534
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "ACIGÖL",
+    "mahalle": "Cumhuriyet",
+    "ad": "ACIGÖL Kent Meydanı ve Toplanma Alanı",
+    "lat": 38.5476,
+    "lon": 34.50776
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "ACIGÖL",
+    "mahalle": "Yukarı",
+    "ad": "ACIGÖL Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 38.55343,
+    "lon": 34.50517
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "ACIGÖL",
+    "mahalle": "Çayırlık",
+    "ad": "ACIGÖL Hükümet Konağı / Belediye Meydanı",
+    "lat": 38.54999,
+    "lon": 34.51008
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "ACIGÖL",
+    "mahalle": "Cumhuriyet",
+    "ad": "ACIGÖL Millet Bahçesi ve Yeşil Alanı",
+    "lat": 38.564,
+    "lon": 34.50706
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "ACIGÖL",
+    "mahalle": "Yukarı",
+    "ad": "ACIGÖL Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 38.56436,
+    "lon": 34.5228
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "ACIGÖL",
+    "mahalle": "Çayırlık",
+    "ad": "Çayırlık Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 38.56081,
+    "lon": 34.52132
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "HACIBEKTAŞ",
+    "mahalle": "Bala",
+    "ad": "HACIBEKTAŞ Kent Meydanı ve Toplanma Alanı",
+    "lat": 38.93905,
+    "lon": 34.5618
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "HACIBEKTAŞ",
+    "mahalle": "Savcılı",
+    "ad": "HACIBEKTAŞ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 38.94589,
+    "lon": 34.53751
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "HACIBEKTAŞ",
+    "mahalle": "Zir",
+    "ad": "HACIBEKTAŞ Hükümet Konağı / Belediye Meydanı",
+    "lat": 38.9378,
+    "lon": 34.55762
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "HACIBEKTAŞ",
+    "mahalle": "Bala",
+    "ad": "HACIBEKTAŞ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 38.94624,
+    "lon": 34.5587
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "HACIBEKTAŞ",
+    "mahalle": "Savcılı",
+    "ad": "HACIBEKTAŞ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 38.95895,
+    "lon": 34.56771
+  },
+  {
+    "il": "Nevşehir",
+    "ilce": "HACIBEKTAŞ",
+    "mahalle": "Zir",
+    "ad": "Zir Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 38.93159,
+    "lon": 34.54945
+  }
+]

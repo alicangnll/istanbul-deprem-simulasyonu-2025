@@ -1,0 +1,610 @@
+[
+  {
+    "il": "Yalova",
+    "ilce": "MERKEZ",
+    "mahalle": "Süleyman Bey",
+    "ad": "MERKEZ Kent Meydanı ve Toplanma Alanı",
+    "lat": 40.65099,
+    "lon": 29.27316
+  },
+  {
+    "il": "Yalova",
+    "ilce": "MERKEZ",
+    "mahalle": "Rüstem Paşa",
+    "ad": "MERKEZ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 40.65241,
+    "lon": 29.28622
+  },
+  {
+    "il": "Yalova",
+    "ilce": "MERKEZ",
+    "mahalle": "Bahçelievler",
+    "ad": "MERKEZ Hükümet Konağı / Belediye Meydanı",
+    "lat": 40.643,
+    "lon": 29.2588
+  },
+  {
+    "il": "Yalova",
+    "ilce": "MERKEZ",
+    "mahalle": "İsmet Paşa",
+    "ad": "MERKEZ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 40.66269,
+    "lon": 29.27885
+  },
+  {
+    "il": "Yalova",
+    "ilce": "MERKEZ",
+    "mahalle": "Gazi Osman Paşa",
+    "ad": "MERKEZ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 40.65707,
+    "lon": 29.28054
+  },
+  {
+    "il": "Yalova",
+    "ilce": "MERKEZ",
+    "mahalle": "Bağlarbaşı",
+    "ad": "Bağlarbaşı Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 40.64422,
+    "lon": 29.26841
+  },
+  {
+    "il": "Yalova",
+    "ilce": "MERKEZ",
+    "mahalle": "Kazım Karabekir",
+    "ad": "Kazım Karabekir Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 40.661,
+    "lon": 29.28189
+  },
+  {
+    "il": "Yalova",
+    "ilce": "MERKEZ",
+    "mahalle": "Bayraktepe",
+    "ad": "Bayraktepe Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 40.65822,
+    "lon": 29.27013
+  },
+  {
+    "il": "Yalova",
+    "ilce": "MERKEZ",
+    "mahalle": "Fevzi Çakmak",
+    "ad": "Fevzi Çakmak Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 40.65315,
+    "lon": 29.28261
+  },
+  {
+    "il": "Yalova",
+    "ilce": "MERKEZ",
+    "mahalle": "Süleyman Bey",
+    "ad": "Süleyman Bey Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 40.65229,
+    "lon": 29.2858
+  },
+  {
+    "il": "Yalova",
+    "ilce": "MERKEZ",
+    "mahalle": "Rüstem Paşa",
+    "ad": "Rüstem Paşa Mahallesi Parkı ve Açık Alanı",
+    "lat": 40.66233,
+    "lon": 29.27676
+  },
+  {
+    "il": "Yalova",
+    "ilce": "MERKEZ",
+    "mahalle": "Bahçelievler",
+    "ad": "Bahçelievler Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 40.66177,
+    "lon": 29.28856
+  },
+  {
+    "il": "Yalova",
+    "ilce": "MERKEZ",
+    "mahalle": "İsmet Paşa",
+    "ad": "İsmet Paşa Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 40.65035,
+    "lon": 29.28014
+  },
+  {
+    "il": "Yalova",
+    "ilce": "MERKEZ",
+    "mahalle": "Gazi Osman Paşa",
+    "ad": "Gazi Osman Paşa Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 40.65692,
+    "lon": 29.28677
+  },
+  {
+    "il": "Yalova",
+    "ilce": "MERKEZ",
+    "mahalle": "Bağlarbaşı",
+    "ad": "Bağlarbaşı Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 40.65839,
+    "lon": 29.28259
+  },
+  {
+    "il": "Yalova",
+    "ilce": "MERKEZ",
+    "mahalle": "Kazım Karabekir",
+    "ad": "Kazım Karabekir Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 40.6462,
+    "lon": 29.28262
+  },
+  {
+    "il": "Yalova",
+    "ilce": "MERKEZ",
+    "mahalle": "Bayraktepe",
+    "ad": "Bayraktepe Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 40.64928,
+    "lon": 29.27825
+  },
+  {
+    "il": "Yalova",
+    "ilce": "MERKEZ",
+    "mahalle": "Fevzi Çakmak",
+    "ad": "Fevzi Çakmak Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 40.66227,
+    "lon": 29.29626
+  },
+  {
+    "il": "Yalova",
+    "ilce": "MERKEZ",
+    "mahalle": "Süleyman Bey",
+    "ad": "Süleyman Bey Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 40.66262,
+    "lon": 29.26538
+  },
+  {
+    "il": "Yalova",
+    "ilce": "MERKEZ",
+    "mahalle": "Rüstem Paşa",
+    "ad": "Rüstem Paşa Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 40.65706,
+    "lon": 29.27763
+  },
+  {
+    "il": "Yalova",
+    "ilce": "MERKEZ",
+    "mahalle": "Bahçelievler",
+    "ad": "Bahçelievler Mahallesi Parkı ve Açık Alanı",
+    "lat": 40.65966,
+    "lon": 29.27464
+  },
+  {
+    "il": "Yalova",
+    "ilce": "MERKEZ",
+    "mahalle": "İsmet Paşa",
+    "ad": "İsmet Paşa Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 40.6431,
+    "lon": 29.27013
+  },
+  {
+    "il": "Yalova",
+    "ilce": "MERKEZ",
+    "mahalle": "Gazi Osman Paşa",
+    "ad": "Gazi Osman Paşa Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 40.65091,
+    "lon": 29.28191
+  },
+  {
+    "il": "Yalova",
+    "ilce": "MERKEZ",
+    "mahalle": "Bağlarbaşı",
+    "ad": "Bağlarbaşı Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 40.64891,
+    "lon": 29.29641
+  },
+  {
+    "il": "Yalova",
+    "ilce": "MERKEZ",
+    "mahalle": "Kazım Karabekir",
+    "ad": "Kazım Karabekir Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 40.6611,
+    "lon": 29.27986
+  },
+  {
+    "il": "Yalova",
+    "ilce": "MERKEZ",
+    "mahalle": "Bayraktepe",
+    "ad": "Bayraktepe Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 40.64968,
+    "lon": 29.28913
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ÇİFTLİKKÖY",
+    "mahalle": "Mehmet Akif Ersoy",
+    "ad": "ÇİFTLİKKÖY Kent Meydanı ve Toplanma Alanı",
+    "lat": 40.66007,
+    "lon": 29.34594
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ÇİFTLİKKÖY",
+    "mahalle": "Çiftlik",
+    "ad": "ÇİFTLİKKÖY Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 40.67356,
+    "lon": 29.35758
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ÇİFTLİKKÖY",
+    "mahalle": "Sultaniye",
+    "ad": "ÇİFTLİKKÖY Hükümet Konağı / Belediye Meydanı",
+    "lat": 40.66794,
+    "lon": 29.35417
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ÇİFTLİKKÖY",
+    "mahalle": "Siteler Sahili",
+    "ad": "ÇİFTLİKKÖY Millet Bahçesi ve Yeşil Alanı",
+    "lat": 40.65892,
+    "lon": 29.35748
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ÇİFTLİKKÖY",
+    "mahalle": "Mehmet Akif Ersoy",
+    "ad": "ÇİFTLİKKÖY Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 40.66199,
+    "lon": 29.35512
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ÇİFTLİKKÖY",
+    "mahalle": "Çiftlik",
+    "ad": "Çiftlik Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 40.66674,
+    "lon": 29.34223
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ÇİFTLİKKÖY",
+    "mahalle": "Sultaniye",
+    "ad": "Sultaniye Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 40.65625,
+    "lon": 29.33812
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ÇİFTLİKKÖY",
+    "mahalle": "Siteler Sahili",
+    "ad": "Siteler Sahili Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 40.66695,
+    "lon": 29.3417
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ÇİFTLİKKÖY",
+    "mahalle": "Mehmet Akif Ersoy",
+    "ad": "Mehmet Akif Ersoy Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 40.67311,
+    "lon": 29.35678
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ÇİFTLİKKÖY",
+    "mahalle": "Çiftlik",
+    "ad": "Çiftlik Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 40.66614,
+    "lon": 29.35736
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ÇİFTLİKKÖY",
+    "mahalle": "Sultaniye",
+    "ad": "Sultaniye Mahallesi Parkı ve Açık Alanı",
+    "lat": 40.65175,
+    "lon": 29.34186
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ÇİFTLİKKÖY",
+    "mahalle": "Siteler Sahili",
+    "ad": "Siteler Sahili Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 40.66914,
+    "lon": 29.35436
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ÇİFTLİKKÖY",
+    "mahalle": "Mehmet Akif Ersoy",
+    "ad": "Mehmet Akif Ersoy Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 40.65587,
+    "lon": 29.33813
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ÇİFTLİKKÖY",
+    "mahalle": "Çiftlik",
+    "ad": "Çiftlik Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 40.67015,
+    "lon": 29.3563
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ÇINARCIK",
+    "mahalle": "Harmanlar",
+    "ad": "ÇINARCIK Kent Meydanı ve Toplanma Alanı",
+    "lat": 40.63613,
+    "lon": 29.12085
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ÇINARCIK",
+    "mahalle": "Hasanbaba",
+    "ad": "ÇINARCIK Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 40.65531,
+    "lon": 29.12071
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ÇINARCIK",
+    "mahalle": "Taşliman",
+    "ad": "ÇINARCIK Hükümet Konağı / Belediye Meydanı",
+    "lat": 40.64131,
+    "lon": 29.11847
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ÇINARCIK",
+    "mahalle": "Çamlık",
+    "ad": "ÇINARCIK Millet Bahçesi ve Yeşil Alanı",
+    "lat": 40.65102,
+    "lon": 29.11102
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ÇINARCIK",
+    "mahalle": "Koru Sahil",
+    "ad": "ÇINARCIK Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 40.64753,
+    "lon": 29.13117
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ÇINARCIK",
+    "mahalle": "Harmanlar",
+    "ad": "Harmanlar Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 40.63174,
+    "lon": 29.11186
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ÇINARCIK",
+    "mahalle": "Hasanbaba",
+    "ad": "Hasanbaba Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 40.63424,
+    "lon": 29.11189
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ÇINARCIK",
+    "mahalle": "Taşliman",
+    "ad": "Taşliman Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 40.64045,
+    "lon": 29.12566
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ÇINARCIK",
+    "mahalle": "Çamlık",
+    "ad": "Çamlık Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 40.6291,
+    "lon": 29.1163
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ÇINARCIK",
+    "mahalle": "Koru Sahil",
+    "ad": "Koru Sahil Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 40.63851,
+    "lon": 29.11938
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ÇINARCIK",
+    "mahalle": "Harmanlar",
+    "ad": "Harmanlar Mahallesi Parkı ve Açık Alanı",
+    "lat": 40.63552,
+    "lon": 29.13739
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ÇINARCIK",
+    "mahalle": "Hasanbaba",
+    "ad": "Hasanbaba Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 40.64377,
+    "lon": 29.11864
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ALTINOVA",
+    "mahalle": "Cumhuriyet",
+    "ad": "ALTINOVA Kent Meydanı ve Toplanma Alanı",
+    "lat": 40.70433,
+    "lon": 29.51076
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ALTINOVA",
+    "mahalle": "Hürriyet",
+    "ad": "ALTINOVA Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 40.68873,
+    "lon": 29.50888
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ALTINOVA",
+    "mahalle": "Tersaneler Bölgesi Girişi",
+    "ad": "ALTINOVA Hükümet Konağı / Belediye Meydanı",
+    "lat": 40.6975,
+    "lon": 29.5147
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ALTINOVA",
+    "mahalle": "Subaşı",
+    "ad": "ALTINOVA Millet Bahçesi ve Yeşil Alanı",
+    "lat": 40.68701,
+    "lon": 29.51626
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ALTINOVA",
+    "mahalle": "Cumhuriyet",
+    "ad": "ALTINOVA Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 40.69667,
+    "lon": 29.51018
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ALTINOVA",
+    "mahalle": "Hürriyet",
+    "ad": "Hürriyet Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 40.6887,
+    "lon": 29.50544
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ALTINOVA",
+    "mahalle": "Tersaneler Bölgesi Girişi",
+    "ad": "Tersaneler Bölgesi Girişi Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 40.70179,
+    "lon": 29.51326
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ALTINOVA",
+    "mahalle": "Subaşı",
+    "ad": "Subaşı Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 40.70868,
+    "lon": 29.51619
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ALTINOVA",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 40.70096,
+    "lon": 29.51745
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ALTINOVA",
+    "mahalle": "Hürriyet",
+    "ad": "Hürriyet Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 40.69266,
+    "lon": 29.51306
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ARMUTLU",
+    "mahalle": "Karşıyaka",
+    "ad": "ARMUTLU Kent Meydanı ve Toplanma Alanı",
+    "lat": 40.51951,
+    "lon": 28.83103
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ARMUTLU",
+    "mahalle": "Bayır",
+    "ad": "ARMUTLU Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 40.53664,
+    "lon": 28.82691
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ARMUTLU",
+    "mahalle": "İskele Meydanı",
+    "ad": "ARMUTLU Hükümet Konağı / Belediye Meydanı",
+    "lat": 40.51809,
+    "lon": 28.83254
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ARMUTLU",
+    "mahalle": "Karşıyaka",
+    "ad": "ARMUTLU Millet Bahçesi ve Yeşil Alanı",
+    "lat": 40.50781,
+    "lon": 28.8455
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ARMUTLU",
+    "mahalle": "Bayır",
+    "ad": "ARMUTLU Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 40.53003,
+    "lon": 28.83873
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ARMUTLU",
+    "mahalle": "İskele Meydanı",
+    "ad": "İskele Meydanı Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 40.52676,
+    "lon": 28.84017
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ARMUTLU",
+    "mahalle": "Karşıyaka",
+    "ad": "Karşıyaka Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 40.5245,
+    "lon": 28.83679
+  },
+  {
+    "il": "Yalova",
+    "ilce": "ARMUTLU",
+    "mahalle": "Bayır",
+    "ad": "Bayır Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 40.5299,
+    "lon": 28.8404
+  },
+  {
+    "il": "Yalova",
+    "ilce": "TERMAL",
+    "mahalle": "Gökçedere",
+    "ad": "TERMAL Kent Meydanı ve Toplanma Alanı",
+    "lat": 40.61823,
+    "lon": 29.185
+  },
+  {
+    "il": "Yalova",
+    "ilce": "TERMAL",
+    "mahalle": "Üvezpınar",
+    "ad": "TERMAL Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 40.61125,
+    "lon": 29.16377
+  },
+  {
+    "il": "Yalova",
+    "ilce": "TERMAL",
+    "mahalle": "Termal Kaplıca Parkı",
+    "ad": "TERMAL Hükümet Konağı / Belediye Meydanı",
+    "lat": 40.60468,
+    "lon": 29.16383
+  },
+  {
+    "il": "Yalova",
+    "ilce": "TERMAL",
+    "mahalle": "Gökçedere",
+    "ad": "TERMAL Millet Bahçesi ve Yeşil Alanı",
+    "lat": 40.60624,
+    "lon": 29.16668
+  },
+  {
+    "il": "Yalova",
+    "ilce": "TERMAL",
+    "mahalle": "Üvezpınar",
+    "ad": "TERMAL Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 40.62994,
+    "lon": 29.16919
+  },
+  {
+    "il": "Yalova",
+    "ilce": "TERMAL",
+    "mahalle": "Termal Kaplıca Parkı",
+    "ad": "Termal Kaplıca Parkı Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 40.61814,
+    "lon": 29.17299
+  }
+]

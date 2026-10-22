@@ -1,0 +1,754 @@
+[
+  {
+    "il": "Şırnak",
+    "ilce": "CİZRE",
+    "mahalle": "Nur",
+    "ad": "CİZRE Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.33618,
+    "lon": 42.18259
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "CİZRE",
+    "mahalle": "Sur",
+    "ad": "CİZRE Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.33688,
+    "lon": 42.17991
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "CİZRE",
+    "mahalle": "Cudi",
+    "ad": "CİZRE Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.3322,
+    "lon": 42.19467
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "CİZRE",
+    "mahalle": "Şah",
+    "ad": "CİZRE Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.32313,
+    "lon": 42.19494
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "CİZRE",
+    "mahalle": "Yafes",
+    "ad": "CİZRE Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.33496,
+    "lon": 42.18153
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "CİZRE",
+    "mahalle": "Konak",
+    "ad": "Konak Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.33462,
+    "lon": 42.18004
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "CİZRE",
+    "mahalle": "Kale",
+    "ad": "Kale Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.3343,
+    "lon": 42.18437
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "CİZRE",
+    "mahalle": "Dicle Sahili",
+    "ad": "Dicle Sahili Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 37.33713,
+    "lon": 42.1899
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "CİZRE",
+    "mahalle": "Nur",
+    "ad": "Nur Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 37.32836,
+    "lon": 42.17585
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "CİZRE",
+    "mahalle": "Sur",
+    "ad": "Sur Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 37.3408,
+    "lon": 42.17494
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "CİZRE",
+    "mahalle": "Cudi",
+    "ad": "Cudi Mahallesi Parkı ve Açık Alanı",
+    "lat": 37.33888,
+    "lon": 42.1925
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "CİZRE",
+    "mahalle": "Şah",
+    "ad": "Şah Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 37.32875,
+    "lon": 42.17289
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "CİZRE",
+    "mahalle": "Yafes",
+    "ad": "Yafes Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 37.32581,
+    "lon": 42.18743
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "CİZRE",
+    "mahalle": "Konak",
+    "ad": "Konak Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 37.3348,
+    "lon": 42.17637
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "CİZRE",
+    "mahalle": "Kale",
+    "ad": "Kale Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 37.32808,
+    "lon": 42.17643
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "CİZRE",
+    "mahalle": "Dicle Sahili",
+    "ad": "Dicle Sahili Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.32934,
+    "lon": 42.19431
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "CİZRE",
+    "mahalle": "Nur",
+    "ad": "Nur Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.33211,
+    "lon": 42.18271
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "CİZRE",
+    "mahalle": "Sur",
+    "ad": "Sur Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 37.33286,
+    "lon": 42.18065
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "CİZRE",
+    "mahalle": "Cudi",
+    "ad": "Cudi Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 37.31859,
+    "lon": 42.17892
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "CİZRE",
+    "mahalle": "Şah",
+    "ad": "Şah Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 37.33282,
+    "lon": 42.19434
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "CİZRE",
+    "mahalle": "Yafes",
+    "ad": "Yafes Mahallesi Parkı ve Açık Alanı",
+    "lat": 37.33115,
+    "lon": 42.18924
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "CİZRE",
+    "mahalle": "Konak",
+    "ad": "Konak Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 37.32391,
+    "lon": 42.19197
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "CİZRE",
+    "mahalle": "Kale",
+    "ad": "Kale Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 37.33522,
+    "lon": 42.19357
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "CİZRE",
+    "mahalle": "Dicle Sahili",
+    "ad": "Dicle Sahili Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 37.3385,
+    "lon": 42.18313
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "SİLOPİ",
+    "mahalle": "Ofis",
+    "ad": "SİLOPİ Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.24919,
+    "lon": 42.46403
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "SİLOPİ",
+    "mahalle": "Karşıyaka",
+    "ad": "SİLOPİ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.25423,
+    "lon": 42.48122
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "SİLOPİ",
+    "mahalle": "Yenişehir",
+    "ad": "SİLOPİ Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.25209,
+    "lon": 42.46605
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "SİLOPİ",
+    "mahalle": "Başak",
+    "ad": "SİLOPİ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.24367,
+    "lon": 42.47853
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "SİLOPİ",
+    "mahalle": "Dicle",
+    "ad": "SİLOPİ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.24246,
+    "lon": 42.47978
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "SİLOPİ",
+    "mahalle": "Şehit Harun Boy",
+    "ad": "Şehit Harun Boy Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.26022,
+    "lon": 42.48697
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "SİLOPİ",
+    "mahalle": "Ofis",
+    "ad": "Ofis Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.24027,
+    "lon": 42.48753
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "SİLOPİ",
+    "mahalle": "Karşıyaka",
+    "ad": "Karşıyaka Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 37.25017,
+    "lon": 42.47151
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "SİLOPİ",
+    "mahalle": "Yenişehir",
+    "ad": "Yenişehir Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 37.25098,
+    "lon": 42.46892
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "SİLOPİ",
+    "mahalle": "Başak",
+    "ad": "Başak Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 37.23616,
+    "lon": 42.47117
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "SİLOPİ",
+    "mahalle": "Dicle",
+    "ad": "Dicle Mahallesi Parkı ve Açık Alanı",
+    "lat": 37.23995,
+    "lon": 42.46833
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "SİLOPİ",
+    "mahalle": "Şehit Harun Boy",
+    "ad": "Şehit Harun Boy Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 37.24923,
+    "lon": 42.46711
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "SİLOPİ",
+    "mahalle": "Ofis",
+    "ad": "Ofis Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 37.25731,
+    "lon": 42.46552
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "SİLOPİ",
+    "mahalle": "Karşıyaka",
+    "ad": "Karşıyaka Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 37.24825,
+    "lon": 42.46858
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "SİLOPİ",
+    "mahalle": "Yenişehir",
+    "ad": "Yenişehir Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 37.24678,
+    "lon": 42.4734
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "SİLOPİ",
+    "mahalle": "Başak",
+    "ad": "Başak Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.23728,
+    "lon": 42.48314
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "SİLOPİ",
+    "mahalle": "Dicle",
+    "ad": "Dicle Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.24475,
+    "lon": 42.46821
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "SİLOPİ",
+    "mahalle": "Şehit Harun Boy",
+    "ad": "Şehit Harun Boy Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 37.24721,
+    "lon": 42.47541
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "SİLOPİ",
+    "mahalle": "Ofis",
+    "ad": "Ofis Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 37.23838,
+    "lon": 42.47606
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "SİLOPİ",
+    "mahalle": "Karşıyaka",
+    "ad": "Karşıyaka Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 37.23937,
+    "lon": 42.48067
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "MERKEZ",
+    "mahalle": "Bahçelievler",
+    "ad": "MERKEZ Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.53394,
+    "lon": 42.44779
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "MERKEZ",
+    "mahalle": "Cumhuriyet",
+    "ad": "MERKEZ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.5129,
+    "lon": 42.46282
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "MERKEZ",
+    "mahalle": "Gazi",
+    "ad": "MERKEZ Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.51847,
+    "lon": 42.45329
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "MERKEZ",
+    "mahalle": "Dicle",
+    "ad": "MERKEZ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.52173,
+    "lon": 42.45865
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "MERKEZ",
+    "mahalle": "Vakıfkent",
+    "ad": "MERKEZ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.52137,
+    "lon": 42.45457
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "MERKEZ",
+    "mahalle": "Yeşilyurt",
+    "ad": "Yeşilyurt Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.5159,
+    "lon": 42.45154
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "MERKEZ",
+    "mahalle": "İsmetpaşa",
+    "ad": "İsmetpaşa Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.51517,
+    "lon": 42.45434
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "MERKEZ",
+    "mahalle": "Bahçelievler",
+    "ad": "Bahçelievler Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 37.52313,
+    "lon": 42.46788
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "MERKEZ",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 37.51461,
+    "lon": 42.47099
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "MERKEZ",
+    "mahalle": "Gazi",
+    "ad": "Gazi Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 37.51701,
+    "lon": 42.47209
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "MERKEZ",
+    "mahalle": "Dicle",
+    "ad": "Dicle Mahallesi Parkı ve Açık Alanı",
+    "lat": 37.52276,
+    "lon": 42.44962
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "MERKEZ",
+    "mahalle": "Vakıfkent",
+    "ad": "Vakıfkent Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 37.52782,
+    "lon": 42.47105
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "MERKEZ",
+    "mahalle": "Yeşilyurt",
+    "ad": "Yeşilyurt Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 37.53918,
+    "lon": 42.45644
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "MERKEZ",
+    "mahalle": "İsmetpaşa",
+    "ad": "İsmetpaşa Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 37.51059,
+    "lon": 42.43715
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "MERKEZ",
+    "mahalle": "Bahçelievler",
+    "ad": "Bahçelievler Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 37.52431,
+    "lon": 42.46129
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "MERKEZ",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.5299,
+    "lon": 42.45744
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "MERKEZ",
+    "mahalle": "Gazi",
+    "ad": "Gazi Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.51629,
+    "lon": 42.47648
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "MERKEZ",
+    "mahalle": "Dicle",
+    "ad": "Dicle Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 37.52401,
+    "lon": 42.45325
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "MERKEZ",
+    "mahalle": "Vakıfkent",
+    "ad": "Vakıfkent Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 37.5356,
+    "lon": 42.46073
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "MERKEZ",
+    "mahalle": "Yeşilyurt",
+    "ad": "Yeşilyurt Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 37.52961,
+    "lon": 42.45966
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "İDİL",
+    "mahalle": "Atakent",
+    "ad": "İDİL Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.34168,
+    "lon": 41.87693
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "İDİL",
+    "mahalle": "Yeni",
+    "ad": "İDİL Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.3436,
+    "lon": 41.8939
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "İDİL",
+    "mahalle": "Yukarı",
+    "ad": "İDİL Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.34813,
+    "lon": 41.88854
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "İDİL",
+    "mahalle": "Aşağı",
+    "ad": "İDİL Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.34497,
+    "lon": 41.90354
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "İDİL",
+    "mahalle": "Atakent",
+    "ad": "İDİL Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.34378,
+    "lon": 41.88564
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "İDİL",
+    "mahalle": "Yeni",
+    "ad": "Yeni Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.36294,
+    "lon": 41.89469
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "İDİL",
+    "mahalle": "Yukarı",
+    "ad": "Yukarı Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.35204,
+    "lon": 41.90359
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "İDİL",
+    "mahalle": "Aşağı",
+    "ad": "Aşağı Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 37.34722,
+    "lon": 41.89034
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "İDİL",
+    "mahalle": "Atakent",
+    "ad": "Atakent Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 37.35158,
+    "lon": 41.88932
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "İDİL",
+    "mahalle": "Yeni",
+    "ad": "Yeni Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 37.34325,
+    "lon": 41.89752
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "ULUDERE",
+    "mahalle": "Kılaban",
+    "ad": "ULUDERE Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.43271,
+    "lon": 42.85759
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "ULUDERE",
+    "mahalle": "Gündoğdu",
+    "ad": "ULUDERE Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.46031,
+    "lon": 42.87482
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "ULUDERE",
+    "mahalle": "Özlyurt",
+    "ad": "ULUDERE Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.45869,
+    "lon": 42.87024
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "ULUDERE",
+    "mahalle": "Kılaban",
+    "ad": "ULUDERE Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.44445,
+    "lon": 42.85202
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "ULUDERE",
+    "mahalle": "Gündoğdu",
+    "ad": "ULUDERE Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.43505,
+    "lon": 42.86002
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "ULUDERE",
+    "mahalle": "Özlyurt",
+    "ad": "Özlyurt Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.44853,
+    "lon": 42.84962
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "ULUDERE",
+    "mahalle": "Kılaban",
+    "ad": "Kılaban Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.45013,
+    "lon": 42.84955
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "ULUDERE",
+    "mahalle": "Gündoğdu",
+    "ad": "Gündoğdu Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 37.44979,
+    "lon": 42.87792
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "BEYTÜŞŞEBAP",
+    "mahalle": "Ali Çavuş",
+    "ad": "BEYTÜŞŞEBAP Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.56717,
+    "lon": 43.16488
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "BEYTÜŞŞEBAP",
+    "mahalle": "Karşıyaka",
+    "ad": "BEYTÜŞŞEBAP Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.56561,
+    "lon": 43.17788
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "BEYTÜŞŞEBAP",
+    "mahalle": "Pınarbaşı",
+    "ad": "BEYTÜŞŞEBAP Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.57226,
+    "lon": 43.16343
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "BEYTÜŞŞEBAP",
+    "mahalle": "Ali Çavuş",
+    "ad": "BEYTÜŞŞEBAP Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.57188,
+    "lon": 43.16884
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "BEYTÜŞŞEBAP",
+    "mahalle": "Karşıyaka",
+    "ad": "BEYTÜŞŞEBAP Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.56302,
+    "lon": 43.17944
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "BEYTÜŞŞEBAP",
+    "mahalle": "Pınarbaşı",
+    "ad": "Pınarbaşı Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.57191,
+    "lon": 43.16232
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "BEYTÜŞŞEBAP",
+    "mahalle": "Ali Çavuş",
+    "ad": "Ali Çavuş Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.56711,
+    "lon": 43.165
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "GÜÇLÜKONAK",
+    "mahalle": "Merkez",
+    "ad": "GÜÇLÜKONAK Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.5069,
+    "lon": 41.97422
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "GÜÇLÜKONAK",
+    "mahalle": "Yeni",
+    "ad": "GÜÇLÜKONAK Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.49321,
+    "lon": 41.98035
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "GÜÇLÜKONAK",
+    "mahalle": "Merkez",
+    "ad": "GÜÇLÜKONAK Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.48817,
+    "lon": 41.97722
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "GÜÇLÜKONAK",
+    "mahalle": "Yeni",
+    "ad": "GÜÇLÜKONAK Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.50394,
+    "lon": 41.97351
+  },
+  {
+    "il": "Şırnak",
+    "ilce": "GÜÇLÜKONAK",
+    "mahalle": "Merkez",
+    "ad": "GÜÇLÜKONAK Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.48645,
+    "lon": 41.96788
+  }
+]

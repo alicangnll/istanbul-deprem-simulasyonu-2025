@@ -1,0 +1,498 @@
+[
+  {
+    "il": "Niğde",
+    "ilce": "MERKEZ",
+    "mahalle": "Selçuk",
+    "ad": "MERKEZ Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.97829,
+    "lon": 34.67398
+  },
+  {
+    "il": "Niğde",
+    "ilce": "MERKEZ",
+    "mahalle": "Şahinali",
+    "ad": "MERKEZ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.97139,
+    "lon": 34.68362
+  },
+  {
+    "il": "Niğde",
+    "ilce": "MERKEZ",
+    "mahalle": "Aşağı Kayabaşı",
+    "ad": "MERKEZ Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.96489,
+    "lon": 34.67562
+  },
+  {
+    "il": "Niğde",
+    "ilce": "MERKEZ",
+    "mahalle": "Yukarı Kayabaşı",
+    "ad": "MERKEZ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.97655,
+    "lon": 34.68647
+  },
+  {
+    "il": "Niğde",
+    "ilce": "MERKEZ",
+    "mahalle": "İlhanlı",
+    "ad": "MERKEZ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.95761,
+    "lon": 34.68083
+  },
+  {
+    "il": "Niğde",
+    "ilce": "MERKEZ",
+    "mahalle": "Nar",
+    "ad": "Nar Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.96624,
+    "lon": 34.6964
+  },
+  {
+    "il": "Niğde",
+    "ilce": "MERKEZ",
+    "mahalle": "Sarıköprü",
+    "ad": "Sarıköprü Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.96731,
+    "lon": 34.69506
+  },
+  {
+    "il": "Niğde",
+    "ilce": "MERKEZ",
+    "mahalle": "Efendibey",
+    "ad": "Efendibey Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 37.97177,
+    "lon": 34.68296
+  },
+  {
+    "il": "Niğde",
+    "ilce": "MERKEZ",
+    "mahalle": "Selçuk",
+    "ad": "Selçuk Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 37.96311,
+    "lon": 34.67968
+  },
+  {
+    "il": "Niğde",
+    "ilce": "MERKEZ",
+    "mahalle": "Şahinali",
+    "ad": "Şahinali Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 37.96251,
+    "lon": 34.68045
+  },
+  {
+    "il": "Niğde",
+    "ilce": "MERKEZ",
+    "mahalle": "Aşağı Kayabaşı",
+    "ad": "Aşağı Kayabaşı Mahallesi Parkı ve Açık Alanı",
+    "lat": 37.97172,
+    "lon": 34.68903
+  },
+  {
+    "il": "Niğde",
+    "ilce": "MERKEZ",
+    "mahalle": "Yukarı Kayabaşı",
+    "ad": "Yukarı Kayabaşı Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 37.95531,
+    "lon": 34.68445
+  },
+  {
+    "il": "Niğde",
+    "ilce": "MERKEZ",
+    "mahalle": "İlhanlı",
+    "ad": "İlhanlı Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 37.9657,
+    "lon": 34.68253
+  },
+  {
+    "il": "Niğde",
+    "ilce": "MERKEZ",
+    "mahalle": "Nar",
+    "ad": "Nar Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 37.96659,
+    "lon": 34.69224
+  },
+  {
+    "il": "Niğde",
+    "ilce": "MERKEZ",
+    "mahalle": "Sarıköprü",
+    "ad": "Sarıköprü Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 37.98202,
+    "lon": 34.68503
+  },
+  {
+    "il": "Niğde",
+    "ilce": "MERKEZ",
+    "mahalle": "Efendibey",
+    "ad": "Efendibey Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.96785,
+    "lon": 34.68763
+  },
+  {
+    "il": "Niğde",
+    "ilce": "MERKEZ",
+    "mahalle": "Selçuk",
+    "ad": "Selçuk Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.96594,
+    "lon": 34.68437
+  },
+  {
+    "il": "Niğde",
+    "ilce": "MERKEZ",
+    "mahalle": "Şahinali",
+    "ad": "Şahinali Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 37.98426,
+    "lon": 34.68389
+  },
+  {
+    "il": "Niğde",
+    "ilce": "MERKEZ",
+    "mahalle": "Aşağı Kayabaşı",
+    "ad": "Aşağı Kayabaşı Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 37.96754,
+    "lon": 34.67579
+  },
+  {
+    "il": "Niğde",
+    "ilce": "MERKEZ",
+    "mahalle": "Yukarı Kayabaşı",
+    "ad": "Yukarı Kayabaşı Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 37.96642,
+    "lon": 34.67806
+  },
+  {
+    "il": "Niğde",
+    "ilce": "MERKEZ",
+    "mahalle": "İlhanlı",
+    "ad": "İlhanlı Mahallesi Parkı ve Açık Alanı",
+    "lat": 37.97089,
+    "lon": 34.69096
+  },
+  {
+    "il": "Niğde",
+    "ilce": "MERKEZ",
+    "mahalle": "Nar",
+    "ad": "Nar Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 37.9705,
+    "lon": 34.67671
+  },
+  {
+    "il": "Niğde",
+    "ilce": "MERKEZ",
+    "mahalle": "Sarıköprü",
+    "ad": "Sarıköprü Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 37.96405,
+    "lon": 34.67759
+  },
+  {
+    "il": "Niğde",
+    "ilce": "MERKEZ",
+    "mahalle": "Efendibey",
+    "ad": "Efendibey Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 37.96621,
+    "lon": 34.68402
+  },
+  {
+    "il": "Niğde",
+    "ilce": "MERKEZ",
+    "mahalle": "Selçuk",
+    "ad": "Selçuk Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 37.96508,
+    "lon": 34.68612
+  },
+  {
+    "il": "Niğde",
+    "ilce": "BOR",
+    "mahalle": "Sokullu",
+    "ad": "BOR Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.88737,
+    "lon": 34.56165
+  },
+  {
+    "il": "Niğde",
+    "ilce": "BOR",
+    "mahalle": "Mehmetçik",
+    "ad": "BOR Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.89879,
+    "lon": 34.55801
+  },
+  {
+    "il": "Niğde",
+    "ilce": "BOR",
+    "mahalle": "Harım",
+    "ad": "BOR Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.87927,
+    "lon": 34.56651
+  },
+  {
+    "il": "Niğde",
+    "ilce": "BOR",
+    "mahalle": "Acıgöl",
+    "ad": "BOR Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.89727,
+    "lon": 34.56909
+  },
+  {
+    "il": "Niğde",
+    "ilce": "BOR",
+    "mahalle": "Sokullu",
+    "ad": "BOR Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.89078,
+    "lon": 34.57744
+  },
+  {
+    "il": "Niğde",
+    "ilce": "BOR",
+    "mahalle": "Mehmetçik",
+    "ad": "Mehmetçik Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.88809,
+    "lon": 34.55127
+  },
+  {
+    "il": "Niğde",
+    "ilce": "BOR",
+    "mahalle": "Harım",
+    "ad": "Harım Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.88617,
+    "lon": 34.56542
+  },
+  {
+    "il": "Niğde",
+    "ilce": "BOR",
+    "mahalle": "Acıgöl",
+    "ad": "Acıgöl Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 37.88911,
+    "lon": 34.5596
+  },
+  {
+    "il": "Niğde",
+    "ilce": "BOR",
+    "mahalle": "Sokullu",
+    "ad": "Sokullu Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 37.88257,
+    "lon": 34.58053
+  },
+  {
+    "il": "Niğde",
+    "ilce": "BOR",
+    "mahalle": "Mehmetçik",
+    "ad": "Mehmetçik Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 37.90691,
+    "lon": 34.56021
+  },
+  {
+    "il": "Niğde",
+    "ilce": "BOR",
+    "mahalle": "Harım",
+    "ad": "Harım Mahallesi Parkı ve Açık Alanı",
+    "lat": 37.89599,
+    "lon": 34.56254
+  },
+  {
+    "il": "Niğde",
+    "ilce": "BOR",
+    "mahalle": "Acıgöl",
+    "ad": "Acıgöl Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 37.89539,
+    "lon": 34.56566
+  },
+  {
+    "il": "Niğde",
+    "ilce": "BOR",
+    "mahalle": "Sokullu",
+    "ad": "Sokullu Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 37.88949,
+    "lon": 34.56437
+  },
+  {
+    "il": "Niğde",
+    "ilce": "BOR",
+    "mahalle": "Mehmetçik",
+    "ad": "Mehmetçik Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 37.89794,
+    "lon": 34.55917
+  },
+  {
+    "il": "Niğde",
+    "ilce": "ÇAMARDI",
+    "mahalle": "Merkez",
+    "ad": "ÇAMARDI Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.82926,
+    "lon": 34.99134
+  },
+  {
+    "il": "Niğde",
+    "ilce": "ÇAMARDI",
+    "mahalle": "Yeni",
+    "ad": "ÇAMARDI Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.84188,
+    "lon": 35.01533
+  },
+  {
+    "il": "Niğde",
+    "ilce": "ÇAMARDI",
+    "mahalle": "Yelatan",
+    "ad": "ÇAMARDI Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.83957,
+    "lon": 35.01283
+  },
+  {
+    "il": "Niğde",
+    "ilce": "ÇAMARDI",
+    "mahalle": "Merkez",
+    "ad": "ÇAMARDI Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.83189,
+    "lon": 35.02239
+  },
+  {
+    "il": "Niğde",
+    "ilce": "ÇAMARDI",
+    "mahalle": "Yeni",
+    "ad": "ÇAMARDI Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.84093,
+    "lon": 35.02457
+  },
+  {
+    "il": "Niğde",
+    "ilce": "ÇAMARDI",
+    "mahalle": "Yelatan",
+    "ad": "Yelatan Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.82724,
+    "lon": 34.99926
+  },
+  {
+    "il": "Niğde",
+    "ilce": "ÇİFTLİK",
+    "mahalle": "Çarşı",
+    "ad": "ÇİFTLİK Kent Meydanı ve Toplanma Alanı",
+    "lat": 38.16529,
+    "lon": 34.49565
+  },
+  {
+    "il": "Niğde",
+    "ilce": "ÇİFTLİK",
+    "mahalle": "Yeni",
+    "ad": "ÇİFTLİK Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 38.15383,
+    "lon": 34.50802
+  },
+  {
+    "il": "Niğde",
+    "ilce": "ÇİFTLİK",
+    "mahalle": "Divarlı",
+    "ad": "ÇİFTLİK Hükümet Konağı / Belediye Meydanı",
+    "lat": 38.15577,
+    "lon": 34.49743
+  },
+  {
+    "il": "Niğde",
+    "ilce": "ÇİFTLİK",
+    "mahalle": "Çarşı",
+    "ad": "ÇİFTLİK Millet Bahçesi ve Yeşil Alanı",
+    "lat": 38.16844,
+    "lon": 34.50996
+  },
+  {
+    "il": "Niğde",
+    "ilce": "ÇİFTLİK",
+    "mahalle": "Yeni",
+    "ad": "ÇİFTLİK Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 38.15995,
+    "lon": 34.49408
+  },
+  {
+    "il": "Niğde",
+    "ilce": "ÇİFTLİK",
+    "mahalle": "Divarlı",
+    "ad": "Divarlı Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 38.1604,
+    "lon": 34.51784
+  },
+  {
+    "il": "Niğde",
+    "ilce": "ULUKIŞLA",
+    "mahalle": "Kemaliye",
+    "ad": "ULUKIŞLA Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.55876,
+    "lon": 34.49869
+  },
+  {
+    "il": "Niğde",
+    "ilce": "ULUKIŞLA",
+    "mahalle": "Alpağut",
+    "ad": "ULUKIŞLA Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.56116,
+    "lon": 34.49093
+  },
+  {
+    "il": "Niğde",
+    "ilce": "ULUKIŞLA",
+    "mahalle": "Kurtuluş",
+    "ad": "ULUKIŞLA Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.54465,
+    "lon": 34.49071
+  },
+  {
+    "il": "Niğde",
+    "ilce": "ULUKIŞLA",
+    "mahalle": "Kemaliye",
+    "ad": "ULUKIŞLA Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.5433,
+    "lon": 34.48341
+  },
+  {
+    "il": "Niğde",
+    "ilce": "ULUKIŞLA",
+    "mahalle": "Alpağut",
+    "ad": "ULUKIŞLA Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.54712,
+    "lon": 34.4871
+  },
+  {
+    "il": "Niğde",
+    "ilce": "ULUKIŞLA",
+    "mahalle": "Kurtuluş",
+    "ad": "Kurtuluş Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.54478,
+    "lon": 34.48658
+  },
+  {
+    "il": "Niğde",
+    "ilce": "ALTUNHİSAR",
+    "mahalle": "Sağlık",
+    "ad": "ALTUNHİSAR Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.97459,
+    "lon": 34.37983
+  },
+  {
+    "il": "Niğde",
+    "ilce": "ALTUNHİSAR",
+    "mahalle": "Ortaköy",
+    "ad": "ALTUNHİSAR Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.9881,
+    "lon": 34.3746
+  },
+  {
+    "il": "Niğde",
+    "ilce": "ALTUNHİSAR",
+    "mahalle": "Pınarbaşı",
+    "ad": "ALTUNHİSAR Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.99483,
+    "lon": 34.38113
+  },
+  {
+    "il": "Niğde",
+    "ilce": "ALTUNHİSAR",
+    "mahalle": "Sağlık",
+    "ad": "ALTUNHİSAR Millet Bahçesi ve Yeşil Alanı",
+    "lat": 38.00172,
+    "lon": 34.3687
+  },
+  {
+    "il": "Niğde",
+    "ilce": "ALTUNHİSAR",
+    "mahalle": "Ortaköy",
+    "ad": "ALTUNHİSAR Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.99528,
+    "lon": 34.35547
+  }
+]

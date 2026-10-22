@@ -1,0 +1,530 @@
+[
+  {
+    "il": "Tunceli",
+    "ilce": "MERKEZ",
+    "mahalle": "Moğultay",
+    "ad": "MERKEZ Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.1111,
+    "lon": 39.56649
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "MERKEZ",
+    "mahalle": "Atatürk",
+    "ad": "MERKEZ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.10581,
+    "lon": 39.55258
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "MERKEZ",
+    "mahalle": "Ali Baba",
+    "ad": "MERKEZ Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.10555,
+    "lon": 39.5538
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "MERKEZ",
+    "mahalle": "Yeni",
+    "ad": "MERKEZ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.10724,
+    "lon": 39.53763
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "MERKEZ",
+    "mahalle": "Cumhuriyet",
+    "ad": "MERKEZ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.12374,
+    "lon": 39.53044
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "MERKEZ",
+    "mahalle": "İnönü",
+    "ad": "İnönü Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.10409,
+    "lon": 39.54009
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "MERKEZ",
+    "mahalle": "Gazik",
+    "ad": "Gazik Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 39.09398,
+    "lon": 39.54626
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "MERKEZ",
+    "mahalle": "Munzur Kıyısı",
+    "ad": "Munzur Kıyısı Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 39.11164,
+    "lon": 39.5425
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "MERKEZ",
+    "mahalle": "Moğultay",
+    "ad": "Moğultay Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 39.10448,
+    "lon": 39.54592
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "MERKEZ",
+    "mahalle": "Atatürk",
+    "ad": "Atatürk Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 39.08685,
+    "lon": 39.54983
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "MERKEZ",
+    "mahalle": "Ali Baba",
+    "ad": "Ali Baba Mahallesi Parkı ve Açık Alanı",
+    "lat": 39.10518,
+    "lon": 39.57022
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "MERKEZ",
+    "mahalle": "Yeni",
+    "ad": "Yeni Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 39.1151,
+    "lon": 39.55195
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "MERKEZ",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 39.10401,
+    "lon": 39.54276
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "MERKEZ",
+    "mahalle": "İnönü",
+    "ad": "İnönü Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 39.10712,
+    "lon": 39.55611
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "MERKEZ",
+    "mahalle": "Gazik",
+    "ad": "Gazik Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 39.1156,
+    "lon": 39.5537
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "MERKEZ",
+    "mahalle": "Munzur Kıyısı",
+    "ad": "Munzur Kıyısı Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.10663,
+    "lon": 39.55978
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "MERKEZ",
+    "mahalle": "Moğultay",
+    "ad": "Moğultay Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 39.11555,
+    "lon": 39.56053
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "MERKEZ",
+    "mahalle": "Atatürk",
+    "ad": "Atatürk Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 39.11952,
+    "lon": 39.5553
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "MERKEZ",
+    "mahalle": "Ali Baba",
+    "ad": "Ali Baba Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 39.11533,
+    "lon": 39.54956
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "MERKEZ",
+    "mahalle": "Yeni",
+    "ad": "Yeni Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 39.10297,
+    "lon": 39.54162
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "MERKEZ",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Parkı ve Açık Alanı",
+    "lat": 39.10716,
+    "lon": 39.55576
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "MERKEZ",
+    "mahalle": "İnönü",
+    "ad": "İnönü Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 39.11014,
+    "lon": 39.54588
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "MERKEZ",
+    "mahalle": "Gazik",
+    "ad": "Gazik Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 39.10317,
+    "lon": 39.55331
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "MERKEZ",
+    "mahalle": "Munzur Kıyısı",
+    "ad": "Munzur Kıyısı Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 39.1064,
+    "lon": 39.55125
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "PERTEK",
+    "mahalle": "İstiklal",
+    "ad": "PERTEK Kent Meydanı ve Toplanma Alanı",
+    "lat": 38.85735,
+    "lon": 39.31915
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "PERTEK",
+    "mahalle": "Camikebir",
+    "ad": "PERTEK Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 38.85274,
+    "lon": 39.33361
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "PERTEK",
+    "mahalle": "Kaledibi",
+    "ad": "PERTEK Hükümet Konağı / Belediye Meydanı",
+    "lat": 38.86842,
+    "lon": 39.32422
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "PERTEK",
+    "mahalle": "Soğukpınar",
+    "ad": "PERTEK Millet Bahçesi ve Yeşil Alanı",
+    "lat": 38.87737,
+    "lon": 39.31897
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "PERTEK",
+    "mahalle": "İstiklal",
+    "ad": "PERTEK Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 38.85059,
+    "lon": 39.32466
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "PERTEK",
+    "mahalle": "Camikebir",
+    "ad": "Camikebir Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 38.85687,
+    "lon": 39.32944
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "PERTEK",
+    "mahalle": "Kaledibi",
+    "ad": "Kaledibi Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 38.85538,
+    "lon": 39.33169
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "PERTEK",
+    "mahalle": "Soğukpınar",
+    "ad": "Soğukpınar Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 38.86363,
+    "lon": 39.3153
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "MAZGİRT",
+    "mahalle": "Eski Pazar",
+    "ad": "MAZGİRT Kent Meydanı ve Toplanma Alanı",
+    "lat": 38.98448,
+    "lon": 39.60791
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "MAZGİRT",
+    "mahalle": "Yeni",
+    "ad": "MAZGİRT Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.00116,
+    "lon": 39.59733
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "MAZGİRT",
+    "mahalle": "Danaburan",
+    "ad": "MAZGİRT Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.00546,
+    "lon": 39.62119
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "MAZGİRT",
+    "mahalle": "Eski Pazar",
+    "ad": "MAZGİRT Millet Bahçesi ve Yeşil Alanı",
+    "lat": 38.98943,
+    "lon": 39.61475
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "MAZGİRT",
+    "mahalle": "Yeni",
+    "ad": "MAZGİRT Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 38.99817,
+    "lon": 39.60969
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "MAZGİRT",
+    "mahalle": "Danaburan",
+    "ad": "Danaburan Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 38.9905,
+    "lon": 39.61012
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "ÇEMİŞGEZEK",
+    "mahalle": "Hacı Camii",
+    "ad": "ÇEMİŞGEZEK Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.06912,
+    "lon": 38.92271
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "ÇEMİŞGEZEK",
+    "mahalle": "Mescit",
+    "ad": "ÇEMİŞGEZEK Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.05877,
+    "lon": 38.90562
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "ÇEMİŞGEZEK",
+    "mahalle": "Tepebağ",
+    "ad": "ÇEMİŞGEZEK Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.05814,
+    "lon": 38.91526
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "ÇEMİŞGEZEK",
+    "mahalle": "Hacı Camii",
+    "ad": "ÇEMİŞGEZEK Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.06941,
+    "lon": 38.91305
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "ÇEMİŞGEZEK",
+    "mahalle": "Mescit",
+    "ad": "ÇEMİŞGEZEK Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.06436,
+    "lon": 38.90902
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "ÇEMİŞGEZEK",
+    "mahalle": "Tepebağ",
+    "ad": "Tepebağ Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.05608,
+    "lon": 38.92676
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "HOZAT",
+    "mahalle": "Fikripaşa",
+    "ad": "HOZAT Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.10644,
+    "lon": 39.21117
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "HOZAT",
+    "mahalle": "Köprübaşı",
+    "ad": "HOZAT Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.1047,
+    "lon": 39.22727
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "HOZAT",
+    "mahalle": "Yeni",
+    "ad": "HOZAT Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.09508,
+    "lon": 39.20358
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "HOZAT",
+    "mahalle": "Fikripaşa",
+    "ad": "HOZAT Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.11385,
+    "lon": 39.2159
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "HOZAT",
+    "mahalle": "Köprübaşı",
+    "ad": "HOZAT Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.10534,
+    "lon": 39.22231
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "HOZAT",
+    "mahalle": "Yeni",
+    "ad": "Yeni Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.10664,
+    "lon": 39.21593
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "OVACIK",
+    "mahalle": "Pulur",
+    "ad": "OVACIK Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.35573,
+    "lon": 39.21132
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "OVACIK",
+    "mahalle": "Kandolar",
+    "ad": "OVACIK Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.36065,
+    "lon": 39.20739
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "OVACIK",
+    "mahalle": "Munzur Gözeleri Yanı",
+    "ad": "OVACIK Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.37194,
+    "lon": 39.21165
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "OVACIK",
+    "mahalle": "Pulur",
+    "ad": "OVACIK Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.35491,
+    "lon": 39.20586
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "OVACIK",
+    "mahalle": "Kandolar",
+    "ad": "OVACIK Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.35131,
+    "lon": 39.20143
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "OVACIK",
+    "mahalle": "Munzur Gözeleri Yanı",
+    "ad": "Munzur Gözeleri Yanı Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.36384,
+    "lon": 39.21755
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "PÜLÜMÜR",
+    "mahalle": "Meydanlar",
+    "ad": "PÜLÜMÜR Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.50406,
+    "lon": 39.88847
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "PÜLÜMÜR",
+    "mahalle": "Kırmızıköprü",
+    "ad": "PÜLÜMÜR Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.4869,
+    "lon": 39.88414
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "PÜLÜMÜR",
+    "mahalle": "Hiver",
+    "ad": "PÜLÜMÜR Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.5048,
+    "lon": 39.89387
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "PÜLÜMÜR",
+    "mahalle": "Meydanlar",
+    "ad": "PÜLÜMÜR Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.48993,
+    "lon": 39.88638
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "PÜLÜMÜR",
+    "mahalle": "Kırmızıköprü",
+    "ad": "PÜLÜMÜR Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.49591,
+    "lon": 39.90641
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "NAZIMİYE",
+    "mahalle": "Merkez",
+    "ad": "NAZIMİYE Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.17447,
+    "lon": 39.81646
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "NAZIMİYE",
+    "mahalle": "Geriş",
+    "ad": "NAZIMİYE Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.17123,
+    "lon": 39.81875
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "NAZIMİYE",
+    "mahalle": "Düzgün Baba Çevresi",
+    "ad": "NAZIMİYE Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.16742,
+    "lon": 39.82443
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "NAZIMİYE",
+    "mahalle": "Merkez",
+    "ad": "NAZIMİYE Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.16257,
+    "lon": 39.82609
+  },
+  {
+    "il": "Tunceli",
+    "ilce": "NAZIMİYE",
+    "mahalle": "Geriş",
+    "ad": "NAZIMİYE Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.16354,
+    "lon": 39.82976
+  }
+]

@@ -1,0 +1,618 @@
+[
+  {
+    "il": "Kırıkkale",
+    "ilce": "MERKEZ",
+    "mahalle": "Kurtuluş",
+    "ad": "MERKEZ Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.85142,
+    "lon": 33.51767
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "MERKEZ",
+    "mahalle": "Fabrikalar",
+    "ad": "MERKEZ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.85296,
+    "lon": 33.51288
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "MERKEZ",
+    "mahalle": "Gürler",
+    "ad": "MERKEZ Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.8458,
+    "lon": 33.50162
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "MERKEZ",
+    "mahalle": "Yenimahalle",
+    "ad": "MERKEZ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.84438,
+    "lon": 33.51429
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "MERKEZ",
+    "mahalle": "Sanayi",
+    "ad": "MERKEZ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.84978,
+    "lon": 33.51832
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "MERKEZ",
+    "mahalle": "Bağlarbaşı",
+    "ad": "Bağlarbaşı Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.84129,
+    "lon": 33.50587
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "MERKEZ",
+    "mahalle": "Çalılıöz",
+    "ad": "Çalılıöz Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 39.83877,
+    "lon": 33.52086
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "MERKEZ",
+    "mahalle": "Tepebaşı",
+    "ad": "Tepebaşı Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 39.84967,
+    "lon": 33.52368
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "MERKEZ",
+    "mahalle": "Yaylacık",
+    "ad": "Yaylacık Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 39.84921,
+    "lon": 33.5336
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "MERKEZ",
+    "mahalle": "Kurtuluş",
+    "ad": "Kurtuluş Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 39.84168,
+    "lon": 33.505
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "MERKEZ",
+    "mahalle": "Fabrikalar",
+    "ad": "Fabrikalar Mahallesi Parkı ve Açık Alanı",
+    "lat": 39.8468,
+    "lon": 33.51427
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "MERKEZ",
+    "mahalle": "Gürler",
+    "ad": "Gürler Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 39.85005,
+    "lon": 33.50996
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "MERKEZ",
+    "mahalle": "Yenimahalle",
+    "ad": "Yenimahalle Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 39.84597,
+    "lon": 33.52783
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "MERKEZ",
+    "mahalle": "Sanayi",
+    "ad": "Sanayi Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 39.85304,
+    "lon": 33.52001
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "MERKEZ",
+    "mahalle": "Bağlarbaşı",
+    "ad": "Bağlarbaşı Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 39.83754,
+    "lon": 33.52031
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "MERKEZ",
+    "mahalle": "Çalılıöz",
+    "ad": "Çalılıöz Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.8464,
+    "lon": 33.50584
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "MERKEZ",
+    "mahalle": "Tepebaşı",
+    "ad": "Tepebaşı Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 39.85256,
+    "lon": 33.50936
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "MERKEZ",
+    "mahalle": "Yaylacık",
+    "ad": "Yaylacık Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 39.84111,
+    "lon": 33.51657
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "MERKEZ",
+    "mahalle": "Kurtuluş",
+    "ad": "Kurtuluş Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 39.84501,
+    "lon": 33.50973
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "MERKEZ",
+    "mahalle": "Fabrikalar",
+    "ad": "Fabrikalar Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 39.84083,
+    "lon": 33.51331
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "MERKEZ",
+    "mahalle": "Gürler",
+    "ad": "Gürler Mahallesi Parkı ve Açık Alanı",
+    "lat": 39.83906,
+    "lon": 33.50864
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "MERKEZ",
+    "mahalle": "Yenimahalle",
+    "ad": "Yenimahalle Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 39.8497,
+    "lon": 33.50852
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "MERKEZ",
+    "mahalle": "Sanayi",
+    "ad": "Sanayi Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 39.83055,
+    "lon": 33.521
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "MERKEZ",
+    "mahalle": "Bağlarbaşı",
+    "ad": "Bağlarbaşı Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 39.84823,
+    "lon": 33.51352
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "MERKEZ",
+    "mahalle": "Çalılıöz",
+    "ad": "Çalılıöz Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 39.83174,
+    "lon": 33.50954
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "MERKEZ",
+    "mahalle": "Tepebaşı",
+    "ad": "Tepebaşı Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.84833,
+    "lon": 33.51737
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "YAHŞİHAN",
+    "mahalle": "Yenişehir (Üniversite)",
+    "ad": "YAHŞİHAN Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.85308,
+    "lon": 33.46492
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "YAHŞİHAN",
+    "mahalle": "Doğan",
+    "ad": "YAHŞİHAN Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.85731,
+    "lon": 33.43875
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "YAHŞİHAN",
+    "mahalle": "Kadirler",
+    "ad": "YAHŞİHAN Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.85136,
+    "lon": 33.45951
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "YAHŞİHAN",
+    "mahalle": "Alaaddin",
+    "ad": "YAHŞİHAN Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.85681,
+    "lon": 33.46417
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "YAHŞİHAN",
+    "mahalle": "Yenişehir (Üniversite)",
+    "ad": "YAHŞİHAN Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.85516,
+    "lon": 33.45423
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "YAHŞİHAN",
+    "mahalle": "Doğan",
+    "ad": "Doğan Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.86072,
+    "lon": 33.45201
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "YAHŞİHAN",
+    "mahalle": "Kadirler",
+    "ad": "Kadirler Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 39.84359,
+    "lon": 33.45177
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "YAHŞİHAN",
+    "mahalle": "Alaaddin",
+    "ad": "Alaaddin Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 39.85275,
+    "lon": 33.44204
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "YAHŞİHAN",
+    "mahalle": "Yenişehir (Üniversite)",
+    "ad": "Yenişehir (Üniversite) Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 39.85643,
+    "lon": 33.45828
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "YAHŞİHAN",
+    "mahalle": "Doğan",
+    "ad": "Doğan Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 39.8508,
+    "lon": 33.46288
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "YAHŞİHAN",
+    "mahalle": "Kadirler",
+    "ad": "Kadirler Mahallesi Parkı ve Açık Alanı",
+    "lat": 39.85581,
+    "lon": 33.46074
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "YAHŞİHAN",
+    "mahalle": "Alaaddin",
+    "ad": "Alaaddin Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 39.83944,
+    "lon": 33.4573
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "KESKİN",
+    "mahalle": "Bozkurt",
+    "ad": "KESKİN Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.67693,
+    "lon": 33.62842
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "KESKİN",
+    "mahalle": "Altıntaş",
+    "ad": "KESKİN Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.67178,
+    "lon": 33.61004
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "KESKİN",
+    "mahalle": "Maden",
+    "ad": "KESKİN Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.68621,
+    "lon": 33.61656
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "KESKİN",
+    "mahalle": "Yenice",
+    "ad": "KESKİN Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.66818,
+    "lon": 33.62803
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "KESKİN",
+    "mahalle": "Bozkurt",
+    "ad": "KESKİN Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.67401,
+    "lon": 33.62797
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "KESKİN",
+    "mahalle": "Altıntaş",
+    "ad": "Altıntaş Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.686,
+    "lon": 33.6196
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "KESKİN",
+    "mahalle": "Maden",
+    "ad": "Maden Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 39.68032,
+    "lon": 33.63665
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "KESKİN",
+    "mahalle": "Yenice",
+    "ad": "Yenice Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 39.68465,
+    "lon": 33.6086
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "DELİCE",
+    "mahalle": "Fatih",
+    "ad": "DELİCE Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.95511,
+    "lon": 34.0334
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "DELİCE",
+    "mahalle": "Cumhuriyet",
+    "ad": "DELİCE Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.95272,
+    "lon": 34.02812
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "DELİCE",
+    "mahalle": "Karabük",
+    "ad": "DELİCE Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.96285,
+    "lon": 34.02556
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "DELİCE",
+    "mahalle": "Fatih",
+    "ad": "DELİCE Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.95008,
+    "lon": 34.03878
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "DELİCE",
+    "mahalle": "Cumhuriyet",
+    "ad": "DELİCE Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.96213,
+    "lon": 34.03198
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "DELİCE",
+    "mahalle": "Karabük",
+    "ad": "Karabük Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.94883,
+    "lon": 34.03179
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "BAHŞILI",
+    "mahalle": "Hüseyin Onbaşı",
+    "ad": "BAHŞILI Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.79094,
+    "lon": 33.42576
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "BAHŞILI",
+    "mahalle": "Doğanay",
+    "ad": "BAHŞILI Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.80601,
+    "lon": 33.43196
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "BAHŞILI",
+    "mahalle": "Atatürk",
+    "ad": "BAHŞILI Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.80801,
+    "lon": 33.4408
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "BAHŞILI",
+    "mahalle": "Hüseyin Onbaşı",
+    "ad": "BAHŞILI Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.79874,
+    "lon": 33.42462
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "BAHŞILI",
+    "mahalle": "Doğanay",
+    "ad": "BAHŞILI Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.80692,
+    "lon": 33.44663
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "BAHŞILI",
+    "mahalle": "Atatürk",
+    "ad": "Atatürk Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.79989,
+    "lon": 33.43384
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "SULAKYURT",
+    "mahalle": "Yenimahalle",
+    "ad": "SULAKYURT Kent Meydanı ve Toplanma Alanı",
+    "lat": 40.16547,
+    "lon": 33.73901
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "SULAKYURT",
+    "mahalle": "Şeyh Şami",
+    "ad": "SULAKYURT Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 40.16256,
+    "lon": 33.7315
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "SULAKYURT",
+    "mahalle": "Çarşı",
+    "ad": "SULAKYURT Hükümet Konağı / Belediye Meydanı",
+    "lat": 40.15787,
+    "lon": 33.71298
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "SULAKYURT",
+    "mahalle": "Yenimahalle",
+    "ad": "SULAKYURT Millet Bahçesi ve Yeşil Alanı",
+    "lat": 40.17395,
+    "lon": 33.71907
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "SULAKYURT",
+    "mahalle": "Şeyh Şami",
+    "ad": "SULAKYURT Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 40.17097,
+    "lon": 33.73992
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "BALIŞEYH",
+    "mahalle": "Ballı",
+    "ad": "BALIŞEYH Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.90734,
+    "lon": 33.71513
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "BALIŞEYH",
+    "mahalle": "Yeni",
+    "ad": "BALIŞEYH Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.90647,
+    "lon": 33.71351
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "BALIŞEYH",
+    "mahalle": "İstasyon",
+    "ad": "BALIŞEYH Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.91129,
+    "lon": 33.72428
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "BALIŞEYH",
+    "mahalle": "Ballı",
+    "ad": "BALIŞEYH Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.93596,
+    "lon": 33.72096
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "BALIŞEYH",
+    "mahalle": "Yeni",
+    "ad": "BALIŞEYH Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.91098,
+    "lon": 33.72339
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "KARAKEÇİLİ",
+    "mahalle": "Kurtuluş",
+    "ad": "KARAKEÇİLİ Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.58222,
+    "lon": 33.36331
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "KARAKEÇİLİ",
+    "mahalle": "Fatih",
+    "ad": "KARAKEÇİLİ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.58344,
+    "lon": 33.37961
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "KARAKEÇİLİ",
+    "mahalle": "Zafer",
+    "ad": "KARAKEÇİLİ Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.58804,
+    "lon": 33.37158
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "KARAKEÇİLİ",
+    "mahalle": "Kurtuluş",
+    "ad": "KARAKEÇİLİ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.58414,
+    "lon": 33.37389
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "KARAKEÇİLİ",
+    "mahalle": "Fatih",
+    "ad": "KARAKEÇİLİ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.59395,
+    "lon": 33.38449
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "ÇELEBİ",
+    "mahalle": "Barbaros",
+    "ad": "ÇELEBİ Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.51917,
+    "lon": 33.56312
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "ÇELEBİ",
+    "mahalle": "Fatih",
+    "ad": "ÇELEBİ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.51768,
+    "lon": 33.56827
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "ÇELEBİ",
+    "mahalle": "Barbaros",
+    "ad": "ÇELEBİ Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.50082,
+    "lon": 33.55874
+  },
+  {
+    "il": "Kırıkkale",
+    "ilce": "ÇELEBİ",
+    "mahalle": "Fatih",
+    "ad": "ÇELEBİ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.51623,
+    "lon": 33.56453
+  }
+]

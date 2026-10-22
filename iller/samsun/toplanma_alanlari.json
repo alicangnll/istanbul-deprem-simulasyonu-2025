@@ -1,0 +1,1314 @@
+[
+  {
+    "il": "Samsun",
+    "ilce": "İLKADIM",
+    "mahalle": "Kılıçdede",
+    "ad": "İLKADIM Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.29199,
+    "lon": 36.33118
+  },
+  {
+    "il": "Samsun",
+    "ilce": "İLKADIM",
+    "mahalle": "Fevzi Çakmak",
+    "ad": "İLKADIM Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.28405,
+    "lon": 36.33861
+  },
+  {
+    "il": "Samsun",
+    "ilce": "İLKADIM",
+    "mahalle": "Rasathane",
+    "ad": "İLKADIM Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.28302,
+    "lon": 36.32093
+  },
+  {
+    "il": "Samsun",
+    "ilce": "İLKADIM",
+    "mahalle": "Bahçelievler",
+    "ad": "İLKADIM Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.27459,
+    "lon": 36.33335
+  },
+  {
+    "il": "Samsun",
+    "ilce": "İLKADIM",
+    "mahalle": "Kadıköy",
+    "ad": "İLKADIM Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.27636,
+    "lon": 36.34511
+  },
+  {
+    "il": "Samsun",
+    "ilce": "İLKADIM",
+    "mahalle": "Zeytinlik",
+    "ad": "Zeytinlik Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.28783,
+    "lon": 36.34126
+  },
+  {
+    "il": "Samsun",
+    "ilce": "İLKADIM",
+    "mahalle": "Zafer",
+    "ad": "Zafer Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.28713,
+    "lon": 36.34529
+  },
+  {
+    "il": "Samsun",
+    "ilce": "İLKADIM",
+    "mahalle": "İstasyon",
+    "ad": "İstasyon Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.29029,
+    "lon": 36.33527
+  },
+  {
+    "il": "Samsun",
+    "ilce": "İLKADIM",
+    "mahalle": "Kılıçdede",
+    "ad": "Kılıçdede Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 41.29704,
+    "lon": 36.32947
+  },
+  {
+    "il": "Samsun",
+    "ilce": "İLKADIM",
+    "mahalle": "Fevzi Çakmak",
+    "ad": "Fevzi Çakmak Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 41.27945,
+    "lon": 36.33009
+  },
+  {
+    "il": "Samsun",
+    "ilce": "İLKADIM",
+    "mahalle": "Rasathane",
+    "ad": "Rasathane Mahallesi Parkı ve Açık Alanı",
+    "lat": 41.27557,
+    "lon": 36.34625
+  },
+  {
+    "il": "Samsun",
+    "ilce": "İLKADIM",
+    "mahalle": "Bahçelievler",
+    "ad": "Bahçelievler Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 41.28194,
+    "lon": 36.32005
+  },
+  {
+    "il": "Samsun",
+    "ilce": "İLKADIM",
+    "mahalle": "Kadıköy",
+    "ad": "Kadıköy Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 41.28625,
+    "lon": 36.33309
+  },
+  {
+    "il": "Samsun",
+    "ilce": "İLKADIM",
+    "mahalle": "Zeytinlik",
+    "ad": "Zeytinlik Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 41.2843,
+    "lon": 36.31969
+  },
+  {
+    "il": "Samsun",
+    "ilce": "İLKADIM",
+    "mahalle": "Zafer",
+    "ad": "Zafer Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 41.28762,
+    "lon": 36.32347
+  },
+  {
+    "il": "Samsun",
+    "ilce": "İLKADIM",
+    "mahalle": "İstasyon",
+    "ad": "İstasyon Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.28706,
+    "lon": 36.33691
+  },
+  {
+    "il": "Samsun",
+    "ilce": "İLKADIM",
+    "mahalle": "Kılıçdede",
+    "ad": "Kılıçdede Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.29128,
+    "lon": 36.31759
+  },
+  {
+    "il": "Samsun",
+    "ilce": "İLKADIM",
+    "mahalle": "Fevzi Çakmak",
+    "ad": "Fevzi Çakmak Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.28991,
+    "lon": 36.33213
+  },
+  {
+    "il": "Samsun",
+    "ilce": "İLKADIM",
+    "mahalle": "Rasathane",
+    "ad": "Rasathane Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 41.27557,
+    "lon": 36.34034
+  },
+  {
+    "il": "Samsun",
+    "ilce": "İLKADIM",
+    "mahalle": "Bahçelievler",
+    "ad": "Bahçelievler Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 41.27867,
+    "lon": 36.34162
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ATAKUM",
+    "mahalle": "Cumhuriyet",
+    "ad": "ATAKUM Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.33922,
+    "lon": 36.26863
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ATAKUM",
+    "mahalle": "Mimar Sinan",
+    "ad": "ATAKUM Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.33351,
+    "lon": 36.27126
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ATAKUM",
+    "mahalle": "Yenimahalle",
+    "ad": "ATAKUM Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.33065,
+    "lon": 36.27627
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ATAKUM",
+    "mahalle": "Türkiş",
+    "ad": "ATAKUM Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.32249,
+    "lon": 36.29896
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ATAKUM",
+    "mahalle": "Körfez",
+    "ad": "ATAKUM Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.32641,
+    "lon": 36.26958
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ATAKUM",
+    "mahalle": "İncesu",
+    "ad": "İncesu Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.33468,
+    "lon": 36.27178
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ATAKUM",
+    "mahalle": "Balaç",
+    "ad": "Balaç Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.32136,
+    "lon": 36.28566
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ATAKUM",
+    "mahalle": "Kamalı",
+    "ad": "Kamalı Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.33418,
+    "lon": 36.26165
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ATAKUM",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 41.3212,
+    "lon": 36.2799
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ATAKUM",
+    "mahalle": "Mimar Sinan",
+    "ad": "Mimar Sinan Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 41.32952,
+    "lon": 36.26626
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ATAKUM",
+    "mahalle": "Yenimahalle",
+    "ad": "Yenimahalle Mahallesi Parkı ve Açık Alanı",
+    "lat": 41.32696,
+    "lon": 36.27321
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ATAKUM",
+    "mahalle": "Türkiş",
+    "ad": "Türkiş Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 41.33662,
+    "lon": 36.2825
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ATAKUM",
+    "mahalle": "Körfez",
+    "ad": "Körfez Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 41.34235,
+    "lon": 36.27941
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ATAKUM",
+    "mahalle": "İncesu",
+    "ad": "İncesu Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 41.33401,
+    "lon": 36.26916
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ATAKUM",
+    "mahalle": "Balaç",
+    "ad": "Balaç Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 41.31265,
+    "lon": 36.28054
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ATAKUM",
+    "mahalle": "Kamalı",
+    "ad": "Kamalı Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.34906,
+    "lon": 36.28124
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ATAKUM",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.32528,
+    "lon": 36.26867
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ATAKUM",
+    "mahalle": "Mimar Sinan",
+    "ad": "Mimar Sinan Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.32427,
+    "lon": 36.2672
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ATAKUM",
+    "mahalle": "Yenimahalle",
+    "ad": "Yenimahalle Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 41.32642,
+    "lon": 36.2837
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ATAKUM",
+    "mahalle": "Türkiş",
+    "ad": "Türkiş Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 41.33851,
+    "lon": 36.27546
+  },
+  {
+    "il": "Samsun",
+    "ilce": "CANİK",
+    "mahalle": "Kuzey Yıldızı",
+    "ad": "CANİK Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.27769,
+    "lon": 36.37134
+  },
+  {
+    "il": "Samsun",
+    "ilce": "CANİK",
+    "mahalle": "Karşıyaka",
+    "ad": "CANİK Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.26504,
+    "lon": 36.3698
+  },
+  {
+    "il": "Samsun",
+    "ilce": "CANİK",
+    "mahalle": "Hacıismail",
+    "ad": "CANİK Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.26721,
+    "lon": 36.3866
+  },
+  {
+    "il": "Samsun",
+    "ilce": "CANİK",
+    "mahalle": "Soğuksu",
+    "ad": "CANİK Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.27283,
+    "lon": 36.36873
+  },
+  {
+    "il": "Samsun",
+    "ilce": "CANİK",
+    "mahalle": "Gazi",
+    "ad": "CANİK Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.27059,
+    "lon": 36.37194
+  },
+  {
+    "il": "Samsun",
+    "ilce": "CANİK",
+    "mahalle": "Kuzey Yıldızı",
+    "ad": "Kuzey Yıldızı Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.27722,
+    "lon": 36.36982
+  },
+  {
+    "il": "Samsun",
+    "ilce": "CANİK",
+    "mahalle": "Karşıyaka",
+    "ad": "Karşıyaka Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.26734,
+    "lon": 36.35853
+  },
+  {
+    "il": "Samsun",
+    "ilce": "CANİK",
+    "mahalle": "Hacıismail",
+    "ad": "Hacıismail Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.28078,
+    "lon": 36.38436
+  },
+  {
+    "il": "Samsun",
+    "ilce": "CANİK",
+    "mahalle": "Soğuksu",
+    "ad": "Soğuksu Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 41.28901,
+    "lon": 36.36406
+  },
+  {
+    "il": "Samsun",
+    "ilce": "CANİK",
+    "mahalle": "Gazi",
+    "ad": "Gazi Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 41.28329,
+    "lon": 36.3695
+  },
+  {
+    "il": "Samsun",
+    "ilce": "CANİK",
+    "mahalle": "Kuzey Yıldızı",
+    "ad": "Kuzey Yıldızı Mahallesi Parkı ve Açık Alanı",
+    "lat": 41.26284,
+    "lon": 36.3636
+  },
+  {
+    "il": "Samsun",
+    "ilce": "CANİK",
+    "mahalle": "Karşıyaka",
+    "ad": "Karşıyaka Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 41.28476,
+    "lon": 36.36666
+  },
+  {
+    "il": "Samsun",
+    "ilce": "CANİK",
+    "mahalle": "Hacıismail",
+    "ad": "Hacıismail Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 41.27663,
+    "lon": 36.3668
+  },
+  {
+    "il": "Samsun",
+    "ilce": "CANİK",
+    "mahalle": "Soğuksu",
+    "ad": "Soğuksu Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 41.27109,
+    "lon": 36.36935
+  },
+  {
+    "il": "Samsun",
+    "ilce": "BAFRA",
+    "mahalle": "Cumhuriyet",
+    "ad": "BAFRA Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.57096,
+    "lon": 35.89345
+  },
+  {
+    "il": "Samsun",
+    "ilce": "BAFRA",
+    "mahalle": "Gazipaşa",
+    "ad": "BAFRA Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.57353,
+    "lon": 35.90824
+  },
+  {
+    "il": "Samsun",
+    "ilce": "BAFRA",
+    "mahalle": "İsmetpaşa",
+    "ad": "BAFRA Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.55178,
+    "lon": 35.90886
+  },
+  {
+    "il": "Samsun",
+    "ilce": "BAFRA",
+    "mahalle": "Emirefendi",
+    "ad": "BAFRA Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.5806,
+    "lon": 35.9081
+  },
+  {
+    "il": "Samsun",
+    "ilce": "BAFRA",
+    "mahalle": "Kızılırmak",
+    "ad": "BAFRA Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.55514,
+    "lon": 35.91274
+  },
+  {
+    "il": "Samsun",
+    "ilce": "BAFRA",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.57203,
+    "lon": 35.90109
+  },
+  {
+    "il": "Samsun",
+    "ilce": "BAFRA",
+    "mahalle": "Gazipaşa",
+    "ad": "Gazipaşa Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.5722,
+    "lon": 35.91092
+  },
+  {
+    "il": "Samsun",
+    "ilce": "BAFRA",
+    "mahalle": "İsmetpaşa",
+    "ad": "İsmetpaşa Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.55608,
+    "lon": 35.90942
+  },
+  {
+    "il": "Samsun",
+    "ilce": "BAFRA",
+    "mahalle": "Emirefendi",
+    "ad": "Emirefendi Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 41.57197,
+    "lon": 35.90194
+  },
+  {
+    "il": "Samsun",
+    "ilce": "BAFRA",
+    "mahalle": "Kızılırmak",
+    "ad": "Kızılırmak Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 41.5569,
+    "lon": 35.92269
+  },
+  {
+    "il": "Samsun",
+    "ilce": "BAFRA",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Parkı ve Açık Alanı",
+    "lat": 41.56893,
+    "lon": 35.90235
+  },
+  {
+    "il": "Samsun",
+    "ilce": "BAFRA",
+    "mahalle": "Gazipaşa",
+    "ad": "Gazipaşa Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 41.56891,
+    "lon": 35.91168
+  },
+  {
+    "il": "Samsun",
+    "ilce": "BAFRA",
+    "mahalle": "İsmetpaşa",
+    "ad": "İsmetpaşa Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 41.55757,
+    "lon": 35.92414
+  },
+  {
+    "il": "Samsun",
+    "ilce": "BAFRA",
+    "mahalle": "Emirefendi",
+    "ad": "Emirefendi Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 41.56567,
+    "lon": 35.91107
+  },
+  {
+    "il": "Samsun",
+    "ilce": "BAFRA",
+    "mahalle": "Kızılırmak",
+    "ad": "Kızılırmak Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 41.56764,
+    "lon": 35.89782
+  },
+  {
+    "il": "Samsun",
+    "ilce": "BAFRA",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.57473,
+    "lon": 35.92202
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ÇARŞAMBA",
+    "mahalle": "Orta",
+    "ad": "ÇARŞAMBA Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.19487,
+    "lon": 36.72061
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ÇARŞAMBA",
+    "mahalle": "Sarıcalı",
+    "ad": "ÇARŞAMBA Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.19511,
+    "lon": 36.73117
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ÇARŞAMBA",
+    "mahalle": "Beylerce",
+    "ad": "ÇARŞAMBA Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.20586,
+    "lon": 36.73926
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ÇARŞAMBA",
+    "mahalle": "Kirazlıkçay",
+    "ad": "ÇARŞAMBA Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.1941,
+    "lon": 36.72844
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ÇARŞAMBA",
+    "mahalle": "Çay",
+    "ad": "ÇARŞAMBA Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.19221,
+    "lon": 36.72733
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ÇARŞAMBA",
+    "mahalle": "Orta",
+    "ad": "Orta Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.19487,
+    "lon": 36.73616
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ÇARŞAMBA",
+    "mahalle": "Sarıcalı",
+    "ad": "Sarıcalı Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.19998,
+    "lon": 36.70991
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ÇARŞAMBA",
+    "mahalle": "Beylerce",
+    "ad": "Beylerce Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.19008,
+    "lon": 36.72779
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ÇARŞAMBA",
+    "mahalle": "Kirazlıkçay",
+    "ad": "Kirazlıkçay Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 41.1976,
+    "lon": 36.73392
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ÇARŞAMBA",
+    "mahalle": "Çay",
+    "ad": "Çay Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 41.20321,
+    "lon": 36.72166
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ÇARŞAMBA",
+    "mahalle": "Orta",
+    "ad": "Orta Mahallesi Parkı ve Açık Alanı",
+    "lat": 41.21367,
+    "lon": 36.72019
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ÇARŞAMBA",
+    "mahalle": "Sarıcalı",
+    "ad": "Sarıcalı Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 41.19638,
+    "lon": 36.73075
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ÇARŞAMBA",
+    "mahalle": "Beylerce",
+    "ad": "Beylerce Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 41.21227,
+    "lon": 36.73249
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ÇARŞAMBA",
+    "mahalle": "Kirazlıkçay",
+    "ad": "Kirazlıkçay Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 41.18748,
+    "lon": 36.72653
+  },
+  {
+    "il": "Samsun",
+    "ilce": "TERME",
+    "mahalle": "Çay",
+    "ad": "TERME Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.20502,
+    "lon": 36.97531
+  },
+  {
+    "il": "Samsun",
+    "ilce": "TERME",
+    "mahalle": "Fenk",
+    "ad": "TERME Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.19784,
+    "lon": 36.97501
+  },
+  {
+    "il": "Samsun",
+    "ilce": "TERME",
+    "mahalle": "Kocaman",
+    "ad": "TERME Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.20482,
+    "lon": 36.97523
+  },
+  {
+    "il": "Samsun",
+    "ilce": "TERME",
+    "mahalle": "Yalı",
+    "ad": "TERME Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.21013,
+    "lon": 36.96486
+  },
+  {
+    "il": "Samsun",
+    "ilce": "TERME",
+    "mahalle": "Çay",
+    "ad": "TERME Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.21759,
+    "lon": 36.98677
+  },
+  {
+    "il": "Samsun",
+    "ilce": "TERME",
+    "mahalle": "Fenk",
+    "ad": "Fenk Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.22205,
+    "lon": 36.96291
+  },
+  {
+    "il": "Samsun",
+    "ilce": "TERME",
+    "mahalle": "Kocaman",
+    "ad": "Kocaman Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.20986,
+    "lon": 36.98107
+  },
+  {
+    "il": "Samsun",
+    "ilce": "TERME",
+    "mahalle": "Yalı",
+    "ad": "Yalı Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.2086,
+    "lon": 36.96471
+  },
+  {
+    "il": "Samsun",
+    "ilce": "TERME",
+    "mahalle": "Çay",
+    "ad": "Çay Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 41.20972,
+    "lon": 36.97957
+  },
+  {
+    "il": "Samsun",
+    "ilce": "TERME",
+    "mahalle": "Fenk",
+    "ad": "Fenk Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 41.20949,
+    "lon": 36.97187
+  },
+  {
+    "il": "Samsun",
+    "ilce": "VEZİRKÖPRÜ",
+    "mahalle": "Fazıl Ahmet Paşa",
+    "ad": "VEZİRKÖPRÜ Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.13791,
+    "lon": 35.45633
+  },
+  {
+    "il": "Samsun",
+    "ilce": "VEZİRKÖPRÜ",
+    "mahalle": "Cumhuriyet",
+    "ad": "VEZİRKÖPRÜ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.13816,
+    "lon": 35.44677
+  },
+  {
+    "il": "Samsun",
+    "ilce": "VEZİRKÖPRÜ",
+    "mahalle": "Yenimahalle",
+    "ad": "VEZİRKÖPRÜ Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.14835,
+    "lon": 35.45011
+  },
+  {
+    "il": "Samsun",
+    "ilce": "VEZİRKÖPRÜ",
+    "mahalle": "Fazıl Ahmet Paşa",
+    "ad": "VEZİRKÖPRÜ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.14987,
+    "lon": 35.46536
+  },
+  {
+    "il": "Samsun",
+    "ilce": "VEZİRKÖPRÜ",
+    "mahalle": "Cumhuriyet",
+    "ad": "VEZİRKÖPRÜ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.14265,
+    "lon": 35.45393
+  },
+  {
+    "il": "Samsun",
+    "ilce": "VEZİRKÖPRÜ",
+    "mahalle": "Yenimahalle",
+    "ad": "Yenimahalle Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.14494,
+    "lon": 35.45054
+  },
+  {
+    "il": "Samsun",
+    "ilce": "VEZİRKÖPRÜ",
+    "mahalle": "Fazıl Ahmet Paşa",
+    "ad": "Fazıl Ahmet Paşa Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.14394,
+    "lon": 35.45649
+  },
+  {
+    "il": "Samsun",
+    "ilce": "VEZİRKÖPRÜ",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.14405,
+    "lon": 35.45163
+  },
+  {
+    "il": "Samsun",
+    "ilce": "VEZİRKÖPRÜ",
+    "mahalle": "Yenimahalle",
+    "ad": "Yenimahalle Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 41.13627,
+    "lon": 35.44842
+  },
+  {
+    "il": "Samsun",
+    "ilce": "VEZİRKÖPRÜ",
+    "mahalle": "Fazıl Ahmet Paşa",
+    "ad": "Fazıl Ahmet Paşa Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 41.1526,
+    "lon": 35.45033
+  },
+  {
+    "il": "Samsun",
+    "ilce": "TEKKEKÖY",
+    "mahalle": "19 Mayıs",
+    "ad": "TEKKEKÖY Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.2204,
+    "lon": 36.45427
+  },
+  {
+    "il": "Samsun",
+    "ilce": "TEKKEKÖY",
+    "mahalle": "Kutlukent",
+    "ad": "TEKKEKÖY Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.22166,
+    "lon": 36.46126
+  },
+  {
+    "il": "Samsun",
+    "ilce": "TEKKEKÖY",
+    "mahalle": "Şabanoğlu",
+    "ad": "TEKKEKÖY Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.20752,
+    "lon": 36.449
+  },
+  {
+    "il": "Samsun",
+    "ilce": "TEKKEKÖY",
+    "mahalle": "İstiklal",
+    "ad": "TEKKEKÖY Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.20807,
+    "lon": 36.44685
+  },
+  {
+    "il": "Samsun",
+    "ilce": "TEKKEKÖY",
+    "mahalle": "19 Mayıs",
+    "ad": "TEKKEKÖY Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.21886,
+    "lon": 36.45954
+  },
+  {
+    "il": "Samsun",
+    "ilce": "TEKKEKÖY",
+    "mahalle": "Kutlukent",
+    "ad": "Kutlukent Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.22263,
+    "lon": 36.46005
+  },
+  {
+    "il": "Samsun",
+    "ilce": "TEKKEKÖY",
+    "mahalle": "Şabanoğlu",
+    "ad": "Şabanoğlu Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.21869,
+    "lon": 36.45919
+  },
+  {
+    "il": "Samsun",
+    "ilce": "TEKKEKÖY",
+    "mahalle": "İstiklal",
+    "ad": "İstiklal Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.21511,
+    "lon": 36.45173
+  },
+  {
+    "il": "Samsun",
+    "ilce": "TEKKEKÖY",
+    "mahalle": "19 Mayıs",
+    "ad": "19 Mayıs Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 41.22331,
+    "lon": 36.45594
+  },
+  {
+    "il": "Samsun",
+    "ilce": "TEKKEKÖY",
+    "mahalle": "Kutlukent",
+    "ad": "Kutlukent Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 41.22594,
+    "lon": 36.44607
+  },
+  {
+    "il": "Samsun",
+    "ilce": "HAVZA",
+    "mahalle": "İcadiye",
+    "ad": "HAVZA Kent Meydanı ve Toplanma Alanı",
+    "lat": 40.98148,
+    "lon": 35.65821
+  },
+  {
+    "il": "Samsun",
+    "ilce": "HAVZA",
+    "mahalle": "25 Mayıs",
+    "ad": "HAVZA Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 40.97695,
+    "lon": 35.65494
+  },
+  {
+    "il": "Samsun",
+    "ilce": "HAVZA",
+    "mahalle": "Karşıyaka",
+    "ad": "HAVZA Hükümet Konağı / Belediye Meydanı",
+    "lat": 40.97596,
+    "lon": 35.65094
+  },
+  {
+    "il": "Samsun",
+    "ilce": "HAVZA",
+    "mahalle": "Değirmenüstü",
+    "ad": "HAVZA Millet Bahçesi ve Yeşil Alanı",
+    "lat": 40.97745,
+    "lon": 35.67466
+  },
+  {
+    "il": "Samsun",
+    "ilce": "HAVZA",
+    "mahalle": "İcadiye",
+    "ad": "HAVZA Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 40.96795,
+    "lon": 35.66084
+  },
+  {
+    "il": "Samsun",
+    "ilce": "HAVZA",
+    "mahalle": "25 Mayıs",
+    "ad": "25 Mayıs Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 40.97094,
+    "lon": 35.6557
+  },
+  {
+    "il": "Samsun",
+    "ilce": "HAVZA",
+    "mahalle": "Karşıyaka",
+    "ad": "Karşıyaka Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 40.98104,
+    "lon": 35.63851
+  },
+  {
+    "il": "Samsun",
+    "ilce": "HAVZA",
+    "mahalle": "Değirmenüstü",
+    "ad": "Değirmenüstü Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 40.9922,
+    "lon": 35.65283
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ALAÇAM",
+    "mahalle": "Yenicami",
+    "ad": "ALAÇAM Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.60261,
+    "lon": 35.59907
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ALAÇAM",
+    "mahalle": "Çarşamba",
+    "ad": "ALAÇAM Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.62101,
+    "lon": 35.59901
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ALAÇAM",
+    "mahalle": "Karşıyaka",
+    "ad": "ALAÇAM Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.61467,
+    "lon": 35.60347
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ALAÇAM",
+    "mahalle": "Yenicami",
+    "ad": "ALAÇAM Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.6039,
+    "lon": 35.60984
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ALAÇAM",
+    "mahalle": "Çarşamba",
+    "ad": "ALAÇAM Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.61011,
+    "lon": 35.59948
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ALAÇAM",
+    "mahalle": "Karşıyaka",
+    "ad": "Karşıyaka Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.61542,
+    "lon": 35.60227
+  },
+  {
+    "il": "Samsun",
+    "ilce": "19 MAYIS",
+    "mahalle": "Cumhuriyet",
+    "ad": "19 MAYIS Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.49837,
+    "lon": 36.07722
+  },
+  {
+    "il": "Samsun",
+    "ilce": "19 MAYIS",
+    "mahalle": "Pazar",
+    "ad": "19 MAYIS Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.50125,
+    "lon": 36.08966
+  },
+  {
+    "il": "Samsun",
+    "ilce": "19 MAYIS",
+    "mahalle": "Yeşilova",
+    "ad": "19 MAYIS Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.50137,
+    "lon": 36.08381
+  },
+  {
+    "il": "Samsun",
+    "ilce": "19 MAYIS",
+    "mahalle": "Cumhuriyet",
+    "ad": "19 MAYIS Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.49529,
+    "lon": 36.08791
+  },
+  {
+    "il": "Samsun",
+    "ilce": "19 MAYIS",
+    "mahalle": "Pazar",
+    "ad": "19 MAYIS Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.49823,
+    "lon": 36.08165
+  },
+  {
+    "il": "Samsun",
+    "ilce": "19 MAYIS",
+    "mahalle": "Yeşilova",
+    "ad": "Yeşilova Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.49827,
+    "lon": 36.08411
+  },
+  {
+    "il": "Samsun",
+    "ilce": "KAVAK",
+    "mahalle": "19 Mayıs",
+    "ad": "KAVAK Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.07895,
+    "lon": 36.03188
+  },
+  {
+    "il": "Samsun",
+    "ilce": "KAVAK",
+    "mahalle": "Bahçelievler",
+    "ad": "KAVAK Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.07044,
+    "lon": 36.04624
+  },
+  {
+    "il": "Samsun",
+    "ilce": "KAVAK",
+    "mahalle": "Soğuksu",
+    "ad": "KAVAK Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.07855,
+    "lon": 36.03433
+  },
+  {
+    "il": "Samsun",
+    "ilce": "KAVAK",
+    "mahalle": "19 Mayıs",
+    "ad": "KAVAK Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.08166,
+    "lon": 36.04189
+  },
+  {
+    "il": "Samsun",
+    "ilce": "KAVAK",
+    "mahalle": "Bahçelievler",
+    "ad": "KAVAK Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.06793,
+    "lon": 36.03205
+  },
+  {
+    "il": "Samsun",
+    "ilce": "KAVAK",
+    "mahalle": "Soğuksu",
+    "ad": "Soğuksu Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.07358,
+    "lon": 36.04412
+  },
+  {
+    "il": "Samsun",
+    "ilce": "SALIPAZARI",
+    "mahalle": "Bereket",
+    "ad": "SALIPAZARI Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.07388,
+    "lon": 36.83205
+  },
+  {
+    "il": "Samsun",
+    "ilce": "SALIPAZARI",
+    "mahalle": "Gökçeli",
+    "ad": "SALIPAZARI Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.0907,
+    "lon": 36.8305
+  },
+  {
+    "il": "Samsun",
+    "ilce": "SALIPAZARI",
+    "mahalle": "Yeni",
+    "ad": "SALIPAZARI Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.07025,
+    "lon": 36.83252
+  },
+  {
+    "il": "Samsun",
+    "ilce": "SALIPAZARI",
+    "mahalle": "Bereket",
+    "ad": "SALIPAZARI Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.08966,
+    "lon": 36.82493
+  },
+  {
+    "il": "Samsun",
+    "ilce": "SALIPAZARI",
+    "mahalle": "Gökçeli",
+    "ad": "SALIPAZARI Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.08104,
+    "lon": 36.82739
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ASARCIK",
+    "mahalle": "Biçincik",
+    "ad": "ASARCIK Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.05061,
+    "lon": 36.24132
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ASARCIK",
+    "mahalle": "Merkez",
+    "ad": "ASARCIK Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.04243,
+    "lon": 36.22446
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ASARCIK",
+    "mahalle": "Acısu",
+    "ad": "ASARCIK Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.04907,
+    "lon": 36.24425
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ASARCIK",
+    "mahalle": "Biçincik",
+    "ad": "ASARCIK Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.04277,
+    "lon": 36.22811
+  },
+  {
+    "il": "Samsun",
+    "ilce": "ASARCIK",
+    "mahalle": "Merkez",
+    "ad": "ASARCIK Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.04133,
+    "lon": 36.2133
+  },
+  {
+    "il": "Samsun",
+    "ilce": "LADİK",
+    "mahalle": "Akpınar",
+    "ad": "LADİK Kent Meydanı ve Toplanma Alanı",
+    "lat": 40.90474,
+    "lon": 35.89833
+  },
+  {
+    "il": "Samsun",
+    "ilce": "LADİK",
+    "mahalle": "Bahşi",
+    "ad": "LADİK Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 40.91611,
+    "lon": 35.88862
+  },
+  {
+    "il": "Samsun",
+    "ilce": "LADİK",
+    "mahalle": "Kozoğlu",
+    "ad": "LADİK Hükümet Konağı / Belediye Meydanı",
+    "lat": 40.92812,
+    "lon": 35.8908
+  },
+  {
+    "il": "Samsun",
+    "ilce": "LADİK",
+    "mahalle": "Akpınar",
+    "ad": "LADİK Millet Bahçesi ve Yeşil Alanı",
+    "lat": 40.90799,
+    "lon": 35.88123
+  },
+  {
+    "il": "Samsun",
+    "ilce": "LADİK",
+    "mahalle": "Bahşi",
+    "ad": "LADİK Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 40.91386,
+    "lon": 35.89552
+  },
+  {
+    "il": "Samsun",
+    "ilce": "YAKAKENT",
+    "mahalle": "Merkez",
+    "ad": "YAKAKENT Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.64159,
+    "lon": 35.53873
+  },
+  {
+    "il": "Samsun",
+    "ilce": "YAKAKENT",
+    "mahalle": "Limankent",
+    "ad": "YAKAKENT Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.63517,
+    "lon": 35.52132
+  },
+  {
+    "il": "Samsun",
+    "ilce": "YAKAKENT",
+    "mahalle": "Kozköy",
+    "ad": "YAKAKENT Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.63496,
+    "lon": 35.53264
+  },
+  {
+    "il": "Samsun",
+    "ilce": "YAKAKENT",
+    "mahalle": "Merkez",
+    "ad": "YAKAKENT Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.64057,
+    "lon": 35.5297
+  },
+  {
+    "il": "Samsun",
+    "ilce": "YAKAKENT",
+    "mahalle": "Limankent",
+    "ad": "YAKAKENT Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.63934,
+    "lon": 35.53997
+  },
+  {
+    "il": "Samsun",
+    "ilce": "AYVACIK",
+    "mahalle": "Orhangazi",
+    "ad": "AYVACIK Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.01147,
+    "lon": 36.64354
+  },
+  {
+    "il": "Samsun",
+    "ilce": "AYVACIK",
+    "mahalle": "Çamalan",
+    "ad": "AYVACIK Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.00589,
+    "lon": 36.63078
+  },
+  {
+    "il": "Samsun",
+    "ilce": "AYVACIK",
+    "mahalle": "Orhangazi",
+    "ad": "AYVACIK Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.00939,
+    "lon": 36.63104
+  },
+  {
+    "il": "Samsun",
+    "ilce": "AYVACIK",
+    "mahalle": "Çamalan",
+    "ad": "AYVACIK Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.00806,
+    "lon": 36.64219
+  }
+]

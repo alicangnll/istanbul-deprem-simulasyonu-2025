@@ -1,0 +1,514 @@
+[
+  {
+    "il": "Siirt",
+    "ilce": "MERKEZ",
+    "mahalle": "Bahçelievler",
+    "ad": "MERKEZ Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.92628,
+    "lon": 41.94473
+  },
+  {
+    "il": "Siirt",
+    "ilce": "MERKEZ",
+    "mahalle": "Barış",
+    "ad": "MERKEZ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.92311,
+    "lon": 41.93222
+  },
+  {
+    "il": "Siirt",
+    "ilce": "MERKEZ",
+    "mahalle": "Kooperatif",
+    "ad": "MERKEZ Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.94839,
+    "lon": 41.93791
+  },
+  {
+    "il": "Siirt",
+    "ilce": "MERKEZ",
+    "mahalle": "Yeni",
+    "ad": "MERKEZ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.91956,
+    "lon": 41.93281
+  },
+  {
+    "il": "Siirt",
+    "ilce": "MERKEZ",
+    "mahalle": "Ulus",
+    "ad": "MERKEZ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.94273,
+    "lon": 41.94014
+  },
+  {
+    "il": "Siirt",
+    "ilce": "MERKEZ",
+    "mahalle": "Doğan",
+    "ad": "Doğan Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.94215,
+    "lon": 41.94262
+  },
+  {
+    "il": "Siirt",
+    "ilce": "MERKEZ",
+    "mahalle": "Conkbayır",
+    "ad": "Conkbayır Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.92479,
+    "lon": 41.93644
+  },
+  {
+    "il": "Siirt",
+    "ilce": "MERKEZ",
+    "mahalle": "Afetevleri",
+    "ad": "Afetevleri Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 37.93016,
+    "lon": 41.94797
+  },
+  {
+    "il": "Siirt",
+    "ilce": "MERKEZ",
+    "mahalle": "Bahçelievler",
+    "ad": "Bahçelievler Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 37.93211,
+    "lon": 41.95231
+  },
+  {
+    "il": "Siirt",
+    "ilce": "MERKEZ",
+    "mahalle": "Barış",
+    "ad": "Barış Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 37.92432,
+    "lon": 41.93654
+  },
+  {
+    "il": "Siirt",
+    "ilce": "MERKEZ",
+    "mahalle": "Kooperatif",
+    "ad": "Kooperatif Mahallesi Parkı ve Açık Alanı",
+    "lat": 37.93672,
+    "lon": 41.94681
+  },
+  {
+    "il": "Siirt",
+    "ilce": "MERKEZ",
+    "mahalle": "Yeni",
+    "ad": "Yeni Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 37.9366,
+    "lon": 41.95993
+  },
+  {
+    "il": "Siirt",
+    "ilce": "MERKEZ",
+    "mahalle": "Ulus",
+    "ad": "Ulus Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 37.92178,
+    "lon": 41.94227
+  },
+  {
+    "il": "Siirt",
+    "ilce": "MERKEZ",
+    "mahalle": "Doğan",
+    "ad": "Doğan Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 37.94306,
+    "lon": 41.94711
+  },
+  {
+    "il": "Siirt",
+    "ilce": "MERKEZ",
+    "mahalle": "Conkbayır",
+    "ad": "Conkbayır Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 37.9347,
+    "lon": 41.9342
+  },
+  {
+    "il": "Siirt",
+    "ilce": "MERKEZ",
+    "mahalle": "Afetevleri",
+    "ad": "Afetevleri Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.93183,
+    "lon": 41.93086
+  },
+  {
+    "il": "Siirt",
+    "ilce": "MERKEZ",
+    "mahalle": "Bahçelievler",
+    "ad": "Bahçelievler Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.91846,
+    "lon": 41.93096
+  },
+  {
+    "il": "Siirt",
+    "ilce": "MERKEZ",
+    "mahalle": "Barış",
+    "ad": "Barış Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 37.92848,
+    "lon": 41.93861
+  },
+  {
+    "il": "Siirt",
+    "ilce": "MERKEZ",
+    "mahalle": "Kooperatif",
+    "ad": "Kooperatif Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 37.92265,
+    "lon": 41.93434
+  },
+  {
+    "il": "Siirt",
+    "ilce": "MERKEZ",
+    "mahalle": "Yeni",
+    "ad": "Yeni Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 37.93728,
+    "lon": 41.95406
+  },
+  {
+    "il": "Siirt",
+    "ilce": "MERKEZ",
+    "mahalle": "Ulus",
+    "ad": "Ulus Mahallesi Parkı ve Açık Alanı",
+    "lat": 37.9354,
+    "lon": 41.94473
+  },
+  {
+    "il": "Siirt",
+    "ilce": "MERKEZ",
+    "mahalle": "Doğan",
+    "ad": "Doğan Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 37.93437,
+    "lon": 41.9419
+  },
+  {
+    "il": "Siirt",
+    "ilce": "MERKEZ",
+    "mahalle": "Conkbayır",
+    "ad": "Conkbayır Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 37.9352,
+    "lon": 41.94518
+  },
+  {
+    "il": "Siirt",
+    "ilce": "MERKEZ",
+    "mahalle": "Afetevleri",
+    "ad": "Afetevleri Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 37.93918,
+    "lon": 41.93172
+  },
+  {
+    "il": "Siirt",
+    "ilce": "KURTALAN",
+    "mahalle": "Cumhuriyet",
+    "ad": "KURTALAN Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.91979,
+    "lon": 41.70771
+  },
+  {
+    "il": "Siirt",
+    "ilce": "KURTALAN",
+    "mahalle": "Sümer",
+    "ad": "KURTALAN Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.92923,
+    "lon": 41.72002
+  },
+  {
+    "il": "Siirt",
+    "ilce": "KURTALAN",
+    "mahalle": "Beykent",
+    "ad": "KURTALAN Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.91373,
+    "lon": 41.69571
+  },
+  {
+    "il": "Siirt",
+    "ilce": "KURTALAN",
+    "mahalle": "Tekel",
+    "ad": "KURTALAN Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.92589,
+    "lon": 41.70727
+  },
+  {
+    "il": "Siirt",
+    "ilce": "KURTALAN",
+    "mahalle": "Cumhuriyet",
+    "ad": "KURTALAN Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.9285,
+    "lon": 41.70129
+  },
+  {
+    "il": "Siirt",
+    "ilce": "KURTALAN",
+    "mahalle": "Sümer",
+    "ad": "Sümer Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.93728,
+    "lon": 41.72202
+  },
+  {
+    "il": "Siirt",
+    "ilce": "KURTALAN",
+    "mahalle": "Beykent",
+    "ad": "Beykent Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.92728,
+    "lon": 41.7085
+  },
+  {
+    "il": "Siirt",
+    "ilce": "KURTALAN",
+    "mahalle": "Tekel",
+    "ad": "Tekel Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 37.91983,
+    "lon": 41.70755
+  },
+  {
+    "il": "Siirt",
+    "ilce": "KURTALAN",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 37.93428,
+    "lon": 41.6928
+  },
+  {
+    "il": "Siirt",
+    "ilce": "KURTALAN",
+    "mahalle": "Sümer",
+    "ad": "Sümer Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 37.93029,
+    "lon": 41.69228
+  },
+  {
+    "il": "Siirt",
+    "ilce": "PERVARİ",
+    "mahalle": "Aydın",
+    "ad": "PERVARİ Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.92437,
+    "lon": 42.53452
+  },
+  {
+    "il": "Siirt",
+    "ilce": "PERVARİ",
+    "mahalle": "Şakiran",
+    "ad": "PERVARİ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.94142,
+    "lon": 42.54479
+  },
+  {
+    "il": "Siirt",
+    "ilce": "PERVARİ",
+    "mahalle": "Değirmentaşı",
+    "ad": "PERVARİ Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.95792,
+    "lon": 42.54287
+  },
+  {
+    "il": "Siirt",
+    "ilce": "PERVARİ",
+    "mahalle": "Aydın",
+    "ad": "PERVARİ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.94636,
+    "lon": 42.55649
+  },
+  {
+    "il": "Siirt",
+    "ilce": "PERVARİ",
+    "mahalle": "Şakiran",
+    "ad": "PERVARİ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.94742,
+    "lon": 42.5443
+  },
+  {
+    "il": "Siirt",
+    "ilce": "PERVARİ",
+    "mahalle": "Değirmentaşı",
+    "ad": "Değirmentaşı Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.93187,
+    "lon": 42.52968
+  },
+  {
+    "il": "Siirt",
+    "ilce": "PERVARİ",
+    "mahalle": "Aydın",
+    "ad": "Aydın Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 37.93835,
+    "lon": 42.53685
+  },
+  {
+    "il": "Siirt",
+    "ilce": "BAYKAN",
+    "mahalle": "Havel",
+    "ad": "BAYKAN Kent Meydanı ve Toplanma Alanı",
+    "lat": 38.16306,
+    "lon": 41.78086
+  },
+  {
+    "il": "Siirt",
+    "ilce": "BAYKAN",
+    "mahalle": "Yenidoğan",
+    "ad": "BAYKAN Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 38.1571,
+    "lon": 41.77495
+  },
+  {
+    "il": "Siirt",
+    "ilce": "BAYKAN",
+    "mahalle": "İnönü",
+    "ad": "BAYKAN Hükümet Konağı / Belediye Meydanı",
+    "lat": 38.15891,
+    "lon": 41.75727
+  },
+  {
+    "il": "Siirt",
+    "ilce": "BAYKAN",
+    "mahalle": "Havel",
+    "ad": "BAYKAN Millet Bahçesi ve Yeşil Alanı",
+    "lat": 38.16478,
+    "lon": 41.77471
+  },
+  {
+    "il": "Siirt",
+    "ilce": "BAYKAN",
+    "mahalle": "Yenidoğan",
+    "ad": "BAYKAN Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 38.15743,
+    "lon": 41.77735
+  },
+  {
+    "il": "Siirt",
+    "ilce": "BAYKAN",
+    "mahalle": "İnönü",
+    "ad": "İnönü Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 38.15437,
+    "lon": 41.77831
+  },
+  {
+    "il": "Siirt",
+    "ilce": "ŞİRVAN",
+    "mahalle": "Kırtepe",
+    "ad": "ŞİRVAN Kent Meydanı ve Toplanma Alanı",
+    "lat": 38.07189,
+    "lon": 42.01493
+  },
+  {
+    "il": "Siirt",
+    "ilce": "ŞİRVAN",
+    "mahalle": "Küfre",
+    "ad": "ŞİRVAN Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 38.07559,
+    "lon": 42.01543
+  },
+  {
+    "il": "Siirt",
+    "ilce": "ŞİRVAN",
+    "mahalle": "Bağcılar",
+    "ad": "ŞİRVAN Hükümet Konağı / Belediye Meydanı",
+    "lat": 38.05043,
+    "lon": 42.00656
+  },
+  {
+    "il": "Siirt",
+    "ilce": "ŞİRVAN",
+    "mahalle": "Kırtepe",
+    "ad": "ŞİRVAN Millet Bahçesi ve Yeşil Alanı",
+    "lat": 38.06922,
+    "lon": 42.02122
+  },
+  {
+    "il": "Siirt",
+    "ilce": "ŞİRVAN",
+    "mahalle": "Küfre",
+    "ad": "ŞİRVAN Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 38.06303,
+    "lon": 42.03953
+  },
+  {
+    "il": "Siirt",
+    "ilce": "ŞİRVAN",
+    "mahalle": "Bağcılar",
+    "ad": "Bağcılar Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 38.0525,
+    "lon": 42.03084
+  },
+  {
+    "il": "Siirt",
+    "ilce": "ERUH",
+    "mahalle": "Dih",
+    "ad": "ERUH Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.74933,
+    "lon": 42.18327
+  },
+  {
+    "il": "Siirt",
+    "ilce": "ERUH",
+    "mahalle": "Sarıgül",
+    "ad": "ERUH Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.74575,
+    "lon": 42.1642
+  },
+  {
+    "il": "Siirt",
+    "ilce": "ERUH",
+    "mahalle": "Fatih",
+    "ad": "ERUH Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.75187,
+    "lon": 42.17776
+  },
+  {
+    "il": "Siirt",
+    "ilce": "ERUH",
+    "mahalle": "Dih",
+    "ad": "ERUH Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.74269,
+    "lon": 42.1785
+  },
+  {
+    "il": "Siirt",
+    "ilce": "ERUH",
+    "mahalle": "Sarıgül",
+    "ad": "ERUH Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.74041,
+    "lon": 42.16857
+  },
+  {
+    "il": "Siirt",
+    "ilce": "ERUH",
+    "mahalle": "Fatih",
+    "ad": "Fatih Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 37.7525,
+    "lon": 42.17643
+  },
+  {
+    "il": "Siirt",
+    "ilce": "TİLLO",
+    "mahalle": "Mücahit",
+    "ad": "TİLLO Kent Meydanı ve Toplanma Alanı",
+    "lat": 37.96514,
+    "lon": 42.0208
+  },
+  {
+    "il": "Siirt",
+    "ilce": "TİLLO",
+    "mahalle": "Aydınlar",
+    "ad": "TİLLO Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 37.9617,
+    "lon": 42.01552
+  },
+  {
+    "il": "Siirt",
+    "ilce": "TİLLO",
+    "mahalle": "Fakrullah",
+    "ad": "TİLLO Hükümet Konağı / Belediye Meydanı",
+    "lat": 37.94934,
+    "lon": 42.03352
+  },
+  {
+    "il": "Siirt",
+    "ilce": "TİLLO",
+    "mahalle": "Mücahit",
+    "ad": "TİLLO Millet Bahçesi ve Yeşil Alanı",
+    "lat": 37.96086,
+    "lon": 42.0076
+  },
+  {
+    "il": "Siirt",
+    "ilce": "TİLLO",
+    "mahalle": "Aydınlar",
+    "ad": "TİLLO Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 37.96255,
+    "lon": 42.01053
+  }
+]

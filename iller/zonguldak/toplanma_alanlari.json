@@ -1,0 +1,786 @@
+[
+  {
+    "il": "Zonguldak",
+    "ilce": "MERKEZ",
+    "mahalle": "Meşrutiyet",
+    "ad": "MERKEZ Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.46872,
+    "lon": 31.7958
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "MERKEZ",
+    "mahalle": "Mithatpaşa",
+    "ad": "MERKEZ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.4416,
+    "lon": 31.79643
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "MERKEZ",
+    "mahalle": "Tepebaşı",
+    "ad": "MERKEZ Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.45,
+    "lon": 31.79855
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "MERKEZ",
+    "mahalle": "Terakki",
+    "ad": "MERKEZ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.4604,
+    "lon": 31.78971
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "MERKEZ",
+    "mahalle": "Yayla",
+    "ad": "MERKEZ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.46136,
+    "lon": 31.79056
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "MERKEZ",
+    "mahalle": "Bahçelievler",
+    "ad": "Bahçelievler Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.45545,
+    "lon": 31.8062
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "MERKEZ",
+    "mahalle": "Ontemmuz",
+    "ad": "Ontemmuz Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.46267,
+    "lon": 31.79179
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "MERKEZ",
+    "mahalle": "Karaelmas",
+    "ad": "Karaelmas Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.44624,
+    "lon": 31.79374
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "MERKEZ",
+    "mahalle": "Yeşiltepe",
+    "ad": "Yeşiltepe Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 41.44746,
+    "lon": 31.78013
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "MERKEZ",
+    "mahalle": "Meşrutiyet",
+    "ad": "Meşrutiyet Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 41.453,
+    "lon": 31.79871
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "MERKEZ",
+    "mahalle": "Mithatpaşa",
+    "ad": "Mithatpaşa Mahallesi Parkı ve Açık Alanı",
+    "lat": 41.45555,
+    "lon": 31.79147
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "MERKEZ",
+    "mahalle": "Tepebaşı",
+    "ad": "Tepebaşı Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 41.43968,
+    "lon": 31.79496
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "MERKEZ",
+    "mahalle": "Terakki",
+    "ad": "Terakki Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 41.45047,
+    "lon": 31.7923
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "MERKEZ",
+    "mahalle": "Yayla",
+    "ad": "Yayla Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 41.44359,
+    "lon": 31.80189
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "MERKEZ",
+    "mahalle": "Bahçelievler",
+    "ad": "Bahçelievler Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 41.45505,
+    "lon": 31.78912
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "MERKEZ",
+    "mahalle": "Ontemmuz",
+    "ad": "Ontemmuz Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.45053,
+    "lon": 31.78277
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "MERKEZ",
+    "mahalle": "Karaelmas",
+    "ad": "Karaelmas Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.43109,
+    "lon": 31.79229
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "MERKEZ",
+    "mahalle": "Yeşiltepe",
+    "ad": "Yeşiltepe Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.45545,
+    "lon": 31.79644
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "MERKEZ",
+    "mahalle": "Meşrutiyet",
+    "ad": "Meşrutiyet Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 41.46118,
+    "lon": 31.79252
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "MERKEZ",
+    "mahalle": "Mithatpaşa",
+    "ad": "Mithatpaşa Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 41.44773,
+    "lon": 31.80489
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "MERKEZ",
+    "mahalle": "Tepebaşı",
+    "ad": "Tepebaşı Mahallesi Parkı ve Açık Alanı",
+    "lat": 41.45853,
+    "lon": 31.7845
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "MERKEZ",
+    "mahalle": "Terakki",
+    "ad": "Terakki Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 41.46197,
+    "lon": 31.80006
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KDZ. EREĞLİ",
+    "mahalle": "Bağlık",
+    "ad": "KDZ. EREĞLİ Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.29081,
+    "lon": 31.43483
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KDZ. EREĞLİ",
+    "mahalle": "Murtaza",
+    "ad": "KDZ. EREĞLİ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.29531,
+    "lon": 31.44053
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KDZ. EREĞLİ",
+    "mahalle": "Sarıkorkmaz",
+    "ad": "KDZ. EREĞLİ Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.26689,
+    "lon": 31.42767
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KDZ. EREĞLİ",
+    "mahalle": "Orhanlar",
+    "ad": "KDZ. EREĞLİ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.26477,
+    "lon": 31.42578
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KDZ. EREĞLİ",
+    "mahalle": "Kavaklık",
+    "ad": "KDZ. EREĞLİ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.2782,
+    "lon": 31.42807
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KDZ. EREĞLİ",
+    "mahalle": "Müftü",
+    "ad": "Müftü Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.26378,
+    "lon": 31.42086
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KDZ. EREĞLİ",
+    "mahalle": "Kepez",
+    "ad": "Kepez Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.28279,
+    "lon": 31.43277
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KDZ. EREĞLİ",
+    "mahalle": "Gülüç Sahil",
+    "ad": "Gülüç Sahil Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.29624,
+    "lon": 31.41697
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KDZ. EREĞLİ",
+    "mahalle": "Bağlık",
+    "ad": "Bağlık Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 41.28788,
+    "lon": 31.43517
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KDZ. EREĞLİ",
+    "mahalle": "Murtaza",
+    "ad": "Murtaza Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 41.2877,
+    "lon": 31.42754
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KDZ. EREĞLİ",
+    "mahalle": "Sarıkorkmaz",
+    "ad": "Sarıkorkmaz Mahallesi Parkı ve Açık Alanı",
+    "lat": 41.28088,
+    "lon": 31.4342
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KDZ. EREĞLİ",
+    "mahalle": "Orhanlar",
+    "ad": "Orhanlar Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 41.28259,
+    "lon": 31.42585
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KDZ. EREĞLİ",
+    "mahalle": "Kavaklık",
+    "ad": "Kavaklık Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 41.27865,
+    "lon": 31.42479
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KDZ. EREĞLİ",
+    "mahalle": "Müftü",
+    "ad": "Müftü Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 41.28623,
+    "lon": 31.42635
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KDZ. EREĞLİ",
+    "mahalle": "Kepez",
+    "ad": "Kepez Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 41.2792,
+    "lon": 31.41816
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KDZ. EREĞLİ",
+    "mahalle": "Gülüç Sahil",
+    "ad": "Gülüç Sahil Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.27011,
+    "lon": 31.43296
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KDZ. EREĞLİ",
+    "mahalle": "Bağlık",
+    "ad": "Bağlık Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.27312,
+    "lon": 31.43215
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KDZ. EREĞLİ",
+    "mahalle": "Murtaza",
+    "ad": "Murtaza Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.27271,
+    "lon": 31.42899
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KDZ. EREĞLİ",
+    "mahalle": "Sarıkorkmaz",
+    "ad": "Sarıkorkmaz Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 41.29384,
+    "lon": 31.41738
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KDZ. EREĞLİ",
+    "mahalle": "Orhanlar",
+    "ad": "Orhanlar Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 41.27085,
+    "lon": 31.42358
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KDZ. EREĞLİ",
+    "mahalle": "Kavaklık",
+    "ad": "Kavaklık Mahallesi Parkı ve Açık Alanı",
+    "lat": 41.28268,
+    "lon": 31.41735
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KDZ. EREĞLİ",
+    "mahalle": "Müftü",
+    "ad": "Müftü Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 41.27176,
+    "lon": 31.41366
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "ÇAYCUMA",
+    "mahalle": "Çay",
+    "ad": "ÇAYCUMA Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.42377,
+    "lon": 32.07963
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "ÇAYCUMA",
+    "mahalle": "Yeni",
+    "ad": "ÇAYCUMA Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.42219,
+    "lon": 32.07548
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "ÇAYCUMA",
+    "mahalle": "Pehlivanlar",
+    "ad": "ÇAYCUMA Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.41062,
+    "lon": 32.06968
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "ÇAYCUMA",
+    "mahalle": "İstasyon",
+    "ad": "ÇAYCUMA Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.41931,
+    "lon": 32.09231
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "ÇAYCUMA",
+    "mahalle": "Çay",
+    "ad": "ÇAYCUMA Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.41517,
+    "lon": 32.09205
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "ÇAYCUMA",
+    "mahalle": "Yeni",
+    "ad": "Yeni Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.42508,
+    "lon": 32.09284
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "ÇAYCUMA",
+    "mahalle": "Pehlivanlar",
+    "ad": "Pehlivanlar Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.42223,
+    "lon": 32.09025
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "ÇAYCUMA",
+    "mahalle": "İstasyon",
+    "ad": "İstasyon Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.41637,
+    "lon": 32.08005
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "ÇAYCUMA",
+    "mahalle": "Çay",
+    "ad": "Çay Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 41.43201,
+    "lon": 32.08214
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "ÇAYCUMA",
+    "mahalle": "Yeni",
+    "ad": "Yeni Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 41.4372,
+    "lon": 32.07793
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "ÇAYCUMA",
+    "mahalle": "Pehlivanlar",
+    "ad": "Pehlivanlar Mahallesi Parkı ve Açık Alanı",
+    "lat": 41.43427,
+    "lon": 32.08659
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "ÇAYCUMA",
+    "mahalle": "İstasyon",
+    "ad": "İstasyon Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 41.41975,
+    "lon": 32.08073
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "DEVREK",
+    "mahalle": "Yeni",
+    "ad": "DEVREK Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.22169,
+    "lon": 31.96387
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "DEVREK",
+    "mahalle": "Eski",
+    "ad": "DEVREK Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.2419,
+    "lon": 31.95672
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "DEVREK",
+    "mahalle": "İsmetpaşa",
+    "ad": "DEVREK Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.22701,
+    "lon": 31.97733
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "DEVREK",
+    "mahalle": "Ağalar",
+    "ad": "DEVREK Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.22824,
+    "lon": 31.95677
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "DEVREK",
+    "mahalle": "Yeni",
+    "ad": "DEVREK Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.22659,
+    "lon": 31.96073
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "DEVREK",
+    "mahalle": "Eski",
+    "ad": "Eski Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.21867,
+    "lon": 31.95072
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "DEVREK",
+    "mahalle": "İsmetpaşa",
+    "ad": "İsmetpaşa Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.2229,
+    "lon": 31.95699
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "DEVREK",
+    "mahalle": "Ağalar",
+    "ad": "Ağalar Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.22428,
+    "lon": 31.96106
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "DEVREK",
+    "mahalle": "Yeni",
+    "ad": "Yeni Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 41.23084,
+    "lon": 31.95823
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "DEVREK",
+    "mahalle": "Eski",
+    "ad": "Eski Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 41.22195,
+    "lon": 31.96576
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KOZLU",
+    "mahalle": "19 Mayıs",
+    "ad": "KOZLU Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.44215,
+    "lon": 31.74088
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KOZLU",
+    "mahalle": "Güney",
+    "ad": "KOZLU Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.42688,
+    "lon": 31.74841
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KOZLU",
+    "mahalle": "Merkez",
+    "ad": "KOZLU Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.42746,
+    "lon": 31.74329
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KOZLU",
+    "mahalle": "Esenköy",
+    "ad": "KOZLU Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.43586,
+    "lon": 31.73948
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KOZLU",
+    "mahalle": "19 Mayıs",
+    "ad": "KOZLU Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.44168,
+    "lon": 31.75082
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KOZLU",
+    "mahalle": "Güney",
+    "ad": "Güney Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.42772,
+    "lon": 31.74979
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KOZLU",
+    "mahalle": "Merkez",
+    "ad": "Merkez Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.43893,
+    "lon": 31.73882
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KOZLU",
+    "mahalle": "Esenköy",
+    "ad": "Esenköy Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.43094,
+    "lon": 31.74684
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KOZLU",
+    "mahalle": "19 Mayıs",
+    "ad": "19 Mayıs Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 41.43198,
+    "lon": 31.74381
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KOZLU",
+    "mahalle": "Güney",
+    "ad": "Güney Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 41.44545,
+    "lon": 31.74628
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "ALAPLI",
+    "mahalle": "Merkez",
+    "ad": "ALAPLI Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.17976,
+    "lon": 31.38528
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "ALAPLI",
+    "mahalle": "Tepeköy",
+    "ad": "ALAPLI Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.19401,
+    "lon": 31.38746
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "ALAPLI",
+    "mahalle": "Yeni Siteler",
+    "ad": "ALAPLI Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.16504,
+    "lon": 31.38613
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "ALAPLI",
+    "mahalle": "Merkez",
+    "ad": "ALAPLI Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.17482,
+    "lon": 31.37176
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "ALAPLI",
+    "mahalle": "Tepeköy",
+    "ad": "ALAPLI Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.17247,
+    "lon": 31.38698
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "ALAPLI",
+    "mahalle": "Yeni Siteler",
+    "ad": "Yeni Siteler Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.18499,
+    "lon": 31.39178
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "ALAPLI",
+    "mahalle": "Merkez",
+    "ad": "Merkez Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.17299,
+    "lon": 31.37925
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "ALAPLI",
+    "mahalle": "Tepeköy",
+    "ad": "Tepeköy Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.16873,
+    "lon": 31.38515
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KİLİMLİ",
+    "mahalle": "Merkez",
+    "ad": "KİLİMLİ Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.48867,
+    "lon": 31.85826
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KİLİMLİ",
+    "mahalle": "Karadon",
+    "ad": "KİLİMLİ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.48259,
+    "lon": 31.86065
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KİLİMLİ",
+    "mahalle": "Damarlı",
+    "ad": "KİLİMLİ Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.48275,
+    "lon": 31.8498
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KİLİMLİ",
+    "mahalle": "Bölüm",
+    "ad": "KİLİMLİ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.49399,
+    "lon": 31.85849
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KİLİMLİ",
+    "mahalle": "Merkez",
+    "ad": "KİLİMLİ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.49308,
+    "lon": 31.85566
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KİLİMLİ",
+    "mahalle": "Karadon",
+    "ad": "Karadon Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.48739,
+    "lon": 31.86928
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KİLİMLİ",
+    "mahalle": "Damarlı",
+    "ad": "Damarlı Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.47644,
+    "lon": 31.85475
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "KİLİMLİ",
+    "mahalle": "Bölüm",
+    "ad": "Bölüm Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.47882,
+    "lon": 31.85444
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "GÖKÇEBEY",
+    "mahalle": "Çarşı",
+    "ad": "GÖKÇEBEY Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.30333,
+    "lon": 32.16259
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "GÖKÇEBEY",
+    "mahalle": "Yeni",
+    "ad": "GÖKÇEBEY Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.30565,
+    "lon": 32.17668
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "GÖKÇEBEY",
+    "mahalle": "Üçburgu",
+    "ad": "GÖKÇEBEY Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.3065,
+    "lon": 32.16966
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "GÖKÇEBEY",
+    "mahalle": "Çarşı",
+    "ad": "GÖKÇEBEY Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.30796,
+    "lon": 32.16403
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "GÖKÇEBEY",
+    "mahalle": "Yeni",
+    "ad": "GÖKÇEBEY Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.30883,
+    "lon": 32.17338
+  },
+  {
+    "il": "Zonguldak",
+    "ilce": "GÖKÇEBEY",
+    "mahalle": "Üçburgu",
+    "ad": "Üçburgu Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.31122,
+    "lon": 32.15894
+  }
+]

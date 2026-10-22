@@ -1,0 +1,594 @@
+[
+  {
+    "il": "Uşak",
+    "ilce": "MERKEZ",
+    "mahalle": "Cumhuriyet",
+    "ad": "MERKEZ Kent Meydanı ve Toplanma Alanı",
+    "lat": 38.68204,
+    "lon": 29.40362
+  },
+  {
+    "il": "Uşak",
+    "ilce": "MERKEZ",
+    "mahalle": "Atatürk",
+    "ad": "MERKEZ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 38.67144,
+    "lon": 29.40583
+  },
+  {
+    "il": "Uşak",
+    "ilce": "MERKEZ",
+    "mahalle": "Fatih",
+    "ad": "MERKEZ Hükümet Konağı / Belediye Meydanı",
+    "lat": 38.68664,
+    "lon": 29.40936
+  },
+  {
+    "il": "Uşak",
+    "ilce": "MERKEZ",
+    "mahalle": "Kemalöz",
+    "ad": "MERKEZ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 38.6719,
+    "lon": 29.41632
+  },
+  {
+    "il": "Uşak",
+    "ilce": "MERKEZ",
+    "mahalle": "Durak",
+    "ad": "MERKEZ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 38.67657,
+    "lon": 29.38296
+  },
+  {
+    "il": "Uşak",
+    "ilce": "MERKEZ",
+    "mahalle": "Ünalan",
+    "ad": "Ünalan Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 38.67088,
+    "lon": 29.40688
+  },
+  {
+    "il": "Uşak",
+    "ilce": "MERKEZ",
+    "mahalle": "İslice",
+    "ad": "İslice Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 38.67981,
+    "lon": 29.38773
+  },
+  {
+    "il": "Uşak",
+    "ilce": "MERKEZ",
+    "mahalle": "Mehmet Akif Ersoy",
+    "ad": "Mehmet Akif Ersoy Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 38.68417,
+    "lon": 29.41141
+  },
+  {
+    "il": "Uşak",
+    "ilce": "MERKEZ",
+    "mahalle": "Bozkurt",
+    "ad": "Bozkurt Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 38.67024,
+    "lon": 29.42804
+  },
+  {
+    "il": "Uşak",
+    "ilce": "MERKEZ",
+    "mahalle": "Işık",
+    "ad": "Işık Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 38.67496,
+    "lon": 29.41328
+  },
+  {
+    "il": "Uşak",
+    "ilce": "MERKEZ",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Parkı ve Açık Alanı",
+    "lat": 38.67298,
+    "lon": 29.40716
+  },
+  {
+    "il": "Uşak",
+    "ilce": "MERKEZ",
+    "mahalle": "Atatürk",
+    "ad": "Atatürk Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 38.68052,
+    "lon": 29.40721
+  },
+  {
+    "il": "Uşak",
+    "ilce": "MERKEZ",
+    "mahalle": "Fatih",
+    "ad": "Fatih Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 38.66936,
+    "lon": 29.42038
+  },
+  {
+    "il": "Uşak",
+    "ilce": "MERKEZ",
+    "mahalle": "Kemalöz",
+    "ad": "Kemalöz Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 38.68512,
+    "lon": 29.40203
+  },
+  {
+    "il": "Uşak",
+    "ilce": "MERKEZ",
+    "mahalle": "Durak",
+    "ad": "Durak Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 38.68163,
+    "lon": 29.39536
+  },
+  {
+    "il": "Uşak",
+    "ilce": "MERKEZ",
+    "mahalle": "Ünalan",
+    "ad": "Ünalan Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 38.66809,
+    "lon": 29.40369
+  },
+  {
+    "il": "Uşak",
+    "ilce": "MERKEZ",
+    "mahalle": "İslice",
+    "ad": "İslice Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 38.66587,
+    "lon": 29.4195
+  },
+  {
+    "il": "Uşak",
+    "ilce": "MERKEZ",
+    "mahalle": "Mehmet Akif Ersoy",
+    "ad": "Mehmet Akif Ersoy Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 38.68204,
+    "lon": 29.39387
+  },
+  {
+    "il": "Uşak",
+    "ilce": "MERKEZ",
+    "mahalle": "Bozkurt",
+    "ad": "Bozkurt Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 38.68717,
+    "lon": 29.41339
+  },
+  {
+    "il": "Uşak",
+    "ilce": "MERKEZ",
+    "mahalle": "Işık",
+    "ad": "Işık Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 38.68518,
+    "lon": 29.41583
+  },
+  {
+    "il": "Uşak",
+    "ilce": "MERKEZ",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Parkı ve Açık Alanı",
+    "lat": 38.66867,
+    "lon": 29.41037
+  },
+  {
+    "il": "Uşak",
+    "ilce": "MERKEZ",
+    "mahalle": "Atatürk",
+    "ad": "Atatürk Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 38.67458,
+    "lon": 29.39973
+  },
+  {
+    "il": "Uşak",
+    "ilce": "MERKEZ",
+    "mahalle": "Fatih",
+    "ad": "Fatih Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 38.66329,
+    "lon": 29.41511
+  },
+  {
+    "il": "Uşak",
+    "ilce": "MERKEZ",
+    "mahalle": "Kemalöz",
+    "ad": "Kemalöz Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 38.67233,
+    "lon": 29.40966
+  },
+  {
+    "il": "Uşak",
+    "ilce": "MERKEZ",
+    "mahalle": "Durak",
+    "ad": "Durak Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 38.67703,
+    "lon": 29.40669
+  },
+  {
+    "il": "Uşak",
+    "ilce": "MERKEZ",
+    "mahalle": "Ünalan",
+    "ad": "Ünalan Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 38.67117,
+    "lon": 29.41318
+  },
+  {
+    "il": "Uşak",
+    "ilce": "MERKEZ",
+    "mahalle": "İslice",
+    "ad": "İslice Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 38.68483,
+    "lon": 29.40477
+  },
+  {
+    "il": "Uşak",
+    "ilce": "MERKEZ",
+    "mahalle": "Mehmet Akif Ersoy",
+    "ad": "Mehmet Akif Ersoy Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 38.67576,
+    "lon": 29.40466
+  },
+  {
+    "il": "Uşak",
+    "ilce": "MERKEZ",
+    "mahalle": "Bozkurt",
+    "ad": "Bozkurt Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 38.67236,
+    "lon": 29.40707
+  },
+  {
+    "il": "Uşak",
+    "ilce": "MERKEZ",
+    "mahalle": "Işık",
+    "ad": "Işık Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 38.6775,
+    "lon": 29.40758
+  },
+  {
+    "il": "Uşak",
+    "ilce": "BANAZ",
+    "mahalle": "31 Ağustos",
+    "ad": "BANAZ Kent Meydanı ve Toplanma Alanı",
+    "lat": 38.74234,
+    "lon": 29.73919
+  },
+  {
+    "il": "Uşak",
+    "ilce": "BANAZ",
+    "mahalle": "Cumhuriyet",
+    "ad": "BANAZ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 38.72789,
+    "lon": 29.75392
+  },
+  {
+    "il": "Uşak",
+    "ilce": "BANAZ",
+    "mahalle": "Dilek",
+    "ad": "BANAZ Hükümet Konağı / Belediye Meydanı",
+    "lat": 38.73582,
+    "lon": 29.75326
+  },
+  {
+    "il": "Uşak",
+    "ilce": "BANAZ",
+    "mahalle": "Şehitler",
+    "ad": "BANAZ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 38.73496,
+    "lon": 29.76981
+  },
+  {
+    "il": "Uşak",
+    "ilce": "BANAZ",
+    "mahalle": "31 Ağustos",
+    "ad": "BANAZ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 38.74493,
+    "lon": 29.75843
+  },
+  {
+    "il": "Uşak",
+    "ilce": "BANAZ",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 38.74282,
+    "lon": 29.76036
+  },
+  {
+    "il": "Uşak",
+    "ilce": "BANAZ",
+    "mahalle": "Dilek",
+    "ad": "Dilek Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 38.75719,
+    "lon": 29.7547
+  },
+  {
+    "il": "Uşak",
+    "ilce": "BANAZ",
+    "mahalle": "Şehitler",
+    "ad": "Şehitler Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 38.74284,
+    "lon": 29.76687
+  },
+  {
+    "il": "Uşak",
+    "ilce": "BANAZ",
+    "mahalle": "31 Ağustos",
+    "ad": "31 Ağustos Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 38.74141,
+    "lon": 29.76266
+  },
+  {
+    "il": "Uşak",
+    "ilce": "BANAZ",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 38.73652,
+    "lon": 29.75922
+  },
+  {
+    "il": "Uşak",
+    "ilce": "BANAZ",
+    "mahalle": "Dilek",
+    "ad": "Dilek Mahallesi Parkı ve Açık Alanı",
+    "lat": 38.75128,
+    "lon": 29.75941
+  },
+  {
+    "il": "Uşak",
+    "ilce": "BANAZ",
+    "mahalle": "Şehitler",
+    "ad": "Şehitler Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 38.74,
+    "lon": 29.7483
+  },
+  {
+    "il": "Uşak",
+    "ilce": "EŞME",
+    "mahalle": "Şehit Alibey",
+    "ad": "EŞME Kent Meydanı ve Toplanma Alanı",
+    "lat": 38.40246,
+    "lon": 28.95953
+  },
+  {
+    "il": "Uşak",
+    "ilce": "EŞME",
+    "mahalle": "Kemer",
+    "ad": "EŞME Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 38.39046,
+    "lon": 28.9709
+  },
+  {
+    "il": "Uşak",
+    "ilce": "EŞME",
+    "mahalle": "İstasyon",
+    "ad": "EŞME Hükümet Konağı / Belediye Meydanı",
+    "lat": 38.39699,
+    "lon": 28.9688
+  },
+  {
+    "il": "Uşak",
+    "ilce": "EŞME",
+    "mahalle": "Üçeylül",
+    "ad": "EŞME Millet Bahçesi ve Yeşil Alanı",
+    "lat": 38.41211,
+    "lon": 28.96417
+  },
+  {
+    "il": "Uşak",
+    "ilce": "EŞME",
+    "mahalle": "Şehit Alibey",
+    "ad": "EŞME Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 38.39657,
+    "lon": 28.96307
+  },
+  {
+    "il": "Uşak",
+    "ilce": "EŞME",
+    "mahalle": "Kemer",
+    "ad": "Kemer Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 38.40635,
+    "lon": 28.97862
+  },
+  {
+    "il": "Uşak",
+    "ilce": "EŞME",
+    "mahalle": "İstasyon",
+    "ad": "İstasyon Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 38.40419,
+    "lon": 28.95409
+  },
+  {
+    "il": "Uşak",
+    "ilce": "EŞME",
+    "mahalle": "Üçeylül",
+    "ad": "Üçeylül Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 38.39593,
+    "lon": 28.96273
+  },
+  {
+    "il": "Uşak",
+    "ilce": "EŞME",
+    "mahalle": "Şehit Alibey",
+    "ad": "Şehit Alibey Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 38.39533,
+    "lon": 28.98185
+  },
+  {
+    "il": "Uşak",
+    "ilce": "EŞME",
+    "mahalle": "Kemer",
+    "ad": "Kemer Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 38.398,
+    "lon": 28.95525
+  },
+  {
+    "il": "Uşak",
+    "ilce": "SİVASLI",
+    "mahalle": "Evrenli",
+    "ad": "SİVASLI Kent Meydanı ve Toplanma Alanı",
+    "lat": 38.50076,
+    "lon": 29.69093
+  },
+  {
+    "il": "Uşak",
+    "ilce": "SİVASLI",
+    "mahalle": "Gölbahçe",
+    "ad": "SİVASLI Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 38.50472,
+    "lon": 29.69007
+  },
+  {
+    "il": "Uşak",
+    "ilce": "SİVASLI",
+    "mahalle": "Konak",
+    "ad": "SİVASLI Hükümet Konağı / Belediye Meydanı",
+    "lat": 38.50482,
+    "lon": 29.6795
+  },
+  {
+    "il": "Uşak",
+    "ilce": "SİVASLI",
+    "mahalle": "Evrenli",
+    "ad": "SİVASLI Millet Bahçesi ve Yeşil Alanı",
+    "lat": 38.5033,
+    "lon": 29.68311
+  },
+  {
+    "il": "Uşak",
+    "ilce": "SİVASLI",
+    "mahalle": "Gölbahçe",
+    "ad": "SİVASLI Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 38.50705,
+    "lon": 29.6807
+  },
+  {
+    "il": "Uşak",
+    "ilce": "SİVASLI",
+    "mahalle": "Konak",
+    "ad": "Konak Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 38.51599,
+    "lon": 29.69327
+  },
+  {
+    "il": "Uşak",
+    "ilce": "SİVASLI",
+    "mahalle": "Evrenli",
+    "ad": "Evrenli Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 38.5196,
+    "lon": 29.69323
+  },
+  {
+    "il": "Uşak",
+    "ilce": "SİVASLI",
+    "mahalle": "Gölbahçe",
+    "ad": "Gölbahçe Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 38.51066,
+    "lon": 29.68471
+  },
+  {
+    "il": "Uşak",
+    "ilce": "ULUBEY",
+    "mahalle": "Dilaver",
+    "ad": "ULUBEY Kent Meydanı ve Toplanma Alanı",
+    "lat": 38.41062,
+    "lon": 29.29349
+  },
+  {
+    "il": "Uşak",
+    "ilce": "ULUBEY",
+    "mahalle": "Aşağı",
+    "ad": "ULUBEY Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 38.43835,
+    "lon": 29.28236
+  },
+  {
+    "il": "Uşak",
+    "ilce": "ULUBEY",
+    "mahalle": "Kanyon Parkı",
+    "ad": "ULUBEY Hükümet Konağı / Belediye Meydanı",
+    "lat": 38.42143,
+    "lon": 29.31425
+  },
+  {
+    "il": "Uşak",
+    "ilce": "ULUBEY",
+    "mahalle": "Dilaver",
+    "ad": "ULUBEY Millet Bahçesi ve Yeşil Alanı",
+    "lat": 38.42412,
+    "lon": 29.29608
+  },
+  {
+    "il": "Uşak",
+    "ilce": "ULUBEY",
+    "mahalle": "Aşağı",
+    "ad": "ULUBEY Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 38.40807,
+    "lon": 29.29426
+  },
+  {
+    "il": "Uşak",
+    "ilce": "ULUBEY",
+    "mahalle": "Kanyon Parkı",
+    "ad": "Kanyon Parkı Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 38.43932,
+    "lon": 29.30422
+  },
+  {
+    "il": "Uşak",
+    "ilce": "ULUBEY",
+    "mahalle": "Dilaver",
+    "ad": "Dilaver Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 38.42163,
+    "lon": 29.2997
+  },
+  {
+    "il": "Uşak",
+    "ilce": "ULUBEY",
+    "mahalle": "Aşağı",
+    "ad": "Aşağı Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 38.42576,
+    "lon": 29.30071
+  },
+  {
+    "il": "Uşak",
+    "ilce": "KARAHALLI",
+    "mahalle": "Konak",
+    "ad": "KARAHALLI Kent Meydanı ve Toplanma Alanı",
+    "lat": 38.32068,
+    "lon": 29.53575
+  },
+  {
+    "il": "Uşak",
+    "ilce": "KARAHALLI",
+    "mahalle": "Buğdaylı",
+    "ad": "KARAHALLI Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 38.32474,
+    "lon": 29.52332
+  },
+  {
+    "il": "Uşak",
+    "ilce": "KARAHALLI",
+    "mahalle": "Cilandiras Yanı",
+    "ad": "KARAHALLI Hükümet Konağı / Belediye Meydanı",
+    "lat": 38.33776,
+    "lon": 29.55073
+  },
+  {
+    "il": "Uşak",
+    "ilce": "KARAHALLI",
+    "mahalle": "Konak",
+    "ad": "KARAHALLI Millet Bahçesi ve Yeşil Alanı",
+    "lat": 38.33217,
+    "lon": 29.53735
+  },
+  {
+    "il": "Uşak",
+    "ilce": "KARAHALLI",
+    "mahalle": "Buğdaylı",
+    "ad": "KARAHALLI Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 38.31824,
+    "lon": 29.53416
+  },
+  {
+    "il": "Uşak",
+    "ilce": "KARAHALLI",
+    "mahalle": "Cilandiras Yanı",
+    "ad": "Cilandiras Yanı Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 38.32301,
+    "lon": 29.53254
+  }
+]

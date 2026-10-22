@@ -1,0 +1,538 @@
+[
+  {
+    "il": "Karabük",
+    "ilce": "MERKEZ",
+    "mahalle": "100. Yıl",
+    "ad": "MERKEZ Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.201,
+    "lon": 32.61548
+  },
+  {
+    "il": "Karabük",
+    "ilce": "MERKEZ",
+    "mahalle": "Şirinevler",
+    "ad": "MERKEZ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.20538,
+    "lon": 32.64337
+  },
+  {
+    "il": "Karabük",
+    "ilce": "MERKEZ",
+    "mahalle": "5000 Evler",
+    "ad": "MERKEZ Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.20961,
+    "lon": 32.6285
+  },
+  {
+    "il": "Karabük",
+    "ilce": "MERKEZ",
+    "mahalle": "Yeşil Mahalle",
+    "ad": "MERKEZ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.20027,
+    "lon": 32.63729
+  },
+  {
+    "il": "Karabük",
+    "ilce": "MERKEZ",
+    "mahalle": "Bayır",
+    "ad": "MERKEZ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.2066,
+    "lon": 32.60879
+  },
+  {
+    "il": "Karabük",
+    "ilce": "MERKEZ",
+    "mahalle": "Ergenekon",
+    "ad": "Ergenekon Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.20232,
+    "lon": 32.61626
+  },
+  {
+    "il": "Karabük",
+    "ilce": "MERKEZ",
+    "mahalle": "Adatepe",
+    "ad": "Adatepe Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.20007,
+    "lon": 32.62564
+  },
+  {
+    "il": "Karabük",
+    "ilce": "MERKEZ",
+    "mahalle": "Soğuksu",
+    "ad": "Soğuksu Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.20306,
+    "lon": 32.63087
+  },
+  {
+    "il": "Karabük",
+    "ilce": "MERKEZ",
+    "mahalle": "Yenişehir",
+    "ad": "Yenişehir Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 41.21187,
+    "lon": 32.62686
+  },
+  {
+    "il": "Karabük",
+    "ilce": "MERKEZ",
+    "mahalle": "100. Yıl",
+    "ad": "100. Yıl Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 41.19643,
+    "lon": 32.63199
+  },
+  {
+    "il": "Karabük",
+    "ilce": "MERKEZ",
+    "mahalle": "Şirinevler",
+    "ad": "Şirinevler Mahallesi Parkı ve Açık Alanı",
+    "lat": 41.20026,
+    "lon": 32.64542
+  },
+  {
+    "il": "Karabük",
+    "ilce": "MERKEZ",
+    "mahalle": "5000 Evler",
+    "ad": "5000 Evler Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 41.20526,
+    "lon": 32.63341
+  },
+  {
+    "il": "Karabük",
+    "ilce": "MERKEZ",
+    "mahalle": "Yeşil Mahalle",
+    "ad": "Yeşil Mahalle Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 41.21084,
+    "lon": 32.62566
+  },
+  {
+    "il": "Karabük",
+    "ilce": "MERKEZ",
+    "mahalle": "Bayır",
+    "ad": "Bayır Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 41.20216,
+    "lon": 32.62095
+  },
+  {
+    "il": "Karabük",
+    "ilce": "MERKEZ",
+    "mahalle": "Ergenekon",
+    "ad": "Ergenekon Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 41.20233,
+    "lon": 32.6285
+  },
+  {
+    "il": "Karabük",
+    "ilce": "MERKEZ",
+    "mahalle": "Adatepe",
+    "ad": "Adatepe Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.21225,
+    "lon": 32.62981
+  },
+  {
+    "il": "Karabük",
+    "ilce": "MERKEZ",
+    "mahalle": "Soğuksu",
+    "ad": "Soğuksu Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.21176,
+    "lon": 32.62579
+  },
+  {
+    "il": "Karabük",
+    "ilce": "MERKEZ",
+    "mahalle": "Yenişehir",
+    "ad": "Yenişehir Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.20395,
+    "lon": 32.63262
+  },
+  {
+    "il": "Karabük",
+    "ilce": "MERKEZ",
+    "mahalle": "100. Yıl",
+    "ad": "100. Yıl Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 41.19716,
+    "lon": 32.62815
+  },
+  {
+    "il": "Karabük",
+    "ilce": "MERKEZ",
+    "mahalle": "Şirinevler",
+    "ad": "Şirinevler Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 41.2002,
+    "lon": 32.6325
+  },
+  {
+    "il": "Karabük",
+    "ilce": "MERKEZ",
+    "mahalle": "5000 Evler",
+    "ad": "5000 Evler Mahallesi Parkı ve Açık Alanı",
+    "lat": 41.20264,
+    "lon": 32.62397
+  },
+  {
+    "il": "Karabük",
+    "ilce": "MERKEZ",
+    "mahalle": "Yeşil Mahalle",
+    "ad": "Yeşil Mahalle Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 41.20557,
+    "lon": 32.63314
+  },
+  {
+    "il": "Karabük",
+    "ilce": "MERKEZ",
+    "mahalle": "Bayır",
+    "ad": "Bayır Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 41.19971,
+    "lon": 32.63058
+  },
+  {
+    "il": "Karabük",
+    "ilce": "MERKEZ",
+    "mahalle": "Ergenekon",
+    "ad": "Ergenekon Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 41.21241,
+    "lon": 32.61352
+  },
+  {
+    "il": "Karabük",
+    "ilce": "SAFRANBOLU",
+    "mahalle": "Emek",
+    "ad": "SAFRANBOLU Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.25403,
+    "lon": 32.68375
+  },
+  {
+    "il": "Karabük",
+    "ilce": "SAFRANBOLU",
+    "mahalle": "Barış",
+    "ad": "SAFRANBOLU Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.24671,
+    "lon": 32.68296
+  },
+  {
+    "il": "Karabük",
+    "ilce": "SAFRANBOLU",
+    "mahalle": "İsmetpaşa",
+    "ad": "SAFRANBOLU Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.25537,
+    "lon": 32.70292
+  },
+  {
+    "il": "Karabük",
+    "ilce": "SAFRANBOLU",
+    "mahalle": "Yenimahalle",
+    "ad": "SAFRANBOLU Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.26012,
+    "lon": 32.68526
+  },
+  {
+    "il": "Karabük",
+    "ilce": "SAFRANBOLU",
+    "mahalle": "Bağlar",
+    "ad": "SAFRANBOLU Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.25743,
+    "lon": 32.68505
+  },
+  {
+    "il": "Karabük",
+    "ilce": "SAFRANBOLU",
+    "mahalle": "Tarihi Çarşı Meydanı",
+    "ad": "Tarihi Çarşı Meydanı Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.26739,
+    "lon": 32.69206
+  },
+  {
+    "il": "Karabük",
+    "ilce": "SAFRANBOLU",
+    "mahalle": "Babassultan",
+    "ad": "Babassultan Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.26516,
+    "lon": 32.68856
+  },
+  {
+    "il": "Karabük",
+    "ilce": "SAFRANBOLU",
+    "mahalle": "Emek",
+    "ad": "Emek Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.25904,
+    "lon": 32.70175
+  },
+  {
+    "il": "Karabük",
+    "ilce": "SAFRANBOLU",
+    "mahalle": "Barış",
+    "ad": "Barış Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 41.2431,
+    "lon": 32.69506
+  },
+  {
+    "il": "Karabük",
+    "ilce": "SAFRANBOLU",
+    "mahalle": "İsmetpaşa",
+    "ad": "İsmetpaşa Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 41.25179,
+    "lon": 32.68832
+  },
+  {
+    "il": "Karabük",
+    "ilce": "SAFRANBOLU",
+    "mahalle": "Yenimahalle",
+    "ad": "Yenimahalle Mahallesi Parkı ve Açık Alanı",
+    "lat": 41.25861,
+    "lon": 32.67866
+  },
+  {
+    "il": "Karabük",
+    "ilce": "SAFRANBOLU",
+    "mahalle": "Bağlar",
+    "ad": "Bağlar Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 41.25196,
+    "lon": 32.67553
+  },
+  {
+    "il": "Karabük",
+    "ilce": "SAFRANBOLU",
+    "mahalle": "Tarihi Çarşı Meydanı",
+    "ad": "Tarihi Çarşı Meydanı Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 41.25596,
+    "lon": 32.68512
+  },
+  {
+    "il": "Karabük",
+    "ilce": "SAFRANBOLU",
+    "mahalle": "Babassultan",
+    "ad": "Babassultan Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 41.26114,
+    "lon": 32.67399
+  },
+  {
+    "il": "Karabük",
+    "ilce": "SAFRANBOLU",
+    "mahalle": "Emek",
+    "ad": "Emek Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 41.26821,
+    "lon": 32.6781
+  },
+  {
+    "il": "Karabük",
+    "ilce": "SAFRANBOLU",
+    "mahalle": "Barış",
+    "ad": "Barış Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.2583,
+    "lon": 32.69458
+  },
+  {
+    "il": "Karabük",
+    "ilce": "YENİCE",
+    "mahalle": "Atatürk",
+    "ad": "YENİCE Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.19753,
+    "lon": 32.33982
+  },
+  {
+    "il": "Karabük",
+    "ilce": "YENİCE",
+    "mahalle": "İsmetpaşa",
+    "ad": "YENİCE Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.2069,
+    "lon": 32.32569
+  },
+  {
+    "il": "Karabük",
+    "ilce": "YENİCE",
+    "mahalle": "Karşıyaka",
+    "ad": "YENİCE Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.20358,
+    "lon": 32.32327
+  },
+  {
+    "il": "Karabük",
+    "ilce": "YENİCE",
+    "mahalle": "Yirmibeşoğlu",
+    "ad": "YENİCE Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.18798,
+    "lon": 32.34413
+  },
+  {
+    "il": "Karabük",
+    "ilce": "YENİCE",
+    "mahalle": "Atatürk",
+    "ad": "YENİCE Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.20024,
+    "lon": 32.34084
+  },
+  {
+    "il": "Karabük",
+    "ilce": "YENİCE",
+    "mahalle": "İsmetpaşa",
+    "ad": "İsmetpaşa Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.20687,
+    "lon": 32.34206
+  },
+  {
+    "il": "Karabük",
+    "ilce": "YENİCE",
+    "mahalle": "Karşıyaka",
+    "ad": "Karşıyaka Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 41.1946,
+    "lon": 32.33631
+  },
+  {
+    "il": "Karabük",
+    "ilce": "YENİCE",
+    "mahalle": "Yirmibeşoğlu",
+    "ad": "Yirmibeşoğlu Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 41.20285,
+    "lon": 32.33778
+  },
+  {
+    "il": "Karabük",
+    "ilce": "ESKİPAZAR",
+    "mahalle": "İstasyon",
+    "ad": "ESKİPAZAR Kent Meydanı ve Toplanma Alanı",
+    "lat": 40.95819,
+    "lon": 32.53953
+  },
+  {
+    "il": "Karabük",
+    "ilce": "ESKİPAZAR",
+    "mahalle": "Yeni",
+    "ad": "ESKİPAZAR Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 40.95687,
+    "lon": 32.5522
+  },
+  {
+    "il": "Karabük",
+    "ilce": "ESKİPAZAR",
+    "mahalle": "Karasenir",
+    "ad": "ESKİPAZAR Hükümet Konağı / Belediye Meydanı",
+    "lat": 40.95232,
+    "lon": 32.53548
+  },
+  {
+    "il": "Karabük",
+    "ilce": "ESKİPAZAR",
+    "mahalle": "Cumhuriyet",
+    "ad": "ESKİPAZAR Millet Bahçesi ve Yeşil Alanı",
+    "lat": 40.953,
+    "lon": 32.54566
+  },
+  {
+    "il": "Karabük",
+    "ilce": "ESKİPAZAR",
+    "mahalle": "İstasyon",
+    "ad": "ESKİPAZAR Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 40.95162,
+    "lon": 32.54383
+  },
+  {
+    "il": "Karabük",
+    "ilce": "ESKİPAZAR",
+    "mahalle": "Yeni",
+    "ad": "Yeni Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 40.95492,
+    "lon": 32.54722
+  },
+  {
+    "il": "Karabük",
+    "ilce": "ESKİPAZAR",
+    "mahalle": "Karasenir",
+    "ad": "Karasenir Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 40.96078,
+    "lon": 32.52431
+  },
+  {
+    "il": "Karabük",
+    "ilce": "ESKİPAZAR",
+    "mahalle": "Cumhuriyet",
+    "ad": "Cumhuriyet Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 40.95426,
+    "lon": 32.53339
+  },
+  {
+    "il": "Karabük",
+    "ilce": "EFLANİ",
+    "mahalle": "Çelebiler",
+    "ad": "EFLANİ Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.43063,
+    "lon": 32.95834
+  },
+  {
+    "il": "Karabük",
+    "ilce": "EFLANİ",
+    "mahalle": "Candan",
+    "ad": "EFLANİ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.41542,
+    "lon": 32.96749
+  },
+  {
+    "il": "Karabük",
+    "ilce": "EFLANİ",
+    "mahalle": "Tabaklar",
+    "ad": "EFLANİ Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.42506,
+    "lon": 32.97063
+  },
+  {
+    "il": "Karabük",
+    "ilce": "EFLANİ",
+    "mahalle": "Çelebiler",
+    "ad": "EFLANİ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.42161,
+    "lon": 32.96142
+  },
+  {
+    "il": "Karabük",
+    "ilce": "EFLANİ",
+    "mahalle": "Candan",
+    "ad": "EFLANİ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.42962,
+    "lon": 32.96556
+  },
+  {
+    "il": "Karabük",
+    "ilce": "EFLANİ",
+    "mahalle": "Tabaklar",
+    "ad": "Tabaklar Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 41.42935,
+    "lon": 32.96851
+  },
+  {
+    "il": "Karabük",
+    "ilce": "OVACIK",
+    "mahalle": "Merkez",
+    "ad": "OVACIK Kent Meydanı ve Toplanma Alanı",
+    "lat": 41.10239,
+    "lon": 32.84073
+  },
+  {
+    "il": "Karabük",
+    "ilce": "OVACIK",
+    "mahalle": "Gülpembe",
+    "ad": "OVACIK Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 41.10859,
+    "lon": 32.82609
+  },
+  {
+    "il": "Karabük",
+    "ilce": "OVACIK",
+    "mahalle": "Merkez",
+    "ad": "OVACIK Hükümet Konağı / Belediye Meydanı",
+    "lat": 41.10635,
+    "lon": 32.82356
+  },
+  {
+    "il": "Karabük",
+    "ilce": "OVACIK",
+    "mahalle": "Gülpembe",
+    "ad": "OVACIK Millet Bahçesi ve Yeşil Alanı",
+    "lat": 41.09867,
+    "lon": 32.82459
+  },
+  {
+    "il": "Karabük",
+    "ilce": "OVACIK",
+    "mahalle": "Merkez",
+    "ad": "OVACIK Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 41.10866,
+    "lon": 32.83229
+  }
+]

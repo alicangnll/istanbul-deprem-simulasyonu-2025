@@ -1,0 +1,906 @@
+[
+  {
+    "il": "Yozgat",
+    "ilce": "MERKEZ",
+    "mahalle": "Bilal Şahin",
+    "ad": "MERKEZ Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.83267,
+    "lon": 34.80377
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "MERKEZ",
+    "mahalle": "Çapanoğlu",
+    "ad": "MERKEZ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.82987,
+    "lon": 34.8036
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "MERKEZ",
+    "mahalle": "Aşağı Nohutlu",
+    "ad": "MERKEZ Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.80807,
+    "lon": 34.80817
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "MERKEZ",
+    "mahalle": "Yukarı Nohutlu",
+    "ad": "MERKEZ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.81307,
+    "lon": 34.80944
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "MERKEZ",
+    "mahalle": "Bahçeşehir",
+    "ad": "MERKEZ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.80445,
+    "lon": 34.79396
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "MERKEZ",
+    "mahalle": "Fatih",
+    "ad": "Fatih Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.83021,
+    "lon": 34.80611
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "MERKEZ",
+    "mahalle": "Erdoğan Akdağ",
+    "ad": "Erdoğan Akdağ Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 39.83654,
+    "lon": 34.80493
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "MERKEZ",
+    "mahalle": "Medrese",
+    "ad": "Medrese Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 39.83045,
+    "lon": 34.81644
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "MERKEZ",
+    "mahalle": "Bilal Şahin",
+    "ad": "Bilal Şahin Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 39.81074,
+    "lon": 34.79457
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "MERKEZ",
+    "mahalle": "Çapanoğlu",
+    "ad": "Çapanoğlu Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 39.81224,
+    "lon": 34.80983
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "MERKEZ",
+    "mahalle": "Aşağı Nohutlu",
+    "ad": "Aşağı Nohutlu Mahallesi Parkı ve Açık Alanı",
+    "lat": 39.81675,
+    "lon": 34.81697
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "MERKEZ",
+    "mahalle": "Yukarı Nohutlu",
+    "ad": "Yukarı Nohutlu Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 39.82348,
+    "lon": 34.81136
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "MERKEZ",
+    "mahalle": "Bahçeşehir",
+    "ad": "Bahçeşehir Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 39.83028,
+    "lon": 34.81365
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "MERKEZ",
+    "mahalle": "Fatih",
+    "ad": "Fatih Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 39.82102,
+    "lon": 34.78836
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "MERKEZ",
+    "mahalle": "Erdoğan Akdağ",
+    "ad": "Erdoğan Akdağ Mahallesi Anadolu Lisesi Bahçesi ve Spor Alanı",
+    "lat": 39.82775,
+    "lon": 34.799
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "MERKEZ",
+    "mahalle": "Medrese",
+    "ad": "Medrese Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.82466,
+    "lon": 34.81846
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "MERKEZ",
+    "mahalle": "Bilal Şahin",
+    "ad": "Bilal Şahin Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 39.81826,
+    "lon": 34.80771
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "MERKEZ",
+    "mahalle": "Çapanoğlu",
+    "ad": "Çapanoğlu Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 39.80829,
+    "lon": 34.81542
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "MERKEZ",
+    "mahalle": "Aşağı Nohutlu",
+    "ad": "Aşağı Nohutlu Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 39.82657,
+    "lon": 34.80164
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "MERKEZ",
+    "mahalle": "Yukarı Nohutlu",
+    "ad": "Yukarı Nohutlu Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 39.81247,
+    "lon": 34.80331
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "MERKEZ",
+    "mahalle": "Bahçeşehir",
+    "ad": "Bahçeşehir Mahallesi Parkı ve Açık Alanı",
+    "lat": 39.80942,
+    "lon": 34.80692
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "MERKEZ",
+    "mahalle": "Fatih",
+    "ad": "Fatih Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 39.82428,
+    "lon": 34.80221
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "MERKEZ",
+    "mahalle": "Erdoğan Akdağ",
+    "ad": "Erdoğan Akdağ Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 39.81458,
+    "lon": 34.80248
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "MERKEZ",
+    "mahalle": "Medrese",
+    "ad": "Medrese Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 39.8166,
+    "lon": 34.80602
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "SORGUN",
+    "mahalle": "Aydınlıkevler",
+    "ad": "SORGUN Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.83116,
+    "lon": 35.19044
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "SORGUN",
+    "mahalle": "Bahçelievler",
+    "ad": "SORGUN Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.82444,
+    "lon": 35.19324
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "SORGUN",
+    "mahalle": "Karşıyaka",
+    "ad": "SORGUN Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.80688,
+    "lon": 35.2016
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "SORGUN",
+    "mahalle": "Yenidogan",
+    "ad": "SORGUN Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.80915,
+    "lon": 35.18609
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "SORGUN",
+    "mahalle": "Güzelyurt",
+    "ad": "SORGUN Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.81755,
+    "lon": 35.18617
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "SORGUN",
+    "mahalle": "Aydınlıkevler",
+    "ad": "Aydınlıkevler Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.8138,
+    "lon": 35.1861
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "SORGUN",
+    "mahalle": "Bahçelievler",
+    "ad": "Bahçelievler Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 39.80931,
+    "lon": 35.19085
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "SORGUN",
+    "mahalle": "Karşıyaka",
+    "ad": "Karşıyaka Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 39.82341,
+    "lon": 35.19625
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "SORGUN",
+    "mahalle": "Yenidogan",
+    "ad": "Yenidogan Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 39.81435,
+    "lon": 35.16128
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "SORGUN",
+    "mahalle": "Güzelyurt",
+    "ad": "Güzelyurt Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 39.81173,
+    "lon": 35.17954
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "SORGUN",
+    "mahalle": "Aydınlıkevler",
+    "ad": "Aydınlıkevler Mahallesi Parkı ve Açık Alanı",
+    "lat": 39.80822,
+    "lon": 35.18384
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "SORGUN",
+    "mahalle": "Bahçelievler",
+    "ad": "Bahçelievler Mahallesi Meydanı ve Yeşil Alanı",
+    "lat": 39.80828,
+    "lon": 35.17487
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "SORGUN",
+    "mahalle": "Karşıyaka",
+    "ad": "Karşıyaka Mahallesi Kapalı Pazar Yeri Açık Alanı",
+    "lat": 39.81234,
+    "lon": 35.19216
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "SORGUN",
+    "mahalle": "Yenidogan",
+    "ad": "Yenidogan Mahallesi İlkokulu / Ortaokulu Bahçesi",
+    "lat": 39.80877,
+    "lon": 35.18452
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "AKDAĞMADENİ",
+    "mahalle": "Ahmet Taner Kışlalı",
+    "ad": "AKDAĞMADENİ Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.66194,
+    "lon": 35.88467
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "AKDAĞMADENİ",
+    "mahalle": "Gültepe",
+    "ad": "AKDAĞMADENİ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.6636,
+    "lon": 35.88398
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "AKDAĞMADENİ",
+    "mahalle": "İstiklal",
+    "ad": "AKDAĞMADENİ Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.6609,
+    "lon": 35.89723
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "AKDAĞMADENİ",
+    "mahalle": "Yeşiltepe",
+    "ad": "AKDAĞMADENİ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.65663,
+    "lon": 35.89428
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "AKDAĞMADENİ",
+    "mahalle": "Ahmet Taner Kışlalı",
+    "ad": "AKDAĞMADENİ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.66422,
+    "lon": 35.89212
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "AKDAĞMADENİ",
+    "mahalle": "Gültepe",
+    "ad": "Gültepe Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.66306,
+    "lon": 35.87604
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "AKDAĞMADENİ",
+    "mahalle": "İstiklal",
+    "ad": "İstiklal Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 39.64597,
+    "lon": 35.8748
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "AKDAĞMADENİ",
+    "mahalle": "Yeşiltepe",
+    "ad": "Yeşiltepe Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 39.67628,
+    "lon": 35.88916
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "AKDAĞMADENİ",
+    "mahalle": "Ahmet Taner Kışlalı",
+    "ad": "Ahmet Taner Kışlalı Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 39.6647,
+    "lon": 35.87722
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "AKDAĞMADENİ",
+    "mahalle": "Gültepe",
+    "ad": "Gültepe Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 39.6727,
+    "lon": 35.88827
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "YERKÖY",
+    "mahalle": "Haşim Kılıç",
+    "ad": "YERKÖY Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.64314,
+    "lon": 34.47097
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "YERKÖY",
+    "mahalle": "Ayanoğlu",
+    "ad": "YERKÖY Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.64105,
+    "lon": 34.47127
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "YERKÖY",
+    "mahalle": "Selçuk",
+    "ad": "YERKÖY Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.63077,
+    "lon": 34.46706
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "YERKÖY",
+    "mahalle": "Gültepe",
+    "ad": "YERKÖY Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.64596,
+    "lon": 34.45411
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "YERKÖY",
+    "mahalle": "Haşim Kılıç",
+    "ad": "YERKÖY Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.64838,
+    "lon": 34.47448
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "YERKÖY",
+    "mahalle": "Ayanoğlu",
+    "ad": "Ayanoğlu Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.63372,
+    "lon": 34.47133
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "YERKÖY",
+    "mahalle": "Selçuk",
+    "ad": "Selçuk Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 39.62612,
+    "lon": 34.45958
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "YERKÖY",
+    "mahalle": "Gültepe",
+    "ad": "Gültepe Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 39.63319,
+    "lon": 34.46838
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "YERKÖY",
+    "mahalle": "Haşim Kılıç",
+    "ad": "Haşim Kılıç Mahallesi Millet Bahçesi ve Rekreasyon Alanı",
+    "lat": 39.65124,
+    "lon": 34.47037
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "YERKÖY",
+    "mahalle": "Ayanoğlu",
+    "ad": "Ayanoğlu Mahallesi Sosyal Tesisleri Açık Alanı",
+    "lat": 39.63605,
+    "lon": 34.46423
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "BOĞAZLIYAN",
+    "mahalle": "Mevlana",
+    "ad": "BOĞAZLIYAN Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.19077,
+    "lon": 35.25116
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "BOĞAZLIYAN",
+    "mahalle": "Bağlar",
+    "ad": "BOĞAZLIYAN Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.19215,
+    "lon": 35.24597
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "BOĞAZLIYAN",
+    "mahalle": "Kemaliye",
+    "ad": "BOĞAZLIYAN Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.18458,
+    "lon": 35.24249
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "BOĞAZLIYAN",
+    "mahalle": "Yeni",
+    "ad": "BOĞAZLIYAN Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.19169,
+    "lon": 35.25254
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "BOĞAZLIYAN",
+    "mahalle": "Mevlana",
+    "ad": "BOĞAZLIYAN Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.1985,
+    "lon": 35.26784
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "BOĞAZLIYAN",
+    "mahalle": "Bağlar",
+    "ad": "Bağlar Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.1877,
+    "lon": 35.25916
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "BOĞAZLIYAN",
+    "mahalle": "Kemaliye",
+    "ad": "Kemaliye Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 39.19787,
+    "lon": 35.24182
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "BOĞAZLIYAN",
+    "mahalle": "Yeni",
+    "ad": "Yeni Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 39.18697,
+    "lon": 35.24652
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "SARIKAYA",
+    "mahalle": "Kaplıcalar",
+    "ad": "SARIKAYA Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.49348,
+    "lon": 35.37393
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "SARIKAYA",
+    "mahalle": "Şeker",
+    "ad": "SARIKAYA Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.50044,
+    "lon": 35.37112
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "SARIKAYA",
+    "mahalle": "Battalgazi",
+    "ad": "SARIKAYA Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.4962,
+    "lon": 35.372
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "SARIKAYA",
+    "mahalle": "Baraklı",
+    "ad": "SARIKAYA Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.49182,
+    "lon": 35.38743
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "SARIKAYA",
+    "mahalle": "Kaplıcalar",
+    "ad": "SARIKAYA Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.49976,
+    "lon": 35.36622
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "SARIKAYA",
+    "mahalle": "Şeker",
+    "ad": "Şeker Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.49457,
+    "lon": 35.38622
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "SARIKAYA",
+    "mahalle": "Battalgazi",
+    "ad": "Battalgazi Mahallesi Çocuk Parkı ve Dinlenme Alanı",
+    "lat": 39.50476,
+    "lon": 35.38069
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "SARIKAYA",
+    "mahalle": "Baraklı",
+    "ad": "Baraklı Mahallesi Spor Kompleksi ve Açık Tesisleri",
+    "lat": 39.49435,
+    "lon": 35.3709
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "ÇEKEREK",
+    "mahalle": "Bahçelievler",
+    "ad": "ÇEKEREK Kent Meydanı ve Toplanma Alanı",
+    "lat": 40.08221,
+    "lon": 35.50134
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "ÇEKEREK",
+    "mahalle": "Bağlar",
+    "ad": "ÇEKEREK Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 40.07958,
+    "lon": 35.49516
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "ÇEKEREK",
+    "mahalle": "Yeniyol",
+    "ad": "ÇEKEREK Hükümet Konağı / Belediye Meydanı",
+    "lat": 40.06976,
+    "lon": 35.4925
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "ÇEKEREK",
+    "mahalle": "Bahçelievler",
+    "ad": "ÇEKEREK Millet Bahçesi ve Yeşil Alanı",
+    "lat": 40.06951,
+    "lon": 35.49394
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "ÇEKEREK",
+    "mahalle": "Bağlar",
+    "ad": "ÇEKEREK Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 40.07838,
+    "lon": 35.49312
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "ÇEKEREK",
+    "mahalle": "Yeniyol",
+    "ad": "Yeniyol Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 40.07817,
+    "lon": 35.50723
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "ŞEFAATLİ",
+    "mahalle": "Cumhuriyet",
+    "ad": "ŞEFAATLİ Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.51349,
+    "lon": 34.75946
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "ŞEFAATLİ",
+    "mahalle": "Yeni",
+    "ad": "ŞEFAATLİ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.50864,
+    "lon": 34.7481
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "ŞEFAATLİ",
+    "mahalle": "Fatih",
+    "ad": "ŞEFAATLİ Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.51836,
+    "lon": 34.75617
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "ŞEFAATLİ",
+    "mahalle": "Cumhuriyet",
+    "ad": "ŞEFAATLİ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.50198,
+    "lon": 34.73372
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "ŞEFAATLİ",
+    "mahalle": "Yeni",
+    "ad": "ŞEFAATLİ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.49832,
+    "lon": 34.74806
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "ŞEFAATLİ",
+    "mahalle": "Fatih",
+    "ad": "Fatih Mahallesi Şehir Stadyumu ve Çevresi",
+    "lat": 39.50349,
+    "lon": 34.75159
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "SARAYKENT",
+    "mahalle": "Cumhuriyet",
+    "ad": "SARAYKENT Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.68397,
+    "lon": 35.50323
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "SARAYKENT",
+    "mahalle": "Divanlı",
+    "ad": "SARAYKENT Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.69258,
+    "lon": 35.5033
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "SARAYKENT",
+    "mahalle": "Yeni",
+    "ad": "SARAYKENT Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.70163,
+    "lon": 35.50858
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "SARAYKENT",
+    "mahalle": "Cumhuriyet",
+    "ad": "SARAYKENT Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.68289,
+    "lon": 35.51219
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "SARAYKENT",
+    "mahalle": "Divanlı",
+    "ad": "SARAYKENT Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.68295,
+    "lon": 35.5036
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "ÇAYIRALAN",
+    "mahalle": "Çulhalı",
+    "ad": "ÇAYIRALAN Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.31425,
+    "lon": 35.62791
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "ÇAYIRALAN",
+    "mahalle": "Fatih",
+    "ad": "ÇAYIRALAN Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.31968,
+    "lon": 35.65484
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "ÇAYIRALAN",
+    "mahalle": "Cumhuriyet",
+    "ad": "ÇAYIRALAN Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.29518,
+    "lon": 35.64959
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "ÇAYIRALAN",
+    "mahalle": "Çulhalı",
+    "ad": "ÇAYIRALAN Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.3019,
+    "lon": 35.64082
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "ÇAYIRALAN",
+    "mahalle": "Fatih",
+    "ad": "ÇAYIRALAN Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.31017,
+    "lon": 35.64099
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "KADIŞEHRİ",
+    "mahalle": "Merkez",
+    "ad": "KADIŞEHRİ Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.9961,
+    "lon": 35.79598
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "KADIŞEHRİ",
+    "mahalle": "Yavuz Selim",
+    "ad": "KADIŞEHRİ Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 40.00879,
+    "lon": 35.8065
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "KADIŞEHRİ",
+    "mahalle": "Merkez",
+    "ad": "KADIŞEHRİ Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.99918,
+    "lon": 35.80505
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "KADIŞEHRİ",
+    "mahalle": "Yavuz Selim",
+    "ad": "KADIŞEHRİ Millet Bahçesi ve Yeşil Alanı",
+    "lat": 40.01129,
+    "lon": 35.79993
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "KADIŞEHRİ",
+    "mahalle": "Merkez",
+    "ad": "KADIŞEHRİ Kapalı Pazar Yeri ve Otopark Alanı",
+    "lat": 39.9962,
+    "lon": 35.81143
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "AYDINCIK",
+    "mahalle": "Merkez",
+    "ad": "AYDINCIK Kent Meydanı ve Toplanma Alanı",
+    "lat": 40.14294,
+    "lon": 35.29447
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "AYDINCIK",
+    "mahalle": "Yenidoğan",
+    "ad": "AYDINCIK Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 40.1428,
+    "lon": 35.29797
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "AYDINCIK",
+    "mahalle": "Merkez",
+    "ad": "AYDINCIK Hükümet Konağı / Belediye Meydanı",
+    "lat": 40.13564,
+    "lon": 35.29245
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "AYDINCIK",
+    "mahalle": "Yenidoğan",
+    "ad": "AYDINCIK Millet Bahçesi ve Yeşil Alanı",
+    "lat": 40.1478,
+    "lon": 35.3094
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "YENİFAKILI",
+    "mahalle": "Merkez",
+    "ad": "YENİFAKILI Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.20992,
+    "lon": 35.05969
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "YENİFAKILI",
+    "mahalle": "Zafer",
+    "ad": "YENİFAKILI Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.20268,
+    "lon": 35.06625
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "YENİFAKILI",
+    "mahalle": "Merkez",
+    "ad": "YENİFAKILI Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.21519,
+    "lon": 35.04328
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "YENİFAKILI",
+    "mahalle": "Zafer",
+    "ad": "YENİFAKILI Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.21559,
+    "lon": 35.04094
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "ÇANDIR",
+    "mahalle": "Merkez",
+    "ad": "ÇANDIR Kent Meydanı ve Toplanma Alanı",
+    "lat": 39.2344,
+    "lon": 35.56744
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "ÇANDIR",
+    "mahalle": "Büyükkışla",
+    "ad": "ÇANDIR Şehir Stadyumu ve Açık Spor Alanı",
+    "lat": 39.25173,
+    "lon": 35.57482
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "ÇANDIR",
+    "mahalle": "Merkez",
+    "ad": "ÇANDIR Hükümet Konağı / Belediye Meydanı",
+    "lat": 39.2477,
+    "lon": 35.57589
+  },
+  {
+    "il": "Yozgat",
+    "ilce": "ÇANDIR",
+    "mahalle": "Büyükkışla",
+    "ad": "ÇANDIR Millet Bahçesi ve Yeşil Alanı",
+    "lat": 39.24659,
+    "lon": 35.57192
+  }
+]
