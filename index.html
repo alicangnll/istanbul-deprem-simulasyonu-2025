@@ -1530,21 +1530,21 @@
             L.control.zoom({ position: 'bottomright' }).addTo(map);
 
             // 2. Basemap Katmanları (100% Free, NO API KEY REQUIRED, NO WATERMARK!)
-            // ArcGIS World Street Map (Varsayılan - Temiz, Net Sokak Haritası)
+            // Esri Uydu Görüntüsü (Varsayılan)
+            const esriSatellite = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+                attribution: '&copy; Esri &mdash; Source: Esri, Maxar, Earthstar Geographics | &copy; Ali Can Gönüllü',
+                maxZoom: 19
+            }).addTo(map);
+
+            // ArcGIS World Street Map (Sokak Haritası)
             const arcgisStreet = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
                 attribution: '&copy; <a target="_blank" href="https://www.esri.com/">Esri</a>, OpenStreetMap | &copy; Ali Can Gönüllü',
                 maxZoom: 19
-            }).addTo(map);
+            });
 
             // OpenStreetMap Standart
             const osmStandard = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}.png', {
                 attribution: '&copy; <a target="_blank" href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-                maxZoom: 19
-            });
-
-            // Esri Uydu Görüntüsü
-            const esriSatellite = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
-                attribution: '&copy; Esri &mdash; Source: Esri, Maxar, Earthstar Geographics',
                 maxZoom: 19
             });
 
@@ -1556,9 +1556,9 @@
 
             // Katman Değiştirici Kontrolü (Sağ Alt Zoom Butonunun Üzerinde)
             L.control.layers({
+                "Uydu Görüntüsü (Esri)": esriSatellite,
                 "Sokak Haritası (ArcGIS)": arcgisStreet,
                 "Standart Harita (OSM)": osmStandard,
-                "Uydu Görüntüsü (Esri)": esriSatellite,
                 "Topografik Harita (Esri)": esriTopo
             }, null, { position: 'bottomright' }).addTo(map);
 
@@ -2168,22 +2168,83 @@
                         const faultGeoData = await res.json();
 
                         faultLayer = L.geoJSON(faultGeoData, {
-                            style: function () {
+                            style: function (feature) {
+                                const c = feature.properties?.color || '#ef4444';
                                 return {
-                                    color: '#dc2626',
-                                    weight: 3,
-                                    opacity: 0.9,
-                                    dashArray: '6, 5'
+                                    color: c,
+                                    weight: 4,
+                                    opacity: 0.92,
+                                    dashArray: '6, 5',
+                                    lineCap: 'round',
+                                    lineJoin: 'round'
                                 };
                             },
                             onEachFeature: function (feature, layer) {
-                                const name = feature.properties?.name || 'Aktif Fay Hattı';
-                                layer.bindPopup(`
-                                <div style="font-family: var(--font-sans); padding: 8px;">
-                                    <strong style="color: #dc2626;"><i class="fa-solid fa-triangle-exclamation"></i> ${name}</strong>
-                                    <div style="font-size: 0.8rem; color: #475569; margin-top: 4px;">GEM Global Active Faults Database</div>
-                                </div>
-                            `);
+                                const p = feature.properties || {};
+                                const name = p.name || 'Aktif Diri Fay Segmenti';
+                                const system = p.system || 'Türkiye Diri Fay Sistemi';
+                                const slipType = p.slip_type_tr || p.slip_type || 'Bilinmiyor';
+                                const slipRate = p.slip_rate || 'Aktif (< 1.0 mm/yıl)';
+                                const catalogId = p.catalog_id || 'MTA / GEM';
+                                const color = p.color || '#ef4444';
+
+                                const popupHtml = `
+                                <div class="popup-card" style="font-family: var(--font-sans); width: 310px; background: #0f172a; border-radius: 12px; overflow: hidden;">
+                                    <div class="popup-header" style="background: linear-gradient(135deg, rgba(239, 68, 68, 0.28), rgba(15, 23, 42, 0.95)); border-bottom: 1px solid rgba(239, 68, 68, 0.35); padding: 12px 14px; display: flex; align-items: flex-start; justify-content: space-between; gap: 8px;">
+                                        <div>
+                                            <div style="font-size: 0.72rem; font-weight: 700; color: #f87171; text-transform: uppercase; letter-spacing: 0.6px; margin-bottom: 3px;">
+                                                <i class="fa-solid fa-water"></i> ${system}
+                                            </div>
+                                            <div class="popup-title" style="font-size: 0.94rem; font-weight: 700; color: #ffffff; line-height: 1.35;">${name}</div>
+                                        </div>
+                                        <span style="font-size: 0.68rem; font-weight: 700; background: rgba(239, 68, 68, 0.2); border: 1px solid #ef4444; color: #fca5a5; padding: 2px 7px; border-radius: 9999px; white-space: nowrap; flex-shrink: 0;">
+                                            DİRİ FAY
+                                        </span>
+                                    </div>
+                                    <div style="padding: 12px 14px; display: flex; flex-direction: column; gap: 8px; font-size: 0.82rem;">
+                                        <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.06); padding-bottom: 6px;">
+                                            <span style="color: #94a3b8;"><i class="fa-solid fa-arrows-split-up-and-left" style="width: 16px; color: #38bdf8;"></i> Mekanizma:</span>
+                                            <strong style="color: #f1f5f9; text-align: right;">${slipType}</strong>
+                                        </div>
+                                        <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.06); padding-bottom: 6px;">
+                                            <span style="color: #94a3b8;"><i class="fa-solid fa-gauge-high" style="width: 16px; color: #fbbf24;"></i> Yıllık Kayma:</span>
+                                            <strong style="color: #fbbf24; font-family: var(--font-mono);">${slipRate}</strong>
+                                        </div>
+                                        <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.06); padding-bottom: 6px;">
+                                            <span style="color: #94a3b8;"><i class="fa-solid fa-shield-halved" style="width: 16px; color: #ef4444;"></i> Risk Durumu:</span>
+                                            <strong style="color: #fca5a5;">Deprem Üretme Potansiyeli Yüksek</strong>
+                                        </div>
+                                        <div style="display: flex; justify-content: space-between; align-items: center;">
+                                            <span style="color: #94a3b8;"><i class="fa-solid fa-fingerprint" style="width: 16px; color: #10b981;"></i> Veritabanı ID:</span>
+                                            <strong style="color: #cbd5e1; font-family: var(--font-mono); font-size: 0.76rem;">${catalogId}</strong>
+                                        </div>
+                                    </div>
+                                    <div style="padding: 7px 14px; background: rgba(0,0,0,0.35); border-top: 1px solid rgba(255,255,255,0.06); font-size: 0.70rem; color: #64748b; display: flex; justify-content: space-between; align-items: center;">
+                                        <span>GEM / SHARE-EMME Active Faults</span>
+                                        <span style="color: #38bdf8;"><i class="fa-solid fa-circle-info"></i> Tıklanan Fay</span>
+                                    </div>
+                                </div>`;
+
+                                layer.bindPopup(popupHtml, {
+                                    maxWidth: 340,
+                                    minWidth: 300,
+                                    className: 'fault-leaflet-popup'
+                                });
+
+                                layer.on({
+                                    mouseover: function (e) {
+                                        const l = e.target;
+                                        l.setStyle({ weight: 6.5, opacity: 1, color: '#fbbf24' });
+                                    },
+                                    mouseout: function (e) {
+                                        if (faultLayer) {
+                                            faultLayer.resetStyle(e.target);
+                                        }
+                                    },
+                                    click: function (e) {
+                                        layer.openPopup(e.latlng);
+                                    }
+                                });
                             }
                         });
                     }
