@@ -102,19 +102,21 @@
             -webkit-backdrop-filter: blur(16px);
             border: 1px solid var(--border-subtle);
             border-radius: var(--radius-lg);
-            padding: 8px 28px 8px 16px;
+            padding: 8px 42px 8px 18px;
             box-shadow: var(--shadow-panel);
             pointer-events: auto;
-            min-width: 510px;
-            max-width: 570px;
+            width: max-content;
+            min-width: 620px;
+            max-width: 760px;
             flex-shrink: 0;
+            transition: min-width 0.3s ease, max-width 0.3s ease;
         }
 
         .brand-top-row {
             display: flex;
             align-items: center;
             justify-content: space-between;
-            gap: 20px;
+            gap: 28px;
             width: 100%;
         }
 
@@ -171,7 +173,7 @@
             text-decoration: none;
             letter-spacing: 0.2px;
             transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
-            max-width: 280px;
+            max-width: 380px;
             overflow: hidden;
             text-overflow: ellipsis;
             white-space: nowrap;
@@ -1407,8 +1409,8 @@
             letter-spacing: 0.5px;
         }
 
-        /* Tablet ve Orta Boy Ekranlar (769px - 1100px) */
-        @media (max-width: 1100px) and (min-width: 769px) {
+        /* Tablet ve Orta Boy Ekranlar (769px - 1200px) */
+        @media (max-width: 1200px) and (min-width: 769px) {
             .top-nav-bar {
                 top: 10px;
                 left: 10px;
@@ -1418,6 +1420,7 @@
 
             .brand-panel {
                 min-width: 0;
+                max-width: 100%;
             }
 
             .controls-toolbar {
