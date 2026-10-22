@@ -1591,6 +1591,7 @@
             <div class="district-select-wrap" id="provinceSelectWrap" title="İl Seçin">
                 <i class="fa-solid fa-city"></i>
                 <select id="provinceFilter" class="district-select" aria-label="İl Seçin">
+                    <option value="ALL">🇹🇷 Tüm Türkiye (Genel Bakış)</option>
                     <option value="istanbul" selected>İstanbul (İBB 7.5 Mw Senaryosu)</option>
                 </select>
             </div>
@@ -2056,29 +2057,12 @@
                         .replace(/'/g, '&#039;');
                 }
 
-                const campMarkers = [];
-                for (let i = 0; i < campList.length; i++) {
-                    const item = campList[i];
-                    const lat = parseFloat(item.lat);
-                    const lon = parseFloat(item.lon);
-                    if (isNaN(lat) || isNaN(lon)) continue;
-
+                function getCampPopupHtml(item, lat, lon) {
                     const areaName = item.ad || 'Toplanma Alanı';
                     const cityName = item.il || '';
                     const districtName = item.ilce || '';
                     const mahalleName = item.mahalle || '';
-
-                    const campIcon = L.divIcon({
-                        className: 'camp-pin-wrap',
-                        html: `<div class="custom-camp-pin" title="${escapeHtml(areaName)}"><i class="fa-solid fa-campground"></i></div>`,
-                        iconSize: [28, 28],
-                        iconAnchor: [14, 14],
-                        popupAnchor: [0, -14]
-                    });
-
-                    const marker = L.marker([lat, lon], { icon: campIcon });
-
-                    const popupContent = `
+                    return `
                         <div class="popup-card">
                             <div class="popup-header" style="background: linear-gradient(180deg, rgba(6, 78, 59, 0.92), rgba(15, 23, 42, 0.95)); border-bottom: 1px solid rgba(16, 185, 129, 0.35);">
                                 <div>
@@ -2107,8 +2091,25 @@
                             </div>
                         </div>
                     `;
+                }
 
-                    marker.bindPopup(popupContent, { maxWidth: 320, minWidth: 260 });
+                const campMarkers = [];
+                for (let i = 0; i < campList.length; i++) {
+                    const item = campList[i];
+                    const lat = parseFloat(item.lat);
+                    const lon = parseFloat(item.lon);
+                    if (isNaN(lat) || isNaN(lon)) continue;
+
+                    const campIcon = L.divIcon({
+                        className: 'camp-pin-wrap',
+                        html: `<div class="custom-camp-pin" title="${escapeHtml(item.ad || 'Toplanma Alanı')}"><i class="fa-solid fa-campground"></i></div>`,
+                        iconSize: [28, 28],
+                        iconAnchor: [14, 14],
+                        popupAnchor: [0, -14]
+                    });
+
+                    const marker = L.marker([lat, lon], { icon: campIcon });
+                    marker.bindPopup(() => getCampPopupHtml(item, lat, lon), { maxWidth: 320, minWidth: 260 });
                     campMarkers.push(marker);
                 }
 
@@ -2288,6 +2289,74 @@
 
             // İle Özel Simülasyon ve Toplanma Alanı Yükleme Fonksiyonu
             async function loadProvinceSimulation(slug) {
+                // 1. Tüm Türkiye Seçeneği (Ülke Genel Bakış)
+                if (slug === 'ALL') {
+                    currentProvinceSlug = 'ALL';
+                    currentProvinceMeta = {
+                        name: 'Türkiye',
+                        slug: 'ALL',
+                        center: [39.0, 35.5],
+                        zoom: 6,
+                        has_simulation: false
+                    };
+
+                    const provSelect = document.getElementById('provinceFilter');
+                    if (provSelect && provSelect.value !== 'ALL') {
+                        provSelect.value = 'ALL';
+                    }
+
+                    const districtWrap = document.getElementById('districtSelectWrap');
+                    if (districtWrap) districtWrap.style.display = 'none';
+
+                    markersCluster.clearLayers();
+                    allMarkers = [];
+                    markersByDistrict = new Map();
+                    districtStatsMap = new Map();
+                    currentCityTotals = { canKaybi: 0, agirHasar: 0, barinma: 0, mahalleCount: 0 };
+
+                    const brandCityTitle = document.getElementById('brandCityTitle');
+                    const brandSourceLink = document.getElementById('brandSourceLink');
+                    const brandSourceName = document.getElementById('brandSourceName');
+
+                    if (brandCityTitle) {
+                        brandCityTitle.textContent = 'Türkiye Afet & Toplanma Haritası';
+                    }
+
+                    const sourceUrl = 'https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama';
+                    const sourceName = 'Kaynak: e-Devlet AFAD Toplanma Alanları';
+
+                    if (brandSourceLink) {
+                        brandSourceLink.href = sourceUrl;
+                        brandSourceLink.style.display = 'inline-flex';
+                        if (brandSourceName) {
+                            brandSourceName.textContent = sourceName;
+                        }
+                    }
+
+                    // Tüm Türkiye toplanma alanlarını belleğe al ve çiz
+                    if (!allCampData || !allCampData.length) {
+                        try {
+                            const cResp = await fetchJsonWithCandidates([
+                                'iller/turkiye_toplanma_alanlari.json',
+                                './iller/turkiye_toplanma_alanlari.json',
+                                '/istdeprem/iller/turkiye_toplanma_alanlari.json'
+                            ]);
+                            allCampData = await cResp.json();
+                        } catch (e) {
+                            console.warn('Türkiye toplanma alanları yüklenemedi:', e);
+                        }
+                    }
+
+                    currentProvinceCampData = allCampData || [];
+                    currentProvinceCampCount = currentProvinceCampData.length || 41711;
+                    updateProvinceCampMarkers(currentProvinceCampData);
+
+                    updateStatsDisplay('Tüm Türkiye', `${currentProvinceCampCount.toLocaleString('tr-TR')} Alan`, false, false, false, currentProvinceCampCount);
+
+                    map.setView([39.0, 35.5], 6);
+                    return;
+                }
+
                 const meta = (provinceIndexList && provinceIndexList.find(x => x.slug === slug)) || PROVINCE_META_REGISTRY[slug] || { name: slug, slug, has_simulation: slug === 'istanbul' };
                 currentProvinceSlug = slug;
                 currentProvinceMeta = meta;
@@ -2592,6 +2661,17 @@
                 if (!select || !Array.isArray(indexList)) return;
 
                 select.innerHTML = '';
+
+                // 1. Tüm Türkiye Seçeneği (Ülke Genel Bakış)
+                const allOpt = document.createElement('option');
+                allOpt.value = 'ALL';
+                allOpt.textContent = '🇹🇷 Tüm Türkiye (Genel Bakış)';
+                if (currentProvinceSlug === 'ALL') {
+                    allOpt.selected = true;
+                }
+                select.appendChild(allOpt);
+
+                // 2. İl Seçenekleri
                 indexList.forEach(il => {
                     const opt = document.createElement('option');
                     opt.value = il.slug;
