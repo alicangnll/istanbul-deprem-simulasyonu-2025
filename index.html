@@ -1143,6 +1143,71 @@
             width: 320px !important;
         }
 
+        /* Fay Bilgileri Modali Özel Genişlik (Sağa Doğru Genişletilmiş ve Ferah) */
+        .fault-leaflet-popup .leaflet-popup-content-wrapper {
+            border-radius: 14px !important;
+            border-color: rgba(255, 255, 255, 0.16) !important;
+        }
+
+        .fault-leaflet-popup .leaflet-popup-content {
+            width: 415px !important;
+            max-width: calc(100vw - 32px) !important;
+        }
+
+        .fault-popup-card {
+            font-family: var(--font-sans);
+            width: 415px;
+            max-width: 100%;
+            background: #0f172a;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 20px 45px rgba(0, 0, 0, 0.9);
+            border: 1px solid rgba(255, 255, 255, 0.14);
+            display: flex;
+            flex-direction: column;
+        }
+
+        .fault-wiki-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            padding: 4px 10px;
+            background: rgba(56, 189, 248, 0.12);
+            border: 1px solid rgba(56, 189, 248, 0.35);
+            border-radius: 6px;
+            color: #7dd3fc;
+            font-size: 0.72rem;
+            font-weight: 700;
+            text-decoration: none;
+            white-space: nowrap;
+            transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+            flex-shrink: 0;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+        }
+
+        .fault-wiki-badge:hover {
+            background: rgba(56, 189, 248, 0.26) !important;
+            border-color: rgba(56, 189, 248, 0.75) !important;
+            color: #ffffff !important;
+            transform: translateY(-1px);
+            box-shadow: 0 4px 14px rgba(56, 189, 248, 0.4);
+        }
+
+        .fault-wiki-badge i.fa-wikipedia-w {
+            font-size: 0.82rem;
+            color: #38bdf8;
+        }
+
+        .fault-wiki-badge i.fa-arrow-up-right-from-square {
+            font-size: 0.62rem;
+            color: #94a3b8;
+            transition: color 0.2s ease;
+        }
+
+        .fault-wiki-badge:hover i.fa-arrow-up-right-from-square {
+            color: #ffffff;
+        }
+
         .leaflet-popup-tip {
             background: #0f172a !important;
             border: 1px solid var(--border-highlight) !important;
@@ -1502,6 +1567,14 @@
             .stat-item {
                 font-size: 0.78rem;
             }
+
+            .fault-leaflet-popup .leaflet-popup-content {
+                width: calc(100vw - 32px) !important;
+            }
+
+            .fault-popup-card {
+                width: 100% !important;
+            }
         }
     </style>
 </head>
@@ -1591,7 +1664,7 @@
             <div class="district-select-wrap" id="provinceSelectWrap" title="İl Seçin">
                 <i class="fa-solid fa-city"></i>
                 <select id="provinceFilter" class="district-select" aria-label="İl Seçin">
-                    <option value="ALL">🇹🇷 Tüm Türkiye (Genel Bakış)</option>
+                    <option value="ALL">🇹🇷 Tüm Türkiye (Genel Bakış &amp; Tüm Senaryolar)</option>
                     <option value="istanbul" selected>İstanbul (İBB 7.5 Mw Senaryosu)</option>
                 </select>
             </div>
@@ -1863,7 +1936,8 @@
             }
 
             // Popup HTML Şablonu
-            function buildPopupHtml(stats, risk) {
+            function buildPopupHtml(stats, risk, provName = '') {
+                const cityName = provName || stats.il_adi || '';
                 const ilce = stats.ilce_adi || '';
                 const mahalle = stats.mahalle_adi || '';
 
@@ -1871,7 +1945,9 @@
                 <div class="popup-card">
                     <div class="popup-header">
                         <div>
-                            <div class="popup-district">${ilce}</div>
+                            <div class="popup-district">
+                                ${cityName ? `<span style="color: #60a5fa; font-weight: 700;">${cityName}</span> / ` : ''}${ilce}
+                            </div>
                             <div class="popup-title">${mahalle}</div>
                         </div>
                         <span class="popup-risk-badge ${risk.badgeClass}">${risk.level}</span>
@@ -2173,13 +2249,52 @@
                 markersByDistrict = new Map();
                 districtStatsMap = new Map();
 
+                const simResult = buildSimulationMarkers(depremList, ilceList, meta.name);
+                allMarkers = simResult.markers;
+                currentCityTotals = simResult.totals;
+                markersByDistrict = simResult.districtMap;
+                districtStatsMap = simResult.districtStats;
+
+                markersCluster.addLayers(simResult.markers);
+
+                // İlçe filtresini doldur
+                populateDistrictFilter(Array.from(simResult.districtSet).sort((a, b) => a.localeCompare(b, 'tr')));
+
+                // İlin toplanma alanlarını güncelle
+                if (Array.isArray(allCampData) && allCampData.length > 0) {
+                    const pUpper = (meta.name || '').toLocaleUpperCase('tr-TR');
+                    currentProvinceCampData = allCampData.filter(x => {
+                        const il = (x.il || '').toLocaleUpperCase('tr-TR');
+                        return il === pUpper || il === slug.toUpperCase();
+                    });
+                    currentProvinceCampCount = currentProvinceCampData.length || (meta.count || 0);
+                    updateProvinceCampMarkers(currentProvinceCampData);
+                } else {
+                    currentProvinceCampData = [];
+                    currentProvinceCampCount = meta.count || 0;
+                }
+
+                // Alt istatistik panelini güncelle
+                updateStatsDisplay(`Tüm ${meta.name}`, currentCityTotals.mahalleCount, currentCityTotals.canKaybi, currentCityTotals.agirHasar, currentCityTotals.barinma, currentProvinceCampCount);
+
+                // Harita bakışını il merkezine odakla
+                const center = meta.center || (PROVINCE_META_REGISTRY[slug] && PROVINCE_META_REGISTRY[slug].center);
+                const zoom = meta.zoom || (PROVINCE_META_REGISTRY[slug] && PROVINCE_META_REGISTRY[slug].zoom) || 10;
+                if (center) {
+                    map.setView(center, zoom);
+                }
+            }
+
+            // Simülasyon İşaretçilerini Üretme Motoru (Ortak ve Modüler)
+            function buildSimulationMarkers(depremList, ilceList, provName = 'İstanbul') {
                 const depremMap = new Map();
-                currentCityTotals = {
+                const totals = {
                     canKaybi: 0,
                     agirHasar: 0,
                     barinma: 0,
                     mahalleCount: depremList.length
                 };
+                const districtStats = new Map();
 
                 for (let i = 0; i < depremList.length; i++) {
                     const row = depremList[i];
@@ -2188,20 +2303,20 @@
                     depremMap.set(rawKey, row);
                     depremMap.set(normKey, row);
 
-                    currentCityTotals.canKaybi += Number(row.can_kaybi_sayisi || 0);
-                    currentCityTotals.agirHasar += Number(row.cok_agir_hasarli_bina_sayisi || 0) + Number(row.agir_hasarli_bina_sayisi || 0);
-                    currentCityTotals.barinma += Number(row.gecici_barinma || 0);
+                    totals.canKaybi += Number(row.can_kaybi_sayisi || 0);
+                    totals.agirHasar += Number(row.cok_agir_hasarli_bina_sayisi || 0) + Number(row.agir_hasarli_bina_sayisi || 0);
+                    totals.barinma += Number(row.gecici_barinma || 0);
 
                     const ilceName = row.ilce_adi || 'Merkez';
-                    if (!districtStatsMap.has(ilceName)) {
-                        districtStatsMap.set(ilceName, {
+                    if (!districtStats.has(ilceName)) {
+                        districtStats.set(ilceName, {
                             count: 0,
                             canKaybi: 0,
                             agirHasar: 0,
                             barinma: 0
                         });
                     }
-                    const dStat = districtStatsMap.get(ilceName);
+                    const dStat = districtStats.get(ilceName);
                     dStat.count++;
                     dStat.canKaybi += Number(row.can_kaybi_sayisi || 0);
                     dStat.agirHasar += Number(row.cok_agir_hasarli_bina_sayisi || 0) + Number(row.agir_hasarli_bina_sayisi || 0);
@@ -2209,7 +2324,8 @@
                 }
 
                 const uniqueLocations = new Set();
-                const batchMarkers = [];
+                const markers = [];
+                const districtMap = new Map();
                 const districtSet = new Set();
 
                 for (let i = 0; i < ilceList.length; i++) {
@@ -2238,58 +2354,31 @@
                     const markerIcon = createMarkerIcon(risk);
                     const marker = L.marker([lat, lon], { icon: markerIcon });
 
-                    const popupHtml = buildPopupHtml(stats, risk);
+                    const popupHtml = buildPopupHtml(stats, risk, provName);
                     marker.bindPopup(popupHtml, { maxWidth: 340, minWidth: 300 });
 
                     marker.customData = {
+                        province: provName,
                         district: ilceName,
                         mahalle: stats.mahalle_adi,
                         stats: stats,
                         risk: risk
                     };
 
-                    batchMarkers.push(marker);
+                    markers.push(marker);
 
-                    if (!markersByDistrict.has(ilceName)) {
-                        markersByDistrict.set(ilceName, []);
+                    if (!districtMap.has(ilceName)) {
+                        districtMap.set(ilceName, []);
                     }
-                    markersByDistrict.get(ilceName).push(marker);
+                    districtMap.get(ilceName).push(marker);
                 }
 
-                allMarkers = batchMarkers;
-                markersCluster.addLayers(batchMarkers);
-
-                // İlçe filtresini doldur
-                populateDistrictFilter(Array.from(districtSet).sort((a, b) => a.localeCompare(b, 'tr')));
-
-                // İlin toplanma alanlarını güncelle
-                if (Array.isArray(allCampData) && allCampData.length > 0) {
-                    const pUpper = (meta.name || '').toLocaleUpperCase('tr-TR');
-                    currentProvinceCampData = allCampData.filter(x => {
-                        const il = (x.il || '').toLocaleUpperCase('tr-TR');
-                        return il === pUpper || il === slug.toUpperCase();
-                    });
-                    currentProvinceCampCount = currentProvinceCampData.length || (meta.count || 0);
-                    updateProvinceCampMarkers(currentProvinceCampData);
-                } else {
-                    currentProvinceCampData = [];
-                    currentProvinceCampCount = meta.count || 0;
-                }
-
-                // Alt istatistik panelini güncelle
-                updateStatsDisplay(`Tüm ${meta.name}`, currentCityTotals.mahalleCount, currentCityTotals.canKaybi, currentCityTotals.agirHasar, currentCityTotals.barinma, currentProvinceCampCount);
-
-                // Harita bakışını il merkezine odakla
-                const center = meta.center || (PROVINCE_META_REGISTRY[slug] && PROVINCE_META_REGISTRY[slug].center);
-                const zoom = meta.zoom || (PROVINCE_META_REGISTRY[slug] && PROVINCE_META_REGISTRY[slug].zoom) || 10;
-                if (center) {
-                    map.setView(center, zoom);
-                }
+                return { markers, totals, districtStats, districtMap, districtSet };
             }
 
             // İle Özel Simülasyon ve Toplanma Alanı Yükleme Fonksiyonu
             async function loadProvinceSimulation(slug) {
-                // 1. Tüm Türkiye Seçeneği (Ülke Genel Bakış)
+                // 1. Tüm Türkiye Seçeneği (Ülke Genel Bakış: Tüm Senaryolar ve Toplanma Alanları Dahil)
                 if (slug === 'ALL') {
                     currentProvinceSlug = 'ALL';
                     currentProvinceMeta = {
@@ -2297,7 +2386,7 @@
                         slug: 'ALL',
                         center: [39.0, 35.5],
                         zoom: 6,
-                        has_simulation: false
+                        has_simulation: true
                     };
 
                     const provSelect = document.getElementById('provinceFilter');
@@ -2305,25 +2394,21 @@
                         provSelect.value = 'ALL';
                     }
 
-                    const districtWrap = document.getElementById('districtSelectWrap');
-                    if (districtWrap) districtWrap.style.display = 'none';
-
                     markersCluster.clearLayers();
                     allMarkers = [];
                     markersByDistrict = new Map();
                     districtStatsMap = new Map();
-                    currentCityTotals = { canKaybi: 0, agirHasar: 0, barinma: 0, mahalleCount: 0 };
 
                     const brandCityTitle = document.getElementById('brandCityTitle');
                     const brandSourceLink = document.getElementById('brandSourceLink');
                     const brandSourceName = document.getElementById('brandSourceName');
 
                     if (brandCityTitle) {
-                        brandCityTitle.textContent = 'Türkiye Afet & Toplanma Haritası';
+                        brandCityTitle.textContent = 'Türkiye Afet & Deprem Simülasyon Haritası';
                     }
 
-                    const sourceUrl = 'https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama';
-                    const sourceName = 'Kaynak: e-Devlet AFAD Toplanma Alanları';
+                    const sourceUrl = 'https://data.ibb.gov.tr/dataset/deprem-senaryosu-analiz-sonuclari/resource/9c3ac492-de4b-4245-b418-7ad3df67a193';
+                    const sourceName = 'Kaynak: e-Devlet AFAD & İBB Veri Portalları';
 
                     if (brandSourceLink) {
                         brandSourceLink.href = sourceUrl;
@@ -2333,7 +2418,83 @@
                         }
                     }
 
-                    // Tüm Türkiye toplanma alanlarını belleğe al ve çiz
+                    // Bilgilendirme çekmecesini güncelle
+                    const warningTitle = document.getElementById('warningTitle');
+                    const warningDesc = document.getElementById('warningDesc');
+                    const warningSourceChip = document.getElementById('warningSourceChip');
+                    const warningSourceChipText = document.getElementById('warningSourceChipText');
+
+                    if (warningTitle) warningTitle.textContent = 'Türkiye Geneli Deprem Senaryoları & Toplanma Alanları';
+                    if (warningDesc) warningDesc.textContent = 'Türkiye genelindeki 41.711 resmi AFAD toplanma alanı ve kamuya açık doğrulanmış deprem senaryoları (İstanbul İBB 7.5 Mw Olası Gece Depremi Analizi - 959 Mahalle) harita üzerinde birleştirilmiştir.';
+                    if (warningSourceChip) {
+                        warningSourceChip.href = sourceUrl;
+                        if (warningSourceChipText) warningSourceChipText.textContent = sourceName;
+                    }
+
+                    // A. Mevcut tüm doğrulanmış deprem senaryolarını dinamik olarak haritaya dahil et
+                    let combinedTotals = { canKaybi: 0, agirHasar: 0, barinma: 0, mahalleCount: 0 };
+                    const allSimMarkers = [];
+
+                    const simProvinces = (Array.isArray(provinceIndexList) && provinceIndexList.length > 0)
+                        ? provinceIndexList.filter(p => p.has_simulation)
+                        : [{ slug: 'istanbul', name: 'İstanbul', deprem_file: 'iller/istanbul/deprem.json', coord_file: 'iller/istanbul/ilce.json', scenario_name: 'İBB 7.5 Mw Gece Senaryosu' }];
+
+                    for (const prov of simProvinces) {
+                        let cache = simulationDataCache.get(prov.slug);
+                        if (!cache) {
+                            try {
+                                const dFile = prov.deprem_file || `iller/${prov.slug}/deprem.json`;
+                                const iFile = prov.coord_file || `iller/${prov.slug}/ilce.json`;
+                                const [dRes, iRes] = await Promise.all([
+                                    fetchJsonWithCandidates([dFile, `./${dFile}`, `/istdeprem/${dFile}`]),
+                                    fetchJsonWithCandidates([iFile, `./${iFile}`, `/istdeprem/${iFile}`])
+                                ]);
+                                const dList = await dRes.json();
+                                const iList = await iRes.json();
+                                cache = { depremList: dList, ilceList: iList };
+                                simulationDataCache.set(prov.slug, cache);
+                            } catch (e) {
+                                console.warn(`${prov.name} simülasyonu çekilemedi:`, e);
+                            }
+                        }
+
+                        if (cache) {
+                            const simResult = buildSimulationMarkers(cache.depremList, cache.ilceList, prov.name);
+                            allSimMarkers.push(...simResult.markers);
+                            combinedTotals.canKaybi += simResult.totals.canKaybi;
+                            combinedTotals.agirHasar += simResult.totals.agirHasar;
+                            combinedTotals.barinma += simResult.totals.barinma;
+                            combinedTotals.mahalleCount += simResult.totals.mahalleCount;
+
+                            simResult.districtMap.forEach((mList, dist) => {
+                                markersByDistrict.set(`${prov.name} - ${dist}`, mList);
+                            });
+                            simResult.districtStats.forEach((sObj, dist) => {
+                                districtStatsMap.set(`${prov.name} - ${dist}`, sObj);
+                            });
+                        }
+                    }
+
+                    allMarkers = allSimMarkers;
+                    currentCityTotals = combinedTotals;
+                    if (allSimMarkers.length > 0) {
+                        markersCluster.addLayers(allSimMarkers);
+                    }
+
+                    // Senaryo / İlçe seçim kutusunu Tüm Türkiye için ayarla
+                    const districtWrap = document.getElementById('districtSelectWrap');
+                    const distSelect = document.getElementById('districtFilter');
+                    if (districtWrap && distSelect) {
+                        districtWrap.style.display = 'flex';
+                        districtWrap.title = 'Mevcut Deprem Senaryoları';
+                        distSelect.innerHTML = `
+                            <option value="ALL">🎯 Mevcut Tüm Senaryolar (${combinedTotals.mahalleCount.toLocaleString('tr-TR')} Mahalle)</option>
+                            <option value="istanbul">📍 İstanbul (İBB 7.5 Mw Senaryosu - 959 Mahalle)</option>
+                        `;
+                        distSelect.value = 'ALL';
+                    }
+
+                    // B. Tüm Türkiye toplanma alanlarını belleğe al ve çiz
                     if (!allCampData || !allCampData.length) {
                         try {
                             const cResp = await fetchJsonWithCandidates([
@@ -2351,7 +2512,8 @@
                     currentProvinceCampCount = currentProvinceCampData.length || 41711;
                     updateProvinceCampMarkers(currentProvinceCampData);
 
-                    updateStatsDisplay('Tüm Türkiye', `${currentProvinceCampCount.toLocaleString('tr-TR')} Alan`, false, false, false, currentProvinceCampCount);
+                    // C. Alt İstatistik Paneli: Mevcut senaryo toplamları (Can kaybı, ağır hasar, barınma) + 41.711 toplanma alanı
+                    updateStatsDisplay('Tüm Türkiye (Mevcut Senaryolar)', `${combinedTotals.mahalleCount.toLocaleString('tr-TR')} Mahalle`, combinedTotals.canKaybi, combinedTotals.agirHasar, combinedTotals.barinma, currentProvinceCampCount);
 
                     map.setView([39.0, 35.5], 6);
                     return;
@@ -2607,19 +2769,27 @@
                 }
             }
 
-            // İlçe Filtreleme Fonksiyonu
+            // İlçe / Senaryo Filtreleme Fonksiyonu
             function filterByDistrict(district) {
                 markersCluster.clearLayers();
                 const cityName = (currentProvinceMeta && currentProvinceMeta.name) ? currentProvinceMeta.name : 'İstanbul';
 
                 if (district === 'ALL') {
                     markersCluster.addLayers(allMarkers);
-                    updateStatsDisplay(`Tüm ${cityName}`, currentCityTotals.mahalleCount, currentCityTotals.canKaybi, currentCityTotals.agirHasar, currentCityTotals.barinma, currentProvinceCampCount);
-                    if (currentProvinceMeta && currentProvinceMeta.center) {
-                        map.setView(currentProvinceMeta.center, currentProvinceMeta.zoom || 10);
+                    if (currentProvinceSlug === 'ALL') {
+                        updateStatsDisplay('Tüm Türkiye (Mevcut Senaryolar)', `${currentCityTotals.mahalleCount.toLocaleString('tr-TR')} Mahalle`, currentCityTotals.canKaybi, currentCityTotals.agirHasar, currentCityTotals.barinma, currentProvinceCampCount);
+                        map.setView([39.0, 35.5], 6);
                     } else {
-                        map.setView([41.0082, 28.9784], 10);
+                        updateStatsDisplay(`Tüm ${cityName}`, currentCityTotals.mahalleCount, currentCityTotals.canKaybi, currentCityTotals.agirHasar, currentCityTotals.barinma, currentProvinceCampCount);
+                        if (currentProvinceMeta && currentProvinceMeta.center) {
+                            map.setView(currentProvinceMeta.center, currentProvinceMeta.zoom || 10);
+                        } else {
+                            map.setView([41.0082, 28.9784], 10);
+                        }
                     }
+                } else if (currentProvinceSlug === 'ALL' && district === 'istanbul') {
+                    // Tüm Türkiye görünümündeyken kullanıcı senaryo dropdown'ından İstanbul'u seçtiğinde İstanbul'a geçiş yap
+                    loadProvinceSimulation('istanbul');
                 } else {
                     const filtered = markersByDistrict.get(district) || [];
                     markersCluster.addLayers(filtered);
@@ -2662,10 +2832,10 @@
 
                 select.innerHTML = '';
 
-                // 1. Tüm Türkiye Seçeneği (Ülke Genel Bakış)
+                // 1. Tüm Türkiye Seçeneği (Ülke Genel Bakış & Tüm Senaryolar)
                 const allOpt = document.createElement('option');
                 allOpt.value = 'ALL';
-                allOpt.textContent = '🇹🇷 Tüm Türkiye (Genel Bakış)';
+                allOpt.textContent = '🇹🇷 Tüm Türkiye (Genel Bakış & Tüm Senaryolar)';
                 if (currentProvinceSlug === 'ALL') {
                     allOpt.selected = true;
                 }
@@ -2704,6 +2874,93 @@
                     e.stopPropagation();
                     faultRiskLegendEl.style.display = 'none';
                 });
+            }
+
+            // Fay Segmenti / Son Kırılma Depremi İçin Wikipedia Sayfası Belirleyici
+            function getFaultWikipediaUrl(p) {
+                if (p.wikipedia) return p.wikipedia;
+                const txt = `${p.last_event || ''} ${p.name || ''} ${p.last_rupture_year || ''}`.toLowerCase();
+                const sys = (p.system || '').toLowerCase();
+
+                if (txt.includes('1766') || txt.includes('kumburgaz')) {
+                    return 'https://tr.wikipedia.org/wiki/1766_Marmara_depremi';
+                }
+                if (txt.includes('1894') || txt.includes('çınarcık') || (txt.includes('adalar') && sys.includes('kuzey anadolu'))) {
+                    return 'https://tr.wikipedia.org/wiki/1894_%C4%B0stanbul_depremi';
+                }
+                if (txt.includes('1784') || txt.includes('yedisu')) {
+                    return 'https://tr.wikipedia.org/wiki/1784_Erzincan_depremi';
+                }
+                if (txt.includes('2023') || txt.includes('pazarcık') || txt.includes('elbistan') || txt.includes('çardak') || txt.includes('kahramanmaraş')) {
+                    return 'https://tr.wikipedia.org/wiki/2023_Gaziantep-Kahramanmara%C5%9F_depremleri';
+                }
+                if (txt.includes('gölcük') || txt.includes('17 ağustos 1999') || (txt.includes('1999') && txt.includes('kocaeli'))) {
+                    return 'https://tr.wikipedia.org/wiki/1999_G%C3%B6lc%C3%BCk_depremi';
+                }
+                if (txt.includes('düzce') && (txt.includes('1999') || txt.includes('12 kasım'))) {
+                    return 'https://tr.wikipedia.org/wiki/1999_D%C3%BCzce_depremi';
+                }
+                if (txt.includes('sivrice') || (txt.includes('2020') && txt.includes('elazığ'))) {
+                    return 'https://tr.wikipedia.org/wiki/2020_Elaz%C4%B1%C4%9F_depremi';
+                }
+                if (txt.includes('sisam') || (txt.includes('2020') && (txt.includes('izmir') || txt.includes('kuşadası') || txt.includes('ege')))) {
+                    return 'https://tr.wikipedia.org/wiki/2020_Ege_Denizi_depremi';
+                }
+                if (txt.includes('2011') && txt.includes('van')) {
+                    return 'https://tr.wikipedia.org/wiki/2011_Van_depremi';
+                }
+                if (txt.includes('1939') || (txt.includes('erzincan') && txt.includes('1939'))) {
+                    return 'https://tr.wikipedia.org/wiki/1939_Erzincan_depremi';
+                }
+                if (txt.includes('1944') || txt.includes('gerede')) {
+                    return 'https://tr.wikipedia.org/wiki/1944_Bolu-Gerede_depremi';
+                }
+                if (txt.includes('1943') || txt.includes('tosya') || txt.includes('ladik')) {
+                    return 'https://tr.wikipedia.org/wiki/1943_Tosya-Ladik_depremi';
+                }
+                if (txt.includes('1942') || txt.includes('niksar') || txt.includes('erbaa')) {
+                    return 'https://tr.wikipedia.org/wiki/1942_Niksar-Erbaa_depremi';
+                }
+                if (txt.includes('1912') || txt.includes('mürefte') || txt.includes('şarköy')) {
+                    return 'https://tr.wikipedia.org/wiki/1912_M%C3%BCrefte_depremi';
+                }
+                if (txt.includes('1953') || txt.includes('yenice') || txt.includes('gönen')) {
+                    return 'https://tr.wikipedia.org/wiki/1953_Yenice-G%C3%B6nen_depremi';
+                }
+                if (txt.includes('1967') || txt.includes('mudurnu')) {
+                    return 'https://tr.wikipedia.org/wiki/1967_Mudurnu_depremi';
+                }
+                if (txt.includes('1971') && txt.includes('bingöl')) {
+                    return 'https://tr.wikipedia.org/wiki/1971_Bing%C3%B6l_depremi';
+                }
+                if (txt.includes('1957') || txt.includes('fethiye')) {
+                    return 'https://tr.wikipedia.org/wiki/1957_Fethiye_depremleri';
+                }
+                if (txt.includes('1970') || txt.includes('gediz')) {
+                    return 'https://tr.wikipedia.org/wiki/1970_Gediz_depremi';
+                }
+                if (txt.includes('1969') || txt.includes('alaşehir')) {
+                    return 'https://tr.wikipedia.org/wiki/1969_Ala%C5%9Fehir_depremi';
+                }
+                if (txt.includes('1995') && txt.includes('dinar')) {
+                    return 'https://tr.wikipedia.org/wiki/1995_Dinar_depremi';
+                }
+                if (txt.includes('1998') || txt.includes('ceyhan')) {
+                    return 'https://tr.wikipedia.org/wiki/1998_Adana-Ceyhan_depremi';
+                }
+
+                // Genel fay hatları Wikipedia maddeleri
+                if (sys.includes('kuzey anadolu')) {
+                    return 'https://tr.wikipedia.org/wiki/Kuzey_Anadolu_Fay_Hatt%C4%B1';
+                }
+                if (sys.includes('doğu anadolu')) {
+                    return 'https://tr.wikipedia.org/wiki/Do%C4%9Fu_Anadolu_Fay_Hatt%C4%B1';
+                }
+                if (sys.includes('batı anadolu') || sys.includes('graben')) {
+                    return 'https://tr.wikipedia.org/wiki/Bat%C4%B1_Anadolu_Fay_Hatt%C4%B1';
+                }
+
+                return null;
             }
 
             btnFaultToggle.addEventListener('click', async function () {
@@ -2761,6 +3018,7 @@
                                 const riskLevel = p.risk_level || 'Orta Risk (Diri Fay Gerilim Birikimi)';
                                 const riskDesc = p.risk_desc || lastEvent;
                                 const color = p.color || '#f59e0b';
+                                const wikiUrl = getFaultWikipediaUrl(p);
 
                                 // Sismotektonik İkon Belirleme
                                 let riskIcon = 'fa-triangle-exclamation';
@@ -2777,70 +3035,78 @@
                                 }
 
                                 const popupHtml = `
-                                <div class="popup-card" style="font-family: var(--font-sans); width: 335px; background: #0f172a; border-radius: 12px; overflow: hidden; box-shadow: 0 20px 40px rgba(0,0,0,0.85); border: 1px solid rgba(255,255,255,0.12);">
-                                    <div class="popup-header" style="background: linear-gradient(135deg, ${color}33, rgba(15, 23, 42, 0.98)); border-bottom: 1px solid ${color}55; padding: 12px 14px; display: flex; align-items: flex-start; justify-content: space-between; gap: 8px;">
-                                        <div>
-                                            <div style="font-size: 0.70rem; font-weight: 700; color: ${color}; text-transform: uppercase; letter-spacing: 0.6px; margin-bottom: 3px;">
+                                <div class="fault-popup-card">
+                                    <div class="popup-header" style="background: linear-gradient(135deg, ${color}33, rgba(15, 23, 42, 0.98)); border-bottom: 1px solid ${color}55; padding: 12px 16px; display: flex; align-items: flex-start; justify-content: space-between; gap: 10px;">
+                                        <div style="min-width: 0;">
+                                            <div style="font-size: 0.72rem; font-weight: 700; color: ${color}; text-transform: uppercase; letter-spacing: 0.6px; margin-bottom: 3px;">
                                                 <i class="fa-solid fa-water"></i> ${system}
                                             </div>
-                                            <div class="popup-title" style="font-size: 0.95rem; font-weight: 700; color: #ffffff; line-height: 1.35;">${name}</div>
+                                            <div class="popup-title" style="font-size: 1.0rem; font-weight: 700; color: #ffffff; line-height: 1.35;">${name}</div>
                                         </div>
-                                        <span style="font-size: 0.68rem; font-weight: 800; background: ${color}26; border: 1px solid ${color}; color: ${color}; padding: 3px 9px; border-radius: 9999px; white-space: nowrap; flex-shrink: 0; letter-spacing: 0.5px;">
+                                        <span style="font-size: 0.68rem; font-weight: 800; background: ${color}26; border: 1px solid ${color}; color: ${color}; padding: 3px 10px; border-radius: 9999px; white-space: nowrap; flex-shrink: 0; letter-spacing: 0.5px;">
                                             ${gapBadge}
                                         </span>
                                     </div>
                                     
-                                    <div style="padding: 12px 14px; display: flex; flex-direction: column; gap: 8px; font-size: 0.82rem;">
+                                    <div style="padding: 12px 16px; display: flex; flex-direction: column; gap: 8px; font-size: 0.82rem;">
                                         <!-- Güncel Sismotektonik Risk & Durum Kartı -->
-                                        <div style="background: ${color}16; border: 1px solid ${color}44; border-radius: 8px; padding: 9px 11px;">
+                                        <div style="background: ${color}16; border: 1px solid ${color}44; border-radius: 8px; padding: 9px 12px;">
                                             <div style="font-size: 0.68rem; font-weight: 800; color: ${color}; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 3px; display: flex; align-items: center; gap: 6px;">
                                                 <i class="fa-solid ${riskIcon}"></i> Güncel Deprem Riski & Durum:
                                             </div>
                                             <div style="font-size: 0.92rem; font-weight: 800; color: #ffffff; line-height: 1.3;">${riskLevel}</div>
-                                            <div style="font-size: 0.73rem; color: #cbd5e1; margin-top: 3px; line-height: 1.35;">${riskDesc}</div>
+                                            <div style="font-size: 0.74rem; color: #cbd5e1; margin-top: 3px; line-height: 1.35;">${riskDesc}</div>
                                         </div>
 
-                                        <!-- Son Kırılma Yılı Kartı -->
-                                        <div style="background: rgba(255, 255, 255, 0.04); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 8px; padding: 8px 11px;">
+                                        <!-- Son Kırılma Yılı Kartı (Wikipedia Bağlantısı Sağ Altta) -->
+                                        <div style="background: rgba(255, 255, 255, 0.04); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 8px; padding: 9px 12px;">
                                             <div style="display: flex; justify-content: space-between; align-items: center;">
-                                                <span style="font-size: 0.70rem; font-weight: 700; color: #94a3b8; text-transform: uppercase; letter-spacing: 0.4px;">
+                                                <span style="font-size: 0.72rem; font-weight: 700; color: #94a3b8; text-transform: uppercase; letter-spacing: 0.4px;">
                                                     <i class="fa-solid fa-clock-rotate-left" style="color: ${color};"></i> Son Kırılma Yılı:
                                                 </span>
-                                                <strong style="font-size: 0.88rem; font-weight: 800; color: #ffffff;">${lastYear}</strong>
+                                                <strong style="font-size: 0.90rem; font-weight: 800; color: #ffffff;">${lastYear}</strong>
                                             </div>
-                                            <div style="font-size: 0.72rem; color: #94a3b8; margin-top: 3px; line-height: 1.3;">${lastEvent}</div>
+                                            <div style="display: flex; justify-content: space-between; align-items: flex-end; margin-top: 6px; gap: 10px;">
+                                                <div style="font-size: 0.75rem; color: #cbd5e1; line-height: 1.35; flex: 1;">${lastEvent}</div>
+                                                ${wikiUrl ? `
+                                                <a href="${wikiUrl}" target="_blank" rel="noopener noreferrer" class="fault-wiki-badge" title="Tarihsel deprem hakkında Wikipedia sayfasını yeni sekmede aç">
+                                                    <i class="fa-brands fa-wikipedia-w"></i>
+                                                    <span>Wikipedia</span>
+                                                    <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                                                </a>` : ''}
+                                            </div>
                                         </div>
 
                                         <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.06); padding-bottom: 5px;">
                                             <span style="color: #94a3b8;"><i class="fa-solid fa-bolt" style="width: 16px; color: #f59e0b;"></i> Beklenen Büyüklük:</span>
-                                            <strong style="color: #fbbf24; font-family: var(--font-mono); font-size: 0.88rem;">${maxMw}</strong>
+                                            <strong style="color: #fbbf24; font-family: var(--font-mono); font-size: 0.90rem;">${maxMw}</strong>
                                         </div>
 
                                         <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.06); padding-bottom: 5px;">
                                             <span style="color: #94a3b8;"><i class="fa-solid fa-repeat" style="width: 16px; color: #38bdf8;"></i> Tekrarlanma Aralığı:</span>
-                                            <strong style="color: #f1f5f9; text-align: right; font-size: 0.78rem;">${recurrence}</strong>
+                                            <strong style="color: #f1f5f9; text-align: right; font-size: 0.80rem;">${recurrence}</strong>
                                         </div>
 
                                         <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.06); padding-bottom: 5px;">
                                             <span style="color: #94a3b8;"><i class="fa-solid fa-arrows-split-up-and-left" style="width: 16px; color: #10b981;"></i> Fay Mekanizması:</span>
-                                            <strong style="color: #e2e8f0; text-align: right; font-size: 0.78rem;">${slipType}</strong>
+                                            <strong style="color: #e2e8f0; text-align: right; font-size: 0.80rem;">${slipType}</strong>
                                         </div>
 
                                         <div style="display: flex; justify-content: space-between; align-items: center;">
                                             <span style="color: #94a3b8;"><i class="fa-solid fa-gauge-high" style="width: 16px; color: #a855f7;"></i> Yıllık Kayma Hızı:</span>
-                                            <strong style="color: #cbd5e1; font-family: var(--font-mono); font-size: 0.78rem;">${slipRate}</strong>
+                                            <strong style="color: #cbd5e1; font-family: var(--font-mono); font-size: 0.80rem;">${slipRate}</strong>
                                         </div>
                                     </div>
 
-                                    <div style="padding: 7px 14px; background: rgba(0,0,0,0.45); border-top: 1px solid rgba(255,255,255,0.06); font-size: 0.70rem; color: #64748b; display: flex; justify-content: space-between; align-items: center;">
+                                    <div style="padding: 8px 16px; background: rgba(0,0,0,0.45); border-top: 1px solid rgba(255,255,255,0.06); font-size: 0.72rem; color: #64748b; display: flex; justify-content: space-between; align-items: center;">
                                         <span>GEM & MTA Tarihsel Sismoloji</span>
                                         <span style="color: ${color}; font-weight: 600;"><i class="fa-solid fa-circle-dot"></i> Tıklanan Fay</span>
                                     </div>
                                 </div>`;
 
                                 layer.bindPopup(popupHtml, {
-                                    maxWidth: 350,
-                                    minWidth: 310,
+                                    maxWidth: 460,
+                                    minWidth: 390,
                                     autoPan: true,
                                     autoPanPadding: [90, 90],
                                     offset: [0, -10],
